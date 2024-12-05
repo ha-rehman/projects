@@ -1,0 +1,596 @@
+Thi học so sánh
+Việc so sánh thi học ở đây được triển khai trên bối cảnh rộng lớn cổ kim Đông Tây , nghĩa là bao gồm cả những khu vực và giai đoạn mà lý luận văn học chưa hình thành một cách tương đối hoàn chỉnh có hệ thống ...
+Thi học , hiển nhiên không phải chỉ là bộ môn lý thuyết về thơ ca , mà theo một ý nghĩa ước lệ có tính chất truyền thống trên quốc tế , có nghĩa là bộ môn lý thuyết về văn học nói chung , kể cả phê bình văn học , không phải thực tiễn phê bình , mà là những nguyên lý phê bình .
+Phê bình , tất nhiên phải có một cơ sở lý thuyết nhất định , cho nên trên thế giới , nhất là phương Tây hiện đại , phê bình văn học theo một nghĩa rộng , lại bao hàm lý luận văn học : phê bình hiện sinh , phê bình phân tâm , ...
+Nhưng kết hợp với lối hiểu thông thường nói trên thì thi học , chính là lý luận văn học .
+Có điều , việc so sánh thi học ở đây được triển khai trên bối cảnh rộng lớn cổ kim Đông Tây , nghĩa là bao gồm cả những khu vực và giai đoạn mà lý luận văn học chưa hình thành một cách tương đối hoàn chỉnh có hệ thống , mà chỉ mới có những quan niệm văn học cơ bản mà thôi .
+I. Thi học so sánh nội văn hóa
+Như chúng ta đã biết , mặc dù việc so sánh văn học cụ thể đã có từ lâu , nhưng khoa văn học so sánh đến cuối thế kỷ XIX mới ra đời .
+Xét về mặt thuần túy lô-gic , thì như một thành phần của Văn học so sánh , thi học so sánh cũng phải đồng thời xuất hiện .
+Song sự triển khai cụ thể một môn khoa học từ cung bậc vĩ mô đến cấp độ vi mô bao giờ cũng phải là một quá trình .
+Cụ thể ở đây là trong nửa đầu thế kỷ XX được đánh dấu bằng trường phái Văn học so sánh Pháp , chưa thấy đề xuất gì đến môn thi học so sánh .
+Tất nhiên , trong thực tế vẫn có những sự so sánh cụ thể về thi học , thí dụ vào đầu những năm 40 ở Nga , V. Alekcéev công bố những luận văn như Thi học của Horace La Mã và Lục Cổ Trung Quốc , ... nhưng mãi đến cuối những năm 50 , trường phái văn học so sánh Hoa Kỳ mới chính thức nêu ra vấn đề thi học so sánh .
+Và khác với lối chỉ " nghiên cứu ảnh hưởng " ( effectual study ) của trường phái Pháp , trường phái Văn học so sánh Hoa Kỳ mới chính thức nêu ra vấn đề thi học so sánh .
+Và khác với lối chỉ " nghiên cứu ảnh hưởng " ( effectual study ) của trường phái Pháp , trường phái Văn học so sánh Hoa Kỳ chủ trương " nghiên cứu song song " ( parallel study ) và triển khai nó trên mọi lĩnh vực , nghĩa là bao gồm cả về phương diện thi học .
+Cụ thể là bất kể có ảnh hưởng lẫn nhau hay không , hoàn toàn có thể so sánh những hiện tượng thi học của hai hay nhiều nước , rút ra những điểm tương đồng và khu biệt về các mặt hệ thống , phạm trù và quá trình phát triển .
+Lý thuyết chung thì như vậy , nhưng thực tiễn nghiên cứu thì chưa gặt hái được bao nhiêu .
+Kể ra , những công trình như Giản sử phê bình văn học của William Wimssatt và Cleanh Brooks , hay Lịch sử phê bình hiện đại của René Wellek , cũng có đối sánh nền thi học giữa các nước , nhung cũng chỉ riêng trong vùng văn hóa châu Âu và Bắc Mỹ mà thôi .
+Ở phương cũng vậy , chỉ có những công trình so sánh thi học ở các nước vùng văn hóa Đông Bắc Á như Thi học Trung Quốc với Thi học Nhật Bản của Thái Điền Thạch Khâu , Khảo luận ngọn nguồn thi thoại Trung Hàn của Hứa Thế Húc , ...
+Hệ thống thi học giữa các nước trong một vùng văn hóa gần giống nhau về hình thái xã hội và ý thức hệ cùng con đường phát triển của chúng , tất nhiên có nhiều nét tương đồng , nhưng không phải là không có sự khác biệt ở những cấp độ khác nhau .
+Để thuyết minh rõ vấn đề này , cần lấy một ví dụ gần gũi giữa Việt Nam với Trung Hoa .
+Trong công trình Góp phần xác lập hệ thống quan niệm văn học trung đại Việt Nam của Phương Lựu ( Giáo Dục , H . 1997 ) , ở phần ba Các mối tương quan lịch sử của hệ thống , chương VII Đối sánh với hệ thống lý luận văn học trung đại Trung Hoa , đã đề cập đến vấn đề này .
+Khác với nhiều người đi trước thường cho rằng hệ thống quan niệm văn học trung đại Việt Nam đều nằm gọn trong cái khung Văn dĩ tải đạo , tác giả khẳng định Văn dĩ tải đạo chỉ là một trong nhiều quan niệm của Nho giáo mà thôi .
+Chính vì thế tác giả lấy ngay Văn dĩ tải đạo làm " vật chuẩn " để diễn tả toàn bộ hệ thống lý luận văn học trung đại Trung Hoa theo các cấp độ lớn dần - cái sau bao hàm cái trước - như sau .
+Một là cấp độ quan niệm cụ thể : Văn dĩ tải đạo chỉ là một nguyên lý về văn học cơ bản của riêng Tống Nho .
+Hai là , cấp độ quan niệm văn học chính thống của Nho gia nói chung : ngoài Văn dĩ tải đạo ra , còn Văn dĩ minh đạo của Đường Nho , quan niệm của Khổng Tử , Lưu Hiệp trong thời đầu .
+Ba là , cấp độ quan niệm văn học của tất cả các khuynh hướng học phái : ngoài quan niệm của Nho gia ra , ngay thời Chiến Quốc còn có quan niệm của Mặc gia , Đạo gia , Pháp gia cùng sự diễn biến tiếp theo của chúng , và quan niệm văn học hiện thực và nhân dân hình thành và phát triển về sau .
+Cuối cùng là cấp độ toàn bộ hệ thống lý luận văn học trung đại , nghĩa là không những bao hàm tất cả các cấp độ nói trên về nguyên lý tổng quát , mà còn có lý luận về tác gia , tác phẩm , thể loại .
+Lý luận về thể loại còn chia ra lý luận về tiểu thuyết , về thơ , về kịch bản văn học , ...
+Nói so sánh một cách toàn diện giữa hai nền lý luận là phải tiến hành trên tất cả các cấp độ đó .
+Riêng về cấp độ thứ nhất , thì mặc dù Nho gia nói chung đều rất nhấn mạnh đạo trong văn , nhưng Văn dĩ tải đạo chẳng qua là một kiểu quan hệ giữa văn và đạo thôi .
+Chỉ kể từ thời Đường trở đi , cũng còn nhiều kiểu quan hệ khác : Văn dĩ minh đạo , Văn dĩ quán đạo , Văn dĩ hoằng đạo .
+Cũng chớ có lầm đây chẳng qua là những cách dùng chữ khác nhau , mà trái lại , chúng đã bộc lộ những cách nhìn rất khác nhau về mối quan hệ giữa văn với đạo .
+Chả thế mà có sự tranh cãi phê phán nhau , như Chu Hy , một tác gia của Văn dĩ tải đạo đã phê phán công thức Văn dĩ quán đạo của Tô Đông Pha như sau : " Văn vốn là từ trong đạo chảy ra , làm gì có cái lý Văn có thể quán được đạo , nếu cho Văn quán được đạo , tức là lấy gốc làm ngọn , lấy ngọn làm gốc vậy " ( Ngữ loại ) , ...
+Đã có nhiều tranh cãi , thì có hay dở , đúng sai .
+Đại bách khoa toàn thư của Trung Quốc hiện nay ( Trung Quốc đại bách khoa toàn thư xuất bản xã , Bắc Kinh , Thượng Hải , 1986 ) đã đánh giá về Văn dĩ tải đạo như sau : Chu Đôn Di nêu ra Văn dĩ tải đạo , rồi phát triển đến thuyết Tác văn hại đạo của Trình Di ...
+Bọn họ từ chỗ trọng đạo khinh văn , tiếp đến chỗ trọng đạo phê văn ... ( Phần Văn học Trung Quốc , tập II , tr. 781 ) .
+Có thể thấy Văn dĩ tải đạo không những chỉ là một yếu tố , mà còn là yếu tố tiêu cực trong hệ thống lý luận văn học cổ đại Trung Hoa .
+Như thế sẽ không bao giờ có chuyện một yếu tố , lại là yếu tố tiêu cực , có thể bao trùm lên toàn bộ hệ thống tương ứng .
+Quả vậy , theo những thư tịch hiện có , thì trong suốt trường kỳ Đinh , Tiền Lê , Lý , Trần , Hậu Lê không hề thấy xuất hiện công thức Văn dĩ tải đạo .
+Nhưng ngược lại đến vua quan triều Nguyễn , thì công thức Văn dĩ tải đạo lần đầu tiên mới xuất hiện , mà lại xuất hiện với tần số cao , qua các ý kiến của Nguyễn Tư Giản , Vũ Phạm Khải , Cao Xuân Dục , Nguyễn Văn Siêu và đặc biệt là Tự Đức .
+Như thế Văn dĩ tải đạo không hề bao trùm lên toàn thể , mà chỉ là một yếu tố , và chỉ có trong giai đoạn cuối của hệ thống quan niệm văn học trung đại Việt Nam mà thôi .
+Kết luận này không có chút gì khác thường , trái lại rất bình thường , như tình trạng vốn dĩ từ quê hương bản quán của nó .
+Ở cấp độ thứ hai , tác giả rút ra kết luận cho rằng quan niệm truyền thụ đạo lý Nho giáo chính thống từ thế kỷ X-XV ở nước ta chỉ hấp thụ ( hoặc tương đồng ) với quan niệm văn học Nho giáo chính thống ở Trung Quốc trong buổi đầu tiến bộ của nó .
+Nhưng dù trong trường hợp nào , thì quan niệm văn học của ông cha ta trong thời kỳ này cũng mang yếu tố nhân dân đậm nét hơn ở Trung Quốc .
+Trong quan niệm văn học ( chứ không phải chính trị ) của Khổng Tử , Lưu Hiệp không có khái niệm " dân " .
+Nhưng ở ta , do phải luôn luôn đánh đuổi giặc ngoại xâm , cho nên vai trò của nhân dân rất nổi bật .
+Thấy rõ điều đó , giai cấp phong kiến thống trị thời kỳ này đã thi hành chính sách thân dân , khoan dân .
+Tất cả những điều đó đã phản ánh vào quan niệm văn học , hay nói rộng ra là cả về nghệ thuật như ý kiến của Nguyễn Trãi về " gốc của nhạc " , ...
+Ngoài ra , cũng cần nhắc thêm trong giai đoạn trung suy từ thế kỷ XVI-XVIII , quan niệm văn học truyền thụ đạo lý phong kiến ở đây là khúc nhạc dạo cho quan niệm văn học của vua quan triều Nguyễn , có nghĩa là nó tương đương với quan niệm Văn dĩ minh đạo đời Đường , tiền thân của quan niệm Văn dĩ tải đạo đời Tống .
+Về cấp độ nguyên lý văn học ( và nghệ thuật ) của tất cả các khuynh hướng và học phái , trước hết cần nhắc đến quan niệm của Mặc gia , đại diện cho lợi ích của thứ dân .
+Mặc Tử thừa nhận có cái đẹp khách quan cùng khả năng tác động của nó đối với con người , chủ yếu qua nghệ thuật .
+Nhưng ông cho rằng âm nhạc không cứu được dân , không giúp được vua , là một thứ xa xỉ .
+Quan niệm của ông có tính nhân dân , nhưng không tránh khỏi có phần thiển cận , cứng nhắc .
+Ngay ở Trung Quốc , tất nhiên là trừ thời hiện tại , cũng không thấy có sự tiếp nối .
+Ở Việt Nam lại càng như vậy .
+Thái độ của Pháp gia đối với văn hóa văn nghệ thể hiện rất rõ đường lối chuyên chế và bạo lực của họ .
+Pháp gia cho rằng văn hóa văn nghệ là vô dụng , nếu không muốn nói là có hại cho việc thi hành pháp luật , lập tức được làm cơ sở lý thuyết cho việc đốt sách chôn Nho của Tần Thủy Hoàng .
+Phải nói ngay rằng một quan niệm như vậy không có đất trong nền văn hóa văn nghệ nước ta .
+Tuy vậy trong giai đoạn phong kiến trung suy từ thế kỷ XVI-XVII , mặc dù về mặt quan niệm là khúc nhạc dạo cho công thức Văn dĩ tải đạo của triều Nguyễn , nhưng về mặt biện pháp thực tế , ở mức độ nhất định , giai cấp thống trị đã vận dụng những phương sách của Pháp gia : từ giữa thế kỷ XVII-XVIII , Trịnh Tạc , Trịnh Cương rồi Trịnh Doanh đều ra lệnh thu thập , thiêu hủy các tác phẩm Nôm và không cho khắc in bản mới !
+Tư tưởng văn nghệ Lão-Trang tuy có cơ sở thực tiễn nhất định , nhưng về cơ bản là tách rời cuộc sống và đấu tranh xã hội , xem cái đẹp là một cái gì siêu nhiên không thể biết được , không liên quan đến tác dụng giáo dục và nhận thức .
+Quan niệm siêu thoát này đã được tô đậm thêm , một khi bứt gặp tư tưởng Phật giáo , Tư Không Đồ đời Đường và Nghiêm Vũ đời Tống cho cái đẹp của văn thơ rất huyền diệu , khó mà biết được .
+Vương Sĩ Trinh đời Thanh , thường ví thơ với đạo Thiền , " Nhà Thiền thì nói về ngộ cảnh , nhà thơ nói về hóa cảnh , thi thiền nhất trí , không khác nhau " , ...
+Trước khi xác lập Nho giáo như quốc giáo , giai cấp phong kiến nước ta đã từng có thời kỳ tôn sùng Phật giáo .
+Và cùng với tư tưởng Lão-Trang , tư tưởng Phật giáo có nhiều ảnh hưởng khá rõ trong sáng tác .
+Ấy thế , nhưng trên bình diện quan niệm văn học nghệ thuật , theo tư liệu hiện có , chỉ thấy biểu hiện lẻ tẻ .
+Trần Thái Tông có chịu ảnh hưởng quan niệm sắc không của nhà Phật , cho văn thơ rồi cũng không thoát khỏi vòng sinh diệt .
+Ngô Thời Hoàng cũng liên hệ thi hứng với vị Thiền , ...
+Có thể còn phải sưu tầm thêm , nhưng chắc chắn là không nhiều .
+Bởi vì ở đây có sự gặp gỡ giữa phương châm " vô ngôn đốn ngộ " của Phật Lão với truyền thống không sính lý luận lắm của ông cha ta .
+Ngoài ra , nếu ở Trung Quốc , quan niệm văn học hiện thực và nhân dân được mạnh nha từ thời trước với Mặc Gia , Vương Sung , Lưu Hiệp và hình thành khá hoàn chỉnh với Bạch Cư Dị , rồi được tiếp nối với Tô Đông Pha , Lý Trác Ngô , ... thì ở Việt Nam cũng có một quan niệm tương ứng qua một số ý kiến của Lê Quý Đôn , Ngô Thời Sĩ , Nhữ Bá Sĩ , Ngô Thời Nhậm , Phan Huy Chú , ...
+Tất nhiên là nói tương ứng là từ góc độ " tỷ trọng " , chứ không phải từ " khối lượng " .
+Ở Việt Nam không thể có một hệ thống hoàn chỉnh về mặt này như đã thấy trong những Thư gửi Nguyễn Chẩn của Bạch Cư Dị .
+Cuối cùng , nếu ở Việt Nam có một quan niệm văn học yêu nước và tự hào dân tộc xuyên suốt trong trường kỳ lịch sử qua ngôn luận của Nguyễn Thường , Lê Lợi , Nguyễn Trãi , Vũ Khâm Lân , Lê Quý Đôn , Bùi Huy Bích , Nguyễn Đình Chiểu , ... thì trong kho tàng lý luận văn học cổ trung đại Trung Hoa vô cùng phong phú , nó không chiếm một vị trí tương xứng .
+Có lẽ vì Trung Quốc không có một truyền thống yêu nước chống ngoại xâm thắng lợi rực rỡ .
+Cho mãi đến thời cận đại , quan niệm văn học yêu nước mới thấy rõ với những nhà tư tưởng dân tộc và dân chủ như Hoàng Tôn Hiền , Đàm Tự Đồng , và nhất là Lương Khải Siêu , ...
+Tóm lại , đối sánh giữa hai bên ở cấp độ này cho thấy , ngoài quan niệm Nho gia chính thống ra , những quan niệm có cơ sở giáo lý khác của Mặc gia , Pháp gia , Phật Lão , thì sang Việt Nam có phần mờ nhạt , tất nhiên với những mức độ khác nhau .
+Trái lại , những khuynh hướng " phi giáo lý " , thì tình hình có phần khác .
+Trong đó , quan niệm văn học hướng về thực tại của nhân dân , thì hai bên có tỷ lệ tương ứng nhau , và đặc biệt là quan niệm văn học quan tâm đến vận mệnh của đất nước thì ở Việt Nam rõ nét hơn .
+Cho hay , quan niệm văn học , hóa ra cũng là một lĩnh vực phản chiếu được tinh thần và thực tiễn của dân tộc .
+Cuối cùng , xét từ cấp độ toàn bộ hệ thống lý luận văn học cổ trung đại Trung Hoa , thì rõ ràng là di sản ta nghèo nàn hơn nhiều .
+Nước ta tuy cũng có lý luận về tác gia , tác phẩm , nhưng chỉ lẻ tẻ , rải rác .
+Ở Trung Quốc , chỉ riêng Văn tâm điêu long cách đây hơn mười lăm thế kỷ , đã bàn về nhà văn với các phương diện tài đức , học vấn , cá tính , phong cách khá đầy đủ .
+Và về tác phẩm , Lưu Hiệp đã nghiên cứu các mặt nội dung , hình thức , các biện pháp nghệ thuật như hư cấu , tưởng tượng , khoa trương , kết cấu , tu từ , và cũng đã bàn đến hàng trăm thể loại , ...
+Đó là chưa kể rất nhiều công trình về sau .
+Nhưng rõ ràng ở ta chưa có thể nói đến lý luận về kịch và tiểu thuyết .
+Một đôi ý kiến về tiểu thuyết của Tương Giang Mai Cát , tuy cũng có chỗ sâu sắc , nhưng vẫn còn nằm trong dạng lời bình rải rác , và cũng đến thế kỷ XIX mới xuất hiện .
+Còn Hý trường túy bút nói là của Đào Tấn , nhưng còn phải tiếp tục xác minh .
+Ở Trung Quốc , chưa cần nói đến Nhàn tình ngẫu ký của Lý Ngư , mà trước đó đã có lý luận kịch của Lăng Mông , Vương Ký Đức , ... và về vấn đề lý luận tiểu thuyết , chưa cần nói đến Kim Thánh Thán , mà ngay trước đó , lý luận của Lý Trác Ngô cũng đã khá hệ thống .
+Thật ra , muốn có được lý luận tiểu thuyết của Kim Thánh Thán vốn đã phải có thành tựu của mấy trăm năm với nhiều bộ tiểu thuyết tầm cỡ thế giới trước đó .
+Cho nên , nên xét đến cùng , sở dĩ lý luận văn học cổ trung đại Trung Hoa phong phú hơn , là bởi vì thành tựu sáng tác của họ đa dạng hơn và to lớn hơn .
+Riêng về thơ , thì tuy cũng có lịch sử muộn hơn , nhưng nước ta cũng có thành tựu ngay từ đầu kỷ nguyên độc lập , và cũng được gọi là " thi quốc " và lý luận của ta cũng chịu ảnh hưởng mạnh mẽ , thậm chí nằm trong cái khung " Thi dĩ ngôn chí " của Trung Quốc .
+Ở đây , cần kết hợp thêm với tuyến lịch sử , để đối sánh quá trình phát triển của lý luận thơ giữa Việt Nam và Trung Hoa .
+Thi dĩ ngôn chí , nghe nói do Đại Thuấn nêu lên , nhưng chắc chắn là thấy có ghi trong Tả truyện , là một mệnh đề lý thuyết về đặc trưng thể loại của thơ ca .
+Bởi vì " Thơ để nói chí " , như thế có nghĩa là thơ thiên về biểu đạt thế giới chủ quan của thi nhân .
+Cái gốc trữ tình khác biệt với tính chất tự sự này , đã được làm nổi rõ thêm qua ý kiến của Tuân Tử : " Cái mà Kinh Thi nói đến là cái chí của họ , còn cái mà Kinh Thư nói đến là việc làm của họ " ( Nho hiệu ) .
+Nhưng ở đây mới là cơ sở , rồi trải qua hàng thiên niên kỷ , đã có thêm những bổ sung quan trọng .
+Đến Lục Cơ thì đã nhấn mạnh thêm chữ tình , Lưu Hiệp thì thêm cho thơ ca chữ tâm , chữ vật .
+Đặc biệt , Bạch Cư Dị đã kế thừa tất cả những yếu tố đó , và có bổ sung thêm yếu tố âm vận , cụ thể hóa vật bằng sự , biến cái chí động cơ chủ quan thành cái nghĩa hiệu quả khách quan , và hơn nữa , còn nhấn mạnh mặt " cảm giao " đối với khách thể thơ ca .
+Có thể nói đến nhà thơ Đường vĩ đại này , lý luận về đặc trưng thể loại thơ ca đã đạt đến chỗ tổng hợp tương đối hoàn chỉnh .
+Nhưng từ đời Tống trở về sau , do xã hội ngày càng bước vào quá trình tổng khủng hoảng , ngay bản thân ý thức hệ phong kiến chính thống cũng diễn ra cuộc đấu tranh gay gắt giữa " lý học " duy tâm khách quan với " tâm học " duy tâm chủ quan , cho nên cách nhìn đối với các vấn đề cụ thể cũng phân liệt cao độ , sự tổng hợp nói trên về đặc trưng thể loại của thơ ca cũng bị phá vỡ .
+Có người chỉ nhấn mạnh " tình cảm " , có người chỉ nhấn mạnh " âm vận " , có người chỉ nhấn mạnh " cách luật " .
+Rồi " chí " biến thàh " lý " , thậm chí là " cơ lý " , và " âm vận " lại bị đẩy đến " thân vận " , " tình cảm " lại biến thành " tính linh " , ...
+Nhưng sự phân liệt cực đoan này là tiền đề cho một bước tổng hợp mới cao hơn với Viên Mai , đỉnh cao của lý luận thơ ca phương Đông .
+Trong " thi triết " của Viên Mai , có thể bắt gặp được rất nhiều sự kết hợp giữa chân với hoạt , thâm với thiển , khổ với cam , nồng với đạm , xảo với phác , tài với tình , ...
+Còn theo thư tịch hiện có , thì Thi dĩ ngôn chí vào nước ta từ thế kỷ XIV trong lời tựa Việt âm thi tập tân san của Phan Phù Tiên .
+Từ đó cho đến thế kỷ XV với Nguyễn Trãi , thế kỷ XVI với Nguyễn Bỉnh Khiêm , đầu thế kỷ XVII với Phùng Khắc Khoan , thế kỷ XVIII với Lê Hữu Kiều , thế kỷ XIX với Bùi Văn Dị , ... đều sử dụng công thức này .
+Nhưng trong suốt sáu trăm năm đó , cũng như ở Trung Quốc là có bổ sung cụ thể hóa dần trong vận dụng .
+Ngay Phan Phù Tiên , chữ chí đi liền với chữ tâm , đến Nguyễn Trãi lại nhấn mạnh thêm yếu tố tình cảm , và Nguyễn Bỉnh Khiêm lại bổ sung những yếu tố cảnh và sự , đặt cơ sở cho Lê Quý Đôn đi đến sơ kết : " Thơ có ba điểm chính : một là tình , hai là cảnh , ba là sự " .
+Đến Cao Bá Quát thì có bổ sung thêm yếu tố nhạc vào .
+Như thế đến thế kỷ XIX , lý luận về đặc trưng thể laọi thơ ca Việt Nam đã triển khai tương đối hoàn chỉnh về các mối quan hệ giữa chí với tâm , tình , cảnh , sự , nhạc , quy cách , ...
+Nghĩa là nó tương đương với lý luận thơ ca Trung Hoa từ thời Đường trở về trước .
+Nhưng đồng thời cũng có nghĩa là thời trung đại nước ta không có giai đoạn phân liệt cực đoan , phá vỡ sự thống hợp giữa các yếu tố trong lý luận thơ như ở Trung Quốc từ đời Tống trở về sau .
+Nhưng bất kỳ đặc điểm gì cũng có hai mặt .
+Chính vì trong thời trung đại nước ta không có những khuynh hướng cực đoan về lý luận thơ , mỗi khía cạnh của quan niệm về thơ chưa có dịp đẩy lên tập mút , do đó cũng không tạo ra được những tiền đề cho sự tổng hợp cao hơn như Viên Mai đã từng thực hiện ở Trung Quốc .
+Qua việc so sánh giữa hai nền lý luận văn học Việt Nam và Trung Hoa , có thể thấy thi học so sánh được triển khai ở mọi cấp độ và bình diện như trong văn học so sánh nói chung .
+Ở đây có thể so sánh từ hệ thống chung đến yếu tố riêng cũng như sự diễn biến lịch sử của nó .
+Kết quả so sánh có thể là tương đồng và khu biệt , và sự tương đồng cũng không tất yếu là do chịu ảnh hưởng , và sự khác nhau cũng có nguyên nhân mà có thể giải thích được .
+Trong thực tế so sánh thi học , thật ra những nơi khác , còn nhiều hình lắm vẻ , như có thể so sánh từng giai đoạn , từng tác giả , từng công trình với nhau , ...
+II. Thi học so sánh xuyên văn hóa
+Tuy nhiên , thi học so sánh không phải chỉ tiến hành trong phạm vi một vùng văn hóa .
+Nhưng ngay việc văn học so sánh xuyên văn hóa nói chung cũng phải là một quá trình .
+Trường phái văn học so sánh Pháp nửa đầu thế kỷ này , thật ra cũng chỉ tiến hành công việc trong phạm vi văn học phương Tây , nghĩa là chỉ trong phạm vi một vùng văn hóa , phần nào bởi vì họ chỉ chủ trương " nghiên cứu ảnh hưởng " một cách thực chứng .
+Trường phái Hoa Kỳ bắt đầu phá vỡ cái khung này , bỏi vì họ chủ trương " nghiên cứu song song " không nhất thiết giữa các nền văn học dễ gây ảnh hưởng lẫn nhau , cho nên có xu hướng tiến hành so sánh vượt qua phạm vi một vùng văn hóa .
+Nhưng cũng phải đợi đến nửa sau những năm 60 , sau những đợt tranh luận kéo dài hai bờ Đại Tây Dương , hai trường phái Pháp và Hoa Kỳ xích lại gần nhau , và lại cùng nhau đề xướng việc so sánh văn học xuyên văn hóa , mà trước hết là việc so sánh văn học Đông Tây .
+Giáo sư Claudio Guillen , chủ nhiệm khoa Văn học so sánh Đại học Havard nói : " chỉ khi nào thế giới đem lại hai nền văn học vĩ đại của Trung Quốc và Âu Mỹ kết hợp lại mà suy nghĩ , thì chúng ta mới có thể trực diện với những vấn đề lý luận trọng đại của văn học " .
+René Etiemble , giáo sư văn học so sánh Đại học Paris , cũng nhấn mạnh phải tiến hành so sánh văn học giữa châu Âu và Trung Quốc , cho rằng chưa đọc Tây du ký thì cũng như chưa đọc tác phẩm của L.Tolstoi và Dostoevsky , và do đó chưa nên bàn về lý luận tiểu thuyết , ...
+Văn học so sánh nói chung đã nên như vậy , thì thi học so sánh cũng không thể khác .
+Nhưng thi học so sánh xuyên văn hóa giữa Đông Tây cũng phải là một quá trình tiếp theo nữa , bởi vì ban đầu cũng có người phản đối , ít ra là còn băn khoăn .
+Bởi vì sự bất đồng ngôn ngữ giữa Đông Tây còn hàm chứa chiều sâu của nội dung văn hóa .
+Martin Heidegger có nói về tình hình đối thoại với một người Nhật như sau :
+- Heidegger : Nguy cơ trong cuộc đối thoại giữa chúng ta không phải ở nội dung , mà cũng không phải ở phương thức đối thoại , mà tiềm ẩn ngay trong bản thân ngôn ngữ .
+- Người Nhật : Nhưng không phải bá tước Kuki đều thông thạo ba thứ tiếng Đức , Anh , Pháp đó sao ?
+- Heidegger : Đương nhiên không tồi , vấn đề gì cũng có thể bàn luận bằng các thứ tiếng châu Âu .
+Nhưng chúng tôi thảo luận về các vấn đề ý , khí mà về phương diện này , thì tôi không hiểu gì về tinh thần tiếng Nhật cả .
+- Người Nhật : Ngôn ngữ đối thoại sẽ làm cho tất cả mọi thứ đều mang gương mặt châu Âu ( Trên con đường đến với ngôn ngữ ) .
+Trong thực tế , vấn đề còn ở chỗ các học giả phương Tây rất hiếm người am hiểu thi học phương Đông .
+Lý luận gia nổi tiếng Hoa Kỳ J.R.Hightower đã bộc bạch : " Chúng tôi biết khá tường tận con đường phát triển của lý luận văn học châu Âu ... nhưng hầu như không biết chút gì về lý luận văn học Trung Quốc " .
+Như thế thi học so sánh xuyên văn hóa giữa Đông Tây vô hình trung được khởi đầu mạnh mẽ bởi các học giả Hoa kiều .
+Vì thi học Trung Hoa đã là một vế trọn vẹn trong sự so sánh này , hơn nữa hàng ngũ Tây học ở Trung Quốc vô cùng hùng hậu trong thế kỷ này , ngay số học giả Hoa kiều đứng trên bục giảng ở các đại học Âu Mỹ cũng đã khá đông đảo .
+Công trình Lý luận văn học Trung Hoa của học giả Lưu Nhược Ngu , giáo sư Đại học Stanford được Nxb. Đại học Chicago công bố năm 1975 đã gây tiếng vang rộng rãi ở Âu Mỹ cũng như ở Trung Quốc cả Hoa lục lẫn Đài Loan và Hương Cảng .
+Trong lời nói đầu , ông có viết : Tôi viết cuốn sách này nhằm ba mục đích .
+Trước hết và cũng là mục đích cuối cùng là miêu tả lý luận văn học thoát thai từ tư tưởng văn học truyền thống , mặc dù bao gồm nhiều nguồn dòng , nhưng về cơ bản là phát triển độc lập ở Trung Hoa , từ đó có thể tiến đến so sánh giữa nó với các loại lý luận bắt nguồn từ những truyền thống khác , cuối cùng từ đó đóng góp vào khả năng hình thành nền lý luận văn học thế giới chung .
+Ông còn nói , chỉ có qua so sánh , thì mới thấy rõ nền thi học trong từng truyền thống văn hóa , có khía cạnh nào mang tính quy luật phổ biến chung , khía cạnh nào chỉ là đặc thù , và từ đó cũng giúp hiểu đặc trưng riêng cho mỗi nền văn học .
+Mục đích có nhiều , nhưng vẫn quán xuyến chung tinh thần của thi học so sánh .
+Ông giới thiệu thi học Trung Hoa trong sự đối sánh với phương Tây theo các vấn đề như sau : quyết định luận , biểu hiện luận , thực dụng luận , siêu hình luận , kỹ xảo luận , thẩm mỹ luận , ...
+Mặc dù có thiên về việc sử dụng thuật ngữ phương Tây , nhưng công trình của Lưu Nhược Ngu được xem là mở đầu cho hướng nghiên cứu thi học so sánh xuyên văn hóa Đông Tây ở Âu Mỹ .
+Năm 1990 , trong công trình Thi học so sánh - Lý luận văn học xuyên văn hóa ( Comparative poetics - An Intercultural Essay on theories of Literature ) do Nxb. Đại học Princeton công bố năm 1990 , giáo sư Earl Miner , nguyên Chủ tịch Hiệp hội văn học so sánh quốc tế , đã mở đầu bằng chương Kỷ niệm Lưu Nhược Ngu , nhắc lại vai trò khai sáng của nhà học giả Hoa kiều này .
+Tiếp theo , Earl Miner đã đối sánh tinh thần thi học Đông Tây qua các thể loại trữ tình , tự sự và kịch bản văn học , ...
+Còn có thể kể công trình Thi học so sánh giữa Trung Quốc và phương Tây của Milena Dolezenova , giáo sư Đại học Toronto , ...
+Có thể nói hướng nghiên cứu thi học so sánh xuyên văn hóa Đông Tây đang trên đà phát triển ở phương Tây .
+Nhưng phải nói thi học so sánh Đông Tây vốn đã manh nha và phát triển mạnh mẽ ở Trung Quốc trong thế kỷ này .
+Như trên đã nói , Trung Quốc là một vế khá trọn vẹn trong sự so sánh này , vì nó tiêu biểu nhất cho văn minh phương Đông .
+Thi học Nhật Bản , Hàn Quốc , Việt Nam về cơ bản cũng dựa vào truyền thống văn hóa này .
+Không có thi học của một nước phương Tây nào có tư cách như thế đối với thế giới Âu Mỹ .
+Mặc dù xưa kia , Voltaire có nói rằng các văn hào cổ Hy La " hầu như đã thống nhất các dân tộc châu Âu dưới quy tắc của họ , tổ chức nhiều dân tộc lại thành một nước cộng hòa văn nghệ thống nhất " ( Bàn về sử thi ) .
+Nhưng đó là xét về mặt nguồn gốc , còn văn minh Trung Hoa vẫn liên tục tỏa sáng ở phương Đông trong hàng mấy thiên niên kỷ .
+Thi học Trung Hoa đủ tầm cỡ đối sánh với cả phương Tây là vì vậy .
+Nhưng nguyên nhân trực tiếp hơn , là cuối thế kỷ XIX đầu thế kỷ XX , văn hóa Trung Hoa trong thế bị động mà bức bách buộc phải va chạm , cọ xát với văn hóa phương Tây , dù muốn hay không trong tâm thức của kẽ sĩ đất nước này cũng manh nha cái ý thức đối sánh .
+Không phải ngẫu nhiên , mà ngay năm 1904 , trong công trình nổi tiếng Nhân gian từ thoại , Vương Quốc Duy đã đối sánh quan niệm mỹ học " siêu công lợi " của Kant và Schiller với quan niệm mỹ học của Đạo gia nói riêng , và các khái niệm " lý tưởng " và " hiện thực " với " tả cảnh " và " tạo cảnh " của hai di sản mỹ học nói chung .
+Tiếp theo sau đó , Lỗ Tấn cũng có nói : Bên Đông có Văn tâm điêu long của Lưu Hiệp , bên Tây có Thi học của Aristote , chương thiên đều phong phú , bình luận thông suốt , giải thích tinh tế , bao quát rộng lớn , khơi nguồn , thông dòng , làm mẫu cho hậu thế , ... ( Luận thi đề ký ) .
+Tất nhiên từ khi lý thuyết văn học so sánh phương Tây truyền bá vào , thì văn học so sánh nói chung , thi học so sánh nói riêng - tất nhiên cả hai đều mang tính chất xuyên văn hóa Đông Tây một cách tự nhiên - ở Trung Quốc lại càng phát triển mạnh mẽ .
+Từ năm 1929 , Irot Amstrong Richards , giáo sư Đại học Cambridge , thủy tổ của Phê bình mới , đến giảng môn văn học so sánh ở Đại học Thanh Hoa .
+Cũng từ năm này Truyền Đông Hoa dịch Lịch sử văn học so sánh của Carrière , và năm 1936 , Đái Vọng Thư dịch Lý thuyết văn học so sánh của Paul Van Tieghem .
+Từ đó , bên cạnh việc mở rộng môn văn học so sánh trong các trường đại học , các báo chí liên tục đăng các bài về văn học so sánh có tính chất xuyên văn hóa Đông Tây , hàng loạt công trình văn học so sánh giữa Trung Quốc và phương Tây đã ra đời : Ảnh hưởng của văn học Trung Quốc đối với văn học Đức , của Trân Thuyên , Kịch Trung Quốc lưu hành ở Anh thế kỷ XVIII của Phạm Tồn Trung , William Jone với văn hóa Trung Quốc của Văn Nhất Đa , ...
+Từ đó cũng nổi bật lên những công trình thi học so sánh như Thi luận của Chu Quang Tiêm , Đàm nghệ lục của Tiến Trung Thư , ...
+Thi luận chủ yếu chỉ so sánh rồi tổng hợp về lý luận thơ Đông Tây , thí dụ về " ý cảnh " trong thơ , thì so sánh rồi tổng hợp giữa " tình thú " với " ý tượng " , ...
+Còn Đàm nghệ lục thì so sánh lý luận văn học nói chung , như đối sánh giữa thuyết " tái hiện " và " biểu hiện " với quan niệm " sư pháp tạo hóa , mô tả tự nhiên " và " công đoạt tạo hóa , nhuận sắc tự nhiên " , ...
+Sau khi nước CHND Trung Hoa thành lập , chịu ảnh hưởng của Liên Xô , không tiếp tục đề xướng môn văn học so sánh , mà một biểu hiện rõ nhất là đã bỏ hẳn môn này trong các trường đại học .
+Đến đầu những năm 60 , giới khoa học cũng như giới đại học Liên Xô khôi phục lại truyền thống văn học so sánh Nga , và xây dựng dần nền văn học so sánh Xô-viết thì ở Trung Quốc lại bước dấn vào thời kỳ cách mạng văn hóa .
+Tuy nhiên , trong gần suốt 30 năm này , vẫn lẻ tẻ có những công trình văn học so sánh cụ thể , nhất là trong giai đoạn trước cách mạng văn hóa như Lỗ Tấn và Gogol của Phùng Tuyết Phong , " Triệu thị cô nhi " ở nước Anh thời Khai sáng của Phạm Tồn Trung , ...
+Về thi học so sánh , có thể kể Đọc Laokoon , Thông cảm của Tiến Trung Thư , chứng tỏ ông vẫn lặng lẽ tiếp tục hướng nghiên cứu xuyên văn hóa giữa Trung Quốc và phương Tây về lý luận văn học .
+Riêng ở Đài Loan và Hương Cảng , không bị tác động bởi những hoàn cảnh nói trên , cho nên vẫn tiếp tục truyền thống văn học và thi học so sánh những năm 30 , 40 .
+Và nếu lực lượng những nơi đây có phần mỏng , thì lại được bù lại bằng đông đảo các học giả Hoa kiều một cách trực tiếp , không bị hố sâu ngăn cách về chính trị và ý thức hệ .
+Chính công trình nói trên của giáo sư Lưu Nhược Ngu được công bố ngay ở Đài Bắc năm 1975 .
+Từ đó cho đến nay giới học giả những nơi đây lần lượt cho ra đời nhiều công trình thi học so sánh xuyên văn hóa Đông Tây .
+Một trong những công trình tiêu biểu là Trung Quốc thi học tung hoành luận ( Đài Loan , Hồng phạm thu diễm xuất bản xã , 1977 ) của giáo sư Hoàng Duy Lương .
+Công trình gồm 3 chương .
+Chương đầu , đối sánh giữa lý luận phê bình kiểu ấn tượng giữa Trung Quốc và Anh .
+Chương hai , bàn về Nhân gian từ thoại trong đối sánh với mỹ học cận đại Đức .
+Chương ba , đối sánh giữa thuyết " ngôn thoại chi ý " với một số quan niệm tương ứng ở phương Tây .
+Cuối những năm 70 , Trung Quốc bắt đầu thời kỳ mở cửa , đổi mới , thực hiện bốn hiện đại hóa , thì khoa văn học so sánh liền được khôi phục nhanh chóng và phát triển mạnh mẽ .
+Năm 1981 , Hội Văn học so sánh dầu tiên được thành lập ở Đại học Bắc Kinh , rồi lần lượt ở các thành phố khác .
+Năm 1983 , Hội nghị Văn học so sánh toàn Trung Hoa lần thứ nhất được tổ chức ở Thiên Tân .
+Năm 1984 , chuyên san Văn học so sánh Trung Quốc ra mắt tại Thượng Hải .
+Năm 1985 , Hội Văn học so sánh toàn Trung Hoa được thành lập .
+Cũng năm này , Trung Quốc được bầu làm Phó chủ tịch Hội Văn học so sánh quốc tế .
+Và mới tính đến giữ những năm 80 , đã có 36 trường đại học ở Trung Quốc đã giảng dạy môn văn học so sánh .
+Các công trình văn học so sánh thì không kể xiết .
+Trên cơ sở đó , những công trình thi học so sánh cũng liên tiếp xuất hiện , tất nhiên là vẫn tiếp nối và phát triển hướng nghiên cứu xuyên văn hóa giữa Đông và Tây .
+Đặc biệt trước hết phải kể đến Quản trùy thiên của Tiến Trung Thư do Trung Hoa thư cục công bố ở Bắc Kinh năm 1979 , chứng tỏ 30 năm qua học giả tên tuổi này không hề rời bỏ phương hướng nghiên cứu từ Đàm nghệ lục của mình , mà đầu những năm 60 chỉ mới có thể thấy phần nào qua Đọc Laokoon , Thông cảm như đã nói ở trên .
+Quản trùy thiên mang tính chất tập đại thành đồ sộ , gồm 5 tập , 1558 trang , 781 điều .
+Tác giả không viết theo dàn bài lý luận , không chia thành chương mục của các hệ thống , phạm trù , mà là viết theo lối tùy bút khi đọc những thư tịch cổ , không phải chỉ những sách thi thoại , mà cả những sách triết học , lịch sử như Chu Dịch chính nghĩa , Thái bình quảng ký , ...
+Gặp những câu , những ý nào có tính chất thi học hoặc mỹ học , thì ông liền xâu chuỗi những ý kiến tương đồng trong các sách khác , rồi đối chiếu với những quan niệm tương ứng ở phương Tây .
+Thí dụ , khi trích dẫn ý kiến " tâm vật tương cảm " trong Văn phú của Lục Cơ , ông liền liên tưởng với những ý kiến cùng loại của Chung Vinh , Lưu Hiệp rồi đối chiếu với thuyết " Chuyển cảm " ( Empathetics-Einfuhlung ) của Theodor Lipps , ...
+Cứ như thế , tác giả viết ra công trình đồ sộ , uyên bác , đã đành , nhưng không phải chỉ là câu chuyện công phu , tỉ mẩn , mà là có chủ kiến đầy tính nguyên tắc .
+Ông có lần tâm sự rằng , đọc những công trình nghiên cứu lý luận chỉ thấy phần nhiều là sáo mòn , trống rỗng , chỉ xem như tác giả bày tỏ thái độ , không có đóng góp gì thực chất cho lý luận .
+Trái lại , trong thơ , từ , bút ký , thậm chí trong ca dao hoặc sách huấn cổ , không chủ ý mà có đôi ba câu nói được những kiến giải sâu sắc , thần diệu và bổ ích , hàm chứa được chất lý luận nghệ thuật khá mới mẻ , đáng được chúng ta trân trọng và biểu dương ( Cựu văn tứ thiên ) .
+Cũng công bố trong năm 1979 này còn có " Văn tâm điêu long " sáng tác luận của Vương Nguyên Hoa , chứng tỏ tác giả cũng đã âm thầm làm việc trong những năm tháng kinh hoàng trước đó .
+Cách viết của tác giả tuy chỉ hạn chế trong phạm vi nội dung của Văn tâm điêu long , nhưng cũng giống với Tiến Trung Thư .
+Mỗi luận điểm cơ bản của Lưu Hiệp đều có liên hệ với phương Tây .
+Thí dụ bàn về " tỷ dụ " thì có liên hệ với ý kiến của Goethe , bàn về " dưỡng khí " thì có liên hệ với ý kiến tương ứng của Bielinsky , ...
+Từ đầu những năm 80 đến nay , các công trình thi học so sánh xuyên văn hóa Đông Tây xuất hiện ngày càng nhiều ở Trung Quốc , có thể thấy qua các công trình tiêu biểu như sau : Trước hết , có thể kết Trung Tây tỉ giảo thi học của Tào Thuận Khánh ( Bắc Kinh xuất bản xã , 1988 ) .
+Đặc điểm trước tiên của công trình này là xuất phát từ bối cảnh văn hóa để truy tìm đối sánh giữa hai nền thi học từ chiều sâu của bối cảnh văn hóa .
+Tiếp theo công trình đã chú trọng đối sánh từng phạm trù thi học , như " bản chất nghệ thuật " , ... nêu lên những chỗ dị đồng khá rõ ràng .
+Bước sang những năm 90 có Trung Tây tỉ giảo thi học thể hệ do Hoàng Dược Lân , Đồng Khánh Bính đồng chủ biên ( Nhân dân văn học xuất bản xã , Bắc Kinh 1991 ) .
+Công trình gồm có 3 phần .
+Phần đầu đi sâu vào tinh thần văn hóa Đông Tây khác nhau xoay quanh các vấn đề " hữu với vô " , " hình thức với chức năng chỉnh thể " , " minh xác với mơ hồ " .
+Phần thứ hai tập trung đối sánh những phạm trù cơ bản như giữa " cảm vật " với " biểu hiện , ...
+Phần thứ ba dành riêng nghiên cứu ảnh hưởng của phương Tây đối với thi học cận đại Trung Hoa như của Sự ra đời của bi kịch của Zietzsche đối với Nhân gian từ thoại của Vương Quốc Duy , ...
+Tóm lại , thi học so sánh xuyên văn hóa Đông Tây vẫn thuộc trong văn học so sánh nói chung , thi học so sánh nói riêng .
+Nhưng vì tính chất xuyên văn hóa , cho nên ngoài lối " nghiên cứu ảnh hưởng " ( efectual study ) có thể có , nó thiên về lối " nghiên cứu song song " ( parallel study ) .
+Và dù " nghiên cứu song song " hay " nghiên cứu ảnh hưởng " , thi học so sánh xuyên văn hóa Đông Tây này cũng tìm ra chỗ giống nhau và nêu lên chỗ khác nhau .
+Tuy nhiên trong thời kỳ đầu thì thiên về chỗ giống nhau , vì tuy là khác nhau về văn hóa , nhưng vẫn có những quy luật chung về lịch sử và tâm lý nhân loại .
+Điều này thể hiện đặc biệt phong phú trong những công trình của Tiến Trung Thư và Chu Quang Tiềm .
+Tất nhiên , điểm tựa của Tiến Trung Thư là dựa vào vô số mệnh đề có tính chất thi học của chính Trung Quốc rồi tập hợp những quan niệm tương ứng của phương Tây .
+Có phần trái lại , Chu Quang Tiềm thường xuất phát từ những quan niệm và phạm trù cơ bản của thi học phương Tây để khái quát thêm di sản thi học Trung Quốc .
+Nhưng bước tiến của thi học so sánh xuyên văn hóa Đông Tây của những thập kỷ sau này là , tuy không bỏ qua những chỗ giống nhau , nhưng thiên về vạch ra những chỗ khác nhau .
+Chính vì thế , nó buộc phải lấy việc đối sánh về lịch sử xã hội và cơ sở triết học làm tiền đề , rồi trên cơ sở đó , mới tiến hành đối sánh một cách đồng đẳng những phạm trù và quan niệm tương ứng giữa hai bên .
+Về cơ bản thì như thế , nhưng trong thực tế nhiều công trình , nếu kể thêm những bài viết , thì thật muôn màu muôn vẻ , khá là khác nhau về phạm vi , cấp độ và cách thức .
+Có tác giả mở rộng ra thành mỹ học so sánh , như Tưởng Khổng Dương với bài Một số nghiên cứu so sánh giữa tư tưởng mỹ học phương Tây với tư tưởng mỹ học cổ đại Trung Hoa .
+Gần với loại này , có tác giả mở rộng sự đối sánh ra cả phạm vi nhạc , họa , thư pháp như Tôn Bạch Hoa với công trình Mỹ học tản bộ .
+Có tác giả không chỉ đối sánh phương Tây với riêng Trung Quốc , mà cả Nhật Bản nữa như Earl Miner với công trình Thi học so sánh nói ở trước .
+Trái lại cũng có tác giả chỉ đối sánh Trung Quốc với riêng một nước phương Tây mà thôi , nhưng chỉ trong một giai đoạn như Lư Thiện Khánh với Cận đại Trung Tây mỹ học tỉ giảo .
+Cũng có tác giả chỉ đối sánh về một thể loại như Dư Thu Vũ với Hý kịch lý luận sử cảo .
+Cũng có tác giả dựa hẳn vào một phạm trù triết học cơ bản làm hệ tham chiếu như Trương Lăng Khê với Đạo và Logos - Giải thích học văn học Đông Tây .
+Cũng có tác giả dựa hẳn vào tinh thần văn hóa để đối sánh như Trương Pháp với Trung Tây mỹ học dữ văn hóa tinh thần , ...
+Tất nhiên , sự phân loại nói trên chỉ là cốt làm nổi rõ theo từng cấp độ và bình diện đối sánh , chứ trong từng công trình được lấy làm thí dụ , thật ra có sự giao thoa giữa các cấp độ và bình diện đó .
+Và nếu biết được tình hình thi học so sánh ở Hàn Quốc và Nhật Bản , thì chắc chắn chúng ta sẽ có thêm được những đối tượng và cách thức so sánh khác nữa .
+Riêng ở nước ta có bài viết Đôi điểm khác biệt giữa lý luận văn học Đông Tây ( Văn học số 12/1995 ) của Phương Lựu đã đối sánh thi học Đông Tây trên ba phương diện nhịp độ , hạt nhân của hệ thống và tính chất của khái niệm , có lẽ còn chút ít đóng góp , cho nên đã được dịch toàn văn đăng lại trên tạp chí Ngoại quốc xã hội khoa học số 7/1996 của Viện hàn lâm khoa học xã hội Trung Quốc .
+Tuy nhiên , trong khoa học không phải chỉ khám phá ra " cái thế nào " ( le comment ) mà phải vạch ra cho được " cái vì sao " ( le pourquoi ) .
+Thi học so sánh xuyên văn hóa Đông Tây không phải chỉ nêu ra cho được sự dị đồng , mà còn phải tìm hiểu căn nguyên từ chiều sâu văn hóa giữa đôi bên .
+Mặt khác , mục đích cuối cùng của mọi loại thi học so sánh là trên cơ sở tìm ra những tinh hoa đặc thù của từng quốc gia và khu vực để cuối cùng xây dựng cho được nền lý luạn văn học tổng quát ( General literary theory ) như ý kiến của René Wellek .
+Những nền thi học hiện đang được khảo sát cho dù bao gồm cả châu Âu và Bắc Mỹ , Trung Quốc , Nhật Bản , Triều Tiên , thì cũng chưa phải là của toàn thế giới .
+Tất cả những vấn đề này sẽ được đề cập ở mục thi học so sánh tổng thể tiếp theo .
+III. Thi học so sánh tổng thể
+Thi học so sánh tổng thể , theo nghĩa lý tưởng của nó là phải tiến hành trong phạm vi trường kỳ lịch sử của nhân loại .
+Nhưng việc này , nếu không muốn nói là ảo tưởng , thì chí ít cũng phải được hình dung đây sẽ là một quá trình lâu dài .
+Do đó , phải xác định những bước đi ban đầu của nó .
+Nhưng ở đây sẽ không áp dụng máy móc phương pháp : " giải phẫu con người là thìa khóa giải phẫu con khỉ " của Mác nêu trong Góp phần phê phán chính trị kinh tế học , mà có lẽ phải ngược lại là " giải phẫu con khỉ sẽ là thìa khóa giải phẫu con người " .
+Bởi vì đối tượng và mục đích nghiên cứu của Mác là kinh tế , hay nói rộng ra là phương thức sản xuất trong lịch sử và nhằm tìm hiểu kinh tế cổ đại là những thứ vĩnh viễn đã qua , cho nên tiếp theo ông nói : " Kinh tế tư bản cho ta thìa khóa để hiểu kinh tế cổ đại " .
+Đối tượng nghiên cứu của chúng ta ở đây là tư duy ( về văn thơ ) , và mục đích của chúng ta là trong tương lai làm sao xây dựng được nền lý luận văn học tổng quát , cho nên hoàn toàn có thể bắt đầu từ thi học thời cổ đại , là thứ còn lưu lại bằng văn bản , để từ đó có thể liên hệ dần với thi học các thời đại sau .
+Điều này là cần thiết và có thể là hợp lý vì tư duy cổ đại luôn luôn có tính định hướng và lưu truyền vĩnh viễn về sau .
+Tư tưởng Trung Hoa nói chung , quan niệm văn thơ mang tính chất thi học nói riêng về sau có diễn biến không ít , nhưng một số vấn đề cơ bản đã được đặt ra ngay từ thời Chiến Quốc " bách gia tranh minh " ( thế kỷ VIII - thế kỷ II TCN ) qua ý kiến của các học phái Nho , Đạo , Mặc , Pháp , ...
+Cũng vậy đối với châu Âu , Tsernysevski chẳng đã từng nói : " Thi học của Aristote đã ngự trị ở phương Tây suốt hai ngàn năm " .
+Tất nhiên , thi học phương Tây có diễn biến phức tạp hơn ở Trung Quốc rất nhiều , nhất là trong thế kỷ XX .
+Ấy thế nhưng trong vô vàn trường phái lý luận phê bình tranh luận nhau kịch liệt hiện nay , mỗi trường phái vẫn trích được một câu nào đó không của Platon , thì Aristote , hoặc Horace , ...
+Như thế , trong khi giới thuyết về mặt đối tượng trong bước đi ban đầu của việc nghiên cứu thi học so sánh tổng thể này , ta đã bắt gặp hai ngọn nguồn thi học rất tiêu biểu của nhân loại là từ các hiền triết cổ Hy La và thời Chiến Quốc " bách gia tranh minh " của Trung Hoa , và cũng khá ngẫu nhiên là cả hai gần như đồng hiện vào thế kỷ thứ II TCN mà chúng ta ít nhiều đều quen thuộc .
+Nhưng trong thời cổ đại , độc lập với hai nền văn minh nói trên còn có một nền văn minh tinh thần tiêu biểu nữa là từ Ấn Độ , có hàm chứa một di sản thi học , mà quá trình từ manh nha đến thành thục không tương ứng về thời điểm với của Trung Quốc và châu Âu , thì còn khá xa lạ với chúng ta , cho nên cần điểm qua vài nét trước khi đi vào so sánh .
+Thi học của Ấn Độ ra đời có phần chậm .
+Thời kỳ đế quốc Moria ( 322 - 185 TCN ) trở về trước , tương ứng với thời cổ Hy Lạp và thời Tiên Tần của Trung Quốc , chỉ thấy manh nha một đôi quan niệm hoặc ý kiến có tính chất thi học trong kinh Veda cùng sách giải thích những nghĩa tinh mật của nó là Upanishad .
+Trong kinh Veda có nêu lên phạm trù vị và phân loại từ vị của cỏ cây , như cây Xumua có thể chế thành rượu làm cho người ta say ngây ngất lên , đến vị của Phạn , một phạm trù triết lý như Đạo của Trung Quốc .
+Sách Upanishad giải thích thêm : " đại Phạn có ở khắp nơi , là niềm vui chí thượng " , " hương thơm của đại Phạn nhập vào cây thuốc ... , mùi vị của Đại Phạn nhập vào thành bang " , " người hưởng được vị ấy sẽ hoan hỉ , ... " Như thế vị được triển khai từ vật chất đến tinh thần , và tác động của nó từ sự ngây ngất vì nhấm rượu Xumua , đến niềm hoan lạc khi thấm được đạo Phạn .
+Nêu ra phạm trù vị , bản thân kinh Veda , một tập đại thành của các tác phẩm và thể loại văn học cổ Ấn Độ , cũng chính là thể hiện cái vị của đạo Phạn .
+Sách Upanishad lại nói : " Veda chỉ nhờ vào đại Phạn mà trở nên cao cả vĩ đại " ; " Không có ngôn luận nào trên được thánh ca , đó là muôn hình ngàn sắc của vũ trụ .
+Chỉ có bắt nguồn từ những lời của Veda , thì mới vĩnh cửu vô cùng " ; " Tụng thi chính là đại Phạn " ; " Tinh nghĩa của Veda , mật chỉ của Upanishad đều khơi nguồn từ đạo Phạn " , ...
+Như thế văn thơ , chẳng qua là thể hiện cái vị thơm tho làm vui lòng người của Phạn .
+Ngoài Veda và Upanishad ra , rất có thể còn nhiều thư tịch khác có chứa đựng những kiến giải thi học , mà hiện nay đã thất truyền .
+Bởi vì sau đó không bao lâu , tương ứng với thời Hán và thời cổ La Mã , vào trước hoặc sau CN một ít , đã xuất hiện công trình Bàn về kịch ( Natyasatra ) rất đồ sộ , mà tác giả tương truyền là Brahdamuni .
+Bàn về kịch tất nhiên dành một phần lớn cho nghệ thuật sân khấu , bao gồm âm nhạc , hội họa , vũ đạo , nghệ thuật hóa trang , diễn xuất , đạo cụ , ... nhưng một phần không nhỏ cũng bàn về những phạm trù mỹ học chung cùng những vấn đề về kịch bản có ý nghĩa thi học chung .
+Trước hết công trình đã trở lại phạm trù vị và triển khai mối quan hệ giữa nó với tình , do tình mà sinh vị : " Cũng như người sành ăn , thưởng thức cái vị của thực phẩm ... trong lòng của các bậc trí giả thưởng thức được cái vị của những thường tình gắn bó qua lại với sự biểu diễn , diễn xuất về mặt tình cảm , do đó , những thường tình này tương truyền là cái vị của kịch " ; " Tình cảm dã làm cho cái vị liên quan đến các loại diễn xuất xuất hiện " ; " Người xem mang tâm tình bình thường , thưởng thức được những thường tình hiển hiện lên do những sự biểu diễn về các loại tình cảm khác nhau qua ngôn ngữ dồi dào , và cả về hình thể và nội tâm , thì sẽ nếm được cái vị của kịch như niềm khoan khoái , ...
+Và có đến 8 loại vị trong kịch : diễm tình , khôi hài , bi thương , khóc than , anh dũng , khủng khiếp , căm ghét , kinh ngạc .
+Mỗi loại vị như vậy lại có những dạng thường tình , biệt tình , tùy tình và bất định tình .
+Thí dụ về cái vị diễm tình , thì dạng thường tình của nó là hoan lạc , chú trọng phục trang sặc sỡ , dạng biệt tình của nó là trai gái yêu nhau , hành lạc chốn vườn hoa , dạng tùy tình của nó là trên sân khấu , mắt lúng liếng mi chớp lịa , tư thế ẻo lả , ngôn ngữ ngọt ngào , dạng bất định tình của nó là kinh sợ , chua ngoa , bực tức , căm ghét .
+Có thể thấy vị đã được triển khai thành một phạm trù thẩm mỹ trong tương quan với tình .
+Trên cơ sở đó , công trình còn bàn về tình tiết , nhân vật , ngôn ngữ và phân loại kịch , ...
+Bàn về kịch đánh dấu một bước phát triển tột bực của thi học Ấn Độ cổ đại , và là một đỉnh cao của nền thi học nhân loại .
+Nhưng sau đó hàng ba bốn thế kỷ , thi học nước này không thấy ghi nhận được thành tựu gì đáng kể .
+Từ thế kỷ thứ 7 trở đi , nền thi học Ấn Độ với hàng mấy chục công trình liên tục xuất hiện cho mãi đến đầu thiên niên kỷ thứ hai , ở đây chỉ điểm qua một số tiêu biểu nhất .
+Trước hết là công trình Chú giải " Bàn về kịch " của Tsinhu , đã tập trung phát triển phạm trù vị nền tảng nhất trong mỹ học cổ đại .
+Ông cho rằng trong Bàn về kịch xưa kia , Brahdamuni đã triển khai phạm trù vị với tình cảm , cho nên có thể gọi chung là " tình vị luận " .
+Nhưng tình trong tác phẩm nghệ thuật không phải chỉ là đối tượng khách quan để nhận thức , mà còn được hình thành dần qua sự cảm nhận một cách chủ quan , đem lại niềm vui đột nhiên ( kinh hỉ ) cho người xem .
+Cái vị của tình trong nghệ thuật có được không phải do suy lý , cũng không phải đều do liên tưởng hoặc hồi tưởng , mà chủ yếu là do thưởng thức thể nghiệm .
+Thí dụ đi xem kịch không phải là đứng bên ngoài quan sát , nhận xét , mà là cùng sống với số phận và cảm hứng với nội tâm nhân vật , ...
+Không những giải thích thêm , mà còn nêu lên những phạm trù thi học mới , mà tiêu biểu là công trình Vận quang của Anandafatana .
+Công trình gồm có hai phần , phần sau là " Quang " bàn về văn xuôi , nhưng cống hiến chủ yếu là phần đầu " Vận " chuyên bàn về thơ , từ hình thể đến từ và nghĩa , nhưng đều xoay quanh hồn thơ , chất thơ .
+Ông cho rằng thơ ngoài hai nghĩa trên mặt chữ và nghĩa hàm bên trong , còn một cái thứ ba là " nghĩa ám thị " , và đó chính là " vận " .
+Ông nói : Nếu những từ nghĩa và từ âm trong thơ đem ý nghĩa của mình làm vật phụ thuộc để ám thị một nghĩa bóng hàm súc nào đó , thì các bậc trí giả sẽ gọi loại thơ này là vận ...
+Khi giải thích bản chất của thơ ... sẽ dựa vào tính ám thị chung , đem tất cả những cái biểu đạt hoặc có khả năng biểu đạt hỗn hợp thành hồn của từ ngữ , thì thông thường cái gọi là thơ cũng gọi là vận .
+Ông còn so sánh vận như ma lực toát lên từ vẻ bên ngoài của mỹ nữ : " Trong ngôn ngữ của những nhà thơ vĩ đại , quả có tồn tại một thứ là nghĩa lĩnh hội được " .
+Nó giống như ma lực rõ ràng vượt qua tay chân đẹp đẽ của mỹ nhân .
+Có thể nói cùng với vị , thì vận là những phạm trù cơ bản về mặt nội dung của thi học cổ Ấn Độ .
+Nhưng còn những công trình thi học bàn thiên về hình hình thức , tất nhiên không tách rời với nội dung , như Bàn về trang sức của thơ của Bamukha .
+Công trình chủ yếu bàn về phép tu từ làm sao cho thơ có ma lực về hình thức .
+Theo nghĩa đó , phạm trù trang sức được nối tiếp và phát triển về sau , mà tiêu biểu là Bàn về sức sống của khúc ngữ của Kuntala .
+Tác giả đã định nghĩa khúc ngữ ( ngôn ngữ uốn lượn ) như sau : " Thơ thông qua sự sắp xếp và phối hợp giữa âm và ý , thể hiện sự biểu đạt của nhà thơ , làm cho những kẻ tri âm cảm thấy thú vị " .
+Thật ra " khúc ngữ " không chỉ là phép tu từ uốn lượn từ ngữ , mà ( theo Kuntala ) là bao gồm một hệ thống biện pháp biểu đạt theo các cấp độ như sau : 1 .
+Sự uốn lượn về ngữ âm tạo nên những vần điệu đặc thù .
+2 .
+Sự uốn lượn về từ ngữ tạo nên những chuyển nghĩa từ ẩn dụ , uyển ngữ , ...
+3 .
+Sự vận dụng giống , số , cách ( vì đây là ngôn ngữ Ấn Âu ) tạo nên được những chuyển hóa đặc thù về mặt ngữ pháp .
+4 .
+Sự uốn lượn câu thơ để góp phần làm nên những cảm xúc đặc thù .
+5 .
+Sự uốn lượn về câu chuyện qua những nhân vật và tình tiết , để gây được những hiệu quả hấp dẫn .
+6 .
+Sự uốn lượn của chỉnh thể tác phẩm là ngoài các mặt nói trên , còn phải chú ý như cải biên câu chuyện thật vốn có , nhân vật mới lạ , kết cấu biến hóa , ...
+Với những nội dung trên " khúc ngữ " đã trở thành một phạm trù không kém phần quan trọng của thi học cổ Ấn Độ .
+Như thế trong thi học cổ Ấn Độ gồm một hệ thống bốn phạm trù cơ bản theo một lô-gic nội tại như sau : vị phát triển thành vận và thiên về nội dung , cũng có thể gọi đó là hồn thơ , chất thơ .
+Trang sức phát triển thành khúc ngữ là thiên về hình thức biểu đạt của thơ .
+Tất nhiên đây chỉ là giới thiệu sơ lược tạm làm nền cho việc đối sánh ba ngọn nguồn thi học cổ của nhân loại .
+Và tất nhiên việc đối sánh cụ thể từ chiều sâu văn hóa dưới đây cũng sẽ có những chi tiết có tác dụng bổ sung trở lại cho gương mặt thi học cổ Ấn Độ vốn còn xa lạ với chúng ta .
+Nói đến đối sánh từ chiều sâu văn hóa , nhưng văn hóa là vô cùng , cho nên ở đây cũng phải có một sự giới thuyết nhất định .
+Đó là ba lĩnh vực triết học , tôn giáo và đạo đức , mà theo chúng tôi , chúng có tác động đến tư duy thơ văn nhiều nhất .
+Chính trị , hiển nhiên là chi phối mạnh mẽ thơ văn , nhưng trên bình diện nội dung và thay đổi không ngừng tùy theo chế độ , thậm chí trong từng giai đoạn của một hình thái xã hội cụ thể , cho nên không trở thành một mũi tiếp cận trên bình diện tổng quát này .
+1 .
+Đối sánh từ chiều sâu triết học
+Mác nói : " Bất kỳ triết học chân chính nào cũng là tinh hoa của tinh thần thời đại của mình " , và chính vì thế ai cũng thường nói đến mối liên hệ giữa triết học với mỹ học nói chung và lý luận văn học nói riêng .
+Nhưng người ta thường quên nói thêm cái hệ luận hiển nhiên này - chưa có triết học thì không thể có lý luận văn học .
+Ba ngọn nguồn thi học cổ đại của nhân loại nói trên không phải là ngẫu nhiên , vì đó cũng là ba cái lò nung nấu " tinh thần thời đại " sớm nhất trong nhiều nền văn minh của loài người .
+Có thể có văn hóa , văn minh thậm chí cũng đã có sáng tác văn học phong phú , nhưng chưa có lý luận văn học , bởi vì chưa có triết học .
+Điều này thấy rõ ở nền văn minh cổ Ai Cập càng sớm hơn rất nhiều , nhưng không thấy có sách vở nào nói đến thi học cổ Ai Cập .
+Nguyên nhân chính do đâu ?
+Bốn , năm ngàn năm TCN , trong lúc Hy Lạp , Ấn Độ , Trung Quốc còn trong vòng tiền sử thì ở Ai Cập đã có đời sống định cư nông nghiệp , và bốn ngàn năm TCN đã chế tạo được công cụ bằng đồng , và ba ngàn năm TCN đã có quốc gia thống nhất , có văn tự ghi chép lại .
+Sau đó vài ba thế kỷ đã có nghề dệt , đóng thuyền , luyện kim , ... nghĩa là bước đầu đã có công nghiệp , nông nghiệp , thương nghiệp , kể cả ngoại thương cũng manh nha khá sớm .
+Đặc biệt về kiến trúc thì vô cùng phát triển , mà kim tự tháp là một biểu trưng , rồi những bộ sử thi cũng đã xuất hiện , ...
+Nghĩa là kinh tế , chính trị , văn nghệ đều có đủ chỉ thiếu một sự kết tinh về " tinh thần thời đại " mà chỉ có những suy tư thần học và tôn giáo , cho nên chưa thể có mỹ học , thi học là vì vậy .
+Phải đợi đến cách đây trên dưới hai mươi lăm thế kỷ , đúng như triết gia Ấn Độ Dopiprosad Chattopadhyaya nói : " Khoảng chừng tương ứng với thời kỳ sôi động của triết học cổ Hy Lạp và Trung Quốc , thì đã có rất nhiều quan điểm triết học xung đột đến kinh người xuất hiện ở Ấn Độ " ( Triết học Ấn Độ ) .
+Quả vậy , khi Platon nói về " Lý niệm " , Lão Tử nói về " Đạo " , thì trong sách Upanishad ( còn gọi là Vedanta ) có thể đọc được nhiều mệnh đề đại loại như : " Đại Phạn là chân , là trí , là vô cực " , ...
+Với tư cách là " tinh hoa của tinh thần thời đại mình " ( Mác ) , đặc điểm tính chất nổi bật của triết học là " yêu trí tuệ " .
+Các từ tiếng Anh philosophy , tiếng Pháp philosophie đều lấy gốc từ gần như đồng âm và giống về tự dạng mà tương truyền là do Pythagore tạo ra và sử dụng vốn có nghĩa là " yêu trí tuệ " .
+Quả vậy , điều này khái quát phẩm cách chung của các triết gia cổ Hy Lạp .
+Héraclite thì chủ trương phải " hiểu biết bản thân " ; Socrate thì tự xưng là " người ham hiểu biết " ; Platon thì hình dung trong lý tưởng quốc của mình , người thống trị không phải là người sở hữu quyền lực , mà là người " sở hữu trí tuệ " - " vua trí tuệ " ; Démecrite thì được Mác mệnh danh là " học giả kiểu bách khoa số một của Hy Lạp " , ...
+Ở Trung Quốc cũng vậy , chữ " triết " trong từ triết học vốn có nghĩa là " trí tuệ " ; " tri nhân tắc triết " ( Thượng thư ) .
+Khổng Tư thì nói : " Học nhi bất tứ tắc võng " ; Mạnh Tử cũng nói : " Tứ tắc đắc chi " , ...
+Còn ở Ấn Độ , phạm trù triết học cơ bản Phạn vốn có một nghĩa là trí tuệ như định nghĩa trong sách Upanishad : " Cái gọi là Đại Phạn , tức là chân , là trí " ' ; " Đại Phạn là sự hiểu biết " , ...
+Tuy nhiên phẩm chất " yêu trí tuệ " của ba ngọn nguồn triết học này nhằm những mục đích có phần khác nhau .
+Nhìn một cách chung nhất , nghĩa là tạm bỏ qua những khía cạnh giao thoa , thì nếu triết học cổ Hy Lạp " yêu trí tuệ " là vì " hiểu biết chỉ để hiểu biết " ( knowledge for knowledge sake ) , thì triết học Ấn Độ dùng trí thức để giải thoát , và triết học Trung Quốc đề cao trí tuệ để " lập đức , lập công , lập ngôn " .
+Đặc điểm giữa ba nền thi học trước hết bắt nguồn từ đây .
+Về triết gia cổ Hy Lạp , Démecrite chẳng đã từng nói : " Chỉ cần tìm được sự giải thích cho một nguyên nhân , thì còn sướng hơn là làm vua Ba Tư " .
+Aristote thì cho rằng : " Cầu mong hiểu biết là bản tính của con người ... cho dù không dùng vào thực tế " ( Siêu hình học ) .
+Và ai nấy đều biết ông là học trò của Platon , đã theo thầy sống trong trường học do thầy sáng lập trên 20 năm , nhưng khi phát hiện ra chỗ sai trái thì đã tuyên bố rằng tôn trọng thầy , lại càng phải tôn trọng chân lý hơn .
+Chính cái tính chất yêu trí tuệ để truy cầu chân lý này đã đưa đến tinh thần khoa học trong thi học và mỹ học cổ Hy Lạp .
+Aristote đã nói rõ trong cuốn Thi học : Ham hiểu biết không những là việc khoái trá nhất của triết gia , mà nói chung con người bình thường đều vậy , chẳng qua năng lực hiểu biết của họ tương đối yếu hơn mà thôi .
+Chúng ta hãy xem những hình tượng này sở dĩ cảm thấy khoan khoái , bởi vì một mặt xem , mặt khác chúng ta đang mong muốn hiểu biết thêm để đoán định mỗi một sự vật chính là thuộc một sự vật nhất định nào đó ( chương IV ) .
+Còn thuyết " hài hòa " trong mỹ học của Pythagore chính là để quan niệm con số là nguyên tố cơ bản của mọi sự vật , vũ trụ hài hòa chính vì nó là một tổng số , và các bộ phận của nó được phân bổ theo một tỷ lệ nào đó .
+Từ đây ông đã nghiệm ra rằng âm thanh cao thấp , dài ngắn , độ rung nhanh hay chậm là theo một tỷ lệ 3/4 , âm trình tám là theo tỷ lệ 1/2 , âm trình bốn là theo tỷ lệ 3/4 , âm trình năm là theo tỷ lệ 2/3 , ...
+Hài hòa trong âm nhạc , theo Pythagore là sự thống nhất của những âm tố đối lập , hòa âm là chắt lọc từ tạp âm , ...
+Nói chung , các sách thi học cổ Hy Lạp đều toát lên một sự phân tích lô-gic rất chặt chẽ , và phẩm chất này còn lưu lại mãi về sau .
+Trước đây Hyppolite Taine có nhận xét Hy Lạp là một đất nước đất không rộng , người không đông ( ở phương Nam ) , lại sống gần biển , với những dãy núi không cao , giữa những rừng cây và vườn nho .
+Hoàn cảnh sống đó đã đưa lại cho người Hy Lạp sự phát triển trí tuệ tinh tế , sự suy luận trừu tượng nhưng không thần bí , ...
+Trái lại , nếu chúng ta tìm hiểu hoàn cảnh địa lý và tiến trình lịch sử Ấn Độ , sẽ biết được biết bao bất trắc hiểm nguy trong quá trình hình thành quốc gia và dân tộc này .
+Cuộc đời ở đây quả là bể khổ .
+Có lẽ vì thế mà triết học Ấn Độ cũng đầy tinh thần " yêu trí tuệ " , nhưng xem trí tuệ chỉ là một phương tiện để giải thoát .
+Trong sách Upanishad có ví : " Trí tuệ như người đánh xe , còn bản thân là kẻ ra đi " .
+Mở đầu kinh Chính lý cũng có một câu cách ngôn : " Có 16 loại trí thức dẫn đường giải thoát " , ...
+Hiểu biết , trí tuệ có tác dụng to lớn trong việc tìm đường giải thoát cho nên trong thi học cổ Ấn Độ cũng rất đề cao trí tuệ , phân tích tỉ mỉ , lô-gic chặt chẽ .
+Bàn về kịch , Bàn về sức sống của khúc ngữ nói trên là những thí dụ .
+Nhưng mặt khác , trí tuệ chỉ là phương tiện để giải thoát , như thế có thể còn có những phương tiện khác nữa , miễn là giải thoát được , thì cũng được coi trọng .
+Chính vì thế , trong thi học cổ Ấn Độ không phải chỉ có tinh thần khoa học , phân tích khách quan đơn thuần , mà rất chú trọng trực giác , cảm ngộ .
+Những lý thuyết về vị , về vận nói rõ điều này .
+Về triết học Trung Quốc , Hegel có một nhận xét : " ... về thái độ thì thiên lệch , nhưng về nội dung thì rất thông minh " .
+Xuất phát từ truyền thống triết học phương Tây , ông không thừa nhận vị đại thánh nhân Trung Hoa là triết gia , nhưng cuối cùng sau khi đã thấm nhuần dần dần màu sắc triết học Trung Hoa , đã thừa nhận học thuyết Khổng Tử là " một loại triết học đạo đức " ( Những bài giảng về lịch sử triết học ) .
+Nhận xét rằng triết học , tinh thần " yêu trí tuệ " Trung Hoa gắn liền với đạo đức là chính xác , nhưng chưa đầy đủ .
+Cũng giống như triết học Ấn Độ , triết học Trung Hoa không xem " yêu trí tuệ " có mục đích tự thân , mà chỉ là một phương tiện , nhưng không phải để giải thoát , cố nhiên , mà là để " trị quốc an dân " , nói thẳng ra là để làm chính trị , theo nghĩa rộng của từ này .
+Con đường hình thành dân tộc và quốc gia Trung Quốc là phải qua chiến tranh thôn tính liên miên .
+Mạnh Tử đã phải nói : " Xuân Thu vô nghĩa chiến " .
+Thời đó vốn có hàng ngàn tiểu vương quốc thôn tính lẫn nhau còn hơn 100 nước , lại đánh còn 14 nước , lại thôn tính nhau để rồi còn 7 nước .
+Như thế đến khi nhà Tần thống nhất Trung Hoa , chiến tranh thôn tính đã kéo dài gần một thiên niên kỷ .
+Mà chiến tranh , theo Lênin , chẳng qua cũng là sự nối tiếp chính trị bằng một hình thức khác .
+Triết học Trung Hoa ra đời trong thời Chiến Quốc " bách gia tranh minh " , theo ý kiến của một số nhà sử học , chính là thời kỳ chế độ nô lệ tan rã , nhưng chế độ phong kiến mới chưa hình thành .
+Nhiều vấn đề bức bách của thời đại đặt ra như làm thế nào để kết thúc cục diện phân tranh để xây dựng một quốc gia thống nhất .
+Phải thiết lập một chế độ chính trị và pháp luật ra sao để phù hợp với tình hình xã hội mới ?
+Các triết gia xuất hiện không thể không kiêm luôn tư thế của chính trị gia .
+Hay nói cách khác , các chính trị gia phải xuất hiện với tư cách đầy trí tuệ , nghĩa là kiêm luôn tư cách triết gia .
+Và như chúng ta đã biết nhiều , ở đây chỉ kể những học phái chính : thuyết " nhân chính " của Nho gia , thuyết " kiêm ái " của Mặc gia , thuyết " vô vi nhi trị " của Đạo gia , thuyết " pháp trị " của Pháp gia , ...
+Nhưng trí tuệ không đủ để làm chính trị chân chính , mà còn phải có đạo đức nữa .
+Triết học Trung Hoa không những gắn bó với chính trị , mà cả với đạo đức nữa , là vì thế .
+Lô-gic dây chuyền bộc lộ mối liên hệ nội tại giữa ba mặt này đã được nêu rõ trong sách Lễ ký : " Cách vật , trí tri , thành ý , chính tâm , tu thân , tề gia , trị quốc , bình thiên hạ " .
+Tất nhiên , đây mới chỉ là cách nhìn của Nho gia .
+Còn Đạo gia , một hệ thống tư tưởng cũng tồn tại mãi mãi trong lịch sử tư tưởng Trung Hoa thì sao ?
+Đã " xuất thế " thì còn gắn bó với chính trị gì nữa ?
+Sự thực không hoàn toàn như vậy .
+Lão , Trang chẳng " xuất " đi đâu cả !
+Các vị vẫn " nhập thế " theo một cách khác , cái cách đối trọng với lối " nhập thế " vì chức quyền danh lợi của Nho gia mà thôi .
+Thử hỏi chủ trương một thái độ nhân sinh không mang dành lợi không phải là một cách " nhập thế " tích cực hay sao ?
+Nếu không phải thế , thì tại sao tư tưởng Lão-Trang vẫn sống mãi , và tác động mạnh mẽ vào lịch sử văn hóa văn nghệ Trung Hoa còn hơn cả Nho gia ?
+Tất nhiên đây là vấn đề khác , quá bao quát .
+Hãy trở lại chính đề , là Đạo gia gắn bó với chính trị như thế nào ?
+Người ta hay nói đến thuyết " vô vi " là không đầy đủ , mà phải nói đến Lão-Trang chủ trương thuyết " vô vi nhi trị " .
+Tư tưởng của các vị vẫn không xa lìa cái trục " trị quốc an dân " .
+Vô vi chỉ là biện pháp , đúng sai chưa bàn , nhưng Đạo gia chủ trương giải pháp đó để trị quốc .
+Chính Lão Tử đã nói quá rõ điều này trong Đạo đức kinh : Đức thánh nhân trị nước , chú trọng làm cho tư tưởng nhân dân đơn giản hóa , làm cho bụng họ no cơm , ý chí thì mềm yếu , nhưng gân cốt phải cứng cáp .
+Thường xuyên làm cho dân ở vào tình trạng vô tri vô dục , từ đó những kẻ hiểu biết cũng không dám manh động .
+Như thế tuy là vô vi , nhưng không phải là không trị nước được ( Chương III ) .
+Như thế chủ trương vô vi không màng danh lợi , và bản thân mình nêu gương trước , để được cảnh dân yên , nước không loạn .
+Như thế triết học Lão-Trang vẫn gắn bó với đạo đức và chính trị đấy chứ !
+Chính vì thế mà mặc dù Hegel rất khen Lão Tử , nhất là khái niệm Đạo rất gần gũi với " ý niệm tuyệt đối " , rất khoái với lập luận " hữu sinh ư vô " có màu sắc biện chứng , và khẳng định Đạo gia " đã lấy tư biện làm đặc tính " ( Những bài giảng về lịch sử triết học ) , nhưng Lão-Trang không thể tiếp tục con đường thuần triết lý như triết học cổ Hy Lạp .
+Tất nhiên trong tư tưởng Lão-Trang cũng có khía cạnh gần giống như triết học Ấn Độ , cho rằng có thân có khổ .
+Lão Tử nói : " Ta sở dĩ đau khổ nhiều , là vì có tấm thân mình " ( Đạo đức kinh , chương XIII ) .
+Trang Tử thì nói : Nhân sinh tồn tại giữa đất trời chẳng qua như ánh nắng lọt qua khe hở , bỗng chốc mà thôi ...
+Đã biến hóa mà sinh ra , thì rồi cũng biến hóa mà mất đi , sinh vật cũng buồn thay , loài người cũng thống khổ vậy ( Tri bắc du ) .
+Nhưng Lão-Trang không đi theo con đường giải thoát như các hiền triết Ấn Độ cổ mà chủ trương " tri túc vô vi , lạc thiên an mệnh " , " không họa nào lớn hơn cái không biết là đã đầy đủ rồi , không tội ác nào lớn hơn sự ham muốn .
+Cho nên sự đầy đủ của việc tự biết đã đầy đủ sẽ luôn được đầy đủ ( Đạo đức kinh , chương XXXXVI ) .
+Cái tinh thần " tri kỳ bất khả vi nhi an chi nhược mệnh " này rất giống chủ trương của Mạnh Tử : " Cùng tắc độc thiện kỳ thân " ( Tận tâm thượng ) .
+Cho nên " Nho Đạo hỗ bổ " ( bổ sung cho nhau ) là như vậy .
+Nhập thế đâu phải tất yếu luôn luôn thành đạt , mà có thành đạt , chắc gì bền vững .
+Cho nên cùng là phổ biến chứ .
+Xem ra riêng về mặt này , Lão-Trang quá thông minh , thuộc làu làu nhân tình thế thái rồi , chủ trương cứ " độc thiện kỳ thân " bằng cách " tri túc , vô vi " sẵn trước rồi .
+Tuy nhiên , cùng với đạt , mặc dù rất khác nhau , nhưng là cùng một gốc .
+Nói cùng là phải đối sánh với đạt , mới biết là cùng , chứ đâu có phải quay lưng hoàn toàn không hề nghĩ đến .
+Từ đây , có thể nói trên một mức độ khá lớn , thi học Trung Hoa là ba động giữa hai cực cùng và đạt này .
+Lúc đạt , hoặc muốn đạt , thì nào là thi giáo , minh đạo ( hoặc các kiểu quan hệ khác giữa văn với đạo như tải đạo , quán đạo , hoằng đạo ) .
+Lúc cùng , thì phát phẩn trước thư , bất bình tắc minh , cùng nhi hậu công , hoặc xa hơn chỉ duyên tình .
+Nhưng cho dù nói chuyện tình riêng , cũng không quên giấc mơ hoạn lộ thành đạt kia .
+Không phải ngẫu nhiên mà chuyện tình yêu nam nữ Trung Hoa , hễ hạnh phúc thì ắt có chuyện " kim bảng đề danh " , mà trắc trở thì ít nhiều cũng xen vào câu chuyện " hoài tài bất ngộ " , ...
+Đến như những hình ảnh cỏ thơm người đẹp mà cũng ẩn dụ cái quan hệ vua tôi , ...
+Còn như quan niệm " hư tĩnh " không hám danh lợi trong sáng tác và thưởng thức nghệ thuật của Lão-Trang thì đúng là siêu , nhưng không thoát .
+Bởi vì theo lô-gic của Mặc Tử " có trước không sau " - thí dụ nói không có ngựa , thì ắt phải có ngựa trước rồi .
+Nói không hám , tức là phải nghĩ đến rồi , mới không hám .
+Câu chuyện phó mộc Khánh khi làm cái giá kỳ diệu kia , lòng rất chay tịnh , hư tâm , thanh thản , nhưng trong lập luận chính là chỉ không nghĩ đến chuyện tước lộc , công thự và triều đình .
+Tất nhiên , tư tưởng Lão-Trang có những yếu tố huyền ảo , cho nên đã trở thành một trong những ngọn nguồn nền tảng cho Đạo giáo và sau đó kết hợp với Phật giáo , hình thành những tư tưởng thi học khác , mà chúng tôi sẽ nhắc đến khi tiếp cận vấn đề từ tôn giáo ở sau .
+2 .
+Đối sánh từ hạt nhân đạo đức
+Nếu triết học khám phá những bản chất và quy luật chung của thế giới khách quan , thì đạo đức học là nhằm điều tiết những ham muốn của con người , nhằm góp phần giải quyết mối quan hệ giữa con người với nhau .
+Nhưng về mặt này quan niệm thời cổ ở phương Tây , Trung Quốc và Ấn Độ mang những sắc thái khác nhau .
+Nhìn chung nhất , không kể đến những sắc thái diễn tiến phức tạp , quan niệm của Trung Quốc cho rằng trên cơ sở đảm bảo nhu cầu tối thiểu , con người nên hạn chế ham muốn ( tiết dục ) .
+Quan niệm của các hiền triết cổ Hy La có phần rộng rãi hơn , cởi mở hơn , thể hiện ở chỗ không quá nhấn mạnh tiết dục , nhưng cũng phản đối khuynh hướng thỏa dục .
+Chỉ có Ấn Độ là đặc biệt , vừa cấm dục lại vừa cho thỏa dục , và đều thống nhất trên mục đích giải thoát .
+Những đặc điểm này ít nhiều in dấu ấn vào mỹ học và thi học .
+Như trên đã nói , triết học cổ Trung Hoa , tuy cũng khác nhau ở các học phái , nhưng đều mang màu sắc chính trị nhằm mục đích trị quốc an dân .
+Về mặt đạo đức cũng vậy , tuy ở những mức độ khác nhau , nhưng các bậc hiền triết đều chủ trương tiết dục , hạn chế bớt lòng ham muốn của con người , tránh được sự mâu thuẫn xung đột nhau , có như thế quốc gia xã hội mới yên bình được .
+Lão Tử thì chủ trương " thiển tư quả dục " ( Đạo đức kinh , chương XIX ) .
+Mặc gia thì đề xướng " tiết dục " ( Mặc Tử , Pháp gia thì nói : " Xa xỉ tắc thất quốc " ( Thập quá ) , ...
+Chúng ta còn bắt gặp các khái niệm khác như " chế dục " , " vong dục " , thậm chí " vô dục " .
+Nhưng đúng mức và tiêu biểu hơn cả là Nho gia .
+Khổng Tử rất nhân bản , ông không hề phủ nhận lòng ham muốn của con người , miễn là đừng làm hại , mà thậm chí còn biết đồng thời làm lợi cho người khác , rất tương đồng với chủ nghĩa vị kỷ hợp lý cận đại phương Tây ( égoùsme rationnel ) : " Kỷ dục lập , nhi lập nhân ; kỷ dục đạt , nhi đạt nhân " ( Luận ngữ : " Ung dã " ) ; " Kỷ sở bất dục , vật thi ư nhân " ( Luận ngữ : " Nhan Uyên " ) .
+Khổng Tử biết rõ lòng ham muốn của con người , thí dụ : " Ngô vị kiến hiếu đức như hiếu sắc dã " ( Luận ngữ : " Tử Hãn " ) .
+Buông lỏng cho mọi người tha hồ hiếu sắc , ắt loạn to , nhưng nếu cấm tiệt , vị tất đã không loạn , cho nên Khổng Tử đề xướng " hiếu đức " , hạn chế việc " hiếu sắc " vô đạo đức đến mức làm hại người .
+Cũng không thể nghiêm cấm chuyện ham vui thú chỉ hạn chế nó ở mức " lạc nhi bất dâm " ( Luận ngữ : " Bát dật " ) .
+Tổng quát hơn , Khổng Tử nói : " Tòng tâm sở dục , bất duật củ " ( Luận ngữ : " Vị chính " ) .
+Có nghĩa là theo lòng ham muốn của mình nhưng không vượt quá quy củ .
+Cái quy củ ấy chính là lễ nhạc do Nho gia chế định ra .
+Nhưng ở đây có hai phương diện , trước hết là " lễ " , chỉ là những quy phạm bên ngoài , tức là cái hệ thống luân lý quân thần phụ tử , ... và Khổng Tử chủ trương " Khắc kỷ phục lễ " ( Luận ngữ : " Nhan Uyên " ) .
+Nhưng mới chỉ có ràng buộc bên ngoài chưa đủ , còn phải có ràng buộc bên trong nội tâm nữa , và " nhạc " sẽ đảm nhiệm chức năng này .
+Trong sách Lễ ký có bàn rõ chức năng của nhạc trong sự đối sánh với chức năng của " lễ " .
+Như vậy , Lễ nghĩa lập , tắc quý tiện đẳng hỹ , nhạc văn đồng , tắc thượng hạ hòa hỹ ...
+Nhạc chí tắc vô oán , lễ chí tắc bất tranh ( Nhạc ký ) .
+Có nghĩa là lập được lễ nghĩa , thì sang hèn bình đẳng , nhạc văn như nhau , thì trên dưới sẽ hòa thuận ...
+Nhạc đến thì không còn oán thán , lễ đến thì không tranh chấp nhau .
+Như thế âm nhạc nói riêng , cái đẹp và văn nghệ nói chung , mang chức năng đạo đức , tu thân , dưỡng tính , mà hạt nhân của nó là " tiết dục " .
+Các học phái khác , do chỗ có nhấn mạnh " tiết dục " hơn , cho nên có khi phủ nhận luôn cả văn nghệ , nhưng kỳ thực không phải vậy .
+Rõ nhất là Mặc Tử đã viết hẳn một thiên Phi nhạc , nhưng ở đây chủ yếu nói nhạc trong nghi lễ , chứ không phải âm nhạc nói chung , và thi họa thì Mặc Tử vẫn thừa nhận .
+Lão Tử dường như không bàn gì đến nghệ thuật , nhưng có nhấn mạnh " Vô tượng chi tượng " ...
+" Vô thanh thắng hữu thanh " , " Vô ngôn chi mỹ " , tương đương với ba loại hình nghệ thuật cơ bản thi , nhạc , họa .
+Pháp gia thì triệt để phủ nhận văn hóa văn nghệ , tuy vậy , thí dụ Hàn Phi rất hiểu vì sao hội họa dễ vẽ ma quỷ , mà khó vẽ chó ngựa , và bênh vực rất thuyết phục cho văn phong kém phần trau chuốt của Mặc Tử , ...
+Xem ra họ chỉ phản đối loại văn nghệ , văn chương hoa lệ , phô trương mà thôi , mà điều này thì rất thống nhất với Nho gia .
+Khổng Tử vốn chủ trương : Văn chất bân bân ...
+Từ đạt nhi dĩ " ( Luận ngữ : " Ung dã " ) ( Văn phải thích hợp với chất ...
+Từ dùng đạt ý mà thôi ) .
+Trang Tử thì nói : " Tô phác nhi thiên hạ mạc năng dữ chi tranh mỹ " ( Chất phác thì thiên hạn không thể tranh đẹp với mình ) ( Thiên đạo ) .
+Mặc Tử cũng chủ trương " tiên chất hậu văn " .
+Rất tán thành quan điểm này cho nên Hàn Phi mới mượn tích " mãi độc hoàn châu " để bênh vực văn của Mặc Tử : " Người nước Sở bán châu ngọc cho người nước Trịnh , đựng trong hộp gỗ mộc lan thơm như quế , lại ướp hương quế tiêu , khảm những hạt cườm lóng lánh , trang sức bằng ngọc trai , cắm lông chim phỉ thúy .
+Người nước Trịnh lại mua cái hộp , mà trả lại ngọc ( Từ thuyết ) , ...
+Có thể thấy quan niệm đạo đức " tiết dục " đã tác động đến mỹ học và thi học , làm nổi bật lên cái tính chất bình đạm , chất phác , tự nhiên , giản dị , mà không phải không cao đẹp .
+Cái lý tưởng thẩm mỹ này của các hiền triết Trung Hoa vẫn thấm mãi về sau .
+Chung Vinh chủ trương " phù dung xuất thủy " .
+Tư Không Đồ đời Đường thì khẳng định : " Nống thậm tất khô , đạm giả lũ thâm " , ...
+Và đến Viên Mai , thì cái tư tưởng thi học này đã được nâng lên tầm cao biện chứng : " Thơ thích nhạt , chứ không thích nồng , nhưng là sự nhạt sau khi đã nồng " ; " Thơ thích chất phác , chứ không thích khéo léo , nhưng là cái chất phác của sự khéo léo lớn " ( Tùy viên thi thoại ) , ...
+Tất nhiên đây là nói chủ lưu mang tính thống nhất , còn cái khác biệt , thậm chí đối lập hiển nhiên bao giờ cũng tồn tại , có khi còn đậm đặc ở một số tác phẩm , một nhóm nhà văn , thậm chí chiếm lĩnh cả một giai đoạn .
+Đạo đức học cổ Hy Lạp cũng nói đến " tiết dục " , cũng hạn chế lòng ham muốn của con người , nhưng theo một tinh thần khác .
+Khái niệm trung tâm của đạo đức học cổ Hy Lạp là " Mỹ đức " , mà như Pythagore đã định nghĩa là " một sự hài hòa , giống như sự cường tráng , hoàn thiện và thần thánh " .
+Đã hài hòa thì tất nhiên phải chống lại sự thái quá , do đó phải tiết dục .
+Nếu cứ thỏa dục , thì sẽ suy nhược , nhân cách méo mó , người không ra người , đối sánh sao được với thần thánh ?
+Tất nhiên người cổ Hy Lạp cũng chủ trương tiết dục , không nên quá ham hố sẽ có hại cho tha nhân và xã hội , nhưng đồng thời , trái lại , đó còn là cách biết hưởng thụ đến mức tối đa .
+Démecrite nói : Tham lam vô độ , cuối cùng sẽ làm những việc mà pháp luật cấm đoán , không thể cứu vãn được ...
+Nhưng con người còn biết thông qua sự tiết chế hưởng lạc và sự yên bình thanh cao trong cuộc sống , mới thực sự khoan khoái ...
+Tất cả những chìm ngập trong niềm vui của dạ dày , ẩm thực , tình ái vô độ , thực ra thời gian khoái lạc rất ngắn ...
+Một con người không hề buồn vì những cái mình không có , nhưng lại biết hưởng thụ tất cả những cái mình có được , là sáng suốt ...
+Suốt đời không yến ẩm , cũng giống như trên con đường dài mà không có lấy một quán xá gì ...
+Trong những lúc thích hợp biết vung tiền như nước , cũng là một việc tốt ( Triết học cổ Hy La , Thương vụ ấn thư quán , Bắc Kinh , 1961 , tr. 115 - 118 ) .
+Có thể thấy " mỹ đức " của người cổ Hy Lạp bao gồm khía cạnh tránh ích kỷ hại nhân có tính toàn nhân loại , nhưng cũng có những đặc sắc riêng vì chủ trương con người cũng phải biết cách hưởng thụ .
+Điều này có tương tác với thi học .
+Hãy xem những ý kiến của Démocrite nói trên là một thí dụ .
+Trước hết phải nhắc đến thủy tổ Platon , người thể hiện rạch ròi hai khía cạnh trong mỹ đức cổ Hy Lạp .
+Một mặt , ông nhấn mạnh việc tiết chế tình dục , xem đó như là một trong những luận cứ để tống cổ nhà thơ ra khỏi " vương quốc " của mình , đến nỗi về sau chủ nghĩa cấm dục của Cơ đốc giáo đã khai thác khía cạnh này , hình thành nên chủ nghĩa cấm dục ( Ascétisme ) .
+Nhưng mặt khác , trong tư tưởng của Platon không phải là không có những biểu hiện của chủ nghĩa hoan lạc ( Hédonisme ) , nhất là đối với chuyện yêu đương .
+Ông nói : " Trên thế gian không có khoái cảm nào mãnh liệt hơn tình yêu , những khoái cảm khác không thể sánh với tình yêu " .
+Không những thế , ông còn gắn liền vấn đề tính dục với cái đẹp : " Phàm những ai có sức mạnh sinh thực , một khi gặp phải đối tượng đẹp , liền cảm thấy hân hoan phấn khởi , tinh thần phấn chấn hẳn lên , liền muốn dựa vào đó làm đối tượng sinh thực " ( Hội ẩm ) .
+Hai khía cạnh tiết dục và hoan lạc này được học trò của ông là Aristote gia giảm tổng hợp vào trong sự hài hòa của mỹ đức : Những người tham lam muốn tận hưởng mọi thứ hoan lạc , không hề biết dừng chân trước bất cứ một cuộc truy hoan nào , thì sẽ thành thỏa dục vô độ .
+Nhưng nếu ngược lại , như những người thôn quê xa lánh mọi sự hoan lạc , sẽ biến thành khờ khạo tê liệt .
+Cho nên , việc hạn chế và dũng cảm đều bị phá vỡ vì thái quá hoặc bất cập , nhưng sẽ được gìn giữ vì sự trung hòa ...
+Và phương diện mỹ đức cũng sẽ như vậy ...
+Cuộc sống hạnh phúc là cuộc sống vừa không bị ràng buộc vừa phù hợp với mỹ đức ( Luân lý học ) .
+Các nhà thi học đã mang khía cạnh hoan lạc này vào nghệ thuật .
+Cũng như ý kiến " Niềm khoái lạc lớn nhất là từ sự chiêm ngưỡng những tác phẩm đẹp " của Démecrite , Aristote đã khẳng định rằng : " Sự hưởng thụ về phương diện tinh thần mà mọi người công nhận là không những bao hàm nhân tố của cái đẹp , mà còn có nhân tố khoan khoái ...
+Con người tụ tập vui nhộn , cứ muốn nghe âm nhạc , điều đó rất hợp đạo lý , vì nó quả đã làm cho lòng người sảng khoái như thánh thần ( Chính trị học ) .
+Cái yếu tố hoan lạc trong mỹ đức làm cơ sở cho những khoái cảm thẩm mỹ này đã thể hiện trong thi học cổ Hy Lạp mà chúng ta ít nhiều đều quen thuộc về nội dung cũng như những phạm trù cơ bản .
+Không phải ngẫu nhiên mà thi học cổ Hy Lạp thường nhấn mạnh sự tuôn trào tình cảm của chủ thể , và ra sức bàn luận về cái đẹp , đẹp về hình thức , đẹp về kết cấu , cái đẹp xúc động lòng người , kinh động nhân tâm , đau thương khủng khiếp của bi kịch .
+Rồi kantharsis , mà chúng ta thường dịch là thanh lọc , nhưng không phải chỉ là tác dụng tu thân , dưỡng tính , mà òcn làm cho tâm hồn thông suốt khoan khoái , chứ không phải chỉ được nâng cao và mở rộng , mà cho dù có như vậy , cũng phải đạt đến độ khoan khoái , hàm chứa một sự hưởng thụ thẩm mỹ .
+Điều này tương tác qua lại với nền văn học cổ Hy Lạp không phải bình đạm , thanh cao như văn học Trung Quốc , mà là huy hoàng tráng lệ , nồng thắm cuốn hút lòng người .
+Nghĩa là từ một nền mỹ đức nhân bản , góp phần đưa lại chất nhân văn trong thi học và văn học .
+Sau đêm trường trung cổ , đến giữa thiên niên kỷ này , đến thời văn nghệ phục hưng chính là khôi phục chất nhân văn đó .
+Đạo đức học Ấn Độ cũng mang tính nhân loại chung là chủ trương tiết dục .
+Nhưng đạo đức học Ấn Độ nằm lẫn trong tôn giáo chủ trương siêu thoát , cho nên khía cạnh tiết dục , không thiết gì đến cõi trần ai vốn là bể khổ , muốn siêu thoát về tinh thần , cũng thể hiện rõ trong thi học , vốn là lý thuyết về một khía cạnh của đời sống tinh thần .
+Nhưng khía cạnh này sẽ được kết hợp làm sáng tỏ luôn khi tiếp cận vấn đề từ tôn giáo ở sau .
+Nhưng có một điều lạ , rất lạ trong thi học cổ Ấn Độ là màu sắc thỏa dục , nhất là sắc dục khá đậm đặc , vượt quá xa chủ nghĩa hoan lạc trên cơ sở mỹ đức của thời cổ Hy Lạp .
+Trong Bàn về kịch của Brahdamuni nói về 8 vị , không phải ngẫu nhiên đã nêu vị diễm tình lên đầu tiên .
+Cơ sở của diễm tình là ân ái tương tư giữa trai gái , " nó lấy trai gái làm nguyên nhân , lấy thời thanh xuân tốt đẹp nhất làm gốc ! ... lấy trang phục sặc sỡ làm linh hồn " .
+Niềm khoái lạc của ái ân nam nữ , " nảy sinh từ người tình , đối tượng hưởng lạc trang điểm đầy hương hoa phấn sáp , nghe thấy nhau là nô đùa vui nhộn , hoặc hành lạc nơi vườn hoa hoặc trong những căn nhà lộng lẫy " .
+Khi biểu diễn trên sân khấu phải " mắt lúng liếng , mi chớp lịa , tư thế ẻo lả , chợt nhã , ngôn ngữ ngọt ngào " .
+Tác giả còn nhắc đến mười loại tương tư khác nhau trong Kỷ nữ kinh , ...
+Những ý tứ ngôn từ như vậy còn bắt gặp khá nhiều trong công trình khác ở các thời đại sau .
+Thí dụ , trong công trình Vận quang của Anandafatana , có thể đọc được những câu như sau : " Tình lang được ôm ấp trăm lần , hôn hít ngàn lần , dừng nghỉ thoáng chốc , rồi hành lạc trở lại , cũng không cảm thấy trùng lặp chút nào " , " những cô gái lẳng lơ , dù người tình chòng ghẹo sờ soạng thế nào , trái tim cũng ngây ngất , dù có lúc hờn dỗi hoặc im lặng , có lúc nước mắt dàn dụa hoặc miệng cười hớn hở ... " ; " Tình lang lấy một nhành non gõ nhẹ lên đôi vú của cô vợ bé nhất , đó là những cú đòn nặng nề nhất không thể nào chịu nổi đánh vào con tim của các bà vợ khác " .
+Tất cả những điều này không có gì lạ , nếu chúng ta được xem những bức tượng toàn thân về cảnh giao hợp dây chuyền , hoặc những bức tranh giao hợp ( nghĩa là của cả những cơ quan xúc giác khác của một nam tính cùng lúc với nhiều nữ tính ) , ...
+Nhưng như thế , thì quả là càng thật lạ lùng trong một đất nước nổi tiếng về diệt dục !
+Song chính then chốt của vấn đề lại là ở chỗ này .
+Ở Trung Quốc , Nhan Hồi chỉ tiết dục với một giỏ cơm , một lọ nước trong hẻm tối , thế mà Nho giáo đã nêu gương .
+Còn chủ nghĩa khổ hạnh diệt dục Ấn Độ khởi nguồn từ đạo Bà la môn với vô số cấm kỵ , tín đồ của họ phải nằm gai , mặc rơm cỏ , ăn phân nai , ...
+Đã thái quá cực kỳ , thì sớm muộn cũng sẽ bị đối trọng bằng một cực đoan khác .
+Đạo Phật ra đời đã có những biểu hiện đề kháng lại đạo Bà la môn .
+Nhưng đồng thời với đạo Phật , còn có nhiều môn phái chống đối Bà la môn quyết liệt hơn , và bị gọi là ngoại đạo hay tà thuyết .
+Thí dục phái Thuận thế , còn gọi là phái Trần gian ( Kokayata ) kịch liệt phản đối đạo đức khổ hạnh , đề xướng chủ nghĩa khoái lạc , cho rằng trong đời có sướng có khổ , không thể vì sự khổ , lại tự làm khổ thêm bằng cách vứt đi những điều sung sướng một cách vô lý , chẳng khác nào vì hạt lúa có vỏ , lại vứt luôn nhân gạo ở bên trong .
+Đặc biệt , với việc răn giới trinh tiết là hồ đồ , sống trên đời là phải tận hưởng lạc thú , và đó cũng là một cách giải thoát khỏi bể khổ .
+Phái Cuộc sống còn nêu ra 8 điều " tận cùng " : tận cùng ca , tận cùng uống , tận cùng nhảy múa , tận cùng dâm loạn , tận cùng hung bạo , ...
+Chả trách trong thời kỳ này còn ra đời Dục kinh , ca ngợi và chỉ dẫn cho con người không biết bao nhiêu ham muốn .
+Tất nhiên những ham hố thỏa dục này , không thể nào thực hiện được hoàn toàn trong thực tế , phần lớn biến thành những ẩn ức , để rồi thăng hoa trong lĩnh vực sáng tạo tinh thần , trong nghệ thuật , trên bình diện lý thuyết .
+Sự đối lập giữa cấm dục và thỏa dục trong thực tế lại gặp gỡ nhau trong sự siêu thoát trên tinh thần , mặc dù mùi vị nhấm nháp , an ủi , giải tỏa vẫn khác nhau .
+Thi học cổ Ấn Độ mang tính song trùng , lưỡng hóa về mặt đạo đức ngát hương vô dục mà lại nồng mùi sắc dục là vì thế .
+3 .
+Đối sánh từ đặc điểm tôn giáo
+Phải chăng có thể nói ở Hy Lạp cổ đại , triết học bao trùm lên đạo đức và tôn giáo .
+Ở Trung Quốc cổ đại , thì đạo đức lại bao trùm lên triết học và tôn giáo , trái lại ở cổ Ấn Độ , thì chính tôn giáo lại bao trùm lên triết học và đạo đức .
+Đều có ba góc như nhau cả , nhưng góc nào là đỉnh thì dường như sự khác nhau là như vậy .
+Dù sao sự phân biệt tôn giáo với triết học và đức học chỉ là câu chuyện tương đối , nhất là trong hệ tư tưởng cổ Ấn Độ .
+Cho nên không lấy gì làm lạ là các phần trên đã không thể tránh khỏi viện dẫn đến tôn giáo rồi , đến đây chúng tôi chỉ bổ sung thêm một số điểm cần thiết tùy theo phạm vi hiểu biết của mình .
+Đạo đức , nhất là triết học , tác động mạnh mẽ đến nghệ thuật , nhưng tôn giáo lại gắn bó với nghệ thuật theo một ý nghĩa khác .
+Triết học dù sâu sắc bao nhiêu , đạo đức dù có cao cả đến đâu , cũng là nhằm giải thích thế giới hoặc hướng đạo cuộc sống thực tế .
+Còn tôn giáo bao giờ cũng hướng về một thế giới khác , cho nên nó dễ bắt gặp tính chất lý tưởng vươn lên trên thực tế của nghệ thuật .
+Feurbach có nhận xét sâu sắc rằng : " Tôn giáo là thơ , người ta có thể nói như vậy , bởi vì lòng tin = sản phẩm của tưởng tượng " ( Bài giảng về bản chất tôn giáo ) .
+Quả vậy , không phải ngẫu nhiên mà không chỉ có Kinh thánh , mà cả Kinh Coran , Kinh Veda đều là những kiệt tác văn học .
+Tôn giáo tác động mạnh đến văn học , và từ đó đến thi học , là vì cả hai , trên một ý nghĩa nào đó , đều là siêu thực .
+Nhưng không ở đâu , mối tác động đó mạnh mẽ như ở Ấn Độ , bởi vì tôn giáo nơi đây không những bao trùm lên triết học và đạo đức , mà cả trên chính trị nữa .
+Từ lâu Hegel đã có nhận xét : Văn hóa Ấn Độ rất phát triển và đồ sộ , nhưng triết học của họ lại hợp nhất với tôn giáo , cho nên những đối tượng mà chúng ta phát hiện trong triết học ...
+Hầu như mọi vật ( thần linh , quốc vương , tiếng tăm , Brahma , thậm chí động vật ) đều được giả định là hóa thân của Phạn ( Những bài giảng về lịch sử triết học ) .
+Triết gia Anh hiện đại Sir Charles Eliot lại nói : Bà la môn mặc dù không có kỷ luật giáo hội , nhưng họ không thể thừa nhận sự can thiệp của vua ...
+Cho nên quốc vương Ấn Độ chưa hề được có địa vị như hoàng đế Trung Hoa và Nhật Bản , hoặc thậm chí cũng không mang tính đại biểu cho dân tộc như ở Thổ Nhĩ Kỳ và Sudan ( Lược sử Ấn Độ giáo và Phật giáo ) .
+Quả vậy , tôn giáo là quyền uy tuyệt đối có mặt khắp nơi .
+Giai cấp quý tộc tăng lữ mới có quyền tối thượng .
+Văn hóa Ấn Độ cổ hầu như lấy tôn giáo tín ngưỡng làm cơ sở và tiền đề .
+Bất kỳ tác phẩm văn học cổ điển Ấn Độ nào cũng hiện diện Phạn thiên và thần linh .
+Manmotra đã mở đầu công trình thi học của mình như sau : Khi bắt đầu sáng tác , để tránh những trở ngại , tác giả phải mặc niệm chúng thần bảo hộ hữu quan : Nguyện cho ngôn ngữ của nhà thơ thắng lợi !
+Sức sáng tạo của nàng thơ sẽ không bị hạn chế bởi quy luật của sức mạnh chúa tể , không dựa vào điều gì khác , chỉ cấu thành bởi niềm hoan lạc , hàm chứa đủ chín loại mỹ vị ...
+Các hình thái của lực lượng chúa tể chỉ hạn chế lấy sướng , khổ , ngây dại làm bản tính ... và chỉ có sáu loại vị , mà những vị này cũng không đang giá ( Thi quang ) .
+Những cách diễn đạt như vậy nhan nhản trong các công trình thi học cổ Ấn Độ , chứng tỏ màu sắc tôn giáo thấm ở chiều sâu trong những phạm trù cơ bản của nó như vị , vận , ...
+Những khái niệm này ở Trung Quốc cũng có mượn dùng , nhưng chẳng qua là " lấy thiền ví với thơ " để hình dung sự ít lời nhiều ý , ý ở ngoài lời .
+Nhưng vị , vận của Ấn Độ lại gợi lên cái ý hướng giải thoát , hướng về niềm hoan lạc của Đại Phạn .
+Trái lại , màu sắc tôn giáo trong thi học cổ Trung Hoa không đậm đặc như Ấn Độ .
+Điều đó trước hết , bởi vì hệ tư tưởng Trung Hoa lấy Nho giáo làm chủ đạo , và đó là ý thức hệ quân quyền đúng như Hegel nhận xét : Hoàng đế ở địa vị cao nhất , là chúa tể cả thiên nhiên , phàm tất cả những cái gì liên quan đến sức mạnh của thiên nhiên đều xuất phát từ Ngài .
+Tương hợp với loại tôn giáo này là những giáo huấn đạo đức được phát huy từ Khổng Tử ( Những bài giảng về lịch sử triết học ) .
+Nhưng bản thân Khổng Tử " không nói đến những quái lực loạn thần " ( Luận ngữ : " Thuật nhi " ) .
+Mà bàn thân Lão Tử về cơ bản cũng không bàn đến quỷ thần .
+Tất nhiên , Nho giáo về sau có xu hướng tôn giáo hóa .
+Và từ tư tưởng của Đạo gia đã hình thành đạo giáo , và đây là tôn giáo bản địa của Trung Quốc .
+Và tinh thần của Đạo giáo bộc lộ rõ nhất trong công trình thi học Nhị thập tứ thi phẩm đời Đường của Tư Không Đồ qua các phạm trù Hư , Huyền , Tố , Đạm , ...
+Phật giáo truyền bá vào Trung Quốc và cũng có tác động đến thi học ...
+Tiêu biểu là công trình của nhà sư Thích Hiệu Nhiên đời Đường với những phạm trù như " Lục mê " , " Thất đức " , ...
+Đặc biệt , khi Phật giáo dung hợp với truyền thống văn hóa Trung Quốc , nảy sinh ra phái Thiền tông , thì cũng để lại dấu ấn trong thi học qua các phạm trù như Diệu ngộ , Thân vận , ...
+Có thể thấy mặc dù không bị chi phối nặng nề của tôn giáo , nhưng có lẽ chính vì thế mà thi học cổ Trung Hoa lại hút nhụy được nhiều nguồn tôn giáo khác nhau .
+Có thể vì do sự điều tiết dung nạp chung của quân quyền lại kết hợp với vai trò của Nho giáo , hệ tư tưởng phong kiến chính thống chủ trương đạo " trung dung " , tạo nên sự hòa hợp chung , ngoại trừ những sự xung đột nhất thời .
+Hoàn toàn khác với tinh thần tàn bạo đối với dị giáo trong Kinh thánh , sách Trung dung của Nho giáo có viết : " Cũng như bốn mùa xen tiếp , nhật nguyệt thay nhau sáng tối , vạn vật sinh trưởng mà không hại nhau , thì đạo vận hành cũng không chống nhau " .
+Chính vì thế , mà tự gốc gác xa xưa " Nho Đạo hỗ bổ " như thế nào chúng ta đã biết .
+Diễn biến về sau Nho học phần nào có xu hướng tôn giáo hóa , Đạo gia thì tôn giáo hóa thành Đạo giáo , Phật giáo lại truyền vào , nhưng liền xuất hiện thuyết " tam giáo đồng nguyên " .
+Sự hòa hợp tương đối này đã đem lại sự phát triển cân đối hoàn thiện của thi học cổ Trung Hoa .
+Nếu Nho gia thường quan tâm đến nội dung chính trị đạo đức xã hội , thì Phật Lão lại bàn thiên về phẩm chất thẩm mỹ kỳ diệu của thơ văn .
+Mặt khác , tôn giáo ở Trung Quốc hoặc đến Trung Quốc , tuy cũng chủ trương xuất thế , nhưng không hoàn toàn đối lập với nhập thế .
+Với tư cách là tôn giáo bản địa , Đạo giáo có mục tiêu trần thế : giàu sang , phú quý , đông con , trường thọ .
+Nó có tạo ra thế giới thần tiên , nhưng không phải là sau khi chết đi , mà là nối tiếp trần thế bằng sự trường sinh bất lão .
+Còn phái Thiền tông thì cho rằng " Phật tại tâm " , ...
+Điều này cũng có tác động đến thi học cổ Trung Hoa .
+Dòng thi học Phật Lão , như trên đã nói , là thường bàn thiên về phẩm chất thẩm mỹ kỳ diệu của thơ văn , nhưng tinh thần tôn giáo ở đây chỉ là mũi tiếp cận , chứ không phải là cứu cánh " giải thoát " như trong thi học cổ Ấn Độ .
+Nghiêm Vũ đời Tống , nhà thi học chịu ảnh hưởng nhiều của Thiền tông , có nói rõ : Lấy thiền để so sánh với thơ ... bản ý là muốn nói về thơ cho thấu triệt ...
+Đại thiền ở chỗ diệu ngộ , đạo thơ cũng ở chỗ diệu ngộ ...
+Chỗ kỳ diệu của nó thấu triệt lung linh như thanh âm giữa trời , như sắc đẹp trong dung nhan , ánh trăng dưới đáy nước , như hình ảnh trong gương , lời có hạn mà ý vô cùng ( Thương lương thi thoại ) .
+Kỳ diệu thật , nhưng vẫn là trong trần thế , chứ không " giải thoát " sang thế giới khác .
+Tôn giáo thời cổ Hy Lạp rất mạnh mẽ .
+Những hình ảnh như thần Dớt đã có từ thời thượng cổ , và đến giai đoạn sử thi Homère thì những truyền thuyết tôn giáo đã hình thành một hệ thống thần thoại hoàn chỉnh .
+Ý thức tôn giáo của người Hy Lạp , do đó , có lẽ nồng đậm hơn người Trung Quốc cổ đại .
+Nhưng như chúng ta đã biết , ý thức tôn giáo này lại được đối trọng lại bằng tinh thần lý tính khoa học " yêu trí tuệ " của người Hy Lạp .
+Mâu thuẫn đó dường như được phản ánh vào thi học , mà tiêu biểu nhất là Platon .
+Mặc dù trước học viện do mình sáng lập có ghi rõ : " Ai không hiểu hình học thì không được vào " , nhưng mặt khác lại nói : " Chúng ta phải khuyên người đời , trong mọi việc đều phải tôn kính thần thánh , để tránh khỏi luôn luôn bị trừng phạt " ( Hội ẩm thiên ) .
+Yêu lí tính đến mức đòi tống cổ các nhà thơ giàu tình cảm ra khỏi " lý tưởng quốc " nhưng lại cho rằng trong sáng tác cũng như trong thưởng thức cần phải có linh cảm do thần phù trợ : " Thần đối với nhà thơ cũng như đối với các nhà chiêm tinh hoặc tiên tri , đã gạt bỏ lý trí bình thường , dùng họ làm người phát ngôn " .
+Còn Aristote cũng cho rằng triết gia là người gần gũi với thần thánh nhất .
+Cùng với thuyết " linh cảm mê cuồng " của Platon , quan niệm " thanh lọc " , " đột chuyển " , " kinh dị " cũng như quan niệm về bi kịch số phận với kết cục hủy diệt của Aristote đều có màu sắc tôn giáo .
+Tất nhiên , thi học cổ Hy Lạp vẫn chan chứa tinh thần lý tính khoa học là chủ yếu .
+Nhưng chính sự mâu thuẫn nội tại giữa nó với màu sắc tôn giáo đã ẩn chứa một tiềm năng chuyển hóa phát triển của nền thi học phương Tây ở các giai đoạn sau .
+Tổng quát nhất có thể nói , sang thời cổ La Mã , khi Cơ đốc giáo đã hình thành và truyền bá rộng rãi , thì tinh thần tôn giáo xuyên thấm ở thi học trong suốt đêm trường trung cổ qua những công trình của Plotinus , Saint Aurelius , Saint Thomas Aquinas , ...
+Nhưng từ thời kỳ Phục hưng trở đi , thì tinh thần lý tính khoa học trở lại thắng thế trong thi học .
+Tuy nhiên , phải thấy dường như Cơ đốc giáo phương Tây khác với cả Phật giáo , và kể cả phần nào với Đạo giáo nữa , ở chỗ chỉ là nhất thần giáo , và mọi người đều bình đẳng trước thượng đế , chứng tỏ một trình độ trừu tượng hóa cao hơn và mang tính đân chủ hơn .
+Nói một cách khác , Cơ đốc giáo , trên một ý nghĩa nào đó , vẫn có gốc gác từ tinh thần lý tính và nhân văn thời cổ Hy Lạp , và do đó , vừa mâu thuẫn vừa bổ sung cho khoa học hiện đại .
+Có lẽ vì thế mà , ngay trong thi học thế kỷ XX ở phương Tây cũng vẫn còn dấu ấn của tôn giáo , mà Karl Jaspers chỉ là một thí dụ .
+Hy Lạp , Ấn Độ , Trung Hoa chưa phải là toàn bộ thế giới .
+Và mặc dù có liên hệ với nhiều giai đoạn về sau , nhưng ba nền văn minh cổ đại này chưa phải là toàn bộ lịch sử văn minh .
+Rồi những vấn đề về triết học , đạo đức và tôn giáo ở đây chỉ được sử dụng như những mũi tiếp cận , nhưng dù sao vẫn còn sơ sài , ...
+Vấn đề thi học so sánh tổng thể được trình bày ở trên , do đó chỉ mong được xem là những gợi mở bước đầu .
+Tất cả còn ở phía trước .

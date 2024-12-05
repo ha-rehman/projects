@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<!--What documents are required for BSc undergraduate bachelors clearance-->
+<category>
+    <pattern># documents ^ required ^ BSc undergraduate bachelors clearance ^</pattern>
+    <template>Clearance Form and all deposited Fee receipts if missing on LMS</template>
+</category>
+<category>
+    <pattern>which documents are required for BSc undergraduate bachelors clearance</pattern>
+    <template><srai>
+        What documents are required for BSc undergraduate bachelors clearance
+    </srai></template>
+</category>
+<!--What documents are required for MSc  Postgraduate Masters Ph.D. clearance-->
+<category>
+    <pattern># documents ^ required ^ MSc  Postgraduate Masters PhD clearance ^</pattern>
+    <template>Clearance Form, Thesis Notification which is issued by the Examination branch.</template>
+</category>
+<category>
+    <pattern>Which documents are required for MSc  Postgraduate Masters PhD clearance</pattern>
+    <template><srai>
+        What documents are required for MSc  Postgraduate Masters PhD clearance
+    </srai></template>
+</category>
+<!--Are same documents required for postgraduate and undergraduate clearance-->
+<category>
+    <pattern>Are same documents required for postgraduate and undergraduate clearance</pattern>
+    <template>Clearance Form Same and Thesis Notification only Required for MSc</template>
+</category>
+<!--What documents are required for B.Sc undergraduate bachelors  provisional certificate-->
+<category>
+    <pattern>What documents are required for BSc undergraduate bachelors  provisional certificate</pattern>
+    <template>
+        Application Form (Download form UET Website or Get from Star Photocopy shop), Rs.500/- Challan Generate from Student LMS and same deposited in HBL, Copy of Complete DMC, Original Clearance Slip which is got from Dues Section, One Recent Photograph
+    </template>
+</category>
+<!--What documents are required for M.Sc. Postgraduate Masters Ph.D. provisional certificate-->	
+<category>
+    <pattern>What documents are required for MSc Postgraduate Masters PhD provisional certificate</pattern>
+    <template>
+        <srai>
+            What documents are required for BSc undergraduate bachelors  provisional certificate
+        </srai>
+    </template>
+</category>
+<!--What documents are required for provisional certificate-->
+<category>
+    <pattern>What documents are required for provisional certificate</pattern>
+    <template> <srai>
+            What documents are required for BSc undergraduate bachelors  provisional certificate
+        </srai></template>
+</category>
+<!--What documents are required to appear for entry test-->
+<category>
+    <pattern>What documents are required to appear for entry test</pattern>
+    <template>Take the print of entry test slip and bring it on test day with any original document like( matric first year result card/domicile/ID card) which have your picture on it</template>
+</category>
+<!--Can I appear without documents in entry test-->
+<category>
+    <pattern>Can I appear without documents in entry test</pattern>
+    <template>Print of entry test slip and any original document showing your picture is required to appear for entry test</template>
+</category>
+<!--What documents are required to apply for admission-->
+<category>
+    <pattern># What documents are required to apply for admission ^</pattern>
+    <template>Following documents are required to apply for admission, these are also mentioned at the end of the Prospectus<br/>
+1. CNIC/B Form copy<br/>
+2. Intermediate result card copy<br/>
+3. Domicile copy<br/>
+4. Print of online filled admission form<br/>
+5. Undertaking<br/>
+6. Form attached in prospectus
+</template>
+</category>
+<category>
+    <pattern>What documents are required to apply for admission *</pattern>
+    <template><srai>What documents are required to apply for admission</srai></template>
+</category>
+<!--Some documents are missing, can I apply for admission-->
+<category>
+    <pattern>Some documents are missing, can I apply for admission</pattern>
+    <template>Domicile is compulsory for admission at UET, Lahore</template>
+</category>
+<!--How to get original documents back from student section-->
+<category>
+    <pattern>How to get original documents back from student section</pattern>
+    <template>BSc students can take back their original documents after 2 years. However, before this time student can take their docs after submitting an application in DR SS office by retaining any original CNIC form their family.</template>
+</category>
+<!--From where I can get back the original documents-->
+<category>
+    <pattern>From where I can get back the original documents</pattern>
+    <template>From Students Section at 2:30 to 3:00 pm.</template>
+</category>
+<!-- What is procedure to get original documents back-->
+<category>
+    <pattern>What is procedure to get original documents back</pattern>
+    <template>B.Sc students can take back their original documents after 2 years. However, before this time student can take their docs after submitting an application in DR SS office by retaining any original CNIC form their family.</template>
+</category>
+<category>
+    <pattern>What is the procedure to get original documents back</pattern>
+    <template>B.Sc students can take back their original documents after 2 years. However, before this time student can take their docs after submitting an application in DR SS office by retaining any original CNIC form their family.</template>
+</category>
+<!-- What documents are required for migration-->
+<category>
+    <pattern>What documents are required for migration</pattern>
+    <template>See the from at UET WEB SITE.</template>
+</category>
+<!--Where we will submit documents to apply for admission-->
+<category>
+    <pattern>Where we will submit documents to apply for admission</pattern>
+    <template>In the respective department for postgraduate and for undergraduate in the students section</template>
+</category>
+<!--Where we will submit documents after admission-->
+<category>
+    <pattern>Where we will submit documents after admission</pattern>
+    <template>In the students section.</template>
+</category>
+<!--Is it compulsory to submit documents in hard form-->
+<category>
+    <pattern>Is it compulsory to submit documents in hard form</pattern>
+    <template>Yes,its mandatory.</template>
+</category>
+<!--Can we submit documents online-->
+<category>
+    <pattern>Can we submit documents online</pattern>
+    <template>No</template>
+</category>
+<!--Where is National Library-->
+<category>
+    <pattern>Where is National Library</pattern>
+    <template>Opposite to Lecture Theatre. </template>
+</category>		
+	
+<!--What documents are required to attach to apply for Degree-->
+
+<category>
+    <pattern># documents ^ required ^ apply for Degree ^</pattern>
+    <template>
+1)Attach DMC/degree form, get it signed from students' section<br/>
+2)Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR), <br/>
+3)Attach 1 passport size picture<br/>
+4)Attach copy of provisional Certificate<br/>
+5)Attach matric/O level certificate copy<br/>
+6)Attach copy of Thesis notification (for postgraduate students only)<br/>
+7)Apply in Examinations Branch window number 1, degree is prepared in 40 days,<br/>
+Note:-  students of affiliated colleges  need to attach covering letter  issued by their college. 
+    </template>
+</category>
+<!--Which documents are required for applying authority letter to receive degree-->
+<category>
+    <pattern>Which documents are required for applying authority letter to receive degree</pattern>
+    <template>1)	Attested ID card copies of student and authorized person.<br/>
+2)	Show original ID card of authorized person</template>
+</category>
+<!--What documents are required to attach for embassy bonafide certificate-->
+<category>
+    <pattern>What documents are required to attach for embassy bonafide certificate</pattern>
+    <template>To apply for embassy bonafide certificate, get DMC form, attach DMC and degree copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare embassy bonafide certificate.</template>
+</category>
+<category>
+    <pattern># embassy bonafide certificate ^</pattern>
+    <template>To apply for embassy bonafide certificate, get DMC form, attach DMC and degree copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare embassy bonafide certificate.</template>
+</category>
+</aiml>

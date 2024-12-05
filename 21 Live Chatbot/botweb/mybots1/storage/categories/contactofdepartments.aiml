@@ -1,0 +1,3022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	<category>
+	    <pattern># contact ^ Electrical ^</pattern>
+	    <template>
+	        Contact no. +92 42 99029 229
+	        Email ID: eeuetlahore@uet.edu.pk
+	    </template>
+    </category>
+    <category>
+	    <pattern># talk ^ Electrical ^</pattern>
+	    <template>
+	        Contact no. +92 42 99029 229
+	        Email ID: eeuetlahore@uet.edu.pk
+	    </template>
+    </category>
+    <category>
+	    <pattern># phone ^ Electrical ^</pattern>
+	    <template>
+	        Contact no. +92 42 99029 229
+	        Email ID: eeuetlahore@uet.edu.pk
+	    </template>
+    </category>
+    <category>
+	    <pattern># Electrical ^ talk ^</pattern>
+	    <template>
+	        Contact no. +92 42 99029 229
+	        Email ID: eeuetlahore@uet.edu.pk
+	    </template>
+    </category>
+    <category>
+	    <pattern># Electrical ^ phone ^</pattern>
+	    <template>
+	        Contact no. +92 42 99029 229
+	        Email ID: eeuetlahore@uet.edu.pk
+	    </template>
+    </category>
+    <category>
+	    <pattern># Electrical ^ contact ^</pattern>
+	    <template>
+	        Contact no. +92 42 99029 229
+	        Email ID: eeuetlahore@uet.edu.pk
+	    </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Electrical ^</pattern>
+        <template>
+            Email ID: eeuetlahore@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Electrical ^ email ^</pattern>
+        <template>
+            Email ID: eeuetlahore@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Mechanical ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Mechanical ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Mechanical ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mechanical ^ contact ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mechanical ^ talk ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mechanical ^ phone ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Mechanical ^</pattern>
+        <template>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Mechanical ^ email ^</pattern>
+        <template>
+            Email ID: deanmech@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Civil ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># talk ^ Civil ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Civil ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># Civil ^ talk ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># Civil ^ phone ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># Civil ^ contact ^</pattern>
+        <template>
+            Contact no. (042) 99029227 <br/>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Civil ^</pattern>
+        <template>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Civil ^ email ^</pattern>
+       <template>
+            Email ID: kfch@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Chemical ^</pattern>
+        <template>
+            Contact no of dean of faculty of Chemical, Mineral and Metallurgical Engineering is : 042-99029230 <br/>
+            Email Id of dean faculty of Chemical Mineral and Metallurgical engineering is : deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># talk ^ Chemical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># phone ^ Chemical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Chemical ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Chemical ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Chemical ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Chemical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Chemical ^ email ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    
+        <category>
+        <pattern># contact ^ Metallurgical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># talk ^ Metallurgical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># phone ^ Metallurgical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Metallurgical ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Metallurgical ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Metallurgical ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Metallurgical ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Metallurgical ^ email ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    
+        <category>
+        <pattern># contact ^ Mineral ^ Engineering ^</pattern>
+       <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># talk ^ Mineral ^ Engineering ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># phone Mineral ^ Engineering ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mineral ^ Engineering ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mineral ^ Engineering ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mineral ^ Engineering ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Mineral ^ Engineering ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Mineral ^ Engineering ^ email ^</pattern>
+        <template>
+            Contact no. 042-99029230 <br/>
+            Email ID: deancmme@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+
+    
+    
+    <category>
+        <pattern># contact ^ Architectural ^</pattern>
+        <template>
+            Contact no. +92-42-99029285 / +92-42-99029165  <br/>
+            Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Architectural ^</pattern>
+        <template>
+            Contact no. +92-42-99029285 / +92-42-99029165  <br/>
+            Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Architectural ^</pattern>
+        <template>
+            Contact no. +92-42-99029285 / +92-42-99029165  <br/>
+            Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architectural ^ contact ^</pattern>
+        <template>
+            Contact no. +92-42-99029285 / +92-42-99029165  <br/>
+            Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architectural ^ talk ^</pattern>
+        <template>
+            Contact no. +92-42-99029285 / +92-42-99029165  <br/>
+            Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architectural ^ phone ^</pattern>
+        <template>
+            Contact no. +92-42-99029285 / +92-42-99029165  <br/>
+            Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Architectural ^</pattern>
+        <template>
+             Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architectural ^ email ^</pattern>
+        <template>
+             Email ID: aed@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Architecture ^</pattern>
+        <template>
+            Contact no. +9212345678  <br/>
+            architecture@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Architecture ^</pattern>
+        <template>
+            Contact no. +9212345678 <br/>
+            architecture@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Architecture ^</pattern>
+        <template>
+            Contact no. +9212345678 <br/>
+            architecture@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architecture ^ contact ^</pattern>
+        <template>
+            Contact no. +9212345678 <br/>
+            architecture@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architecture ^ talk ^</pattern>
+        <template>
+            Contact no. +9212345678 <br/>
+            architecture@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architecture ^ phone ^</pattern>
+        <template>
+            Contact no. +9212345678 <br/>
+            Email ID: architecture@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Architecture ^</pattern>
+        <template>
+             architecture@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Architecture ^ email ^</pattern>
+        <template>
+             architecture@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Islamic Studies ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Islamic Studies ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Islamic Studies ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Islamic Studies ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Islamic Studies ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Islamic Studies ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Islamic Studies ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Islamic Studies ^ email ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># contact ^ Humanities ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Humanities ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Humanities ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Humanities ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Humanities ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Humanities ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Humanities ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Humanities ^ email ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># contact ^ Natural Sciences ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Natural Sciences ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Natural Sciences ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Natural Sciences ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Natural Sciences ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Natural Sciences ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Natural Sciences ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Natural Sciences ^ email ^</pattern>
+        <template>
+            Contact no. 042-99029215 <br/>
+            Email ID: deannshies@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Chemistry ^</pattern>
+        <template>
+            Contact no. 042-99029239 <br/>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Chemistry ^</pattern>
+        <template>
+            Contact no. 042-99029239 <br/>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Chemistry ^</pattern>
+        <template>
+            Contact no. 042-99029239 <br/>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Chemistry ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029239 <br/>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Chemistry ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029239 <br/>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Chemistry ^ phone ^</pattern>
+       <template>
+            Contact no. 042-99029239 <br/>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Chemistry ^</pattern>
+        <template>
+            Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Chemistry ^ email ^</pattern>
+        <template>
+             Email ID: chairmanchemistry@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ City ^ Regional Plaining ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ City ^ Regional Plaining ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ City ^ Regional Plaining ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># City ^ Regional Plaining ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># City ^ Regional Plaining ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># City ^ Regional Plaining ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ City ^ Regional Plaining ^</pattern>
+        <template>
+              Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># City ^ Regional Plaining ^ email ^</pattern>
+        <template>
+             Email ID: chairmancrp@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Computer ^</pattern>
+        <template>
+            Contact no. (042) 37951901 <br/>
+            Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Computer ^</pattern>
+        <template>
+            Contact no. (042) 37951901 <br/>
+            Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Computer ^</pattern>
+        <template>
+            Contact no. (042) 37951901 <br/>
+            Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer ^ contact ^</pattern>
+        <template>
+            Contact no. (042) 37951901 <br/>
+            Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer ^ talk ^</pattern>
+        <template>
+            Contact no. (042) 37951901 <br/>
+            Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer ^ phone ^</pattern>
+        <template>
+            Contact no. (042) 37951901 <br/>
+            Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Computer ^</pattern>
+        <template>
+             Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer ^ email ^</pattern>
+        <template>
+             Email ID:  cs@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Computer Engineering ^</pattern>
+        <template>
+            Contact no. +92 42 99258550 <br/>
+            Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Computer Engineering ^</pattern>
+        <template>
+            Contact no. +92 42 99258550 <br/>
+            Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Computer Engineering ^</pattern>
+        <template>
+            Contact no. +92 42 99258550 <br/>
+            Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer Engineering ^ contact ^</pattern>
+        <template>
+            Contact no. +92 42 99258550 <br/>
+            Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer Engineering ^ talk ^</pattern>
+        <template>
+            Contact no. +92 42 99258550 <br/>
+            Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer Engineering ^ phone ^</pattern>
+        <template>
+            Contact no. +92 42 99258550 <br/>
+            Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Computer Engineering ^</pattern>
+        <template>
+              Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Computer Engineering ^ email ^</pattern>
+        <template>
+              Email ID: cedept@uet.edu.pk
+        </template>
+    </category>
+    
+    
+
+    
+    
+    <category>
+        <pattern># contact ^ Environmental ^</pattern>
+        <template>
+            Contact no. 042-99029248 <br/>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Environmental ^</pattern>
+        <template>
+            Contact no. 042-99029248 <br/>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Environmental ^</pattern>
+        <template>
+            Contact no. 042-99029248 <br/>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Environmental ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029248 <br/>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Environmental ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029248 <br/>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Environmental ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029248 <br/>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Environmental ^</pattern>
+        <template>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Environmental ^ email ^</pattern>
+        <template>
+            Email ID: sajjad@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Geological ^</pattern>
+        <template>
+            Contact no. 042-99029297 <br/>
+            Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Geological ^</pattern>
+        <template>
+            Contact no. 042-99029297 <br/>
+            Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Geological ^</pattern>
+        <template>
+            Contact no. 042-99029297 <br/>
+            Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Geological ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029297 <br/>
+            Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Geological ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029297 <br/>
+            Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Geological ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029297 <br/>
+            Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Geological ^</pattern>
+        <template>
+             Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Geological ^ email ^</pattern>
+        <template>
+             Email ID: chairmangeological@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Social Science ^</pattern>
+        <template>
+            Contact no. 042-99029493 <br/>
+            Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Social Science ^</pattern>
+        <template>
+            Contact no. 042-99029493 <br/>
+            Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Social Science ^</pattern>
+        <template>
+            Contact no. 042-99029493 <br/>
+            Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Social Science ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029493 <br/>
+            Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Social Science ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029493 <br/>
+            Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Social Science ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029493 <br/>
+            Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Social Science ^</pattern>
+        <template>
+              Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Social Science ^ email ^</pattern>
+        <template>
+              Email ID: chairmanhmss@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Industrial ^ Manufacturing ^</pattern>
+        <template>
+            Contact no. 04299029227 <br/>
+            Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Industrial ^ Manufacturing ^</pattern>
+        <template>
+            Contact no. 04299029227 <br/>
+            Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Industrial ^ Manufacturing ^</pattern>
+        <template>
+            Contact no. 04299029227 <br/>
+            Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial ^ Manufacturing  ^ contact ^</pattern>
+        <template>
+            Contact no. 04299029227 <br/>
+            Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial ^ Manufacturing ^ phone ^</pattern>
+        <template>
+            Contact no. 04299029227 <br/>
+            Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial ^ Manufacturing ^ talk ^</pattern>
+        <template>
+            Contact no. 04299029227 <br/>
+            Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Industrial ^ Manufacturing ^</pattern>
+        <template>
+             Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Industrial ^ Manufacturing ^ email ^</pattern>
+        <template>
+             Email ID: chairmanime@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Mathematics ^</pattern>
+        <template>
+            Contact no.  042-99029210 <br/>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># phone ^ Mathematics ^</pattern>
+        <template>
+            Contact no.  042-99029210 <br/>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># talk ^ Mathematics ^</pattern>
+        <template>
+            Contact no.  042-99029210 <br/>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mathematics ^ contact ^</pattern>
+        <template>
+            Contact no.  042-99029210 <br/>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mathematics ^ phone ^</pattern>
+        <template>
+            Contact no.  042-99029210 <br/>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mathematics ^ talk ^</pattern>
+        <template>
+            Contact no.  042-99029210 <br/>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Mathematics ^</pattern>
+        <template>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mathematics ^ email ^</pattern>
+        <template>
+            Email ID: chairmanmath@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Mechatronics ^ Control ^</pattern>
+        <template>
+            Contact no. 042-99029294 <br/>
+            Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Mechatronics ^ Control ^</pattern>
+        <template>
+            Contact no. 042-99029294 <br/>
+            Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Mechatronics ^ Control ^</pattern>
+        <template>
+            Contact no. 042-99029294 <br/>
+            Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Mechatronics ^ Control ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029294 <br/>
+            Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Mechatronics ^ Control ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029294 <br/>
+            Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Mechatronics ^ Control ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029294 <br/>
+            Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Mechatronics ^ Control ^</pattern>
+        <template>
+             Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mechatronics ^ Control ^ email ^</pattern>
+        <template>
+             Email ID: chairmanmce@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Mining ^</pattern>
+        <template>
+            Contact no. 042-99029212 <br/>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Mining ^</pattern>
+        <template>
+            Contact no. 042-99029212 <br/>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Mining ^</pattern>
+        <template>
+            Contact no. 042-99029212 <br/>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mining ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029212 <br/>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mining ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029212 <br/>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Mining ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029212 <br/>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Mining ^</pattern>
+        <template>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+      <category>
+        <pattern># Mining ^ email ^</pattern>
+        <template>
+            Email ID: chairmanmining@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Petroleum ^</pattern>
+        <template>
+            Contact no. 042-99029471 <br/>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Petroleum ^</pattern>
+        <template>
+            Contact no. 042-99029471 <br/>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Petroleum ^</pattern>
+        <template>
+            Contact no. 042-99029471 <br/>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Petroleum ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029471 <br/>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Petroleum ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029471 <br/>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Petroleum ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029471 <br/>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Petroleum ^</pattern>
+        <template>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Petroleum ^ email ^</pattern>
+        <template>
+            Email ID: chairmanpetroleum@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Physics ^</pattern>
+        <template>
+            Contact no. 042-990292204 <br/>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Physics ^</pattern>
+        <template>
+            Contact no. 042-990292204 <br/>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Physics ^</pattern>
+        <template>
+            Contact no. 042-990292204 <br/>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Physics ^ contact ^</pattern>
+        <template>
+            Contact no. 042-990292204 <br/>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Physics ^ phone ^</pattern>
+        <template>
+            Contact no. 042-990292204 <br/>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Physics ^ talk ^</pattern>
+        <template>
+            Contact no. 042-990292204 <br/>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Physics ^</pattern>
+        <template>
+             Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Physics ^ email ^</pattern>
+        <template>
+            Email ID: chairmanphy@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Polymer ^</pattern>
+        <template>
+            Contact no. 042-99029505 <br/>
+            Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># talk ^ Polymer ^</pattern>
+        <template>
+            Contact no. 042-99029505 <br/>
+            Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># phone ^ Polymer ^</pattern>
+        <template>
+            Contact no. 042-99029505 <br/>
+            Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># Polymer ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029505 <br/>
+            Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># Polymer ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029505 <br/>
+            Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+        <category>
+        <pattern># Polymer ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029505 <br/>
+            Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Polymer ^</pattern>
+        <template>
+             Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ email ^</pattern>
+        <template>
+             Email ID: chairmanpolymer@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Transportation ^</pattern>
+        <template>
+            Contact no.  042-99029428 <br/>
+            Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Transportation ^</pattern>
+        <template>
+            Contact no.  042-99029428 <br/>
+            Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Transportation ^</pattern>
+        <template>
+            Contact no.  042-99029428 <br/>
+            Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Transportation ^ contact ^</pattern>
+        <template>
+            Contact no.  042-99029428 <br/>
+            Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Transportation ^ phone ^</pattern>
+        <template>
+            Contact no.  042-99029428 <br/>
+            Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Transportation ^ talk ^</pattern>
+        <template>
+            Contact no.  042-99029428 <br/>
+            Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Transportation ^</pattern>
+        <template>
+             Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Transportation ^ email ^</pattern>
+        <template>
+             Email ID:  chair-tem@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Industrial Design ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Industrial Design ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Industrial Design ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial Design ^ contact ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial Design ^ phone ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial Design ^ talk ^</pattern>
+        <template>
+            Contact no. 042-99029203 <br/>
+            Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Industrial Design ^</pattern>
+        <template>
+              Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Industrial Design ^ email ^</pattern>
+        <template>
+              Email ID: chairmanpid@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Health Committee ^</pattern>
+        <template>
+            Contact no of Chairman Health Committee is : 042-99029240 <br/>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Health Committee ^</pattern>
+        <template>
+            Contact no of Chairman Health Committee is : 042-99029240 <br/>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Health Committee ^</pattern>
+        <template>
+            Contact no of Chairman Health Committee is : 042-99029240 <br/>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Health Committee ^ contact ^</pattern>
+        <template>
+            Contact no of Chairman Health Committee is : 042-99029240 <br/>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Health Committee ^ talk ^</pattern>
+        <template>
+            Contact no of Chairman Health Committee is : 042-99029240 <br/>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Health Committee ^ phone ^</pattern>
+        <template>
+            Contact no of Chairman Health Committee is : 042-99029240 <br/>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># emaIL ^ Health Committee ^</pattern>
+        <template>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Health Committee ^ emaIL ^</pattern>
+        <template>
+            Email Id of Chairman Health Committee is : chairmanee@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Career Services ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Career Services ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Career Services ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Career Services ^ contact ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Career Services ^ phone ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Career Services ^ talk ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Career Services ^</pattern>
+        <template>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Career Services ^ email ^</pattern>
+        <template>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Financial Aid ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Financial Aid ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Financial Aid ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Financial Aid ^ contact ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Financial Aid ^ phone ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Financial Aid ^ talk ^</pattern>
+        <template>
+            Contact no of Director Financial Aid and Career Services is : 042-99029218 <br/>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Financial Aid ^</pattern>
+        <template>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Financial Aid ^ email ^</pattern>
+        <template>
+            Email Id of Director Financial Aid and Career Services is : facs@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Transport Committee ^</pattern>
+        <template>
+            Contact no of dean of Chairman Transport Committee is : 042-99029266 <br/>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Transport Committee ^</pattern>
+        <template>
+            Contact no of dean of Chairman Transport Committee is : 042-99029266 <br/>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Transport Committee ^</pattern>
+        <template>
+            Contact no of dean of Chairman Transport Committee is : 042-99029266 <br/>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Transport Committee ^ contact ^</pattern>
+        <template>
+            Contact no of dean of Chairman Transport Committee is : 042-99029266 <br/>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Transport Committee ^ phone ^</pattern>
+        <template>
+            Contact no of dean of Chairman Transport Committee is : 042-99029266 <br/>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Transport Committee ^ talk ^</pattern>
+        <template>
+            Contact no of dean of Chairman Transport Committee is : 042-99029266 <br/>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Transport Committee ^</pattern>
+        <template>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+       <category>
+        <pattern># Transport Committee ^ email ^</pattern>
+        <template>
+            Email Id of Chairman Transport Committee is : ctc@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Medical Officer ^</pattern>
+        <template>
+            Contact no of Chief Medical Officer is : 042-99029215 <br/>
+            Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Medical Officer ^</pattern>
+        <template>
+            Contact no of Chief Medical Officer is : 042-99029215 <br/>
+            Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Medical Officer ^</pattern>
+        <template>
+            Contact no of Chief Medical Officer is : 042-99029215 <br/>
+            Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Medical Officer ^ contact ^</pattern>
+        <template>
+            Contact no of Chief Medical Officer is : 042-99029215 <br/>
+            Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Medical Officer ^ phone ^</pattern>
+        <template>
+            Contact no of Chief Medical Officer is : 042-99029215 <br/>
+            Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Medical Officer ^ talk ^</pattern>
+        <template>
+            Contact no of Chief Medical Officer is : 042-99029215 <br/>
+            Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Medical Officer ^</pattern>
+        <template>
+             Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Medical Officer ^ email ^</pattern>
+        <template>
+             Email Id of Chief Medical Officer is : cmo@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Controller ^ Examinations ^</pattern>
+        <template>
+            Contact no of Controller of Examinations is : 042-99029235 <br/>
+            Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Controller ^ Examinations ^</pattern>
+        <template>
+            Contact no of Controller of Examinations is : 042-99029235 <br/>
+            Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Controller ^ Examinations ^</pattern>
+        <template>
+            Contact no of Controller of Examinations is : 042-99029235 <br/>
+            Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Controller ^ Examinations ^ contact ^</pattern>
+        <template>
+            Contact no of Controller of Examinations is : 042-99029235 <br/>
+            Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Controller ^ Examinations ^ phone ^</pattern>
+        <template>
+            Contact no of Controller of Examinations is : 042-99029235 <br/>
+            Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Controller ^ Examinations ^ talk ^</pattern>
+        <template>
+            Contact no of Controller of Examinations is : 042-99029235 <br/>
+            Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Controller ^ Examinations ^</pattern>
+        <template>
+             Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Controller ^ Examinations ^ email ^</pattern>
+        <template>
+             Email Id of Controller of Examinations is : examination@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Admission Committee ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Admission Committee ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Admission Committee ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Admission Committee ^ contact ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Admission Committee ^ phone ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Admission Committee ^ talk ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Admission Committee ^</pattern>
+        <template>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+       <category>
+        <pattern># Admission Committee ^ email ^</pattern>
+        <template>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># contact ^ Incharge ^ Student Section ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Incharge ^ Student Section ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Incharge ^ Student Section ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Incharge ^ Student Section ^ contact ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Incharge ^ Student Section ^ phone ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Incharge ^ Student Section ^ talk ^</pattern>
+        <template>
+            Contact no of Convener Admission Committee / Incharge Student Section is : 042-99029216 <br/>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Incharge ^ Student Section ^</pattern>
+        <template>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+       <category>
+        <pattern># Incharge ^ Student Section ^ email ^</pattern>
+        <template>
+            Email Id of Convener Admission Committee / Incharge Student Section is : admission@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ International ^ Office ^</pattern>
+        <template>
+            Contact no International Students Office is : 042-99250212 <br/>
+            Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ International ^ Office ^</pattern>
+        <template>
+            Contact no International Students Office is : 042-99250212 <br/>
+            Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ International ^ Office ^</pattern>
+        <template>
+            Contact no International Students Office is : 042-99250212 <br/>
+            Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># International ^ Office ^ contact ^</pattern>
+        <template>
+            Contact no International Students Office is : 042-99250212 <br/>
+            Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># International ^ Office ^ phone ^</pattern>
+        <template>
+            Contact no International Students Office is : 042-99250212 <br/>
+            Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># International ^ Office ^ talk ^</pattern>
+        <template>
+            Contact no International Students Office is : 042-99250212 <br/>
+            Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ International ^ Office ^</pattern>
+        <template>
+             Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+       <category>
+        <pattern># International ^ Office ^ email ^</pattern>
+        <template>
+             Email Id International Students Office is : drsaleemkhan@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+     <category>
+        <pattern># contact ^ Research External ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Research External ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Research External ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Research External ^ contact ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Research External ^ phone ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Research External ^ talk ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Research External ^</pattern>
+        <template>
+             Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Research External ^ email ^</pattern>
+        <template>
+             Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+    
+    
+         <category>
+        <pattern># contact ^ Advisory Services ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Advisory Services ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Advisory Services ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Advisory Services ^ contact ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Advisory Services ^ phone ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Advisory Services ^ talk ^</pattern>
+        <template>
+            Contact no of Director General Research External and Advisory Services is : 042-99029237 <br/>
+            Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Advisory Services ^</pattern>
+        <template>
+             Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Advisory Services ^ email ^</pattern>
+        <template>
+             Email Id of Director General Research External and Advisory Services is : mtahir@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Director ^ Studies ^</pattern>
+        <template>
+            Contact no of Director Studies is : 042-99029251 <br/>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># phone ^ Director ^ Studies ^</pattern>
+        <template>
+            Contact no of Director Studies is : 042-99029251 <br/>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># talk ^ Director ^ Studies ^</pattern>
+        <template>
+            Contact no of Director Studies is : 042-99029251 <br/>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Director ^ Studies ^ contact ^</pattern>
+        <template>
+            Contact no of Director Studies is : 042-99029251 <br/>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Director ^ Studies ^ phone ^</pattern>
+        <template>
+            Contact no of Director Studies is : 042-99029251 <br/>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Director ^ Studies ^ talk ^</pattern>
+        <template>
+            Contact no of Director Studies is : 042-99029251 <br/>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Director ^ Studies ^</pattern>
+        <template>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Director ^ Studies ^ email ^</pattern>
+        <template>
+            Email Id of Director Studies is : dir.studeis@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Director ^ Affairs ^</pattern>
+        <template>
+            Contact no of Director Students Affairs is : 042-99029244 <br/>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Director ^ Affairs ^</pattern>
+        <template>
+            Contact no of Director Students Affairs is : 042-99029244 <br/>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Director ^ Affairs ^</pattern>
+        <template>
+            Contact no of Director Students Affairs is : 042-99029244 <br/>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Director ^ Affairs ^ contact ^</pattern>
+        <template>
+            Contact no of Director Students Affairs is : 042-99029244 <br/>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Director ^ Affairs ^ phone ^</pattern>
+        <template>
+            Contact no of Director Students Affairs is : 042-99029244 <br/>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Director ^ Affairs ^ talk ^</pattern>
+        <template>
+            Contact no of Director Students Affairs is : 042-99029244 <br/>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Director ^ Affairs ^</pattern>
+        <template>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Director ^ Affairs ^ email ^</pattern>
+        <template>
+            Email Id of Director Students Affairs is : dsa@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Focal ^ Higher Education Commission ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Focal ^ Higher Education Commission ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Focal ^ Higher Education Commission ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Focal ^ Higher Education Commission ^ contact ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Focal ^ Higher Education Commission ^ phone ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Focal ^ Higher Education Commission ^ talk ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Focal ^ Higher Education Commission ^</pattern>
+        <template>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Focal ^ Higher Education Commission ^ email ^</pattern>
+        <template>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    
+    
+        <category>
+        <pattern># contact ^ Focal ^ HEC ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Focal ^ HEC ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Focal ^ HEC ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Focal ^ HEC ^ contact ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Focal ^ HEC ^ phone ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Focal ^ HEC ^ talk ^</pattern>
+        <template>
+            Contact no of Focal Person Higher Education Commission is : 042-99029144 <br/>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Focal ^ HEC ^</pattern>
+        <template>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Focal ^ HEC ^ email ^</pattern>
+        <template>
+            Email Id of Focal Person Higher Education Commission is : hecfocalperson@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Librarian ^</pattern>
+        <template>
+            Contact no of Librarian is : 042-99029243 <br/>
+            Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Librarian ^</pattern>
+        <template>
+            Contact no of Librarian is : 042-99029243 <br/>
+            Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Librarian ^</pattern>
+        <template>
+            Contact no of Librarian is : 042-99029243 <br/>
+            Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Librarian ^ contact ^</pattern>
+        <template>
+            Contact no of Librarian is : 042-99029243 <br/>
+            Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Librarian ^ phone ^</pattern>
+        <template>
+            Contact no of Librarian is : 042-99029243 <br/>
+            Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Librarian ^ talk ^</pattern>
+        <template>
+            Contact no of Librarian is : 042-99029243 <br/>
+            Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Librarian ^</pattern>
+        <template>
+             Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Librarian ^ email ^</pattern>
+        <template>
+             Email Id of Librarian is : lib@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Project Director ^</pattern>
+        <template>
+            Contact no of Project Director is : 042-99029238 <br/>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Project Director ^</pattern>
+        <template>
+            Contact no of Project Director is : 042-99029238 <br/>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Project Director ^</pattern>
+        <template>
+            Contact no of Project Director is : 042-99029238 <br/>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Project Director ^ contact ^</pattern>
+        <template>
+            Contact no of Project Director is : 042-99029238 <br/>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Project Director ^ phone ^</pattern>
+        <template>
+            Contact no of Project Director is : 042-99029238 <br/>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Project Director ^ talk ^</pattern>
+        <template>
+            Contact no of Project Director is : 042-99029238 <br/>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Project Director ^</pattern>
+        <template>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Project Director ^ email ^</pattern>
+        <template>
+            Email Id of Project Director is : pd@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Public Relation ^</pattern>
+        <template>
+            Contact no of Public Relation Officer is : 042-99029358 <br/>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Public Relation ^</pattern>
+        <template>
+            Contact no of Public Relation Officer is : 042-99029358 <br/>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Public Relation ^</pattern>
+        <template>
+            Contact no of Public Relation Officer is : 042-99029358 <br/>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Public Relation ^ contact ^</pattern>
+        <template>
+            Contact no of Public Relation Officer is : 042-99029358 <br/>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Public Relation ^ phone ^</pattern>
+        <template>
+            Contact no of Public Relation Officer is : 042-99029358 <br/>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Public Relation ^ talk ^</pattern>
+        <template>
+            Contact no of Public Relation Officer is : 042-99029358 <br/>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Public Relation ^</pattern>
+        <template>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Public Relation ^ email ^</pattern>
+        <template>
+            Email Id of Public Relation Officer is : pro@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Registrar ^</pattern>
+        <template>
+            Contact no of Registrar is : 042-99029227 <br/>
+            Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Registrar ^</pattern>
+        <template>
+            Contact no of Registrar is : 042-99029227 <br/>
+            Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Registrar ^</pattern>
+        <template>
+            Contact no of Registrar is : 042-99029227 <br/>
+            Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Registrar ^ contact ^</pattern>
+        <template>
+            Contact no of Registrar is : 042-99029227 <br/>
+            Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Registrar ^ phone ^</pattern>
+        <template>
+            Contact no of Registrar is : 042-99029227 <br/>
+            Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Registrar ^ talk ^</pattern>
+        <template>
+            Contact no of Registrar is : 042-99029227 <br/>
+            Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Registrar ^</pattern>
+        <template>
+             Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Registrar ^ email ^</pattern>
+        <template>
+             Email Id of Registrar is : regestrar@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Resident Auditor ^</pattern>
+        <template>
+            Contact no of Resident Auditor is : 042-99029232 <br/>
+            Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Resident Auditor ^</pattern>
+        <template>
+            Contact no of Resident Auditor is : 042-99029232 <br/>
+            Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Resident Auditor ^</pattern>
+        <template>
+            Contact no of Resident Auditor is : 042-99029232 <br/>
+            Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Resident Auditor ^ contact ^</pattern>
+        <template>
+            Contact no of Resident Auditor is : 042-99029232 <br/>
+            Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Resident Auditor ^ phone ^</pattern>
+        <template>
+            Contact no of Resident Auditor is : 042-99029232 <br/>
+            Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Resident Auditor ^ talk ^</pattern>
+        <template>
+            Contact no of Resident Auditor is : 042-99029232 <br/>
+            Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Resident Auditor ^</pattern>
+        <template>
+              Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Resident Auditor ^ email ^</pattern>
+        <template>
+              Email Id of Resident Auditor is : ra@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Warden ^</pattern>
+        <template>
+            Contact no of Senior Warden is : 042-99029225 <br/>
+            Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Warden ^</pattern>
+        <template>
+            Contact no of Senior Warden is : 042-99029225 <br/>
+            Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Warden ^</pattern>
+        <template>
+            Contact no of Senior Warden is : 042-99029225 <br/>
+            Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Warden ^ contact ^</pattern>
+        <template>
+            Contact no of Senior Warden is : 042-99029225 <br/>
+            Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Warden ^ phone ^</pattern>
+        <template>
+            Contact no of Senior Warden is : 042-99029225 <br/>
+            Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Warden ^ talk ^</pattern>
+        <template>
+            Contact no of Senior Warden is : 042-99029225 <br/>
+            Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Warden ^</pattern>
+        <template>
+             Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Warden ^ email ^</pattern>
+        <template>
+             Email Id of Senior Warden is : seniorw@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># contact ^ Treasurer ^</pattern>
+        <template>
+            Contact no of Treasurer is : 042-99029233 <br/>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># phone ^ Treasurer ^</pattern>
+        <template>
+            Contact no of Treasurer is : 042-99029233 <br/>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># talk ^ Treasurer ^</pattern>
+        <template>
+            Contact no of Treasurer is : 042-99029233 <br/>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Treasurer ^ contact ^</pattern>
+        <template>
+            Contact no of Treasurer is : 042-99029233 <br/>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Treasurer ^ phone ^</pattern>
+        <template>
+            Contact no of Treasurer is : 042-99029233 <br/>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+    <category>
+        <pattern># Treasurer ^ talk ^</pattern>
+        <template>
+            Contact no of Treasurer is : 042-99029233 <br/>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># email ^ Treasurer ^</pattern>
+        <template>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+     <category>
+        <pattern># Treasurer ^ email ^</pattern>
+        <template>
+            Email Id of Treasurer is : treasurer@uet.edu.pk
+        </template>
+    </category>
+ 
+	
+</aiml>

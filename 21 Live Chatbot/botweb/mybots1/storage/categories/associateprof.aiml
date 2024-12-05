@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern># ASSOCIATE PROFESSOR ^ KICS ^</pattern>
+    <template>Dr. Amir Mehmood, is ASSOCIATE PROFESSOR in KICS UET, Lahore.<br/>
+    
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/people/all_staff</url>
+    </button>
+
+    </template>
+</category>
+
+<category>
+    <pattern># PROFESSOR ^ KICS ^</pattern>
+    <template>Dr. Ghalib Shah, is PROFESSOR in KICS UET, Lahore.<br/>
+     <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/people/all_staff</url>
+    </button>
+    </template>
+</category>
+
+<category>
+    <pattern>_ associate professor of kics</pattern>
+    <template><srai>ASSOCIATE PROFESSOR</srai></template>
+</category>
+<category>
+    <pattern>* associate professor of kics _</pattern>
+    <template><srai>ASSOCIATE PROFESSOR</srai></template>
+</category>
+<category>
+    <pattern>associate professor in kics</pattern>
+    <template><srai>ASSOCIATE PROFESSOR</srai></template>
+</category>
+<category>
+    <pattern>_ associate professor * kics</pattern>
+    <template><srai>ASSOCIATE PROFESSOR</srai></template>
+</category>
+</aiml>

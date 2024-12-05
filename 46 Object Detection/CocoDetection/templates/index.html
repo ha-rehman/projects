@@ -1,0 +1,109 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>Coco Detection</title>
+    <link rel="icon" href="{% static 'images/coco-logo.png' %}" type="image/icon type">
+
+    <!-- load bootstrap 5 -->
+    {% load bootstrap5 %}
+    {% bootstrap_css %}
+    {% bootstrap_javascript %}
+    {% bootstrap_messages %}
+
+    <!-- Custom stylesheet -->
+    <link type="text/css" rel="stylesheet" href="{% static 'css/style.css' %}"/>
+</head>
+<body>
+    <div class="container">
+        <div class="row center m-100">
+            <h1 class="title">Object Recognition</h1>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row m-100">
+
+            <div class="col-md-6 line center mt-5" id="results">
+                <h2 class="title">Detected Results</h2>
+                <h5 class="items-h m-50">Detected item is:</h5>
+
+{#                <h5 class="count-h m-50">Total Count:</h5>#}
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-wrapper px-5 m-50">
+                    <form id="img-submit" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <div class="mb-4">
+                            <label for="form-file" class="form-label">Upload image for detection</label>
+                            <input class="form-control" type="file" id="form-file" name="upload"
+                                   onchange="loadFile(event)">
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" id="submit" class="btn btn-primary mb-3">Upload Image</button>
+                        </div>
+                    </form>
+
+                    <div class="mt-4 center">
+                        <img id="output" width="250" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script>
+
+    {# display image function #}
+    let loadFile = function  (event) {
+        let image = document.getElementById('output');
+        image.src = URL.createObjectURL(event.target.files[0]);
+    };
+
+
+     {# ajax call request #}
+    $('#img-submit').submit(function (e) {
+        e.preventDefault();
+        let html = $('body');
+        $(html).find(".line>h3").remove();
+
+
+        $form = $(this);
+        var formData = new FormData(this);
+
+        $.ajax({
+            method: 'POST',
+            url: "{% url 'get_result' %}",
+            data: formData,
+            processData: false,
+            contentType: false,
+            cache: false,
+            enctype: 'multipart/form-data',
+            success: function (response) {
+                let items = response.items;
+                let count = response.count;
+
+                for (i = 0; i < items.length; ++i) {
+                    $('.items-h').after("<h3>" + items[i] + "</h3>")
+                }
+
+                $('.count-h').after("<h3>" + count + "</h3>")
+            }
+
+        });
+    });
+
+</script>
+
+</html>

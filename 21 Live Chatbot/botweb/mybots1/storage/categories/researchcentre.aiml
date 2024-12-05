@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+<category>
+    <pattern>TECHCENKICS</pattern>
+   
+
+    <template> <delay>3</delay>There are 7 research centers in KICS, <br/> for more info. related to Research/Technology centers visit: 
+    <link>
+        <text>Technology/Research Centers</text>
+        <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+    </link> <split/>
+    
+    <button>
+        <text>School of Media Studies (SMS)</text>
+        <postback>TECHSMSKICS</postback>
+    </button>
+    
+    
+    
+    <button>
+        <text>Technology Incubation and Commercialization Centre (TICK)</text>
+        <postback>TECHTICKICS</postback>
+    </button>
+    
+    
+    
+    <button>
+        <text>Professional Development Center (PDC)</text>
+        <postback>TECHPDCKICS</postback>
+    </button>
+    
+    
+    
+    <button>
+        <text>Pearson VUE Testing Center (Pearson)</text>
+        <postback>TPEARSONKICS</postback>
+    </button>
+    
+    
+    
+    <button>
+        <text>Huawei UET Joint Telecom IT Centre (HUTIC)</text>
+        <postback>THUTICKICS</postback>
+    </button>
+    
+    
+    
+    <button>
+        <text>Center for Language Engineering (CLE)</text>
+        <postback>TCLEKICS</postback>
+    </button>
+    
+    
+    
+    <button>
+        <text>Center of Energy Research And Development (CERAD)</text>
+        <postback>TCERADKICS</postback>
+    </button>
+    
+    </template>
+</category>
+
+
+
+
+
+<category>
+    <pattern>how many research centers are there in kics</pattern>
+    <template>There are 7 research centers in kics. <br/> 
+    <ol>
+        <li>School of Media Studies</li>
+        <li>Technology Incubation and Commercialization Centre (TICK)</li>
+        <li>Professional Development Center (PDC)</li>
+        <li>Pearson VUE Testing Center (Pearson)</li>
+        <li>Huawei UET Joint Telecom IT Centre (HUTIC)</li>
+        <li>Center for Language Engineering (CLE)</li>
+        <li>Center of Energy Research And Development (CERAD)</li>
+    </ol>
+    <br/>
+    for more info visit: 
+    <link>
+        <text>TECHNOLOGY/Research CENTERS</text>
+        <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+    </link>
+    </template>
+</category>
+
+
+<category>
+    <pattern># research centers ^</pattern>
+   <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+<category>
+    <pattern># research centres ^</pattern>
+   <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+
+<category>
+    <pattern># research center ^</pattern>
+   <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+<category>
+    <pattern># research centre ^</pattern>
+   <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># technology centers ^</pattern>
+   <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+<category>
+    <pattern># technology centres ^</pattern>
+    <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+
+<category>
+    <pattern># technology center ^</pattern>
+   <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+<category>
+    <pattern># technology centre ^</pattern>
+  <template>There are 7 research centers in kics. <br /> 
+   <olist>
+       <item>School of Media Studies(SMS)</item>
+       <item>Technology Incubation and Commercialization Centre (TICK)</item>
+       <item>Professional Development Center (PDC)</item>
+       <item>Pearson VUE Testing Center (Pearson)</item>
+       <item>Huawei UET Joint Telecom IT Centre (HUTIC)</item>
+       <item>Center for Language Engineering (CLE)</item>
+       <item>Center of Energy Research And Development (CERAD)</item>
+   </olist>
+   <br/>
+   <button>
+       <text>for more info.</text>
+       <url>https://kics.edu.pk/web/research-technology/technology-centers/</url>
+   </button>
+    </template>
+</category>
+
+
+
+<!--School of Media Studies-->
+
+<category>
+    <pattern>TECHSMSKICS</pattern>
+    <template>
+        <delay>2</delay>
+        School of Media Studies (SMS), KICS UET Lahore has launched first official Web TV of UET. Web TV as a platform for reaching people all over the world. School of Media studies (SMS) is the first ever Media department of UET Lahore, running under the supervision of Al-Khwarizmi Institute of Computer Sciences (KICS) UET Lahore. It was inaugurated by Syed Raza Ali Gillani (Former Minister of Higher Education, GOVT of Punjab). SMS offers professional training courses in broadcast journalism. SMS provides an excellent environment including studios, NEWS Room and other facilities to train the students in an appropriate manner. It aims to provide trainings necessary to obtain a position and build a career in highly competitive, liberal dominated field of broadcast journalism. <br />
+        for more info. visit: 
+        
+        <button>
+            <text>SCHOOL OF MEDIA STUDIES (SMS)</text>
+            <url>https://www.kics.edu.pk/labs/about/smsuet</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># School of Media Studies ^</pattern>
+    <template>
+        School of Media Studies (SMS), KICS UET Lahore has launched first official Web TV of UET. Web TV as a platform for reaching people all over the world. School of Media studies (SMS) is the first ever Media department of UET Lahore, running under the supervision of Al-Khwarizmi Institute of Computer Sciences (KICS) UET Lahore. It was inaugurated by Syed Raza Ali Gillani (Former Minister of Higher Education, GOVT of Punjab). SMS offers professional training courses in broadcast journalism. SMS provides an excellent environment including studios, NEWS Room and other facilities to train the students in an appropriate manner. It aims to provide trainings necessary to obtain a position and build a career in highly competitive, liberal dominated field of broadcast journalism. <br />
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/smsuet</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^</pattern>
+    <template>
+        School of Media Studies (SMS), KICS UET Lahore has launched first official Web TV of UET. Web TV as a platform for reaching people all over the world. School of Media studies (SMS) is the first ever Media department of UET Lahore, running under the supervision of Al-Khwarizmi Institute of Computer Sciences (KICS) UET Lahore. It was inaugurated by Syed Raza Ali Gillani (Former Minister of Higher Education, GOVT of Punjab). SMS offers professional training courses in broadcast journalism. SMS provides an excellent environment including studios, NEWS Room and other facilities to train the students in an appropriate manner. It aims to provide trainings necessary to obtain a position and build a career in highly competitive, liberal dominated field of broadcast journalism. <br />
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/smsuet</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Function ^ SCHOOL ^ MEDIA STUDIES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># Function ^ SMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SCHOOL ^ MEDIA STUDIES ^ Function ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^ Function ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># MISSION ^ SCHOOL OF MEDIA STUDIES ^</pattern>
+    <template>
+        Prepare students for the society that we envision for tomorrow while making them effective, skilled, ethical communicators and citizens in a globalized world.
+    </template>
+</category>
+<category>
+    <pattern># MISSION ^ SMS ^</pattern>
+    <template>
+        Prepare students for the society that we envision for tomorrow while making them effective, skilled, ethical communicators and citizens in a globalized world.
+    </template>
+</category>
+
+<category>
+    <pattern># SCHOOL OF MEDIA STUDIES ^ MISSION ^</pattern>
+    <template>
+        Prepare students for the society that we envision for tomorrow while making them effective, skilled, ethical communicators and citizens in a globalized world.
+    </template>
+</category>
+<category>
+    <pattern># SMS ^ MISSION ^</pattern>
+    <template>
+        Prepare students for the society that we envision for tomorrow while making them effective, skilled, ethical communicators and citizens in a globalized world.
+    </template>
+</category>
+
+<category>
+    <pattern># VISION ^ SCHOOL OF MEDIA STUDIES ^</pattern>
+    <template>
+        The vision of SMS is to create and engage community where media professionals are ethical, understand practices and explore culture and public communication in a diverse and global society.
+    </template>
+</category>
+
+<category>
+    <pattern># VISION ^ SMS ^</pattern>
+    <template>
+        The vision of SMS is to create and engage community where media professionals are ethical, understand practices and explore culture and public communication in a diverse and global society.
+    </template>
+</category>
+
+<category>
+    <pattern># SCHOOL OF MEDIA STUDIES ^ VISION ^</pattern>
+    <template>
+        The vision of SMS is to create and engage community where media professionals are ethical, understand practices and explore culture and public communication in a diverse and global society.
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^ VISION ^</pattern>
+    <template>
+        The vision of SMS is to create and engage community where media professionals are ethical, understand practices and explore culture and public communication in a diverse and global society.
+    </template>
+</category>
+
+<category>
+    <pattern># AIM ^ SCHOOL OF MEDIA STUDIES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># AIMS ^ SCHOOL OF MEDIA STUDIES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># AIM ^ SMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># AIMS ^ SMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern># SCHOOL OF MEDIA STUDIES ^ AIM ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SCHOOL OF MEDIA STUDIES ^ AIMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^ AIM ^</pattern>
+   <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^ AIMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># OBJECTIVE ^ SCHOOL OF MEDIA STUDIES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># OBJECTIVES ^ SCHOOL OF MEDIA STUDIES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># OBJECTIVE ^ SMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># OBJECTIVES ^ SMS ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern># SCHOOL OF MEDIA STUDIES ^ OBJECTIVE ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SCHOOL OF MEDIA STUDIES ^ OBJECTIVES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^ OBJECTIVE ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+<category>
+    <pattern># SMS ^ OBJECTIVES ^</pattern>
+    <template>
+        University of engineering and technology has been flourished to an extent where it has
+more than 4 sub campuses and over 8000 students. Producing creative and educative content UET News will cover
+the gap and it will serve as a dedicated media cell of UET. The basic objectives of UET News are to :
+<olist>
+    <item>Promote the idea of using technology as an academic platform.</item>
+    <item>Produce and broadcast programs where knowledge, curiosity innovation and entrepreneurship will be the key for talented people around.</item>
+    <item>Promote the research based projects of UET.</item>
+    <item>Highlight Campus life and student activities.</item>
+    <item>Provide an effective communication tool to administration and students.</item>
+    <item>Encourage students to take part in discussion and debate focusing on youth.</item>
+    <item>Provide training to the students seeking career in broadcast journalism.</item>
+    <item>To address the critical need for improving communication with the stakeholders.</item>
+    <item>And much more.</item>
+</olist>
+    </template>
+</category>
+
+
+
+
+
+
+<!--Technology Incubation & Commercialization Centre (TICK)-->
+
+
+
+
+
+<category>
+    <pattern>TECHTICKICS</pattern>
+    <template>
+        <delay>2</delay>
+        TICK is a Tech. Incubator that creates investment opportunities, technology partnerships and helps grow and scale your startups to create an impact on societal level by solving some problem. We happen to be the Technology Incubation Center by Khwarizimi Institute of Computer Sciences, UET Lahore.<br />
+        for more info. visit: 
+        
+        <button>
+            <text>Technology Incubation and Commercialization Centre (TICK)</text>
+            <url>https://tick.kics.edu.pk/</url>
+        </button>
+    
+    </template>
+</category>
+
+
+<category>
+    <pattern># Technology Incubation ^ Commercialization Centre ^</pattern>
+    <template>
+        TICK is a Tech. Incubator that creates investment opportunities, technology partnerships and helps grow and scale your startups to create an impact on societal level by solving some problem. We happen to be the Technology Incubation Center by Khwarizimi Institute of Computer Sciences, UET Lahore.<br />
+        
+        <button>
+            <text>for more info.</text>
+             <url>https://tick.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># Technology Incubation ^ Commercialization Center ^</pattern>
+     <template>
+        TICK is a Tech. Incubator that creates investment opportunities, technology partnerships and helps grow and scale your startups to create an impact on societal level by solving some problem. We happen to be the Technology Incubation Center by Khwarizimi Institute of Computer Sciences, UET Lahore.<br />
+        
+        <button>
+            <text>for more info.</text>
+             <url>https://tick.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># TICK ^</pattern>
+     <template>
+        TICK is a Tech. Incubator that creates investment opportunities, technology partnerships and helps grow and scale your startups to create an impact on societal level by solving some problem. We happen to be the Technology Incubation Center by Khwarizimi Institute of Computer Sciences, UET Lahore.<br />
+        
+        <button>
+            <text>for more info.</text>
+             <url>https://tick.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+
+<!--Professional Development Center (PDC)-->
+
+
+
+
+<category>
+    <pattern>TECHPDCKICS</pattern>
+     <template>
+         <delay>2</delay>
+       Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        for more info. visit: 
+        
+        <button>
+            <text>Professional Development Center (PDC)</text>
+            <url>https://pdc.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># Professional Development Center ^</pattern>
+     <template>
+       Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://pdc.kics.edu.pk/</url>
+        </button>
+       
+    </template>
+</category>
+
+<category>
+    <pattern># Professional Development Centre ^</pattern>
+    <template>
+       Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://pdc.kics.edu.pk/</url>
+        </button>
+       
+    </template>
+</category>
+
+<category>
+    <pattern># PDC ^</pattern>
+    <template>
+       Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://pdc.kics.edu.pk/</url>
+        </button>
+       
+    </template>
+</category>
+
+
+
+
+<!--Pearson VUE Testing Center (Pearson)-->
+
+
+
+
+
+
+<category>
+    <pattern>TPEARSONKICS</pattern>
+    <template>
+        <delay>2</delay>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        for more info. visit: 
+        
+        <button>
+            <text>Pearson VUE Testing Center (Pearson)</text>
+            <url>https://pearson.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># Pearson VUE Testing Center ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://pearson.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># Pearson VUE Testing Centre ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://pearson.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># Pearson ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://pearson.kics.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+
+<!--Huawei UET Joint Telecom IT Centre (HUTIC)-->
+
+
+
+
+
+
+<category>
+    <pattern>THUTICKICS</pattern>
+    <template>
+        <delay>2</delay>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        for more info. visit: 
+        
+        <button>
+            <text>Huawei UET Joint Telecom IT Centre (HUTIC)</text>
+            <url>https://www.kics.edu.pk/hutic/</url>
+        </button>
+        
+    </template>
+</category>
+
+
+<category>
+    <pattern># Huawei UET Joint Telecom IT Center ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/hutic/</url>
+        </button>
+       
+    </template>
+</category>
+
+<category>
+    <pattern># Huawei UET Joint Telecom IT Centre ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/hutic/</url>
+        </button>
+       
+    </template>
+</category>
+
+<category>
+    <pattern># HUTIC ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/hutic/</url>
+        </button>
+       
+    </template>
+</category>
+
+
+
+
+
+
+
+
+<!--Center for Language Engineering (CLE)-->
+
+
+
+<category>
+    <pattern>TCLEKICS</pattern>
+    <template>
+        <delay>2</delay>
+       Center for Language Engineering (CLE) is conducting research and development in linguistic and computational aspects of languages, specifically of Pakistan and developing Asia. The center also actively arranges and participates in seminars, workshops and conferences dedicated to promote language processing nationally and internationally. This work will be instrumental in development of computing in relevant languages.
+
+        CLE aims to create opportunities for local populations to access information and communicate in their local languages, to enable them to use Information and Communication Technology maximally for their socio-economic benefit.<br />
+        for more info. visit: 
+        
+        <button>
+            <text>Center for Language Engineering (CLE)</text>
+            <url>https://www.kics.edu.pk/labs/about/cle</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># Center for Language Engineering ^</pattern>
+    <template>
+       Center for Language Engineering (CLE) is conducting research and development in linguistic and computational aspects of languages, specifically of Pakistan and developing Asia. The center also actively arranges and participates in seminars, workshops and conferences dedicated to promote language processing nationally and internationally. This work will be instrumental in development of computing in relevant languages.
+
+        CLE aims to create opportunities for local populations to access information and communicate in their local languages, to enable them to use Information and Communication Technology maximally for their socio-economic benefit.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/cle</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># Centre for Language Engineering ^</pattern>
+     <template>
+       Center for Language Engineering (CLE) is conducting research and development in linguistic and computational aspects of languages, specifically of Pakistan and developing Asia. The center also actively arranges and participates in seminars, workshops and conferences dedicated to promote language processing nationally and internationally. This work will be instrumental in development of computing in relevant languages.
+
+        CLE aims to create opportunities for local populations to access information and communicate in their local languages, to enable them to use Information and Communication Technology maximally for their socio-economic benefit.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/cle</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># CLE ^</pattern>
+     <template>
+       Center for Language Engineering (CLE) is conducting research and development in linguistic and computational aspects of languages, specifically of Pakistan and developing Asia. The center also actively arranges and participates in seminars, workshops and conferences dedicated to promote language processing nationally and internationally. This work will be instrumental in development of computing in relevant languages.
+
+        CLE aims to create opportunities for local populations to access information and communicate in their local languages, to enable them to use Information and Communication Technology maximally for their socio-economic benefit.<br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/cle</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+
+
+<!--Center of Energy Research And Development (CERAD)-->
+
+
+
+
+<category>
+    <pattern>TCERADKICS</pattern>
+    <template>
+        <delay>2</delay>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+        for more info. visit: 
+        
+        <button>
+            <text>CENTER OF ENERGY RESEARCH AND DEVELOPMENT (CERAD)</text>
+            <url>https://www.cerad.uet.edu.pk/</url>
+        </button>
+        
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># Center of Energy Research And Development ^</pattern>
+    <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+         
+        <button>
+            <text>for more info.</text>
+            <url>https://www.cerad.uet.edu.pk/</url>
+        </button>
+       
+    </template>
+</category>
+
+<category>
+    <pattern># Centre of Energy Research And Development ^</pattern>
+     <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br />
+         
+        <button>
+            <text>for more info.</text>
+            <url>https://www.cerad.uet.edu.pk/</url>
+        </button>
+       
+    </template>
+</category>
+
+<category>
+    <pattern># CERAD ^</pattern>
+     <template>
+        Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products.<br  />
+         
+        <button>
+            <text>for more info.</text>
+            <url>https://www.cerad.uet.edu.pk/</url>
+        </button>
+       
+    </template>
+</category>
+
+
+
+
+
+
+
+	
+<category>
+    <pattern>how many research center are there in kics *</pattern>
+    <template><srai>
+      research centers
+    </srai></template>
+</category>
+	
+
+<category>
+    <pattern>research center *</pattern>
+    <template><srai>research centers</srai></template>
+</category>
+	
+<category>
+    <pattern>* research center are there in kics</pattern>
+    <template><srai>research centers</srai></template>
+</category>
+	
+
+	
+<category>
+    <pattern># sms ^</pattern>
+    <template>school of media studies (sms), kics uet lahore has launched first official web tv of uet. </template>
+</category>	
+	
+<category>
+    <pattern>what is school of media studies do</pattern>
+    <template>
+        <srai>
+            sms
+        </srai> </template>
+</category>
+
+<category>
+    <pattern># school of media studies ^</pattern>
+    <template><srai>
+            sms
+        </srai></template>
+</category>	
+	
+<category>
+    <pattern>school of media studies *</pattern>
+    <template><srai>
+            sms
+        </srai> </template>
+</category>		
+	
+	
+<category>
+    <pattern># purpose of school of media ^</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>
+<category>
+    <pattern># aim of school of media ^</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>
+<category>
+    <pattern># aims of school of media ^</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>
+<category>
+    <pattern># objective of school of media ^</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>
+<category>
+    <pattern># objectives of school of media ^</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>
+<category>
+    <pattern># vision of school of media ^</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>
+	
+	
+<category>
+    <pattern>purpose of school of media services *</pattern>
+    <template>
+        <srai>
+            what is the purpose of school of media services
+        </srai>
+    </template>
+</category>	
+	
+	
+<category>
+    <pattern>what is the school of media services</pattern>
+    <template>school of media studies offers professional training courses in broadcast journalism</template>
+</category>	
+	
+<category>
+    <pattern>what is school of media services</pattern>
+    <template>
+        <srai>
+            what is the school of media services
+        </srai>
+    </template>
+</category>		
+<category>
+    <pattern> who is the inaugurate of school of media services</pattern>
+    <template>school of media services was inaugurated by syed raza ali gillani (former minister of higher education, govt of punjab).</template>
+</category>
+<category>
+    <pattern># inaugurate of school of media ^</pattern>
+    <template>school of media services was inaugurated by syed raza ali gillani (former minister of higher education, govt of punjab).</template>
+</category>
+
+
+<category>
+    <pattern>inaugurate of school of media services *</pattern>
+    <template><srai>
+        who is the inaugurate of school of media services
+    </srai></template>
+</category>
+
+<category>
+    <pattern># sms provides ^</pattern>
+    <template>sms provides an excellent environment including studios, news room, and other facilities to train the students in an appropriate manner</template>
+</category>
+
+<category>
+    <pattern># sms provide ^</pattern>
+    <template><srai>
+        what sms provides
+    </srai></template>
+</category>
+
+<category>
+    <pattern>^ sms provide ^</pattern>
+    <srai>
+        what sms provides
+    </srai>
+</category>
+
+<category>
+    <pattern>sms provides</pattern>
+    <template><srai>
+        what sms provides
+    </srai></template>
+</category>
+
+
+
+<category>
+    <pattern># aim of sms ^</pattern>
+    <template>It aims to provide pieces of training necessary to obtain 
+    a position and build a career in the highly competitive, liberal dominated field of broadcast journalism</template>
+</category>
+
+<category>
+    <pattern>^ aim of sms ^</pattern>
+    <template><srai>
+         aim of sms
+    </srai></template>
+</category>	
+	
+	
+	
+<category>
+    <pattern>what is the mission of sms</pattern>
+    <template>Prepare students for the society that we envision for 
+    tomorrow while making them effective, skilled, ethical communicators and citizens in a globalized world.</template>
+</category>
+
+<category>
+    <pattern># mission of sms ^</pattern>
+    <template>Prepare students for the society that we envision for 
+    tomorrow while making them effective, skilled, ethical communicators and citizens in a globalized world.</template>
+</category>
+
+	
+<category>
+    <pattern>_ mission of sms *</pattern>
+    <template><srai>
+        what is the mission of sms
+    </srai></template>
+</category>	
+	
+	
+	
+<category>
+    <pattern>what is cle</pattern>
+    <template>It is a center for language engineering (cle)</template>
+</category>
+
+<category>
+    <pattern># cle ^</pattern>
+    <template>It is a center for language engineering (cle)</template>
+</category>
+<category>
+    <pattern># center for language engineering ^</pattern>
+    <template>It is a center for language engineering (cle)</template>
+</category>
+	
+	
+<category>
+    <pattern>cle</pattern>
+    <template>It is a center for language engineering (cle)</template>
+</category>	
+	
+
+
+<category>
+    <pattern>what is the purpose of cle</pattern>
+    <template>Cle is conducting research and development in linguistic and computational aspects of languages, specifically of pakistan and developing asia.</template>
+</category>
+	
+<category>
+    <pattern># purpose of cle ^</pattern>
+    <template>Cle is conducting research and development in linguistic and computational aspects of languages, specifically of pakistan and developing asia.</template>
+</category>	
+<category>
+    <pattern># objective of cle ^</pattern>
+    <template>Cle is conducting research and development in linguistic and computational aspects of languages, specifically of pakistan and developing asia.</template>
+</category>	
+<category>
+    <pattern># objectives of cle ^</pattern>
+    <template>Cle is conducting research and development in linguistic and computational aspects of languages, specifically of pakistan and developing asia.</template>
+</category>	
+<category>
+    <pattern># vision of cle ^</pattern>
+    <template>Cle is conducting research and development in linguistic and computational aspects of languages, specifically of pakistan and developing asia.</template>
+</category>	
+
+<category>
+    <pattern>what is the aim of cle</pattern>
+    <template>Cle aims to create opportunities for local populations to access information and communicate in their local languages</template>
+</category>
+	
+<category>
+    <pattern># aim of cle ^</pattern>
+    <template>Cle aims to create opportunities for local populations to access information and communicate in their local languages</template>
+</category>	
+	
+<category>
+    <pattern>what is the mission of cle</pattern>
+    <template>Cle mission to create opportunities for local populations to access information and communicate in their local languages</template>
+</category>
+	
+	
+<category>
+    <pattern># mission of cle ^</pattern>
+    <template>
+        Cle mission to create opportunities for local populations to access information and communicate in their local languages
+    </template>
+</category>	
+	
+	
+<category>
+    <pattern>what is pte</pattern>
+    <template>Pearson test of english (pte) preparation course</template>
+</category>
+<category>
+    <pattern>what is pte *</pattern>
+    <template><srai>
+        what is pte
+    </srai></template>
+</category>	
+<category>
+    <pattern># pte ^</pattern>
+    <template>Pearson test of english (pte) preparation course</template>
+</category>	
+<category>
+    <pattern># Pearson test of english ^</pattern>
+    <template>Pearson test of english (pte) preparation course</template>
+</category>	
+<category>
+    <pattern>what is the purpose of pearson vue testing center</pattern>
+    <template>The purpose of the visit was to review the centre's operations and verify that pearson vue’s policies and procedures are being followed</template>
+</category>
+<category>
+    <pattern># purpose of pearson vue testing center ^</pattern>
+    <template>The purpose of the visit was to review the centre's operations and verify that pearson vue’s policies and procedures are being followed</template>
+</category>
+<category>
+    <pattern>what is the pearson vue testing center</pattern>
+    <template>Pearson is an International Testing Facility for CISCO, Microsoft, Royal College of
+Physicians, Saudi Commission for Health Specialists, GMAT, ORACLE, Institute of Internal
+Audit and Others</template>
+</category>
+<category>
+    <pattern># pearson vue testing center ^</pattern>
+    <template>Pearson is an International Testing Facility for CISCO, Microsoft, Royal College of
+Physicians, Saudi Commission for Health Specialists, GMAT, ORACLE, Institute of Internal
+Audit and Others</template>
+</category>	
+<category>
+    <pattern>what is the link of pearson vue testing center</pattern>
+    <template>About kics registration exams center guide</template>
+</category>
+<category>
+    <pattern>link of pearson vue testing center</pattern>
+    <template><srai>
+        what is the link of pearson vue testing cente
+    </srai></template>
+</category>
+<category>
+    <pattern>what is the feedback of pearson vue testing center</pattern>
+    <template>Please send us your ideas, bug reports, suggestions! any feedback would be appreciated. </template>
+</category>
+<category>
+    <pattern># feedback of pearson vue testing center ^</pattern>
+    <template>Please send us your ideas, bug reports, suggestions! any feedback would be appreciated. </template>
+</category>
+<category>
+    <pattern># what is the meaning of huawei ^</pattern>
+    <template>Huawei uet joint telecom it centre (hutic)</template>
+</category>
+<category>
+    <pattern># huawei ^</pattern>
+    <template>Huawei uet joint telecom it centre (hutic)</template>
+</category>
+<category>
+    <pattern># meaning of huawei ^</pattern>
+    <template>Huawei uet joint telecom it centre (hutic)</template>
+</category>
+<category>
+    <pattern>what is the offer of huawei hutic</pattern>
+    <template>This centre provides a perfect place for students to gain experience and knowledge related to practical approach of communication standards.</template>
+</category>
+<category>
+    <pattern># offer of huawei hutic ^</pattern>
+    <template>This centre provides a perfect place for students to gain experience and knowledge related to practical approach of communication standards.</template>
+</category>
+<category>
+    <pattern># offer of huawei ^</pattern>
+    <template>This centre provides a perfect place for students to gain experience and knowledge related to practical approach of communication standards.</template>
+</category>
+<category>
+    <pattern># offers of hutic ^</pattern>
+    <template>This centre provides a perfect place for students to gain experience and knowledge related to practical approach of communication standards.</template>
+</category>
+<category>
+    <pattern># offers of huawei ^</pattern>
+    <template>This centre provides a perfect place for students to gain experience and knowledge related to practical approach of communication standards.</template>
+</category>
+<category>
+    <pattern>what is the tel number of hutic</pattern>
+    <template>tel: 0092-42-99029450 Mr. Kashif Bashir   </template>
+</category>
+<category>
+    <pattern># number of hutic ^</pattern>
+    <template>tel: 0092-42-99029450 Mr. Kashif Bashir   </template>
+</category>
+<category>
+    <pattern>what is the tel number of huawei *</pattern>
+    <template><srai>
+        what is the tel number of hutic
+    </srai>  </template>
+</category>	
+<category>
+    <pattern>* tel number of hutic </pattern>
+    <template><srai>
+        what is the tel number of hutic
+    </srai>  </template>
+</category>
+<category>
+    <pattern>* number of huawei</pattern>
+    <template><srai>
+        what is the tel number of hutic
+    </srai></template>
+</category>		
+<category>
+    <pattern>what is the email of hutic</pattern>
+    <template>kashif@kics.edu.pk  
+	kashif818@yahoo.com   </template>
+</category>
+<category>
+    <pattern># email of hutic ^</pattern>
+    <template>kashif@kics.edu.pk  
+	kashif818@yahoo.com   </template>
+</category>
+<category>
+    <pattern>what is the email of huawei</pattern>
+    <template><srai>
+      email of hutic
+    </srai>  </template>
+</category>
+		
+<category>
+    <pattern>* email of hutic *</pattern>
+    <template><srai>
+       email of hutic
+    </srai>  </template>
+</category>
+<category>
+    <pattern># email of huawei ^</pattern>
+ <template>kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com   </template>
+</category>	
+	<category>
+    <pattern>* email of huawei *</pattern>
+    <template><srai>
+     email of hutic
+    </srai>   </template>
+</category>	
+<category>
+    <pattern># contact ^ hutic ^</pattern>
+     <template>+92-345-4117221  <br /> 
+    +92-323-4480000  <br />
+    +92-42-99029450 <br /> kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com</template>
+</category>
+<category>
+    <pattern># TALK ^  hutic ^</pattern>
+     <template>+92-345-4117221  <br /> 
+    +92-323-4480000  <br />
+    +92-42-99029450 <br /> kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com</template>
+</category>
+<category>
+    <pattern># contact ^ huawei ^</pattern>
+     <template>+92-345-4117221  <br /> 
+    +92-323-4480000  <br />
+    +92-42-99029450 <br /> kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com</template>
+</category>
+<category>
+    <pattern># phone ^ huawei ^</pattern>
+    <template>+92-345-4117221  <br /> 
+    +92-323-4480000  <br />
+    +92-42-99029450 <br /> kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com</template>
+</category>
+<category>
+    <pattern># TALK ^  huawei ^</pattern>
+    <template>+92-345-4117221  <br /> 
+    +92-323-4480000  <br />
+    +92-42-99029450 <br /> kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com</template>
+</category>
+<category>
+    <pattern># phone ^ hutic ^</pattern>
+    <template>+92-345-4117221  <br /> 
+    +92-323-4480000  <br /><split/>
+    +92-42-99029450 <br /> kashif@kics.edu.pk   <br />
+	kashif818@yahoo.com</template>
+</category>
+	
+	
+</aiml>

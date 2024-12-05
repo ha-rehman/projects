@@ -1,0 +1,200 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Online Teaching Assesment</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="{% static 'images/icons/favicon.ico' %}"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'fonts/font-awesome-4.7.0/css/font-awesome.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/animate/animate.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/css-hamburgers/hamburgers.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'vendor/select2/select2.min.css' %}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{% static 'css/util.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/main_student.css' %}">
+<!--===============================================================================================-->
+</head>
+<body>
+
+	<div class="contact1">
+		<div class="container-contact1">
+
+			<div class="contact1-pic js-tilt1">
+				<img src="{% static 'images/img-01.png' %}" alt="IMG" class="js-tilt">
+                <h2 class="js-tilt" style="display: none; font-size: 76px; font-weight: bold; text-align: center; color: #57b846"></h2>
+                <p style="display: none; text-align: center; font-size: 24px; font-family: Montserrat-ExtraBold; color: #333333">Evaluation Score</p>
+
+			</div>
+
+			<form class="contact1-form validate-form" style="width: ">
+                {% csrf_token %}
+				<span class="contact1-form-title">
+					Student Score Evaluation
+				</span>
+
+				<div class="wrap-input1 validate-input" data-validate = "Name is required">
+					<select class="custom-select input1" id="inputGroupSelect01" name="feedback" style="border-radius: 25px; height: 50px; padding: 0 30px" required>
+                        <option selected="selected" disabled>Select feedback option</option>
+                        <option value="Excellent">Excellent</option>
+                        <option value="Good">Good</option>
+                        <option value="Average">Average</option>
+                        <option value="Bad">Bad</option>
+                    </select>
+					<span class="shadow-input1"></span>
+				</div>
+
+                <div class="form-row">
+                    <div class="wrap-input1 validate-input col" data-validate = "Valid email is required: ex@abc.xyz">
+                        <input class="input1" type="number" min="0" max="365" name="attendance" placeholder="Attendance in Course" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+
+                    <div class="wrap-input1 validate-input col" data-validate = "Subject is required">
+                        <input class="input1" type="number" min="0" max="100" name="course-access" placeholder="Course Access" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="wrap-input1 validate-input col" data-validate = "Message is required">
+                        <input class="input1" type="number" min="0" max="5000" name="resource-visit" placeholder="Resource Visit" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <div class="wrap-input1 validate-input col" data-validate = "Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="submission" placeholder="On time submission" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="wrap-input1 validate-input col" data-validate = "Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="assignment1" placeholder="Assignment 1 marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <div class="wrap-input1 validate-input col" data-validate = "Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="assignment2" placeholder="Assignment 2 marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <div class="wrap-input1 validate-input col" data-validate = "Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="assignment3" placeholder="Assignment 3 marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="wrap-input1 validate-input col" data-validate="Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="exam1"
+                               placeholder="Exam 1 Marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <div class="wrap-input1 validate-input col" data-validate="Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="exam2"
+                               placeholder="Exam 2 Marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="wrap-input1 validate-input col" data-validate="Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="exam3"
+                               placeholder="Exam 3 Marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+
+                    <div class="wrap-input1 validate-input col" data-validate="Message is required">
+                        <input class="input1" type="number" min="0" max="100" name="exam4"
+                               placeholder="Exam 4 Marks" required>
+                        <span class="shadow-input1"></span>
+                    </div>
+                </div>
+
+                <div class="wrap-input1 validate-input" data-validate = "Message is required">
+					<input class="input1" type="number" min="0" max="100" name="project" placeholder="Student Project Mark">
+					<span class="shadow-input1"></span>
+				</div>
+
+				<div class="container-contact1-form-btn">
+					<button class="contact1-form-btn">
+						<span>
+							Predict Now
+							<i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+						</span>
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+
+
+
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/jquery/jquery-3.2.1.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/bootstrap/js/popper.js' %}"></script>
+	<script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/select2/select2.min.js' %}"></script>
+<!--===============================================================================================-->
+	<script src="{% static 'vendor/tilt/tilt.jquery.min.js' %}"></script>
+	<script >
+		$('.js-tilt').tilt({
+			scale: 1.1
+		})
+	</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+<!--===============================================================================================-->
+{#	<script src="{% static 'js/main.js' %}"></script>#}
+
+    <script>
+
+        $(".contact1-form").submit(function (e) {
+            // preventing from page reload and default actions
+            e.preventDefault();
+            // serialize the data for sending the form data.
+            var serializedData = $(this).serialize();
+            // make POST ajax call
+            $.ajax({
+                type: 'POST',
+                url: "{% url 'get_student_score' %}",
+                data: serializedData,
+                success: function (response) {
+                    console.log(response.Score);
+                    $('.js-tilt1 h2').text(response.Score);
+                    $('.js-tilt1 img').hide();
+                    $('.js-tilt1 h2').show();
+                    $('.js-tilt1 p').show();
+                },
+                error: function (response) {
+                    // alert the error if any error occured
+                    alert(response["responseJSON"]["error"]);
+                }
+            })
+        })
+    </script>
+
+</body>
+</html>

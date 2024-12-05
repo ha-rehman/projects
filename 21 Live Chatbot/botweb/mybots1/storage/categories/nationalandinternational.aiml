@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+<!--national and international collaborations-->
+<category>
+    <pattern>how many national and international organizations collaborate with kics</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>
+<category>
+    <pattern># national and international organizations collaborate ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>
+<category>
+    <pattern># collaboration ^</pattern>
+    <template><srai>how many national and international organizations collaborate with kics</srai></template>
+</category>
+<category>
+    <pattern>how many national and international organizations collaboration with kics *</pattern>
+    <template><srai>how many national and international organizations collaborate with kics</srai></template>
+</category>	
+
+<category>
+    <pattern>_ national and international organization collaboration with kics</pattern>
+    <template><srai>how many national and international organizations collaborate with kics</srai></template>
+</category>		
+
+<category>
+    <pattern>national and international organizations collaborate with kics</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># national and international organizations collaboration ^</pattern>
+    <template><srai>how many national and international organizations collaborate with kics</srai></template>
+</category>	
+	
+	
+<category>
+    <pattern>national and international organization collaboration with kics</pattern>
+    <template><srai>how many national and international organizations collaborate with kics</srai></template>
+</category>		
+
+<category>
+    <pattern>national and international organizations collaborate *</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>		
+	
+<category>
+    <pattern>national and international organizations collaboration</pattern>
+    <template><srai>how many national and international organizations collaborate with kics</srai></template>
+</category>			
+<category>
+    <pattern>national and international</pattern>
+    <template><srai>
+        national and international organizations collaborate *
+    </srai></template>
+</category>			
+	
+<category>
+    <pattern>national and international *</pattern>
+    <template><srai>
+        national and international organizations collaborate *
+    </srai></template>
+</category>		
+	
+
+
+<category>
+    <pattern># clients ^ kics ^</pattern>
+    <template>national ict research and development fund, uet lahore, sport board punjab, orient power, higher education commission, witribe, 
+    govt of the punjab, mit, wapda, huawei, broad institute, ieee, 1122 rescue, research projects are clients of kics</template>
+</category>
+	
+<category>
+    <pattern># client ^ kics ^</pattern>
+    <template>national ict research and development fund, uet lahore, sport board punjab, orient power, higher education commission, witribe, 
+    govt of the punjab, mit, wapda, huawei, broad institute, ieee, 1122 rescue, research projects are clients of kics</template>
+</category>
+	
+<category>
+    <pattern># KICS ^ client ^</pattern>
+    <template>national ict research and development fund, uet lahore, sport board punjab, orient power, higher education commission, witribe, 
+    govt of the punjab, mit, wapda, huawei, broad institute, ieee, 1122 rescue, research projects are clients of kics</template>
+</category>
+<category>
+    <pattern># KICS ^ clients ^</pattern>
+    <template>national ict research and development fund, uet lahore, sport board punjab, orient power, higher education commission, witribe, 
+    govt of the punjab, mit, wapda, huawei, broad institute, ieee, 1122 rescue, research projects are clients of kics</template>
+</category>
+	
+	
+	
+<category>
+    <pattern>how many projects has been the kics completed</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>
+
+	
+<category>
+    <pattern># kics ^ projects ^ completed ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ project ^ completed ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># kics ^ completed ^ projects ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ completed ^ project ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># completed ^ project ^ kics ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+<category>
+    <pattern># completed ^ projects ^ kics ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># project ^ kics ^ completed ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+<category>
+    <pattern># projects ^ kics ^ completed ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+
+
+
+<category>
+    <pattern># kics ^ projects ^ complete ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ project ^ complete ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># kics ^ complete ^ projects ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ complete ^ project ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># complete ^ project ^ kics ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+<category>
+    <pattern># complete ^ projects ^ kics ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># project ^ kics ^ complete ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+<category>
+    <pattern># projects ^ kics ^ complete ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+
+
+<category>
+    <pattern># kics ^ projects ^ completes ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ project ^ completes ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># kics ^ completes ^ projects ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ completes ^ project ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># completes ^ project ^ kics ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+<category>
+    <pattern># completes ^ projects ^ kics ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+<category>
+    <pattern># project ^ kics ^ completes ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+<category>
+    <pattern># projects ^ kics ^ completes ^</pattern>
+    <template>kics has successfully completed 104 projects and has 30 ongoing projects as well being done at various labs.</template>
+</category>	
+
+
+
+<category>
+    <pattern># project ^ kics ^ on going ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+<category>
+    <pattern># projects ^ kics ^ on going ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>
+
+<category>
+    <pattern># project ^ kics ^ ongoings ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+<category>
+    <pattern># projects ^ kics ^ ongoings ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>
+
+<category>
+    <pattern># kics ^ projects ^ on going ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ project ^ on going ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+<category>
+    <pattern># kics ^ projects ^ ongoings ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ project ^ ongoings ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>
+
+<category>
+    <pattern># kics ^ projects ^ ongoing ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ project ^ ongoing ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+
+<category>
+    <pattern># on going ^ project ^ kics ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+<category>
+    <pattern># on going ^ projects ^ kics ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+
+<category>
+    <pattern># ongoing ^ project ^ kics ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+<category>
+    <pattern># ongoing ^ projects ^ kics ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+<category>
+    <pattern># project ^ kics ^ ongoing ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+<category>
+    <pattern># projects ^ kics ^ ongoing ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>
+
+
+<category>
+    <pattern># ongoings ^ project ^ kics ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+<category>
+    <pattern># ongoings ^ projects ^ kics ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+
+
+<category>
+    <pattern># kics ^ on going ^ projects ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ on going ^ project ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+
+<category>
+    <pattern># kics ^ ongoing ^ projects ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ ongoing ^ project ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+<category>
+    <pattern># kics ^ ongoings ^ projects ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+	
+<category>
+    <pattern># kics ^ ongoings ^ project ^</pattern>
+    <template>kics has signed agreements and mous with more than 100 national and
+    international research and academic organizations and industry for mutual research and development collaborations.</template>
+</category>	
+
+	
+	
+	
+</aiml>

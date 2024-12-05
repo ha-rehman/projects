@@ -1,0 +1,2367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+    <pattern># KICS ^</pattern>
+    <template>
+        KICS was established in <bot name="established"/><think><set name="it"><set name="topic">history of kics</set></set></think> at the UET for conducting research and development
+        activities in the fields of computer science and information technology
+        <br/> My Bad: If I can't responsed correctly to your query, 
+        <button>
+            <text>for more info.</text>
+            <url>https://kics.edu.pk/web/</url>
+        </button>
+	   <br/>
+        I'm Still Learning and trying my best to answer correctly to all of your queries!
+    </template>
+</category>
+<category>
+    <pattern># HISTORY ^ KICS ^</pattern>
+    <template>KICS was established in <bot name="established"/><think><set name="it"><set name="topic">history of kics</set></set></think> at the (UET for conducting research and development
+    activities in the fields of computer science and information technology
+</template>
+</category>
+<category>
+    <pattern># KICS ^ HISTORY ^</pattern>
+    <template>KICS was established in <bot name="established"/><think><set name="it"><set name="topic">history of kics</set></set></think> at the UET for conducting research and development
+    activities in the fields of computer science and information technology
+</template>
+</category>
+<category>
+    <pattern>WHAT IS KICS</pattern>
+    <template><set name="This">KICS</set> is a Al-khawazmi institute of Computer Science (Kics)</template>
+</category>
+
+<category>
+    <pattern>WHAT IS KICS STANDS FOR</pattern>
+    <template><set name="This">KICS</set> is a Al-khawazmi institute of Computer Science (Kics)</template>
+</category>
+
+<category>
+    <pattern># KICS ^ STANDS  ^</pattern>
+    <template><set name="This">KICS</set> is a Al-khawazmi institute of Computer Science (Kics)</template>
+</category>
+<category>
+    <pattern># KICS ^ STAND ^</pattern>
+    <template><set name="This">KICS</set> is a Al-khawazmi institute of Computer Science (Kics)</template>
+</category>
+
+
+<category>
+<pattern>WHAT IS KICS STAND FOR</pattern>
+<template><set name="This">KICS</set> is a Al-khawazmi institute of Computer Science (Kics)</template>
+</category>
+
+<category><pattern># KICS ^ ESTABLISHED ^</pattern>
+<template>(kics) <think><set name="it"><set name="topic">kics established</set></set></think>was established in <bot name="established"/> </template>
+</category>	
+<category><pattern># KICS ^ ESTABLISH ^</pattern>
+<template>(kics) <think><set name="it"><set name="topic">kics established</set></set></think>was established in <bot name="established"/> </template>
+</category>		    
+
+
+<category>
+    <pattern>why was kics established</pattern>
+    <template><srai>KICS ESTABLISHED</srai></template>
+</category>
+
+<category>
+    <pattern>when was kics developed</pattern>
+    <template><srai>KICS ESTABLISHED</srai></template>
+</category>
+<category>
+    <pattern># kics ^ developed</pattern>
+    <template><srai>KICS ESTABLISHED</srai></template>
+</category>
+
+<category>
+    <pattern>what about kics</pattern>
+    <template><srai>HISTORY OF KICS</srai></template>
+</category>
+
+<category>
+    <pattern>about kics</pattern>
+    <template><srai>HISTORY OF KICS</srai></template>
+</category>
+<category>
+    <pattern>* about of kics</pattern>
+    <template><srai>HISTORY OF KICS</srai></template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT KICS</pattern>
+    <template><srai>HISTORY OF KICS</srai></template>
+</category>
+
+<category>
+    <pattern>TELL ME SOMETHING ABOUT KICS</pattern>
+    <template><srai>HISTORY OF KICS</srai></template>
+</category>
+
+<category>
+    <pattern>why kics equipped with high quality technology research and tools</pattern>
+    <template>It was envisioned as an institute for advanced and high quality
+</template>
+</category>
+
+
+<category>
+    <pattern># PURPOSE OF KICS</pattern>
+    <template>kics is envisioned to play a key role in taking the country towards <think><set name="it"><set name="topic">purpose of kics</set></set></think>knowledge-based  economy </template>
+</category>
+    
+<category>
+    <pattern># role ^ kics ^</pattern>
+    <template><srai>PURPOSE OF KICS</srai></template>
+</category>
+
+<category>
+    <pattern># KICS ^ COLLABORATION ^ </pattern>
+    <template>KICS is a research working in collaboration with industries and other academic institutions on 
+    national and international levels to bring about the IT revolution in pakistan</template>
+</category>
+<category>
+    <pattern># KICS ^ COLLABORATIONS ^ </pattern>
+    <template>KICS is a research working in collaboration with industries and other academic institutions on 
+    national and international levels to bring about the IT revolution in pakistan</template>
+</category>
+<category>
+    <pattern># KICS ^ COLLABORATE ^</pattern>
+    <template>KICS is a research working in collaboration with industries and other academic institutions on 
+    national and international levels to bring about the IT revolution in pakistan</template>
+</category>
+
+<category>
+    <pattern>how kics collaborate with other industries</pattern>
+    <template><srai>KICS COLLABORATE</srai></template>
+</category>
+
+<category>
+    <pattern># EFFECT ^ KICS ^</pattern>
+    <template>kics is an academic institution on national and international levels to bring 
+    about it revolution in pakistan and help build a knowledge-driven economy.</template>
+</category>
+
+<category>
+    <pattern>what is the effect of kics on the economy of country</pattern>
+    <template><srai>EFFECT OF KICS</srai></template>
+</category>
+
+<category>
+    <pattern># KICS CALLED KICS ^</pattern>
+    <template>The institute is named after one the greatest muslim scholars muhammad ibn musa al-khwarizmi (780 ad to 850 ad) to
+    commemorate his out-standing contributions in the field of mathematics. <br/>
+    Al-khwarizmi introduced the fundamental concepts of algebra and trigonometry. <br/>
+    Al-khwarizmi’s work laid the foundations for the building of computers, and the creation of encryption in the 20th century.</template>
+</category>
+
+
+<category><pattern># KICS ^ WEBSITE ^</pattern>
+<template>
+    <button>
+        <text>kics website is</text>
+        <url>https://kics.edu.pk/web/</url>
+    </button>
+</template>
+</category>
+
+<category><pattern># WEBSITE ^ KICS ^</pattern>
+<template>
+    <button>
+        <text>kics website is</text>
+        <url>https://kics.edu.pk/web/</url>
+    </button>
+</template>
+</category>
+
+
+<category><pattern># kicsbot ^</pattern>
+<template>Well, yes I am a <bot name="bot"/>.</template>
+</category>	
+
+
+<category><pattern>ARE YOU A kics bot</pattern>
+<template><srai>kicsbot</srai></template>
+</category>	
+
+<category>
+    <pattern># VISION ^ KICS ^</pattern>
+    <template>kics’s vision is to become a leading research and advance technology organization in critical areas of 
+    national interest and take the country towards knowledge-based economy and competitive industrialization</template>
+</category>
+<category>
+    <pattern> vision kics</pattern>
+     <template><srai>VISION OF KICS</srai></template>
+</category>	
+<category>
+    <pattern># KICS ^ VISION ^</pattern>
+     <template><srai>VISION OF KICS</srai></template>
+</category>	
+
+<category>
+    <pattern># ROLE ^ KICS ^</pattern>
+    <template>kics is envisioned to play a key role in taking the country 
+    towards knowledge-based economy and to focus on developing world class
+</template>
+</category>
+
+<category>
+    <pattern># KICS ^ ROLE ^</pattern>
+    <template><srai>ROLE OF KICS</srai>
+</template>
+</category>	
+	
+<category>
+    <pattern>what is key role of kics towards country</pattern>
+    <template><srai>ROLE OF KICS</srai>
+</template>
+</category>	
+	
+<category>
+    <pattern>key role of kics </pattern>
+    <template><srai>ROLE OF KICS</srai>
+</template>
+</category>	
+
+<category>
+    <pattern>TELL ME ABOUT THE ROLE OF KICS</pattern>
+    <template><srai>ROLE OF KICS</srai>></template>
+</category>
+
+<category>
+    <pattern>what are the key role of kics </pattern>
+    <template><srai>ROLE OF KICS</srai>
+</template>
+</category>	
+
+<category>
+    <pattern>what are the key role of kics towards country</pattern>
+    <template><srai>ROLE OF KICS</srai>
+</template>
+</category>	
+
+<category>
+    <pattern># OBJECTIVE ^ KICS ^</pattern>
+    <template>kics aspires to become a premier research and advanced technology organization in the fields of computer
+    sciences and information technology and establish itself as a centre of excellence recognized for cutting-edge research</template>
+</category>
+
+<category>
+    <pattern># OBJECTIVES ^ KICS ^</pattern>
+    <template>kics aspires to become a premier research and advanced technology organization in the fields of computer
+    sciences and information technology and establish itself as a centre of excellence recognized for cutting-edge research</template>
+</category>
+
+
+
+<category>
+    <pattern># KICS ^ OBJECTIVE ^</pattern>
+    <template>
+       kics aspires to become a premier research and advanced technology organization in the fields of computer
+    sciences and information technology and establish itself as a centre of excellence recognized for cutting-edge research
+    </template>
+</category>	
+
+
+<category>
+    <pattern># KICS ^ OBJECTIVES ^</pattern>
+    <template>
+       kics aspires to become a premier research and advanced technology organization in the fields of computer
+    sciences and information technology and establish itself as a centre of excellence recognized for cutting-edge research
+    </template>
+</category>	
+		
+			
+		
+
+<!--mission-->
+
+<category>
+    <pattern># MISSION ^ KICS ^</pattern>
+    <template>The institute works with a clear mission to provide the country with trained resources for development of 
+    high-tech products and services and to exercise commercialization through incubation of high-tech companies.</template>
+</category>
+
+<category>
+    <pattern># KICS ^ MISSION ^</pattern>
+    <template>The institute works with a clear mission to provide the country with trained resources for development of 
+    high-tech products and services and to exercise commercialization through incubation of high-tech companies.</template>
+</category>
+
+<category>
+    <pattern>MISSION</pattern>
+    <template>The institute works with a clear mission to provide the country with trained resources for development of 
+    high-tech products and services and to exercise commercialization through incubation of high-tech companies.</template>
+</category>
+
+
+<!--R&D-->
+
+<category>
+    <pattern># CULTURE ^ R ^ D ^</pattern>
+    <template>kics promoting research and development culture in the country through technology innovation and industrial collaboration.</template>
+</category>
+<category>
+    <pattern># CULTURE ^ research and development ^</pattern>
+    <template>kics promoting research and development culture in the country through technology innovation and industrial collaboration.</template>
+</category>
+
+<category>
+    <pattern># research and development ^</pattern>
+    <template>kics promoting research and development culture in the country through technology innovation and industrial collaboration.</template>
+</category>
+<category>
+    <pattern># R ^ D ^</pattern>
+    <template>kics promoting research and development culture in the country through technology innovation and industrial collaboration.</template>
+</category>
+
+
+<category>
+    <pattern># kics promote culture ^</pattern>
+    <template><srai>CULTURE OF R AND D</srai></template>
+</category>
+
+<category>
+    <pattern># promote culture ^</pattern>
+    <template><srai>CULTURE OF R AND D</srai></template>
+</category>
+
+<category>
+    <pattern>CULTURE</pattern>
+    <template><srai>CULTURE OF R AND D</srai></template>
+</category>
+
+<!--wants-->
+
+<category>
+    <pattern>what culture kics wants to promote</pattern>
+    <template><srai>CULTURE OF R AND D</srai></template>
+</category>
+
+<category>
+    <pattern># culture kics ^</pattern>
+    <template><srai>CULTURE OF R AND D</srai></template>
+</category>
+
+
+<category>
+    <pattern># KICS WANTS ^</pattern>
+    <template>kics wants to become a center recognized for technology innovation and industrial collaboration.
+    providing the country with trained resources for development of high-tech products and services.</template>
+</category>
+
+
+<category>
+    <pattern>what is kics wants to do</pattern>
+    <template><srai>KICS WANTS</srai></template>
+</category>
+
+<category>
+    <pattern># KICS WANT ^</pattern>
+    <template><srai>KICS WANTS</srai></template>
+</category>
+
+
+<category>
+    <pattern>_ kics wants</pattern>
+    <template><srai>KICS WANTS</srai></template>
+</category>
+
+<!--aim and objective-->
+
+<category>
+    <pattern># AIMS ^ OBJECTIVES ^ KICS ^</pattern>
+    <template>Following main aims and objectives of kics are:<br/>
+    • To focus on developing world class applied research resources in algorithms, software engineering and digital control systems.<br/>
+    • To engage capable and talented researchers and provide them with an environment and direction for creating innovative technologies and products.<br/>
+    • To bridge the existing gap between pakistani academia and industry by training the young graduates according to the requirements of job market through active collaboration with the local industry.<br/>
+    • To nurture and promote the culture of result-oriented research and development activities and using information communication technology (ict) for the socio-economic development of our country.</template>
+</category>
+
+<category>
+    <pattern># AIMS ^ KICS ^</pattern>
+    <template>Following main aims and objectives of kics are:<br/>
+    • To focus on developing world class applied research resources in algorithms, software engineering and digital control systems.<br/>
+    • To engage capable and talented researchers and provide them with an environment and direction for creating innovative technologies and products.<br/>
+    • To bridge the existing gap between pakistani academia and industry by training the young graduates according to the requirements of job market through active collaboration with the local industry.<br/>
+    • To nurture and promote the culture of result-oriented research and development activities and using information communication technology (ict) for the socio-economic development of our country.</template>
+</category>
+<category>
+    <pattern># AIM ^ KICS ^</pattern>
+    <template>Following main aims and objectives of kics are:<br/>
+    • To focus on developing world class applied research resources in algorithms, software engineering and digital control systems.<br/>
+    • To engage capable and talented researchers and provide them with an environment and direction for creating innovative technologies and products.<br/>
+    • To bridge the existing gap between pakistani academia and industry by training the young graduates according to the requirements of job market through active collaboration with the local industry.<br/>
+    • To nurture and promote the culture of result-oriented research and development activities and using information communication technology (ict) for the socio-economic development of our country.</template>
+</category>
+
+<category>
+    <pattern># AIM ^ OBJECTIVE ^ KICS ^</pattern>
+    <template>Following main aims and objectives of kics are:<br/>
+    • To focus on developing world class applied research resources in algorithms, software engineering and digital control systems.<br/>
+    • To engage capable and talented researchers and provide them with an environment and direction for creating innovative technologies and products.<br/>
+    • To bridge the existing gap between pakistani academia and industry by training the young graduates according to the requirements of job market through active collaboration with the local industry.<br/>
+    • To nurture and promote the culture of result-oriented research and development activities and using information communication technology (ict) for the socio-economic development of our country.</template>
+</category>
+
+<category>
+    <pattern>what are main aims and objectives of kics</pattern>
+    <template><srai>AIMS AND OBJECTIVES</srai></template>
+</category>
+
+
+<category>
+    <pattern>what are main aims and objectives of kics</pattern>
+    <template><srai>AIMS AND OBJECTIVES</srai></template>
+</category>
+
+
+<category>
+    <pattern>aims and objectives * </pattern>
+    <template><srai>AIMS AND OBJECTIVES</srai></template>
+</category>
+
+<category>
+    <pattern>main aim and objective of kics</pattern>
+    <template><srai>AIMS AND OBJECTIVES</srai></template>
+</category>
+
+
+<!--Directors-->
+
+<category>
+    <pattern># DIRECTOR ^ KICS ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+	
+<category>
+    <pattern>who is director of kics</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>	
+	
+<category>
+    <pattern>director of kics</pattern>
+   <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>		
+	
+<category>
+    <pattern>kics of director</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+
+<category>
+    <pattern># kics ^ director ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+
+
+<category>
+    <pattern># MESSAGE ^ DIRECTOR ^</pattern>
+    <template>kics is on a fast track to become a premier research and advanced technology organization in pakistan.
+    today, kics is recognized as one of the leading computer science research centers in the country.</template>
+</category>	
+<category>
+    <pattern># DIRECTOR ^ MESSAGE ^</pattern>
+    <template>kics is on a fast track to become a premier research and advanced technology organization in pakistan.
+    today, kics is recognized as one of the leading computer science research centers in the country.</template>
+</category>	
+<category>
+    <pattern># DIRECTORS ^ MESSAGE ^</pattern>
+    <template>kics is on a fast track to become a premier research and advanced technology organization in pakistan.
+    today, kics is recognized as one of the leading computer science research centers in the country.</template>
+</category>	
+<category>
+    <pattern># KICS ^ DIRECTORS ^ MESSAGE ^</pattern>
+    <template>kics is on a fast track to become a premier research and advanced technology organization in pakistan.
+    today, kics is recognized as one of the leading computer science research centers in the country.</template>
+</category>	
+
+<category>
+    <pattern>$what message conveyed by the director of kics</pattern>
+    <template><srai>MESSAGE OF DIRECTOR</srai></template>
+</category>
+<category>
+    <pattern>* message of director of kics</pattern>
+    <template><srai>MESSAGE OF DIRECTOR</srai></template>
+</category>	
+<category>
+    <pattern> director message</pattern>
+    <template><srai>MESSAGE OF DIRECTOR</srai></template>
+</category>	
+
+<category>
+    <pattern>what is the contact number of * directors</pattern>
+    <template><bot name="number"/></template>
+</category>	
+
+<category>
+    <pattern>what is * contact number of director</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># contact ^ director ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># PHONE ^ director ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># PHONE ^ head ^ kics ^</pattern>
+    <template>director@kics.edu.pk <br/>
++92-42-99029450</template>
+</category>
+
+<category>
+    <pattern># contact ^ head ^ kics ^</pattern>
+    <template>director@kics.edu.pk <br/>
++92-42-99029450</template>
+</category>
+
+<category>
+    <pattern># talk ^ head ^ kics ^</pattern>
+    <template>director@kics.edu.pk <br/>
++92-42-99029450</template>
+</category>
+
+<category>
+    <pattern># PHONE ^ <bot name="personname"/> ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># PHONE ^ DR. WAQAR MAHMOOD ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># PHONE ^ DR. WAQAR MEHMOOD ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+<category>
+    <pattern># PHONE ^ DR WAQAR MAHMOOD ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ <bot name="personname"/> ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+
+
+<category>
+    <pattern># CONTACT ^ DR. WAQAR MEHMOOD ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+<category>
+    <pattern># CONTACT ^ DR. WAQAR MAHMOOD ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+<category>
+    <pattern># CONTACT ^ DR WAQAR MAHMOOD ^</pattern>
+    <template><bot name="number"/></template>
+</category>
+	
+
+	
+<category>
+    <pattern>what is contact number of kics directors</pattern>
+     <template><bot name="number"/></template>
+</category>	
+<category>
+    <pattern>what is contact number of kics director</pattern>
+    <template><bot name="number"/></template>
+</category>	
+
+<category>
+    <pattern>$contact number of director *</pattern>
+   <template><bot name="number"/></template>
+</category>	
+<category>
+    <pattern># EMAIL ^ DIRECTOR ^</pattern>
+    <template><bot name="email"/></template>
+</category>
+<category>
+    <pattern># DIRECTOR ^ EMAIL ^</pattern>
+    <template><bot name="email"/></template>
+</category>
+<category>
+    <pattern>what is the email of directors of kics</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+<category>
+    <pattern>what is the email of directors</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern>what is the email of kics directors</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern>what is the email of kics director</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern>what is email of kics director</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>	
+
+<category>
+    <pattern>what is email of kics directors</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>	
+
+<category>
+    <pattern>what is email of  director of kics</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>	
+
+<category>
+    <pattern># EMAIL OF KICS DIRECTOR</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern># EMAIL OF KICS DIRECTORS</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern># EMAIL OF <bot name="personname"/></pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern># EMAIL OF Dr. Waqar Mahmood</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+<category>
+    <pattern># EMAIL OF Dr Waqar Mahmood</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category>
+    <pattern>email of Dr. Waqar Mehmood</pattern>
+    <template><srai>EMAIL OF DIRECTOR</srai></template>
+</category>
+
+<category><pattern># HEAD ^ KICS ^</pattern>
+<template><bot name="personname"/><think> <set name="he">Dr. Waqar Mehmood</set> </think>, is the head of kics</template>
+</category>	
+<category><pattern># KICS ^ HEAD ^</pattern>
+<template><bot name="personname"/><think> <set name="he">Dr. Waqar Mehmood</set> </think>, is the head of kics</template>
+</category>	
+
+
+
+<category>
+    <pattern># TALK ^ DIRECTOR ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+
+<category>
+    <pattern># TALK ^ WAQAR MEHMOOD ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># who ^ WAQAR MEHMOOD ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+<category>
+    <pattern># who ^ WAQAR  ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+<category>
+    <pattern># WAQAR  ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+<category>
+    <pattern># KICS ^ WAQAR ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/> 
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+
+
+<category>
+    <pattern># TALK ^ WAQAR MAHMOOD ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># TALK ^ WAQAR  ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+
+
+
+
+<category>
+    <pattern># CONTACT ^ DIRECTOR ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+
+<category>
+    <pattern># CONTACT ^ WAQAR MEHMOOD ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ WAQAR MAHMOOD ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ WAQAR  ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># WAQAR MEHMOOD ^ CONTACT ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># WAQAR MAHMOOD ^ CONTACT ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># WAQAR ^ CONTACT ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+
+<category>
+    <pattern># PHONE ^ DIRECTOR ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+<category>
+    <pattern># CONTACT ^ DIRECTOR ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+<category>
+    <pattern># TALK ^ DIRECTOR ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># DIRECTOR ^ PHONE ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+<category>
+    <pattern># DIRECTOR ^ CONTACT ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+<category>
+    <pattern># DIRECTOR ^ TALK ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+
+<category>
+    <pattern># PHONE ^ WAQAR MEHMOOD ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># PHONE ^ WAQAR MAHMOOD ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># PHONE ^ WAQAR  ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+<category>
+    <pattern># WAQAR MAHMOOD ^ PHONE ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+<category>
+    <pattern># WAQAR ^ PHONE ^</pattern>
+    <template><bot name="email"/><br/><bot name="number"/></template>
+</category>
+
+
+
+
+
+
+<category>
+    <pattern># TALK ^ USMAN GHANI ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># TALK ^ USMAN ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+
+
+
+<category>
+    <pattern># CONTACT ^ USMAN GHANI ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ USMAN  ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># USMAN GHANI ^ CONTACT ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># USMAN  ^ CONTACT ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># WHO ^ USMAN ^</pattern>
+    <template>Dr. Muhammad Usman Ghani, is Professor in the Department of Computer Science, University of Engineering and Technology, Lahore. <br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/usmanghani_khan</url>
+    </button>
+    </template>
+</category>
+<category>
+    <pattern># USMAN ^</pattern>
+     <template>Dr. Muhammad Usman Ghani, is Professor in the Department of Computer Science, University of Engineering and Technology, Lahore. <br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/usmanghani_khan</url>
+    </button>
+    </template>
+</category>
+<category>
+    <pattern># kics ^ usman ^</pattern>
+    <template>Dr. Muhammad Usman Ghani, is Professor in the Department of Computer Science, University of Engineering and Technology, Lahore. <br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/usmanghani_khan</url>
+    </button>
+    </template>
+</category>
+
+
+<category>
+    <pattern># PHONE ^ USMAN GHANI ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># PHONE ^ USMAN ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># USMAN GHANI ^ PHONE ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># USMAN ^ PHONE ^</pattern>
+    <template>OFFICE: 	92 9029450 <br/> EMAIL: usman.ghani@kics.edu.pk</template>
+</category>
+
+
+
+<category>
+    <pattern># Nabeel ^</pattern>
+    <template>
+        Mr. Muhammad Nabeel Asim is , Assistant Manager Research / Team Lead in KICS <br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># contact ^ Nabeel ^</pattern>
+    <template>
+        Cell:	+92 333 6915422 <br/>
+        Email:	nabeel.asim@kics.edu.pk <br/>
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># talk ^ Nabeel ^</pattern>
+    <template>
+        Cell:	+92 333 6915422 <br/>
+        Email:	nabeel.asim@kics.edu.pk <br/>
+       
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># phone ^ Nabeel ^</pattern>
+    <template>
+        Cell:	+92 333 6915422 <br/>
+        Email:	nabeel.asim@kics.edu.pk <br/>
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Nabeel ^ contact ^</pattern>
+    <template>
+        Cell:	+92 333 6915422 <br/>
+        Email:	nabeel.asim@kics.edu.pk <br/>
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Nabeel ^ talk ^</pattern>
+    <template>
+        Cell:	+92 333 6915422 <br/>
+        Email:	nabeel.asim@kics.edu.pk <br/>
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Nabeel ^ phone ^</pattern>
+    <template>
+        Cell:	+92 333 6915422 <br/>
+        Email:	nabeel.asim@kics.edu.pk <br/>
+       <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/staff/nabeel.asim</url>
+        </button>
+    </template>
+</category>
+
+
+
+
+
+	
+<category>
+    <pattern>kics head</pattern>
+    <template><srai>HEAD OF KICS</srai></template>
+</category>	
+	
+	
+<category>
+    <pattern>email of<bot name="personname"/></pattern>
+    <template><bot name="email"/></template>
+</category>	
+
+<category>
+    <pattern><bot name="personname"/> email </pattern>
+    <template><bot name="email"/></template>
+</category>	
+
+<!--Job-->
+
+
+<!--Kinds of jobs-->
+
+
+	
+<category>
+    <pattern># KIND ^ JOBS ^</pattern>
+    <template>kics offers jobs related to development.</template>
+</category>
+<category>
+    <pattern># KINDS ^ JOBS ^</pattern>
+    <template>kics offers jobs related to development.</template>
+</category>
+ <category>
+    <pattern>KIND OF JOBS *</pattern>
+    <template><srai>KIND OF JOBS</srai></template>
+</category>
+ <category>
+    <pattern>KIND OF JOB *</pattern>
+    <template><srai>KIND OF JOBS</srai></template>
+</category>
+
+<!-- Labs job offer-->
+
+<category>
+    <pattern># LABS ^ JOB OFFER ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+
+<category>
+    <pattern># LABS ^ OFFERS JOB ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+<category>
+    <pattern># LAB ^ OFFER JOBS ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+<category>
+    <pattern># LABS ^ OFFER JOBS ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+<category>
+    <pattern># LABS ^ OFFER JOBS ^ KICS ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+<category>
+    <pattern># LABS ^ OFFER JOBS ^ KICS ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+<category>
+    <pattern># LABS ^ OFFERS JOBS ^ KICS ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+
+<category>
+    <pattern>HOW MANY LABS DOES JOB OFFER</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+
+<category>
+    <pattern>how many jobs does kics offer</pattern>
+    <template>There is 18 Labs offer Jobs in KICS</template>
+</category>
+
+<category>
+    <pattern>HOW MANY LABS DOES JOBS OFFERS</pattern>
+    <template><bot name="Labs"/> </template>
+</category>
+
+<category>
+    <pattern>KICS PROVIDE job</pattern>
+    <template>Yes</template>
+</category>
+
+<category>
+    <pattern>KICS PROVIDE jobs</pattern>
+    <template>Yes</template>
+</category>
+
+<category>
+    <pattern># KICS PROVIDE jobs ^</pattern>
+    <template>Yes</template>
+</category>
+<category>
+    <pattern># KICS PROVIDE job ^</pattern>
+    <template>Yes</template>
+</category>
+
+<category>
+    <pattern># type of jobs kics provide ^</pattern>
+    <template>Kics provide jobs related to different categories of Research and Development.</template>
+</category>
+
+<category>
+    <pattern># related to different categories</pattern>
+    <template>Kics is working on categories</template>
+</category>
+
+	
+<category>
+    <pattern># LABS DOES JOB ^</pattern>
+    <template><bot name="Labs"/> </template>
+</category>	
+	
+	
+<category>
+    <pattern>* LABS DOES JOB </pattern>
+    <template><srai>LABS DOES JOB</srai></template>
+</category>	
+
+	
+<category>
+    <pattern>LABS DOES JOB *</pattern>
+    <template><srai>LABS DOES JOB</srai></template>
+</category>	
+	
+<category>
+    <pattern>HOW MANY LABS DOES JOB OFFER IN KICS</pattern>
+    <template><srai>LABS DOES JOB</srai></template>
+</category>
+
+<category>
+    <pattern>* LABS DOES JOB OFFER IN KICS</pattern>
+    <template><srai>LABS DOES JOB</srai></template>
+</category>
+
+<category>
+    <pattern>DOES KICS PROVIDE INTERNSHIP</pattern>
+    <template>Yes</template>
+</category>
+
+<category>
+    <pattern># INTERNSHIP ^ KICS ^</pattern>
+    <template>Yes, <bot name="Labs"/></template>
+</category>
+
+<category>
+    <pattern># INTERNSHIPS ^ KICS ^</pattern>
+    <template>Yes, <bot name="Labs"/></template>
+</category>
+
+
+<category>
+    <pattern># JOBS ^ KICS ^</pattern>
+    <template><bot name="Labs"/></template>
+</category>	
+
+<category>
+    <pattern># JOB ^ KICS ^</pattern>
+    <template><bot name="Labs"/></template>
+</category>
+
+<category>
+    <pattern>JOB *</pattern>
+    <template><bot name="Labs"/></template>
+</category>	
+
+
+<category>
+    <pattern># ALL LABS ^</pattern>
+    <template>
+        <olist>
+            <item>high performance computing and networking lab (hpcnl)</item>
+            <item>software systems research lab (ssrl)</item>
+            <item>bioinformatics research lab (brl)</item>
+            <item>mobile game development lab (mgdl)</item>
+            <item>computer vision and machine learning lab (cvml)</item>
+            <item>wireless systems research lab (wsrl)</item>
+            <item>next-generation wireless sensors network research lab (nwnl)</item>
+            <item>enterprise software solutions lab (essl)</item>
+            <item>university management system (ums) lab</item>
+            <item>artificial intelligence research lab (airl)</item>
+            <item>data science lab (dsl)</item>
+            <item>intelligent criminology lab (icrl)</item>
+            <item>human-centered robotics lab (hcrl)</item>
+            <item>motion control research lab (mcrl)</item>
+            <item>iot research and innovation lab (iril)</item>
+            <item>center for language engineering (cle)</item>
+            <item>alternate energy research and innovation lab (aeril)</item>
+            <item>industrial automation and control lab (iacl)</item>
+            <item>Energy Efficiency and Conservation Lab (EECL)</item>
+            <item>CERAD Innovation Lab (CIL)</item>
+            <item>Pearson VUE Testing Center</item>
+            <item> Huawei UET Telecom and IT Center (HUTIC)</item>
+            <item>Technology Incubation Center (TICK)</item>
+            <item>Professional Development Center (PDC)</item>
+            <item>School of Media Studies (SMS)</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># can you please tell me the names of labs ^</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+<category>
+    <pattern>$can you please tell me the names of labs ^</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+
+<category>
+    <pattern>$names of labs in kics ^</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+<category>
+    <pattern>$name of labs in kics ^</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+	
+<category>
+    <pattern># LIST ^ LABS ^</pattern>
+    <template>
+        <olist>
+            <item>high performance computing and networking lab (hpcnl)</item>
+            <item>software systems research lab (ssrl)</item>
+            <item>bioinformatics research lab (brl)</item>
+            <item>mobile game development lab (mgdl)</item>
+            <item>computer vision and machine learning lab (cvml)</item>
+            <item>wireless systems research lab (wsrl)</item>
+            <item>next-generation wireless sensors network research lab (nwnl)</item>
+            <item>enterprise software solutions lab (essl)</item>
+            <item>university management system (ums) lab</item>
+            <item>artificial intelligence research lab (airl)</item>
+            <item>data science lab (dsl)</item>
+            <item>intelligent criminology lab (icrl)</item>
+            <item>human-centered robotics lab (hcrl)</item>
+            <item>motion control research lab (mcrl)</item>
+            <item>iot research and innovation lab (iril)</item>
+            <item>center for language engineering (cle)</item>
+            <item>alternate energy research and innovation lab (aeril)</item>
+            <item>industrial automation and control lab (iacl)</item>
+            <item>Energy Efficiency and Conservation Lab (EECL)</item>
+            <item>CERAD Innovation Lab (CIL)</item>
+            <item>Pearson VUE Testing Center</item>
+            <item> Huawei UET Telecom and IT Center (HUTIC)</item>
+            <item>Technology Incubation Center (TICK)</item>
+            <item>Professional Development Center (PDC)</item>
+            <item>School of Media Studies (SMS)</item>
+        </olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern>give me the list of kics lab</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+
+<category>
+    <pattern>list of kics labs</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+<category>
+    <pattern>list of kics lab</pattern>
+    <template><srai>LIST OF LABS</srai></template>
+</category>
+
+<!--Mobile Application-->
+
+<category>
+    <pattern># WORK ^ MOBILE APPLICATION ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORKS ^ MOBILE APPLICATION ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ MOBILE APPLICATION ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORK ON MOBILE APPLICATIONS ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORKS ^ MOBILE APPLICATIONS ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ MOBILE APPLICATIONS ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern># WORK ^ MOBILE APPLICATION ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORKS ON MOBILE APPLICATION ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># how many labs work on mobile application ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs work on mobile applications ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs works on Mobile Applications ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many lab works on mobile application ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># labs work on mobile application ^</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># lab work on mobile application *</pattern>
+    <template>There are 3 Labs work on MOBILE APPLICATION,<br/>
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+    </olist>
+    </template>
+</category>
+
+
+<!--Artificial intelligence-->
+
+
+<category>
+    <pattern># WORK ^ ARTIFICIAL INTELLIGENCE ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ ARTIFICIAL INTELLIGENCE ^</pattern>
+   <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ ARTIFICIAL INTELLIGENCE ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORK ^ AI ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ AI ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ AI ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># HOW MANY LABS WORK ON AI IN KICS ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># HOW MANY LABS WORKS ON AI IN KICS ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ ARTIFICIAL INTELLIGENCE ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORKS ON ARTIFICIAL INTELLIGENCE ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many lab works on artificial intelligence ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs work on artificial intelligence ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs works on artificial intelligence ^</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># labs work on artificial intelligence *</pattern>
+    <template>There are 6 Labs work on Artificial Intelligence in KICS,
+    <olist>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<!-- software development-->
+
+<category>
+    <pattern># WORK ^ SOFTWARE DEVELOPMENT ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORKS ^ SOFTWARE DEVELOPMENT ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern># WORK ^ SOFTWARE DEVELOPMENT ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># WORKS ^ SOFTWARE DEVELOPMENT ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ SOFTWARE DEVELOPMENT ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># how many lab works on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs work on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs works on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many lab works on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs works on Software development ^</pattern>
+   <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># lab work on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># labs work on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern># labs work on software development ^</pattern>
+   <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># labs work on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># lab work on software development ^</pattern>
+    <template>
+        There are 9 Labs work on Software Development in KICS,
+    <olist>
+        <item>Enterprise Software Solution Lab (ESSL)</item>
+        <item>Software Systems Research Lab (SSRL)</item>
+        <item>UET Game Studio Lab (UGSL)</item>
+        <item>Artificial Intelligence Research Lab (AIRL)</item>
+        <item>Bioinformatics Research Lab (BRL)</item>
+        <item>Computer Vision and Machine Learning Lab (CVML)</item>
+        <item>Data Science Lab (DSL)</item>
+        <item>Human Centered Robotics Research Lab (HCRL)</item>
+        <item>Intelligent Criminology Research lab (ICRL)</item>
+    </olist>
+    </template>
+</category>
+
+<!--embedded system development-->
+
+<category>
+    <pattern># WORK ^ EMBEDDED SYSTEM ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ EMBEDDED SYSTEM ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORK ^ EMBEDDED SYSTEMS ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ EMBEDDED SYSTEMS ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># WORK ^ EMBEDDED SYSTEM ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ EMBEDDED SYSTEM ^</pattern>
+     <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ EMBEDDED SYSTEM ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ EMBEDDED SYSTEMS ^</pattern>
+     <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+
+
+<category>
+    <pattern># WORK ^ EMBEDDED SYSTEMS ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKS ^ EMBEDDED SYSTEMS ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># WORKING ^ EMBEDDED SYSTEMS ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># how many labs works on embedded systems ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># how many lab works on embedded systems ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many lab works on embedded system ^</pattern>
+     <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+    <category>
+    <pattern># how many labs works on embedded system ^</pattern>
+   <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+    <category>
+    <pattern># how many labs works on embedded systems ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+<category>
+    <pattern># how many labs working on embedded systems ^</pattern>
+ <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern>^ works on embedded system ^</pattern>
+    <template>There are 3 Labs work on Embedded System Development in KICS,
+    <olist>
+        <item>Industrial Automation and Control Lab (IACL)</item>
+        <item>Motion Control Research Lab (MCRL)</item>
+        <item>Power System Lab (PSL)</item>
+    </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># ACADEMIC SERVICES ^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+
+<category>
+    <pattern># courses ^ offered ^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+<category>
+    <pattern># courses ^ offers ^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+<category>
+    <pattern># courses ^ offer^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+<category>
+    <pattern># offered ^ courses ^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+<category>
+    <pattern># offers ^ courses ^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+<category>
+    <pattern># offer ^ courses ^</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+
+<category>
+    <pattern>academic services kics provide</pattern>
+    <template><srai>ACADEMIC SERVICES</srai></template>
+</category>
+
+
+<category>
+    <pattern>academic services kics provide *</pattern>
+    <template><srai>ACADEMIC SERVICES</srai></template>
+</category>
+<category>
+    <pattern># total ^ Labs ^</pattern>
+    <template>25 Labs in kics </template>
+</category>
+<category>
+    <pattern># total ^ Lab ^</pattern>
+    <template>25 Labs in kics </template>
+</category>
+
+<category>
+    <pattern># LOCATION OF KICS</pattern>
+    <template>Al-Khawarizmi Institute of Computer Science, G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab</template>
+</category>
+
+<category>
+    <pattern># WHERE IS KICS ^</pattern>
+    <template><srai>location of kics</srai></template>
+</category>
+<category>
+    <pattern># how many labs in kics</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># labs in kics</pattern>
+    <template>25 Labs in kics</template>
+</category>
+
+<category>
+    <pattern># labs kics has</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># lab kics has</pattern>
+    <template>25 Labs in kics</template>
+</category>
+
+<category>
+    <pattern># kics has ^ labs</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># kics has ^  lab</pattern>
+    <template>25 Labs in kics</template>
+</category>
+
+
+
+<category>
+    <pattern># labs ^ kics has ^</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># lab ^ kics has ^</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># labs in the kics</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># how many labs are in the kics</pattern>
+    <template>25 Labs in kics</template>
+</category>
+
+<category>
+    <pattern># labs kics have</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># lab kics have</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># labs ^ kics have</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># lab ^ kics have</pattern>
+    <template>25 Labs in kics</template>
+</category>
+
+<category>
+    <pattern># kics have ^ labs </pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># kics have ^  lab </pattern>
+    <template>25 Labs in kics</template>
+</category>
+
+<category>
+    <pattern># number ^ lab ^</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># how many labs are in kics</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># number ^ labs ^</pattern>
+    <template>25 Labs in kics</template>
+</category>
+<category>
+    <pattern># RESEARCH ^ labs ^</pattern>
+    <template>There are 25 Research Labs in kics</template>
+</category>
+<category>
+    <pattern># RESEARCH ^ lab ^</pattern>
+    <template>There are 25 Research Labs in kics</template>
+</category>
+
+<category>
+    <pattern># NETWORKING ^ DEPARTMENT ^</pattern>
+    <template>Mr Rashid deals with Networking.</template>
+</category>
+<category>
+    <pattern># I WANT TO KNOW ABOUT KICS NETWORKING DEPARTMENT</pattern>
+    <template>Mr Rashid deals with Networking.</template>
+</category>
+<category>
+    <pattern># NETWORK ^ SECURITY ^</pattern>
+    <template>Mr Rashid deals with Networking.</template>
+</category>
+<category>
+    <pattern># NETWORKS ^ SECURITY ^</pattern>
+    <template>Mr Rashid deals with Networking.</template>
+</category>
+
+
+<category>
+    <pattern># KICS ^ CONTACT ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># KICS ^ PHONE ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># KICS ^ TALK ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ KICS ^</pattern>
+   <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ KICS ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ KICS ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># EMAIL ^ KICS ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># KICS ^ EMAIL ^</pattern>
+    <template>
+        Al-Khawarizmi Institute of Computer Science 
+        <olist>
+            <item>Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab </item>
+            <item>Phone: (042) 99029450</item>
+            <item>Email: info@kics.edu.pk </item>
+        </olist>
+    </template>
+</category>
+
+
+</aiml>

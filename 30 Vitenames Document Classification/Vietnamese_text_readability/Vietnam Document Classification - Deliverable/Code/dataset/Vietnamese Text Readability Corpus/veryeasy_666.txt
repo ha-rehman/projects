@@ -1,0 +1,17 @@
+Ai Giỏi Hơn ?
+" Tôi giỏi nhất , " Chuột Túi nói .
+" Tôi giỏi hơn , " Gấu nói .
+" Tôi có thể bơi rất xa , " Chuột Túi nói .
+" Tôi có thể bơi xa hơn , " Gấu nói .
+" Tôi có thể bắt cá , " Chuột Túi nói .
+" Tôi có thể bắt nhiều cá hơn , " Gấu nói .
+" Tôi có thể ăn rất nhiều , " Chuột Túi nói .
+" Tôi có thể ăn nhiều hơn , " Gấu nói .
+" Tôi có thể leo cao , " Chuột Túi nói .
+" Tôi có thể leo cao hơn , " Gấu nói .
+" Tôi có thể vẽ rất đẹp , " Chuột Túi nói .
+" Tôi có thể vẽ đẹp hơn , " Gấu nói .
+" Tôi có thể hát rất hay , " Chuột Túi nói .
+" Tôi có thể hát hay hơn , " Gấu nói .
+" Tôi có thể nhảy cao , " Chuột Túi nói .
+" Ồ , tôi không thể nhảy cao bằng , " Gấu nói .

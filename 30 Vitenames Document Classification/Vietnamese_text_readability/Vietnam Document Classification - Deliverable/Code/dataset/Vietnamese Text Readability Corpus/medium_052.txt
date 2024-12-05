@@ -1,0 +1,50 @@
+Phong cách ngôn ngữ hành chính
+I - Khái quát về phong cách ngôn ngữ hành chính
+Phong cách ngôn ngữ hành chính là loại phong cách ngôn ngữ thể hiện trong các văn bản thuộc lĩnh vực giao tiếp điều hành và quản lí xã hội , thường gọi là văn bản hành chính .
+Văn bản hành chính tồn tại chủ yếu dưới dạng viết , bao gồm :
+- Văn bản quy phạm pháp luật như : Hiến pháp , các văn bản luật , các văn bản dưới luật , ...
+- Văn bản hội nghị như : biên bản , báo cáo , đề án , nghị quyết , ...
+- Văn bản thủ tục hành chính như : công văn , đơn từ , hợp đồng , văn bằng , hóa đơn , ...
+Phong cách ngôn ngữ hành chính có các đặc điểm chung như sau .
+1 .
+Tính khuôn mẫu : Văn bản hành chính thường được thể hiện theo các khuôn mẫu xác định .
+Tùy tính chất của mỗi loại văn bản hành chính mà mức độ yêu cầu về khuôn mẫu có khác nhau , có thể chỉ là nhừng nét lớn ( như báo cáo , biên bản , ... ) , có thể chi tiết hơn ( như hợp đồng , quyết định , ... ) , có thể có mẫu in sẵn ( như văn bằng , chứng chỉ , giấy giới thiệu , ... ) .
+2 .
+Tính minh xác : Văn bản hành chính phải đảm bảo sao cho mọi người đều hiểu và thực hiện thống nhất .
+Do đó , văn bản hành chính phải được viết rõ ràng , chính xác ; mọi ý phải được trình bày minh bạch , hiển ngôn , không được mơ hồ , gây nhiều cách hiểu .
+3 .
+Tính công vụ : Văn bản hành chính được dùng trong lĩnh vực điều hành và quản lí xã hội , nên ngôn ngữ trong văn bản hành chính phải có tính trang trọng , nghiêm túc .
+Văn bản hành chính thể hiện tinh thần trách nhiệm của người viết và của cơ quan ban hành .
+Văn bản hành chính có giá trị pháp lí .
+Do đó , trong văn bản hành chính phải ghi rõ họ tên người viết hoặc người kí , ngày tháng lập văn bản , thời hạn có hiệu lực , phạm vi tác động và đối tượng có trách nhiệm thi hành ...
+II - Cách sử dụng phương tiện ngôn ngữ trong phong cách ngôn ngữ hành chính
+1 .
+Về ngữ âm - chữ viết
+Chữ viết trong văn bản hành chính , ngoài các đặc điểm của chuẩn chính tả tiếng Việt nói chung , còn có những đặc điểm riêng như cách sắp xếp các mục , cách viết hoa , viết tắt , cách đánh số ...
+Ví dụ , khi viết những số dưới 10 , người ta thường thêm số 0 vào đàng trước , như : 01,03 , ...
+2 .
+Về từ ngữ
+- Lớp từ ngữ trong văn bản hành chính là lớp từ ngữ chung .
+Văn bản hành chính không dùng các từ ngữ địa phương , biệt ngữ xã hội , ...
+Các từ ngữ thường được sử dụng với sắc thái ý nghĩa trang trọng .
+Văn bản hành chính thường sử dụng những từ ngữ có tính chất khuôn mẫu như : nay ban hành , theo đề nghị , căn cứ vào , quyết định , thi hành , có hiệu lực từ ngày , trân trọng kính mời , các bên hữu quan , cơ quan chủ quản , ...
+- Từ ngữ xưng hô trong văn bản hành chính mang tính chất xã hội .
+Văn bản hành chính không dùng những từ ngữ xưng hô theo kiểu gia đình , bạn bè : bố , con , mẹ , nó , cậu , tớ , ...
+3 .
+Về kiểu câu
+- Câu trong văn bản hành chính có kết cấu chặt chẽ .
+Quan hệ giữa các thành phần câu rõ ràng , xác định .
+- Văn bản hành chính thường sử dụng kiểu câu trần thuật .
+Câu nghi vấn , câu cảm thán không thích hợp với loại văn bản này .
+- Để người đọc dễ tiếp nhận , trong một số trường hợp , các vế câu thường được tách thành từng dòng riêng .
+4 .
+Về biện pháp tu từ
+Văn bản hành chính không sử dụng các biện pháp tu từ , các phương tiện biểu cảm .
+5 .
+Về bố cục , trình bày
+Văn bản hành chính thuộc loại có thể thức cố định .
+Bố cục thường gập của văn bản hành chính gồm ba phần : phần đầu , phần chính và phần cuối .
+Chẳng hạn , một văn bản của cơ quan Nhà nước cấp Bộ thường có bố cục như sau :
+Phần đầu : Bên phải là quốc hiệu , tiêu ngữ ; dưới tiêu ngữ là địa điểm và thời gian ra văn bản ; bên trái là tên cơ quan ra văn bản , dưới đó là số hiệu văn bản .
+Phần chính : Nội dung của văn bản .
+Phần cuối : Bốn trái là những thông tin cần thiết ( như Nơi nhận ... ) ; bên phải là chức vụ người kí văn bản , dưới đó là chữ kí , dấu cơ quan và họ tên người kí văn bản .

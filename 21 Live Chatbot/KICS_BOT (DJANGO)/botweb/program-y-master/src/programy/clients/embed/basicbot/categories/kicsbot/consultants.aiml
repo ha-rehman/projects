@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- Senior Manager Research at kics -->
+<category>
+<pattern># CONSULTANTS ^</pattern>
+<template>
+    <olist>
+        <item>Dr. Ali Raza (Principal Investigator)</item>
+        <item>Dr. Hafiz Farhan Maqbool(CO-PI).</item>
+        <item>Dr. Mohsin Rizwan(CO-PI)</item>
+        <item>Dr. Muhammad Ahsan(CO-PI)</item>
+        <item>Dr. Imran Javed(Consultant)</item>
+        <item>Dr. Muhammad Tahir(Consultant)</item>
+        <item>Dr. Sarmad Hussain(Consultant)</item>
+        <item>Dr. Sheikh Faisal Rashid(Consultant)</item>
+        <item>Dr. Zubair A Khan(Consultant)</item>
+        <item>Mr. Ahsan Alam(Consultant)</item>
+        <item>Mr. Dr. Ubaidullah Fayyaz(Consultant)</item>
+        <item>Mr. Kamran Mahmood(Consultant)</item>
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+</template>
+</category>
+<category>
+<pattern>Principal Investigators</pattern>
+<template>
+<srai>CONSULTANTS</srai>
+</template>
+</category>
+<category>
+<pattern>Principal Investigators *</pattern>
+<template>
+<srai>CONSULTANTS</srai>
+</template>
+</category>
+<category>
+<pattern># Principal Investigators ^</pattern>
+<template>
+<srai>CONSULTANTS</srai>
+</template>
+</category>
+<category>
+<pattern>* Consultants</pattern>
+<template>
+<srai>CONSULTANTS</srai>
+</template>
+</category>
+<category>
+<pattern>* Consultants *</pattern>
+<template>
+<srai>CONSULTANTS</srai>
+</template>
+</category>
+<category>
+<pattern># Consultant ^</pattern>
+<template>
+<srai>CONSULTANTS</srai>
+</template>
+</category>
+
+
+</aiml>

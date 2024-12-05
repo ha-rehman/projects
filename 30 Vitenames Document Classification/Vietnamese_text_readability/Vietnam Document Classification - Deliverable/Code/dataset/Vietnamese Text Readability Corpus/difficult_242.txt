@@ -1,0 +1,473 @@
+Trần thuật học như là khoa học phân tích diễn ngôn trần thuật
+Trần thuật học như là khoa học phân tích diễn ngôn trần thuật của Giáo sư V.I.Chiupa là một giáo trình hàm súc , dễ hiểu , viết cho sinh viên , học viên cao học và nghiên cứu sinh khoa học xã hội - nhân văn .
+Giáo trình gồm 9 phần :
+1 . Từ thi pháp học đến tu từ học ,
+2 . Chiến lược giao tiếp ,
+3 . Phạm trù sự kiện ,
+4 . Mẹo thuật ( intrigue ) ,
+5 . Cấu hình các cảnh ,
+6 . Bức tranh thế giới ,
+7 . Điểm nhìn ,
+8 . Giọng ,
+9 . Đồng nhất thể loại .
+Nội dung này đã được Giáo sư V.I.Chiupa trình bày tại Khoa Ngữ Văn , Đại học Sư phạm Hà Hội trong một kì thỉnh giảng vào năm 2011 .
+Xét thấy đây là tài liệu học tập , tham khảo bổ ích , chúng tôi đã cố gắng dịch sang tiếng Việt và sẽ lần lượt giới thiệu từng phần để những ai quan tâm dễ theo dõi
+Trần thuật học hiện đại là lãnh địa khoa học cực kì rộng lớn , nó nghiên cứu khu vực phát ngôn ( diễn ngôn ) có tính truyện kể - trần thuật gắn với việc tổ chức một câu chuyện nào đó ( câu chuyện , mẹo luật ) .
+Ở đây , vấn đề không giới hạn ở các văn bản nghệ thuật và thậm chí không chỉ ở các văn bản bằng lời : nhờ sự nỗ lực của các nhà lịch sử học , triết học , văn hóa học , phạm trù tính trần thuật được áp dụng rộng rãi và có nội dung giàu tính khoa học .
+Đặc biệt , cần phải ghi nhận vai trò của nhà triết học Paul Ricoeur , nhà sử học Hayden White , nhà nghiên cứu văn học Wolf Schmid , những người góp phần tạo nên diện mạo hiện nay và xu hướng nghiên cứu của trần thuật học .
+Khái niệm " trần thuật học " bắt đầu được sử dụng rộng rãi sau khi xuất hiện hàng loạt công trình mang tính cách tân của Roland Barthes , Claude Bremond , Tzvetan Todorov , nhất là sau khi cuốn Grammairedu Decameron của Todorov được công bố , dù với tư cách là một lĩnh vực của nghiên cứu văn học , trần thuật học từng có lịch sử rất lâu đời ( trong truyền thống Nga , đó là các công trình của A.N.Veselopski , V.Prop , B.V.Tomasepski , O.M.Freidenberg , M.Bakhtin , trong khu vực tiếng Đức - O.Ludwig , K.Friedman , K.Hamburger , F.K.Stanzel , V.Kaiser , G.Müller , và khu vực tiếng Anh - P.Lubbock , N.Friedman , C.Brooks , R.P.Warren ... ) .
+Tuy nhiên , đối tượng của bộ môn khoa học này và , theo đó , vị thế tri thức hiện tại của nó chưa thể nói là đã hoàn toàn được xác quyết .
+Chẳng hạn , ngay cả phạm trù " trần thuật " cũng được giải thích mỗi người một phách .
+Nhân vật góp phần mở ra thời kì bành trướng của trần thuật học sang lĩnh vực khoa học lịch sử , Arthur Danto , quy trần thuật về tận " câu trần thuật " ở thể trần thuật thời quá khứ .
+Nhà trần thuật học hiện đại mẫu mực H.White lại mở rộng đáng kể khái niệm " cấu trúc trần thuật " ( nhất là cấu trúc trần thuật của diễn ngôn lịch sử học ) bằng cách đưa vào đó cả mẹo mực trần thuật : " Tổ chức mẹo mực là tạo ra ý nghĩa cho câu chuyện bằng cách dùng trần thuật nối kết các bộ phận hợp thành của nó vào một hình thức bao quát hay cổ mẫu duy nhất " .
+Cuối cùng , cách hiểu rộng nhất và , rõ ràng , mở rộng tới mứ thái quá , là cách hiểu của A.J.Greimas và J.Courtes , theo đó , trần thuật là " nguyên tắc tổ chức của mọi loại diễn ngôn " , chứ không phải chỉ riêng của diễn ngôn " tạo hình " .
+Nếu chấp nhận xem xét các phát ngôn trần thuật như là phương thức kiến tạo văn bản thông dụng , nhưng cũng mang tính đặc thù , thì vai trò quyết định ở đây là tính sự kiện kép của trần thuật : Trước mắt ta - M.M.Bakhtin viết - có hai sự kiện : sự kiện được kể lại trong tác phẩm và sự kiện của bản thân việc kể chuyện ( chính chúng ta tham gia vào loại sự kiện thứ hai này như những thính giả - độc giả ) ; các sự kiện này diễn ra ở những thời điểm khác nhau ( khác nhau cả về độ dài ) và ở những địa điểm khác nhau , nhưng đồng thời , chúng liên kết chặt chẽ thành một sự kiện duy nhất , phức tạp mà chúng ta gọi là tác phẩm với tất cả sự toàn vẹn mang tính sự kiện của của nó ...
+Chúng ta tiếp nhận sự toàn vẹn ấy trong chỉnh thể và tính rắn chắc của nó , đồng thời chúng ta nhận ra toàn bộ sự khác biệt ở các yếu tố cấu thành của nó .
+Ý kiến của M.Bakhtin mà chúng tôi vừa dẫn ra được phát biểu vào những năm 70 của thế kỉ trước .
+Vào thời gian này , ở Tây Âu xuất hiện hàng loạt công trình trần thuật học hiện đại mẫu mực của L.Doležal , G.Genette , G.Prince , W.Schmid ...
+Trong cuốn Diễn ngôn trần thuật xuất bản năm 1972 , Gérard Genette viết rằng , trần thuật có thể tồn tại vì nó kể một câu chuyện nào đó mà nếu không có thì diễn ngôn sẽ không còn là diễn ngôn trần thuật ...
+Với tư cách trần thuật , sự trần thuật tồn tại nhờ mối liên hệ với câu chuyện được triển khai trong đó ( sự kiện được thuật lại ) , với tư cách diễn ngôn ( sự kiện kể chuyện ) , nó tồn tại nhờ mối liên hệ với sự trần thuật đã tạo ra diễn ngôn ấy .
+Có thể gói lại vấn đề trung tâm của trần thuật học bằng ý kiến sau đây của A.C.Danto : " Mọi truyện kể đều là cấu trúc nối kết các sự kiện , nhóm chúng lại với nhau và gạt bỏ những sự kiện không cần thiết " .
+Diễn đạt theo Kathy Friedemann , có thể nói , khái niệm tính trần thuật bắt nguồn từ " giả định nhận thức luận được thừa nhận trong triết học Kant , rằng chúng ta chiếm lĩnh được cái thế giới không giống như bản thân nó vẫn tồn tại , mà là thế giới đã lọc qua một trí tuệ suy nghiệm nào đó " .
+Không thể chiếm lĩnh được tri thức trực tiếp về các sự kiện như nó vốn có ( đã có ) .
+Giữa sự kiện và nhận thức của chúng ta bao giờ cũng có một thứ tựa như lăng kính của hành vi giao tiếp bằng lời , một môi trường giao tiếp làm khúc xạ sự diễn đạt ( ngay cả khi đó mới chỉ là sự diễn đạt tiềm ẩn một sự kiện nào đó vừa nẩy sinh ở hình thức phi diễn ngôn của lời nói bên trong dành cho một thính giả tiềm ẩn ) .
+Muốn minh định vị thế khoa học của bộ môn nghiên cứu bản chất giao tiếp của việc chiếm lĩnh sự kiện theo kiểu kiến tạo văn bản , cần làm sáng tỏ mối quan hệ giữa trần thuật học với thi pháp học và tu từ học .
+I. Từ thi pháp học đến tu từ học
+Ở thời cổ đại , thi pháp học và tu từ học là hai lĩnh vực tri thức độc lập .
+Lại nữa , đó không hẳn chỉ là tri thức ( épistémè ) , mà còn là kĩ năng thủ công , kiểu như lí thuyết biện chứng , hay chính trị học .
+Ai cũng biết , trong trật tự đó , thi pháp học là nghệ thuật của lời nói thi ca , tu từ học là nghệ thuật của lời nói hùng biện .
+Ở thế kỉ XIX , sau khi khoa ngữ văn học xuất hiện ( nghiên cứu văn học và ngôn ngữ học ) , rồi đến thế kỉ XX , sau khi kí hiệu học tách khỏi ngữ văn học và tu từ học - giờ đây với tư cách là loại khoa học nhân văn hiện đại - được hồi sinh trên nền tảng kí hiệu học , thì tình thế đã hoàn toàn tay đổi .
+Tu từ học hiện đại ( dù có rất nhiều ý kiến khác nhau ) là lí thuyết phổ quát , được diễn giải theo nhiều cách , về những phát ngôn như là sự tương tác trong giao tiếp của con người .
+Từ nay , nó có trách nhiệm " nghiên cứu sự ngộ nhận giữa người với người , tìm cách đề phòng và tránh những thất thiệt trong quá trình giao tiếp " .
+Giờ đây , văn bản được nghiên cứu như một cơ thể kí hiệu của diễn ngôn , đến lượt mình , diễn ngôn được diễn giải như " một sự kiện giao tiếp " ( van Dijk ) diễn ra giữa chủ thể , đối tượng biểu đạt và người tiếp nhận phát ngôn .
+Nhiệm vụ của phân tích văn bản từ góc độ tu từ ( hay " diễn ngôn " ) là " xác định xem hành vi lời nói diễn ra trong đó là thế nào " .
+Với ý nghĩa như thế , tân tu từ học hoàn toàn đủ cơ sở để nhắm tới vị trí của một bộ môn khoa học nền móng mang ý nghĩa phương pháp luận đối với tổng thể các khoa học nhân văn có quan hệ với các văn bản phát ngôn thuộc đủ mọi chủng loại .
+M.M.Bakhtin , người từng viết Vấn đề thể loại lời nói ngay từ đầu những năm năm mươi , là nhân vật tiên khu tạo nên sự phát triển mạnh mẽ của " tân tu từ học " ở các nước phương Tây .
+" Siêu ngôn ngữ học " của ông chính là một trong những tên gọi của tân tu từ học hiện đại .
+Khác với tu từ học cổ điển , loại tu từ học độc lập với thi pháp học , Bakhtin và các thế hệ sau này xem mọi thể loại văn học đều đứng chung trong cùng một hàng lối với " các loại hình phát ngôn tương đối bền vững " , những loại hình phát ngôn này do " từng lĩnh vực sử dụng ngôn ngữ " sáng tạo ra và chúng chịu sự quy định của " đặc thù từng phạm vi giao tiếp nào đó " .
+M.Bakhtin không chỉ xếp " lời đối đáp trong đối thoại sinh hoạt " , hay " lối viết ( trong mọi hình thức đa dạng của nó ) " , mà còn xếp cả một " thế giới của lời phát biểu chính luận muôn hình vạn trạng ... , các hình thức thuyết trình khoa học phong phú và mọi thể loại văn học ( từ một câu ngạn ngữ cho tới bộ tiểu thuyết nhiều tập ) " vào đối tượng nhận thức của siêu ngôn ngữ học .
+Ông nhận thấy rằng vấn đề thể loại lời nói chưa bao giờ được đặt ra một cách thực sự .
+Phần lớn , người ta chỉ nghiên cứu các thể loại văn học .
+Tuy nhiên , bắt đầu từ thời cổ đại cho tới tận bây giờ , chúng chỉ được nghiên cứu ở bình diện đặc trưng văn học - nghệ thuật , trong sự loại biệt mang tính đặc thù giữa chúng với nhau ( trong phạm vi của văn học ) , chứ chưa được nghiên cứu như những dạng phát ngôn nào đó , tuy khác biệt với các loại phát ngôn khác , nhưng có chung ... một bản chất với chúng .
+Hiển nhiên là trên bức tranh thu nhỏ hoàn toàn mới mẻ miêu tả việc " nghiên cứu bản chất của phát ngôn và các hình thức thể loại phát ngôn đa dạng trong muôn vàn phạm vi hoạt động của con người " kia , thi pháp học không mang tính độc lập như ở thời Aristotle , mà chỉ còn là một lĩnh vực tri thức tự trị .
+Là lí thuyết chuyên ngành về diễn ngôn nghệ thuật - với toàn bộ đặc trưng ở đối tượng của nó - thi pháp tất yếu trở thành bộ phận cấu thành của lí thuyết chung về phát ngôn ( tân tu từ học ) , tức là loại lí thuyết cần dành một phần chú ý không nhỏ cho việc nghiên cứu đặc trưng của các diễn ngôn khoa học , tôn giáo và chính trị ...
+Theo định nghĩa rất mẫu mực của G.Genette , thực chất , trần thuật là " hành vi sản sinh tác phẩm trần thuật " mà nếu thiếu đi thì sẽ không thể có phát ngôn trần thuật , thậm chí , không thể có nội dung trần thuật " .
+Sự phân định ranh giới ba bình diện trần thuật như thế hoàn toàn phù hợp với việc tách hành động " nắm bắt " trong ý đồ ra khỏi bản thân sự " nắm bắt " , cũng như " đối tượng được nắm bắt " theo quan điểm của hiện tượng luận .
+Có thể nói , trần thuật là ý đồ đặc biệt của chủ thể diễn ngôn nói hoặc viết .
+Ý đồ trần thuật của phát ngôn nằm ở sự nối kết hai sự kiện - sự kiện được tham chiếu ( được trông thấy , được chứng kiến ) và sự kiện giao tiếp ( bản thân sự chứng kiên như một sự kiện ) - vào một khối thống nhất củatác phẩm nghệ thuật , tôn giáo , khoa học , hay chính luận trong , diễn đạt theo cách của Bakhtin , sự viên mãn sự kiện của nó .
+Trong khi đó , cả sự kiện thứ nhất ( biến cố của câu chuyện ) , lẫn sự kiện thứ hai ( lời kiến tạo văn bản của một hình thức kết cấu nào đó ) tự chúng - nếu không nhờ vào hành động trần thuật - hoàn toàn không đủ điều kiện để trở thành sự kiện nghệ thuật hay sự kiện tôn giáo ...
+Với tư cách như thế , trần thuật không tạo thành đặc thù của thể loại văn học nào đó , và do đó , không thể quy trần thuật học thành một bình diện của thi pháp học , nơi trần thuật chỉ được phân tích như là một trong số các hình thức kết cấu của văn bản nghệ thuật .
+Đối tượng nghiên cứu của trần thuật học có thể bao gồm mọi tổ hợp kí hiệu - không chỉ kí hiệu nghệ thuật , thậm chí , không chỉ kí hiệu bằng lời - thể hiện tính chất không thể trộn lẫn và không thể chia tách của hai sự kiện : sự kiện được tham chiếu ( một câu chuyện , hay một tình tiết nào đó ) và sự kiện giao tiếp ( diễn ngôn về câu chuyện ấy ) .
+Với ý nghĩa như thế , không chỉ tiểu thuyết ( với hệ thống sự kiện nhân quả được hư cấu , " bịa đặt " ) , mà cả tác phẩm của nhà lịch sử học , nơi có hàng loạt sự kiện xác thực được biểu đạt , cũng mang tính trần thuật .
+Điêu khắc ( Laokoon là trường hợp tiêu biểu ) , thậm chí cả âm nhạc ( opera , hoặc múa ballet ) cũng có thể trần thuật , vì bản thân trần thuật không phải là tác phẩm trần thuật ( tức là hình thức kết cấu của tác phẩm khác với sự miêu tả , nghị luận , hoặc những lời đối đáp hội thoại ) , nó là cấu hình tạo sinh văn bản của hai chuỗi sự kiện : sự kiện được tham chiếu và sự kiện giao tiếp .
+Tính trần thuật là một trong những phương thức tu từ phổ quát , muốn minh định bản chất của nó , cần chỉ ra các hiện tượng giáp ranh với nó , tức là những phương thức phát ngôn khác ( phương thức kiến tạo văn bản ) .
+Một mặt , cần phân biệt diễn ngôn trần thuật sự kiện lưỡng diện với những phát ngôn mà ở đó tính sự kiện ở đối tượng được tham chiếu bị giảm thiểu .
+Mặt khác , các văn bản mà nội dung đối tượng được tham chiếu của chúng không có được vị thế của sự kiện trong hành vi của ý đồ diễn ngôn cũng không nằm trong phạm vi đối tượng của trần thuật học .
+Nhược hóa tính sự kiện của đối tượng được tham chiếu là đặc điểm của các phát ngôn diễn xướng .
+Là hành động trực tiếp bằng lời nói , những phát ngôn này không thông tin về hành động , mà là các diễn ngôn tự biểu đạt .
+Đó là khu vực rộng lớn của các thể loại lời nói trần thuật , từ niệm chú , tuyên thệ , đặt tên , khoác lác , mắng nhiếc , sỉ nhục hay khen tụng , cho tới ngâm khúc , hiệu triệu và cầu khấn .
+Ý đồ trần thuật trái ngược là " nắm bắt " theo kiểu ghi nhận nội dung của đối tượng được biểu đạt bằng cách mô tả , bình luận , hoặc đồng nhất .
+Chúng ta thường xuyên bắt gặp sự tồn tại của mô tả , bình luận bên cạnh trần thật trong các văn bản trần thuật .
+Nhưng ở đây , chúng chỉ là những bộ phận phụ trợ khiến một diễn ngôn nào đó trở nên phức tạp hơn , đa dạng hơn , chỉ là những ốc đảo được bao bọc trong giòng trần thuật .
+Nhân tố kiến tạo văn bản giữ vai trò chủ đạo trong việc ghi nhận thuộc về những phát ngôntrình bày , nơi tính sự kiện ở nội dung của cái được tham chiếu trong lời nói bị xóa bỏ , nhưng thay vào đó là tính ổn định và tính quy luật của các trạng thái và tiến trình tự nhiên ( thiên nhiên ) hoặc điển chế ( văn hóa ) .
+Chức năng của cái được tham chiếu ở diễn ngôn trình bày mang tính ngoại sử , đó là " đời sống được quy về các hành vi nguyên mẫu điệp đi điệp lai , tức là các phạm trù , chứ không phải là các sự kiện " .
+Theo phương thức tu từ , những diễn ngôn như thế là diễn ngôn " lí thuyết " , vì đó là sự phổ quát hóa các tiến trình , hoặc các trạng thái , về phương diện ý đồ , chúng thực chất là những diễn ngôn tự giao tiếp .
+Chúng chỉ ngoại quan hóa các tiến trình hoạt động tư duy ở bên trong của một chủ thể nào đó .
+Vì vấn đề ở đây là chuyện diễn ngôn , nên tất phải nói về sự định hướng nhắm tới người tiếp nhận tiềm năng , nhưng chỉ ở mức độ tối thiểu .
+Nếu trần thuật nhằm tới mục đích làm thế nào để biến người tiếp nhận thành người chứng kiến một sự kiện trung gian nào đó , còn diễn xướng lại nhắm vào mục đích biến người tiếp nhận thành người tham gia giao tiếp một cách trực tiếp , thì sẽ không cần phải có sự ghi nhận theo kiểu trình bày .
+Hành vi giao tiếp thông tin cho ai đó những khái quát hợp quy luật là hành vi tùy thích trong tương quan với nội dung tham chiếu của chúng , trong khí đó , các bình diện tham chiếu và giao tiếp của trần thuật lại bổ sung qua lại cho nhau .
+Loại phát ngôn trình bày không chỉ thuộc về các lĩnh vực văn hóa , ví như khoa học , hay triết học , hoặc tôn giáo .
+" Hình thức tiền trần thuật " của huyền thoại cổ xưa - huyền thoại mà theo O.M.Freidenberg " là tất tật : là tư tưởng , sự vật , là hành động , bản thể , là lời nói - chính là hình thức đồng nhất , thế mà trần thuật giữ lại " toàn bộ tài sản xưa kia của huyền thoại " , biến nó thành " nhân vật , kịch bản , truyện kể , nhưng không biến thành một bản chất " vật thể " ( quảng tính ) và " hữu hình " bất tử cùng con người " .
+Là hình thức trực tiếp của tồn tại nhân sinh , bản chất huyền thoại cần được đốn ngộ , chứ không cần kể chuyện về nó .
+Cho nên , chưa bao giờ từng có và chưa bao giờ có thể có các huyền thoại - trần thuật .
+Huyền thoại ra đời là nhờ ở sự kết tinh của kinh nghiệm cá nhân ( trong đó có sự tác động qua lại với tự nhiên ) như một hiện tượng văn hóa .
+Rốt cuộc , phương thức tu từ mà chúng ta quan tâm có ba nội dung diễn ngôn nổi bật : hành động ( phương thức diễn xướng ) , tư duy khái quát ( phương thức trình bày ) hay là tích lũy kinh nghiệm , kí ức sự kiện ( phương thức trần thuật ) .
+Tất nhiên , các nội dung ấy xuyên thấm vào nhau .
+Vì thế bản thân các phương thức tu từ chung của việc sản sinh văn bản không có đường ranh giới tuyệt đối .
+Bên cạnh loại trần thuật sự kiện " đơn nhất " thuần túy , diễn ngôn trần thuật có thể dung nạp cả trần thuật " trình bày " , lẫn các hình thức diễn xướng của siêu trần thuật tự tham chiếu .
+Tính chất trình bày của phát ngôn khoa học tuyệt nhiên không cản trở việc sử dụng hai phương thức tu từ khác ( nhất là phương thức trần thuật ) ...
+Cái quyết định đặc trưng của diễn ngôn nghệ thuật ( phát ngôn nghệ thuật trong một thể loại văn học nào đó ) không phải là những phương thức tu từ mà phương thức nào trong đó cũng có thể phát huy tính nghệ thuật .
+Đặc trưng ấy do thuật cấu hình của sự kiện được tham chiếu quyết định .
+Theo Bakhtin , hình thức thuật cấu hình của tính nghệ thuật là sự " nén chắc giá trị " nhằm hiện thực hóa tính hoàn kết chỉnh thể của một thế giới tưởng tượng xung quanh cái " tôi " nhân vật ( với tác giả , đó là người khác của mình ) như là trung tâm giá trị của thế giới ấy .
+Hình thức thuật cấu hình của sự kiện linh thiêng ( trong văn bản tôn giáo ) hay văn bản lịch sử ( trong công trình nghiên cứu lịch sử ) , hoặc chính trị ( trên các phương tiện truyền thông đại chúng ) hoàn toàn không giống như thế , nhưng ngay ở đó vẫn có sự hiện diện của chúng , tạo thành cơ sở làm nên tính độc đáo của các " cương lĩnh giao tiếp " khác nhau của văn hóa .
+Đặc biệt , bản thân " phẩm chất lịch sử của lịch sử học " , nói như Ricoeur , được tạo ra bởi " xu hướng đạo đức mới " hết sức đặc biệt ( " tính chủ ý của nhận thức lịch sử " ) , xu hướng này thực hiện bước chuyển dịch từ " các cấu trúc tiền trần thuật của hành động thực tế " sang cấu trúc lưỡng cực của thao tác cấu hình truyện kể " .
+Trong khi đó , " kinh nghiệm tưởng tượng về tồn tại trong thế giới " bao giờ cũng xuất hiện trước diễn ngôn nghệ thuật " .
+Theo quan niệm của M.Bakhtin , mọi thể loại lời nói đều là " hình thức điển hình của phát ngôn " , hình thức ấy tương ứng với các tình huống điển hình của giao tiếp lời nói " - " về chủ đề , về kết cấu , về phong cách " .
+Trong khuôn khổ thống nhất về mặt thể loại ấy ở các phương diện diễn ngôn , hình thức thuật cấu hình của nội dung được ham chiếu ( chủ đề ) của trần thuật chẳng những không đồng nhất , mà còn không thể chia tách với các đặc điểm kết cấu - phong cách của sự triển khai hệ chủ đề của các phát ngôn .
+Chẳng hạn , theo sự khẳng định của Ricoeur , " câu chuyện có tính sự kiện chỉ có thể là câu chuyện - truyện kể " ; " nếu không đánh mất thuộc tính của câu chuyện , thì câu chuyện không thể cắt đứt bất kì mối liện hệ nào với truyện kể " .
+Vì vậy , cả việc tách trần thuật học ra khỏi thi pháp học truyện kể , hay thi pháp học trần thuật , lẫn việc quy trần thuật học về thi pháp học truyện kể , hay thi pháp học trần thuật đều không phải là việc làm hiệu quả .
+Khách thể ( objet ) của trần thuật học là không gian văn hóa do các văn bản thuộc về một phương thức tu từ nào đó tạo thành , còn đối tượng ( sujet ) chiếm lĩnh của nó là chiến lược giao tiếp và thực tiễn diễn ngôn của ý đồ trần thuật .
+Tuy nhiên , trở thành bộ phận cấu thành của trần thuật học , cả lí thuyết truyện kể văn học , lẫn lí thuyết trần thuật văn học đều không mất đi đặc trưng và ý nghĩa cấp thiết của mình .
+Ngược lại , kinh nghiệm nghiên cứu thi pháp thể loại , thi pháp truyện kể , trần thuật vô cùng phong phú của khoa học văn học , khi được mở rộng sang các văn bản trần thuật phi nghệ thuật sẽ mở ra trước các nhà nghiên cứu ( và trước tu từ học hiện đại nói chung ) những khả năng phát hiện mới
+Chiến lược giao tiếp
+Muốn phác họa phạm vi thể loại trong nghiên cứu trần thuật học , chúng ta phải dựa vào các chiến lược giao tiếp cơ bản của diễn ngôn trần thuật , những chiến lược này là cơ sở tạo nên sự đa dạng thể loại không chỉ riêng đối với văn học nghệ thuật .
+Trong phạm vi những công trình nghiên cứu nhân văn học thuộc hệ hình khoa học hiện đại , hướng tiếp cận hiệu quả nhất là cách nghiên cứu " các thể loại lời nói " của M.Bakhtin .
+Hướng tiếp cận này phân chia rạch ròi các " thể loại gốc ( các loại hình đối thoại khẩu ngữ cụ thể ) " và các " thể loại thứ sinh ( tư tưởng hệ ) " như những hình thức " tổ chức chỉnh thể lời nói , sự hoàn kết của nó và tính tới người nghe " .
+Theo Bakhtin , chỉnh thể thể loại là chỉnh thể ngoài ngôn ngữ và do đó trung lập với ngôn ngữ .
+Cho nên , các thể thoại , với tư cách là những hình thức chỉnh thể ( tức là hình thức đối tượng - ngữ nghĩa ) là hiện tượng liên ngữ , mang tính quốc tế .
+Trong khi đó , các thể loại có quan hệ chặt chẽ với ngôn ngữ , chúng đặt ra trước ngôn ngữ những nhiệm vụ cụ thể , hiện thực hóa những khả năng cụ thể trong ngôn ngữ .
+" Khi chúng ta tổ chức lời nói của mình , bao giờ chúng ta cũng hình dung toàn bộ chỉnh thể phát ngôn của chúng ta : cả trong một hình thức sơ đồ thể loại nào đó , lẫn hình thức ý nghĩa cá nhân của lời nói " , vì thế , " hình thức tác giả ( ở chỗ khác , nó được gọi là " mặt nạ " . - V.Ch. ) phụ thuộc vào thể loại phát ngôn .
+Đến lượt mình , thể loại chịu sự quy định của đối tượng , mục đích và tình huống phát ngôn .
+Ai nói và người ta nói với ai .
+Khái quát lại , có thể nói , thể loại là một sự quy ước song phương nào đó trong giao tiếp , nó có chức năng liên kết chủ thể và người tiếp nhận phát ngôn .
+Hiện tượng thể loại là ngôn ngữ siêu ngôn ngữ học ( phương ngữ ) của văn hóa .
+Đó là cả một hệ thống quy ước truyền thống ( hệ thống ước lệ của việc tổ chức văn bản ) đã định hình trong quá trình lịch sử , nó cho phép chuyển tới người tiếp nhận những phát kiến của tác giả ( thuật ngữ tu từ học cổ điển ) , tức là những phát hiện " đối tượng - ngữ nghĩa " , hoặc phát minh của người nói .
+Nói cách khác , thể loại là loại hình phát ngôn có tính hiệu quả lịch sử , nó hiện thực hóa một số chiến lược giao tiếp nào đó của một diễn ngôn nào đó .
+Nếu ở trục lịch đại , thể loại đánh dấu truyền thống ( hiệu quả lịch sử ) của một tình huống giao tiếp nào đó được tái tạo theo nguyên tắc kế thừa trong văn hóa ( tình huống thông tin mang tính loại hình ) , thì trục đồng đại của thể loại chính là hệ hình của sự kiện giao tiếp do tác giả khởi xướng ( " chỉnh thể được hình dung " của diễn ngôn ) , tức là hệ thống thẩm quyền liên chủ thể được định hình trong lịch sử ( hệ thống " khả năng nào đó " ) của phát ngôn .
+Đặc biệt , " hình thức bản quyền " với tư cách " mặt nạ " lời nói hiển nhiên đối với việc sản sinh văn bản là thẩm quyền sáng tạo của thể loại .
+Thất bại sẽ xảy ra nếu thẩm quyền này không tương thích với bình diện thẩm quyền chủ quan từ " ý đồ lời nói mang tính cá nhân " của người nói hoặc người viết .
+Còn hai thẩm quyền khác là thẩm quyền của cái tham chiếu ( đối tượng - chủ đề ) và thẩm quyền tiếp nhận ( hướng địa chỉ tiếp nhận phù hợp với " hình thức bản quyền " ) .
+Các bình diện tham chiếu , sáng tạo và tiếp nhận tương đương với các tham số đối tượng , mục đích và tình huống phát ngôn theo quan điểm của Bakhtin .
+Qui ước đối tượng - chủ đề quyết định thẩm quyền của cái được tham chiếu của một thể loại nào đó là các quan niệm truyền thống với nó về nhân vật và bức tranh thế giới .
+Thẩm quyền sáng tạo của thể loại đòi hỏi sự thực hiện đúng quy ước trong việc tổ chức văn bản giữa chủ thể và hình thức phát ngôn như một chỉnh thể : ai nói và nói thế nào ( các quan niệm về vị thế tác giả và hành vi tu từ của người nói , tức là mặt nạ lời nói của anh ta ) .
+Cuối cùng , bản chất thẩm quyền tiếp nhận của thể loại là quy ước về giả định ngữ nghĩa của người tiếp nhận được " quan niệm hóa " ( B.O.Korman ) ( quan niệm độc giả hay thính giả , của thẩm quyền giao tiếp của anh ta ) .
+Dù ở bình diện lịch đại , chiến lược hình thành và tồn tại của các thẩm quyền thể loại có sự giống nhau , M.Bakhtin phân biệt " thể loại như một chỉnh thể kết cấu xác định ( thực chất , đã đông kết ) với các mầm mống thể loại ( chủ đề và ngôn ngữ ) có bộ xương kết cấu chưa phát triển ổn định vẫn được gọi là các " hiện tượng nguyên thủy " của thể loại " .
+Chẳng hạn , có cả một phổ rất rộng các thể loại trần thuật thuộc vào loại " hiện tượng nguyên thủy " như thế : cổ tích ( truyền thuyết huyền thoại - lịch sử , truyền thuyết tách ra từ huyền thoại tiền trần thuật ) , dụ ngôn , giai thoại và , cuối cùng , sự tích ( tiểu sử ) như là hình thức phát ngôn thuộc loại tiểu thuyết nguyên thủy .
+Những loại hình diễn ngôn nói trên có độ tuổi lịch sử khác nhau .
+Chúng sinh ra ở những thời đại khác nhau trong đời sống văn hóa của ý thức nhân loại - theo đúng trình tự như vừa kể ra ở trên - nhưng đến nay vẫn giữ được ý nghĩa tích cực với tư cách là những chiến lược giao tiếp trong giao tiếp trần thuật .
+Ba cái " rễ " đầu của nguyên một " khóm " hình thức thể loại sau đó , về nguồn gốc , là những phương thức phát ngôn trong giao tiếp khẩu ngữ , tức là giao tiếp trực tiếp ; hình thức tồn tại bằng văn viết của chúng ( giao tiếp gián tiếp ) chỉ là hình thức thứ sinh .
+Hình thức trần thuật cuối cùng , xuất hiện muộn nhất trong lịch sử , ngay từ đầu đã xuất hiện bằng văn viết , và điều này không thể không để lại dấu ấn đậm nét trong đặc điểm tu từ của nó .
+Tu từ học cổ tích , tu từ học dụ ngôn , tu từ học giai thoại và tu từ học sự tích ( tiểu sử ) hết sức khác nhau ( còn quá sớm để nói về thi pháp ở đây , vì chúng ta đang bàn về các thể loại lời nói cận nghệ thuật , chứ không phải các thể loại nghệ thuật với ý nghĩa riêng của nó ) .
+Trước hết , chúng khác nhau ở thẩm quyền tồn tại ( tham chiếu ) của các cơ sở đối tượng - chủ đề của " sự kiện được kể lại " ( sự nếm trải , hay là hành vi của nhân vật trong thế giới ) và các thẩm quyền giao tiếp tương ứng của các thành phần tham gia vào " sự kiện trần thuật " : các chủ thể diễn ngôn và người tiếp nhận diễn ngôn .
+Về thẩm quyền tham chiếu của một phát ngôn trần thuật nào đó ( nói cách khác - thẩm quyền tồn tại của nhân vật ) , có thể nói , nó chịu sự quy định của bức tranh thế giới được mô hình hóa bởi những văn bản của một thể loại tương ứng .
+Cổ tích mô hình hóa bức tranh thế giới của những vai trò .
+Đó là một trật tự thế giới tiền định , hiển nhiên và bất di bất dịch , ở đây , tất cả những ai có cuộc đời đáng được góp mặt trong truyện cổ đều có một vai " bắt buộc " nào đó .
+Đó là số phận ( hay nghĩa vụ như một số phận xã hội ) .
+Thể loại cổ tích về mặt lịch sử có nguồn gốc từ trạng thái quan hệ xã hội cổ xưa , trạng thái mà Hegel gọi là " thế kỉ của những anh hùng " .
+Ở đây , thẩm quyền tồn tại của nhân vật anh hùng được quy về việc hiện thực hóa một nhu cầu bức thiết nào đó , một định mệnh rõ ràng , khi các nhân vật " không lựa chọn cái mà theo bản chất của mình đúng là chúng muốn và chúng thực hiện " .
+Ngược lại , bức tranh thế giới được mô hình hóa trong dụ ngôn chính là trách nhiệm lựa chọn tự do với tư cách là thẩm quyền tồn tại của những nhân vật có một lập trường nhân sinh nào đó ( xem quan điểm lựa chọn của hai người con trai trong dụ ngôn của Đức Giê-su về đứa con trai hoang đàng ) .
+Đó là bức tranhquyết đoán về thế giới , nơi mà hành vi lựa chọn do nhân vật thực hiện ( hay phạm tội ) không phải là sự định sẵn của số phận , mà là một giới luật luân lí nào đấy , chính cái giới luật này thực sự tạo thành cái " minh triết " trong lời răn dạy của dụ ngôn .
+Dụ ngôn không trần thuật về những sự kiện vô tiền khoáng hậu trong đời sống cộng đồng ( cổ tích ) hay đởi sống cá nhân ( giai thoại ) , mà trần thuật về những hành vi chuẩn mẫu trong những tình huống chuẩn mẫu , về những gì , theo quan niệm của những người cùng tham dự vào diễn ngôn dụ ngôn , vẫn thường xuyên xẩy ra và xẩy ra với nhiều người .
+Theo tư tưởng của S.S.Averinsev , ở đây , các nhân vật hành động hiện lên trước mắt ta giống như " các chủ thể lựa chọn luân lí , chứ không phải những " khách thể " của sự " quan sát " thẩm mĩ ( nhân vật trong cổ tích và giai thoại đúng là như vậy ) .
+Mọi hành vi của các nhân vật ấy trong dụ ngôn đều là sự hiện thực hóa sự lựa chọn này ( không phải lúc nào cũng bộc lộ rõ trong văn bản , nhưng bao giờ cũng ngầm hiện diện trong quan niệm nhân sinh của nhân vật ) .
+Thẩm quyền của cái được tham chiếu trong giai thoại hoàn toàn đối lập với tính sự kiện của cổ tích , đồng thời , về mặt này , khác biệt rõ rệt với dụ ngôn .
+Thể truyện cười hiện đại trong văn học dân gian thành thị chỉ là một trong số những biến thể của diễn ngôn giai thoại bị ảnh hưởng ngược lại từ phía văn học nghệ thuật .
+Giai thoại trong ý nghĩa đích thực của từ ấy ( ví như tin đồn về những biến cố trong đời sống ở phía sau hậu trường của những nhân vật vai vế trong xã hội được Puskin , hoặc Vijemski ghi lại ) không nhất thiết phải thông báo một cái gì đó buồn cười , nhưng nhất thiết phải kể lại một cái gì đó kì cục : tò mò , lí thú , bất ngờ , khả nghi , hi hữu ...
+Trần thuật giai thoại luôn tạo ra bức tranh thế giới nhất thời ( ngẫu nhiên ) , chiết trung , rắc rối ; với tính bất thường và đáng ngờ theo kiểu " carnaval " của nó , bức tranh ấy bác bỏ , bóp méo , chế giễu mọi thứ nghi lễ và quy ước bất di bất dịch , đầy quyền uy trong các quan hệ của con người .
+Giai thoại không thừa nhận bất kì một thứ trật tự thế giới nào , trong cái nhìn của giai thoại , đời sống là trò chơi của cái ngẫu nhiên , là dòng chảy không thể đoán định của hoàn cảnh , là sự đụng độ của các sáng kiến cá nhân .
+Thẩm quyền tồn tại của nhân vật giai thoại là sự tự phát hiện ra tính cách của mình : hành vi sáng tạo-mạo hiểm trong một thế giới vô thường - phiêu lưu , hành vi mưu trí , sắc sảo , hay ngược lại , hành vi ngu đần , hoặc kì quặc , ngu ngốc , lắm khi báng bổ .
+M.Bakhtin cho rằng , mọc lên từ giai thoại , ngay từ đầu tiểu thuyết đã đòi hỏi " xóa bỏ " húy kị " , dung nạp sự bôi bẩn , báng bổ bằng ngôn từ và sự tục tĩu .
+Cái " phi thường " trong tiểu thuyết là xóa bỏ cấm kị , là tầm thường hóa cái thiêng liêng .
+Tiểu thuyết là thể loại ban đêm làm vấy bẩn vầng thái dương đã chết " ( " Nghìn lẻ một đêm " ... , mối liên hệ với cái chết ) " .
+Nhân vật của sự tích ( tiểu sử ) có thể là , mà cũng có thể không phải là chủ thể của hành động theo vai , hoặc chủ thể của lựa chọn đạo đức , hay chủ thể tự phát hiện đầy sáng tạo : với nó , tất cả những thẩm quyền tồn tại ấy đều có thể có , nhưng tùy thích , không bắt buộc .
+Nó giống nhân vật tiểu thuyết ở tính " khác thường " , nhưng cũng rất khác với nhân vật tiểu thuyết ở chỗ , nó hành động không hẳn giống như " kẻ phá hủy " một số chuẩn mực nào đó , mà chủ yếu giống như đại diện và như kẻ hiện thực hóa cái ý nghĩa độc đáo của cuộc đời đang mở ra , tức là chủ thể của sự tự xác định , và đó chính là cơ sở hình thức thể loại của tiểu thuyết .
+Bởi vì cuộc sống của cá nhân ( khác với tính cách , hay quan điểm , hay chức năng hành động ) không thể tìm thấy ý nghĩa trong cả thế giới bức thiết , thế giới chuẩn mực quyền uy , lẫn thế giới ngẫu nhiên , vô thường .
+Một tiểu sử đầy đủ giá trị chỉ có thể có trong thế giới xác suất và đa nghĩa ( phức điệu ) của một quan hệ liên cá nhân mang tính phổ quát .
+" Nghệ thuật khiến người ta quan tâm tới số phận của những cá nhân riêng lẻ " .
+Chữ " số phận " trong ngữ cảnh này không phải là định mệnh bất di bất dịch hay vận số nhất thời , mà là kinh nghiệm có thể có của sự tồn tại riêng tư - Mandelstam hoàn toàn có lí khi đối lập các " thánh tích " , nơi " minh họa cho tư tưởng phổ quát " ( ở đây phù hợp với chiến lược cổ tích và dụ ngôn ) .
+Ông viết : Cuộc đời con người vẫn chưa phải là tiểu sử và chưa tạo ra cột xương sống cho tiểu thuyết .
+Con người hành động trong thời gian của tiểu thuyết cũ của châu Âu tựa như là cái trục của cả một hệ thống hiện tượng được nhóm lại xung quanh nó .
+Truyện tiểu sử mang tính tiểu thuyết kể về cá nhân tiểu sử tạo ra bức tranh thế giới hiện sinh giống như một hệ thống hoàn cảnh hiện diện của cá nhân trong quá trình tồn tại nhân sinh tập trung xung quanh cái " tôi " của nhân vật .
+Đó là " thế giới như là kinh nghiệm " hình thành và phát triển của chủ thể đời sống tự xác quyết .
+Điều kiện cơ bản của chiến lược giao tiếp với thể sự tích ( truyện tiểu sử ) như nó vốn dĩ là khả năng tồn tại của một cuộc sống hoàn toàn khác và một bức tranh thế giới giá trị-ngữ nghĩa cụ thể hoàn toàn khác , với những đường ranh giới phân chia hoàn toàn khác giữa các đồ vật và các giá trị , cùng những kẻ láng giềng hoàn toàn khác .
+Chính cảm giác ấy đã tạo ra cái nền thiết yếu cho cái nhìn tiểu thuyết đối với thế giới , cho hình tượng tiểu thuyết và ngôn từ tiểu thuyết .
+Khả năng của cái khác ấy thâu chứa trong bản thân cả khả năng của một ngôn ngữ khác , khả năng một giọng điệu và một sự định giá khác , lẫn quy mô và quan hệ không - thời gian khác ( 5 , 134 - 135 ) .
+Cái khả năng mà về nguyên tắc không thể có được trong cổ tích và dụ ngôn lần đầu tiên được chiếm lĩnh trong giai thoại , hình thức thể loại chuẩn bị mảnh đất cho sự ra đời của sự tích ( truyện tiểu sử ) như một hiện tượng văn hóa .
+Thẩm quyền của cái được tham chiếu ở diễn ngôn sự tích ( tiểu sử ) bộc lộ đầy đặn tối đa trong tiểu thuyết cổ điển thuộc hệ hình hiện thực , nơi " hình tượng con người đang trưởng thành " với kinh nghiệm đời sống hi hữu của nó ( thẩm quyền của cái được tham chiếu ở hình thức nhỏ của thể tiểu sử - truyện ngắn ) được đặt vào " phạm vi rộng lớn của tồn tại lịch sử " , và là nơi , như N.D.Tamarchenko đúc kết , trình bày " sự hình thành lịch sử của thế giới trong nhân vật và qua nhân vật " .
+Trong khi đó , cả giai thoại lẫn dụ ngôn đều không biết tới sự hình thành của thế giới ( trong dụ ngôn , thế giới tĩnh tại , trong giai thoại , nó lại hỗn loạn ) , còn cổ tích , từng tạo ra sử thi anh hùng trong văn học , chỉ nhìn thấy công cụ của thế giới đang hình thành ở nhân vật hành động tĩnh tại trong nội tại .
+Chuyển qua các tham số của sự kiện giao tiếp ở hành động kể chuyện , cần xác định rõ , rằng cái được thông báo trong diễn ngôn trần thuật có thể có vị thế giao tiếp : 1 ) tri thức , 2 ) tín niệm , 3 ) ý kiến , hoặc 4 ) sự thông hiểu - một trong số các vị thế ấy sẽ quyết định thẩm quyền sáng tạo của trần thuật .
+Mỗi vị thế của nội dung tham chiếu vừa liệt kê sẽ được phát triển bằng một thể loại tương ứng với tư cách là hạt nhân cố định nào đó của lập trường tác giả , nhân tố tổ chức văn bản và đòi hỏi có một hành vi giao tiếp đặc biệt ( mặt nạ lời nói ) để thể hiện bản thân từ phía người trần thuật .
+Chính điều này cho phép ta nói về những loại tu từ học khác nhau của các dạng phát ngôn đang được khảo sát .
+Trong tình huống đọc truyện cổ tích , chủ thể diễn ngôn có tri thức đích thực , đáng tin cậy , nhưng không thể kiểm chứng ( kiểm chứng loại tri thức như thế cũng có nghĩa là phiên dịch nó qua một vị thế giao tiếp khác - chân lí khoa học ) .
+Theo đó , tu từ học cổ tích là tu từ học của lời nói theo vai , không ngôi , lời nói từ điển .
+Người nói ở đây chỉ là người biểu diễn cái văn bản được truyền đạt .
+Ngay cả các nhân vật cổ tích cũng " không thể tự ý tạo ra , mà phải theo mệnh lệnh của Chúa Trời " .
+Ở một ý nghĩa nào đó , cổ tích thuộc loại tiền độc thoại , nó liên kết người nói và người nghe bằng một tri thức chung , vì thế , mặt nạ lời nói của loại phát ngôn như thế tựa như lời đồng ca của thể " tán dương " mang tính toàn dân ( hay thể phỉ báng , khốc điếu , chế giễu ) , trong khi đó , người kể chuyện của dụ ngôn hoặc giai thoại rõ ràng lại đơn ca .
+Giới hạn tu từ của cổ tích là cách ngôn anh hùng , tiến tới đó , mọi truyện cổ khác về nguyên tắc có thể sẽ bị suy yếu ( so sánh những cách ngôn nổi tiếng : " Ta đã đến , đã nhìn thấy , đã chiến thắng " , hoặc Dù thế nào , nó vẫn quay " ) .
+Giới hạn ngược lại là ngôn ngữ mô tả thuộc tính khoa học .
+Trong tình huống giao tiếp của dụ ngôn , thẩm quyền sáng tạo của người nói là anh ta có một xác tín làm điểm tựa tổ chức diễn ngôn giáo huấn .
+Mặt nạ lời nói của diễn ngôn này là tu từ học quyền uy của lời nói tối thượng , độc điệu hóa .
+Bakhtin viết : Có thể cảm nhận được trong lời nói cả một hệ thống ý nghĩa hoàn kết và được giới hạn nghiêm nhặt ; nó kì vọng sẽ đạt được tính đơn nghĩa , mà trước hết là đơn nghĩa về mặt giá trị ...
+Chỉ có một giọng vang lên trong đó Nó sinh sống trong một thế giới đã hoàn bị , được định giá và phân hóa một cách ổn định .
+Lời của cổ tích vẫn chưa phải là lời .
+Lời của giai thoại vốn không phải là lời .
+Dụ ngôn chia tách những người tham gia vào sự kiện giao tiếp thành người dạy và người được giảng dạy .
+Đó là sự phân chia đẳng cấp , nó không cần tới sự thông hiểu bình đẳng của các ý thức theo kiểu đồng ca ( cổ tích ) , hay đối thoại ( giai thoại ) như chúng vẫn thường hiện diện trong diễn ngôn .
+Hành vi lời nói của loại dụ ngôn là độc thoại ở dạng thuần túy , nhắm tới mục đích chuyển từ ý thức này qua ý thức khác .
+Còn hoạt động tinh thần và lời nói của nhân vật , thì ở đây , thông thường , nó chỉ hiện diện dưới các hình thức phong cách của lời gián tiếp ( dù đôi khi , dưới hình thức văn tự , nó được ghi như là lời trực tiếp ) .
+Giới hạn tu từ của dụ ngôn : ở phía này , là thuyết giáo , trong đó dụ ngôn thường xuất hiện dưới dạng hỗn hợp trần thuật , ở đầu đầu kia , là châm ngôn , đến đó , dụ ngôn sẽ suy yếu , nếu nó loại bỏ phần trần thuật .
+Thẩm quyền sáng tạo của người kể giai thoại là tri thức đáng ngờ , mà theo vị thế giao tiếp , nó được đồng nhất với ý kiến ( và sự nghi ngờ ) .
+Ta hiểu vì sao , giai thoại bao giờ cũng lệ thuộc vào tài nghệ của người kể chuyện nhiều hơn so với sự lệ thuộc của nó vào nội dung .
+Chẳng riêng gì các câu chuyện giai thoại hư cấu , mà ngay cả những chuyện không hư cấu cũng đều không có tham vọng đạt tới vị thế của tri thức .
+Ngay cả khi là chuyện xác thực , chúng vẫn tồn tại như những chuyện đồn thổi , đơm đặt , tức là chúng thuộc về bản thân tình huống kể chuyện , chứ không phải tình huống được trần thuật qua khu vực gián cách giá trị ( cổ tích ) .
+Mặt nạ lời nói của giai thoại là tu từ học hài hước của loại ngôn từ ngẫu nhiên , ngôn từ của hoàn cảnh , ngôn từ đối thoại hóa của lời nói trực tiếp .
+Ở đây , chính sự đối thoại giữa các nhân vật thường là nhân tố tổ chức truyện kể .
+Ngoài ra , bản thân văn bản giai thoại ( việc lựa chọn từ vựng chẳng hạn ) phần lớn lệ thuộc vào tình huống đối thoại khi kể chuyện , vì cơ bản nó nhắm tới phản ứng hồi đáp trực tiếp : chỉ cần người nghe biết chút ít về nội dung giai thoại , nó sẽ phá hỏng tình huống giao tiếp này ( không thể nói gì về những trần thuật khác ) .
+Vì vậy , giai thoại không thể kể một mình , trong khi đó , về nguyên tắc , dụ ngôn có thể làm như vậy bằng cách hồi tưởng , ướm thử nội dung của nó vào tình huống lựa chọn nhân sinh trong đời sống riêng tư .
+Giới hạn tu từ mà tiến tới đó giai thoại có thể dễ dàng suy yếu là châm ngôn hài hước , tức là sự hóm hỉnh sắc sảo ( hay là sự sắc sảo lộn trái : ngốc nghếch , vụng về , lầm lẫn , buột miệng ... ) , ở đây lời được phi lễ nghi hóa , năng động , được trau chuốt theo phong cách cá nhân .
+Cực ngược lại của diễn ngôn giai thoại là sự sám hối xưng tội ( chiến lược giao tiếp " tự bóc trần " ở một mức độ nào đó là kể giai thoại về chính bản thân mình ) .
+Ở trường hợp sự tích , với bản quyền có giá trị đầy đủ , chủ thể của diễn ngôn tiểu sử dứt khoát phải am hiểuđời sống được trình bày như là cuộc sống có một ý nghĩa tự trị nào đấy .
+Theo sự xác định của S.S.Averinsev , ngay ở Plutarque , người khởi đầu cho truyền thống này từ thời cổ xưa , đã thấy nổi lên " sự tọc mạch đầy sinh động , không thiên kiến trước sự tồn tại thực tế của con người , kết quả của điều đó là " từ lập trường của ông thầy dạy đời sống , ông thường chuyển qua lập trường của người sáng tạo cuộc đời , người trần thuật về cuộc sống ấy " .
+Việc không đặt điểm tựa vào sự khám phá ý nghĩa được xác lập bằng tri thức hoặc tín niệm về tiểu sử của ai đó , mà đặt vào sự trình bày những hiểu biết riêng về nó , thâm nhập vào ý nghĩa của nó tất yếu dẫn tới " giọng điệu tin cậy và cuộc trò chuyện thoải mái của tác giả với độc giả " , tới sự " minh họa giọng nói sống động , động tác trực quan và sự hiện diện gần như trực tiếp của người kể chuyện " .
+Tuy nhiên , nguyên tắc đối thoại của lời trong truyện tiểu sử không dẫn tới các khía cạnh tương đồng với diễn ngôn giai thoại .
+Mặt nạ lời nói của tác giả truyện tiểu sử được đối thoại hóa trước tiên trong tương quan với bản thân nhân vật trong truyện tiểu sử ( giai thoại không biết tới điều đó ) và lập trường giá trị - ngữ nghĩa trong thế giới .
+Điều đó đòi hỏi tu từ học phải có lời hai giọng thể hiện kinh nghiệm lưỡng diện ( được ghi nhớ và ghi nhớ ) của đời sống .
+Cơ sở của loại tu từ học như thế là lời trực tiếp của người khác được khúc xạ , bao gồm những hình thức khác nhau của lời nói hàm ẩn , bán hàm ẩn , tản mạn của người khác ...
+Phát ngôn nào cũng có đặc điểm do thẩm quyền tiếp nhận của một thể loại tương ứng quyết định : có địa chỉ riêng mang tính chiến lược .
+Địa chỉ ấy chính là một lập trường nào đó được qui cho ý thức tiếp nhận của người cùng tham gia vào sự kiện giao tiếp .
+Thẩm quyền của người tiếp nhận do thể loại yêu cầu quyết định lập trường nói trên .
+Người nghe ( người đọc ) thực tế có thể không có lập trường đã được chuẩn bị sẵn cho anh ta , nhưng khi đó , việc tham gia giao tiếp của anh ta sẽ không phù hợp với diễn ngôn mà có khả năng sẽ không thể thực hiện .
+Chẳng hạn , truyện cổ tích đã mặc định người tiếp nhận là người có lập trường tiếp xúc theo kiểu bắt chước ở bên trong với các thể toàn dân " khen tụng " , " mạ lị " , " điếu khốc " và có thẩm quyền phỏng họa .
+Thẩm quyền phỏng họa cần có quan hệ với tri thức thông tin như tri thức hoàn toàn đáng tin cậy , cùng khả năng lưu giữ và truyền đạt tri thức ấy cho người tiếp nhận tương tự .
+Thẩm quyền tiếp nhận từ phía người tiếp nhận dụ ngôn có thể được xác định như là thẩm quyền điều hòa .
+Quan hệ giữa người nghe với nội dung dụ ngôn không có được sự tự do giống như đối với nội dung giai thoại , nhưng cũng không thụ động giống như với nội dung cổ tích .
+Đó là lập trường tiếp nhận chủ động .
+Không bằng lòng với kiểu tiếp nhận phỏng họa , diễn ngôn dụ ngôn với lối nói ám chỉ của nó đòi hỏi , thứ nhất , phải có sự diễn giải nhằm kích hoạt lập trường của người tiếp nhận , thứ hai , người tiếp nhận rút ra được bài học có giá trị nào đó từ truyện kể dụ ngôn cho riêng mình .
+Nếu điều thứ nhất có thể thực hiện với những người kể dụ ngôn , thì việc ứng dụng một cách mẫu mực kinh nghiệm phổ quát được ghi lại trong dụ ngôn vào thực tiễn đời sống của cá nhân chỉ có thể thực hiện ở bản thân người nghe .
+Lối nói bóng gió có tính nguyên tắc với dụ ngôn là cái tựa như cơ chế kích hoạt ý thức của người tiếp nhận .
+Nhưng ở đây , tính tích cực nội tại của người tiếp nhận vẫn là một thứ quyền uy , dụ ngôn không tạo ra quan hệ tự do , đùa bỡn , đổi thay ở bên trong với người được thông báo .
+Ngược lại , thẩm quyền tiếp nhận giai thoại trao cho người tiếp nhận lập trường đồng sáng tạo , lập trường trò chơi năng động giữa các ý kiến .
+Đặc điểm không thể thiếu trong giao tiếp của những ai biết nghe giai thoại là năng khiếu giải trí , loại năng khiếu đặc biệt yêu cầu sự hiện diện của tình cảm được gọi là hài hước và kĩ năng từ bỏ " tính nghiêm túc gò bó " ( Bakhtin ) trong đời sống .
+Gia thoại không cuốn hút độc giả bằng cách khắc phục tính độc lập bên trong của họ , mà làm cho họ được giải trí bằng cách tạo cho người tiếp nhận một quan hệ carnaval ở bên trong với người được thông báo .
+Có một đặc điểm thế này : dù chỉ được truyền miệng một cách nhẹ nhàng , tắc trách , giai thoại được thiết kế tựa như để tái bản : được thông báo trong một tình huống khác , qua người kể chuyện khác , với những chi tiết và giọng điệu khác , thực chất , nó trở thành một sự kiện giao tiếp khác .
+Cho nên nghe đi nghe lại cùng một giai thoại là điều không thể chấp nhận với cả người kể , lẫn người nghe .
+Diễn ngôn tiểu sử lôi cuốn người tiếp nhận nhập vào một quan hệ hết sức đặc biệt với nhân vật của mình .
+Quan hệ này được xác định bởi sự thiếu vắng của khoảng cách giá trị giữa chúng với nhau .
+Ở đây không thể có sự tự đồng nhất một cách quy phạm theo kiểu dụ ngôn với một " con người nào đó " .
+Bởi vì nội dung đối tượng - chủ đề của truyện tiểu sử mang tính độc đáo tuyệt đối .
+Nhưng ngay cả sự tự chia tách về mặt giá trị giữa người tiếp nhận và nhân vật vốn là đặc điểm tiếp nhận của cổ tích hoặc giai thoại cũng tỏ ra không phù hợp : chủ thể , khách thể và người tiếp nhận của sự kiện giao tiếp trong tiểu thuyết nguyên thủy thực chất là những chủ thể tạo nghĩa ngang nhau , giữa chúng luôn có một quan hệ đồng tình ( hay ngược lại , tranh biện ) về mặt giá trị - ngữ nghĩa được xác lập .
+Truyện tiểu sử chứa đựng trong bản thân năng lực tiếp nhận " tin cậy vào lời nói của người khác " , đó là điều giai thoại không đòi hỏi , nhưng cũng không có sự " tiếp nhận cung kính " và sự " giáo huấn " như " lời quyền uy " của cổ tích và dụ ngôn yêu cầu .
+Đó là thẩm quyền thông hiểu lẫn nhau giữa những người đại diện cho kinh nghiệm đời sống khác nhau , cho sự " đồng thuận tự do " của họ mà ta có thể tìm thấy phía sau đó sự khắc phục khoảng cách và sự xích lại gần nhau ( nhưng không hòa tan ) " .
+Người tiếp nhận mang tính quan niệm của diễn ngôn tiểu sử và nhất là diễn ngôn tiểu thuyết có sứ mệnh sở đắc thẩm quyền phóng chiếu sự trải nghiệm theo kiểu lạ hóa ; trải nghiệm bản thân trong người khác và người khác trong bản thân mình .
+Anh ta phải có năng lực phóng chiếu kinh nghiệm hiện hữu mang tính sinh tồn của người khác lên kinh nghiệm đời sống của bản thân , cũng như phóng chiếu kinh nghiệm đời sống của mình bằng cách dựa vào kinh nghiệm cá nhân trên lập trường đời sống của người khác .
+Đó là lí do giải thích vì sao có cuộc khủng hoảng của diễn ngôn trần thuật và , nhất là , ở hình thức tối cao của nó ( tiểu thuyết ) trong thế kỉ XIX , cuộc khủng hoảng mà giải thích theo giả thuyết của W.Benjamin là do con người đánh mất kinh nghiệm mà nó đã được ban tặng .
+Rõ ràng , với tiểu thuyết , cuộc khủng hoảng như vậy không phải là chuyện không thể khắc phục .
+Nhưng phải thừa nhận , việc thể loại này sử dụng rộng rãi các chiến lược giao tiếp khác là điều hiển nhiên và hợp quy luật .
+Phạm trù sự kiện
+Nếu xem loại phát ngôn chứa đựng cùng lúc hai sự kiện là bản chất của trần thuật với tư cách là một phương thức tu từ , thì phạm trù cơ bản của trần thuật học sẽ là phạm trù sự kiện , một phạm trù mà ngay cả trong nhiều công trình nghiên cứu chuyên nghiệp lắm khi vẫn xuất hiện như một cái gì rõ ràng , hiển nhiên một cách mù mờ .
+Vậy mà , tính sự kiện là hiện tượng mà tự nó tuyệt nhiên không phải là cái đã hiển nhiên .
+Hướng tiếp cận của trần thuật học với phạm trù sự kiện càng trở nên phức tạp do phải quy đồng mẫu số cho những hiện tượng có tính chất hết sức khác nhau : sự kiện giao tiếp của tiến trình diễn ngôn và sự kiện tham chiếu của tiến trình lịch sử ( hay bán lịch sử , " hư cấu " trong lĩnh vực văn học nghệ thuật ) .
+Việc chia tách các sự kiện khi phân tích và diễn giải lịch sử ( ở mọi quy mô của khái niệm ấy : từ giai thoại cho đến lịch sử thế giới ) đang là khâu tác nghiệp hết sức tùy tiện trong nghiên cứu .
+Bởi vì , như I.M.Lotman đã chỉ ra một cách chính xác , " việc sai lệch nghiêm trọng đối với chuẩn mực ( tức là " sự kiện " , vì thực hiện đúng chuẩn mực thì không phải là " sự kiện " ) phụ thuộc vào quan niệm về chuẩn mực " , mà quan niệm về chuẩn mực lại thuộc về chủ thể nào đó ( chủ thể tinh thần , loại hình văn hóa ) .
+Nói cách khác , sự kiện không tách rời cách giải thích thiên vị với tức cách là một hoạt động hay biến cố quan trọng ( với ai đó ) .
+Hegel là người đầu tiên có ý đồ xác định hiện tượng tính sự kiện .
+Ông đề nghị " xác lập sự khác nhau giữa những gì chỉ đơn giản xẩy ra và hành động có dạng sự kiện trong tác phẩm sử thi " .
+Theo Hegel , có thể gọi " mọi thay đổi bề ngoài trong diện mạo và sự biểu hiện của những gì đang tồn tại " là sự cố , trong khi đó , sự kiện là " một cái gì lớn hơn , cụ thể là sự thực hiện một mục đích đã vạch ra , kết cục là mở ra " cả một thế giới toàn vẹn bên trong đó với tất cả sự viên mãn mà hành động chuyển dịch trong phạm vi tổng thể của nó " .
+Đó là quan niệm hết sức đặc biệt về sự kiện , quan niệm ấy dừng lại ở lĩnh vực sử thi anh hùng và thừa nhận tính sự kiện của sự ngẫu nhiên .
+Nếu xem xét từ quan điểm của Hegel , thì giai thoại , truyện vừa , văn hóa tiểu thuyết hiện đại , thậm chí cả những pho sử kí rắc rối đều không phải là những tác phẩm trần thuật với đầy đủ ý nghĩa của nó , vì chúng không có tính sự kiện của sử thi .
+Xuất phát từ kinh nghiệm của lối viết tiểu thuyết , N.D.Tamarchenko đã mở rộng đầy thuyết phục khái niệm sự kiện của Hegel bằng cách xác định sự kiện như là " sự chuyển dịch từ tình huống này qua tình huống khác ... nhờ vào hoạt động riêng của nhân vật ( viễn du , sự đánh giá mới về thế giới ) hoặc sự năng động của hoàn cảnh ( những thay đổi sinh học , tác động của những mặt đối lập , biến đổi của thiên nhiên và lịch sử ) " .
+Dừng lại ở mức tương đối , một định nghĩa như thế là hoàn toàn thỏa đáng .
+Tuy nhiên , rốt cục , nó vẫn không loại bỏ được một số khiếm khuyết trong cách hiểu về tính sự kiện .
+Sự chuyển dịch trong không gian ( viễn du ) có thể diễn ra theo một kiểu , hoặc lặp lại nhiều lần , và như thế thì vẫn chưa phải là sự kiện .
+Ngày rạng hay chiều tàn hiển nhiên là " chuyển dịch từ tình huống này sang tình huống khác " , nhưng bản thân nó vẫn chưa phải là sự kiện , vì nó hoàn toàn hợp quy luật và bất di bất dịch .
+Vấn đề là ở chỗ , N.D.Tamarchenko nói về sự kiện trong giới hạn của văn bản nghệ thuật , nơi phạm trù này , theo ý nghĩa của nó , được sử dụng để " chỉ ra điểm khởi đầu vận động của truyện kể " .
+Trong trần thuật nghệ thuật , quả là không có bất kì cái gì mang tính trung lập , vô nghĩa .
+Ở đây , ngay cả sự đơn điệu , lặp lại , sự nhàm chán hiện lên lồ lộ - tất cả đều là sự kiện nghệ thuật , nhưng như thế là nhìn trong phạm vi của sự kiện giao tiếp trong hoạt động kể chuyện , chứ không phải từ góc độ sự kiện tham chiếu của cái được kể .
+Đặc điểm của loại sự kiện thứ hai này này cần được tiếp tục nghiên cứu .
+W.Smid là người có ý đồ đi sâu nghiên cứu nghiêm túc vấn đề ấy .
+Ông nêu lên " hàng loạt điều kiện , nếu thực hiện , ngoài sự tương phản đã được nhắc tới , sẽ tạo thành sự kiện trong văn bản trần thuật " , mà cụ thể là : " thực tế " ( " trong thế giới hư cấu của trần thuật " ) , " quan trọng " ( " quan trọng theo quy mô của thế giới hư cấu " ) , " hiệu quả " , " bất ngờ " , " không thể đảo ngược " ( " trạng thái mới không bị thủ tiêu " ) , " không lặp lại " , " liên tục " ( " những thay đổi cần kéo theo hậu quả trong tư duy và hành động của chủ thể " ) .
+Dù có rất nhiều ưu điểm không thể phủ nhận trong việc triển khai khái niệm sự kiện , từ quan điểm của trần thuật học , nó vẫn cần phải có một sự bổ chính .
+Thứ nhất , khái niệm ấy chỉ giới hạn trong phạm vi của trần thuật nghệ thuật ( " hư cấu " ) .
+Thứ hai , việc đưa ra quá nhiều điều kiện như đã nêu tạo ra một khả năng thực tế , một mặt , mở rộng danh mục của chúng ( chẳng hạn , điều kiện về sự hi hữu ) , mặt khác , thiếu sự thuần nhất giữa các điều kiện , từng điểm mang tính ngẫu hứng , thiếu sự chặt chẽ :
+Nếu sự kiện vẫn cứ được ai đó tiên đoán ra thì sao ?
+Và nếu đã có các dấu hiệu của sự kiện , nhưng nó không kéo theo sự thay đổi trong hành vi và tư duy của các nhân vật thì sao ?
+Xưa kia , I.N.Tynhianov đã chỉ ra , bản chất của hiện tượng không nằm ở bảng tối đa của các dấu hiệu , mà nằm ở bảng thiết yếu tối thiểu .
+Mô hình mẫu mực của A.Danto có thể xem là ví dụ tiêu biểu cho cách định nghĩa sự kiện trần thuật .
+Theo ông , có thể xem sự kiện là tình trạng t-2 , nếu tình trạng t-1 và t-3 không đồng nhất với nhau .
+Nhưng nếu , tỉ như , theo công thức ấy , tình trạng 1 là ngủ , tình trạng 2 là tỉnh giấc , tình trạng 3 là thao thức , thì tỉnh giấc thường chỉ là một khâu của quá trình sinh học tự nhiên .
+Dù đôi khi ( nhất là trong các văn bản nghệ thuật ) , sự tỉnh giấc như thế cũng có thể nổi lên trong vị thế của một sự kiện .
+Cách kiến giải theo kiểu tối thiểu của A.Danto rõ ràng chưa thỏa đáng , và đó là lí do khiến W.Smid phải mở rộng một cách đáng kể .
+I.M.Lotman đã định nghĩa như sau để vạch ra ranh giới rõ ràng giữa sự kiện và các tiến trình tự nhiên : " Sự kiện được xem là cái đã xẩy ra , mặc dù có thể không xẩy ra " .
+Định nghĩa này vẫn chưa mang tính phổ quát ( chẳng hạn , nó không thể áp dụng cho các sự kiện trong Phúc âm ) , nhưng hết sức cơ bản .
+Chẳng hạn , mặt trời mọc hoàn toàn không phải là sự kiện với bất kì ai đang sống trên Trái Đất này .
+Nhưng nhật thực , với đa số nhân loại , nó là sự kiện , còn với nhà thiên văn học , nó vẫn chỉ là hiện tượng hợp quy luật của tiến trình thiên nhiên .
+Khái niệm sự kiện của trần thuật học khái luận , thiết nghĩ , có lẽ đã được giải thích rành mạch , theo cách phát hiện của P.Ricoeur , trong dẫy " các hiện tượng chủng loại ( sự kiện , tiến trình , trạng thái ) " .
+Mọi tiến trình - không chỉ tự nhiên , mà cả văn hóa , lịch sử , tinh thần - đều là một độ dài thời gian hợp quy luật : một trình tự dây chuyền nối tiếp nhau của các trạng thái ( tình huống ) .
+Nếu được định hình và nhờ thế mà được tách ra khỏi tiến trình một cách ước lệ , thì mỗi trạng thái sẽ có thể có vị thế của một sự thực .
+Trạng thái này hay trạng thái khác của tồn tại là nền móng của sự thực : không thể có sự thực , nếu không có một trạng thái hiện hữu , nhìn thấy được của một cái gì đó đang tồn tại trên thế giới .
+Nhưng không thể nói , hay suy ngẫm về bản thân " sự thực " như trạng thái đơn nhất của một bình diện tồn tại nào đó nếu không có một văn bản ghi lại trạng thái ấy .
+Chuỗi tiến trình của tồn tại mang tính liên tục về mặt bản thể học .
+Chỉ có thể nhận ra các sự thực rời rạc trong đó nhờ sự hỗ trợ của ngôn ngữ , nhờ hoạt động tạo sinh văn bản , nhờ diễn ngôn .
+Sự thực không phải là gì khác , mà chính là chức năng của cái được tham chiếu của diễn ngôn - của phát ngôn về nó .
+Kí sự là sự sự phân mảnh và khoanh vùng tiến trình : sự thực là cái đơn nhất về mặt không - thời gian mà có thể ghi lại và có thể trở thành sự kiện .
+Nhưng cũng có thể không phải như vậy .
+Sự thực là nền móng của sự kiện : không có sự thực thì cũng không có sự kiện .
+Nhưng không phải mọi sự thực đều là sự kiện .
+Khác với tốc kí và biên niên giản lược , đặc trưng của diễn ngôn trần thuật chính là ở chỗ , nó trao cho sự thực hoặc một chuỗi sự thực nào đó vị thế của sự kiện .
+Ở đây , nói theo lời của Bakhtin , trên bình diện thứ nhất " xuất hiện một nhân vật hành động mới mẻ và chính yếu của sự kiện - chứng nhân và quan tòa " , nhờ có quan hệ với nó , tính khả niệm ( tính biểu ý ) của sự thực được kích hoạt , thiếu nó , vẫn chưa có sự thực nào trở thành sự kiện .
+Bên ngoài tương quan với ý đồ trần thuật ( phương châm trần thuật ) của ý thức , mọi trận đại hồng thủy trong tự nhiên hay biến cố xã hội vẫn chưa phải là sự kiện .
+Để trở thành sự kiện , nó chẳng những phải có vị thế của sự thực được ghi lại , mà còn phải có vị thế của sự thực được suy ngẫm ( ví như chuyện luận bàn trong mấy chục năm gần đây về cái chết của khủng long vốn xẩy ra từ hang mấy nghìn năm trước ) .
+Theo Lotman , giá trị biểu ý của sự kiện nằm ở chỗ , nó " bao giờ cũng là sự vi phạm một cấm kị nào đó , là sự thực đã xẩy ra , dù nó không nhất thiết phải xẩy ra " .
+Định nghĩa này tỏ ra chặt chẽ một cách thái quá .
+Trong thực tế , cả tiến trình nào đó ( trong đó có cả tiến trình tự nhiên ) , lẫn hệ thống quy phạm văn hóa thường vẫn có cả một giải tương đối rộng những khả năng lựa chọn mà chúng chẳng bao giờ vượt ra ngoài khuôn khổ của cái cái " quy phạm " , hoặc cái " tự nhiên " .
+Sẽ chính xác hơn , nếu khẳng định , sự khiện là sự thực hiện một trong hai , hoặc một trong một số khả năng .
+Thậm chí , chuyện đóng đinh Đức Kitô , như nhiều người lúc bấy giờ vẫn nghĩ , cũng có thể là cuộc hành hình một Đấng Cứu thế giả , hay Đấng Cứu thế thật .
+Theo định nghĩa chính xác và mềm dẻo hơn của Ricoeur , " sự kiện đó là cái mà nó có thể diễn ra theo một cách khác " .
+Nói cách khác , sự kiện là cái cụ thể có ý nghĩa quan trọng trong giới hạn của một số hệ hình các phương án lựa chọn nào đó ( khả niệm ) , tức là một sự thực có ý nghĩa riêng tùy vào mức độ nó khác biệt bao nhiêu và khác biệt theo hướng nào so với tất cả các khả năng khác không được hiện thực hóa vào thời điểm ấy .
+Khác với tiến trình là cái không cần đến sự nhận thức , sự kiện không thể tự nó mà thành ( dù sự kiện nào cũng có tiến trình ) .
+Khác với sự thực , sự kiện không dừng lại ở sự định hình trong văn bản ( dù sự kiện nào cũng mang tính kí sự ) .
+Nhờ vào sự biểu ý riêng , sự kiện được gửi sẵn cho một tâm trí khả hữu tiềm tàng nào đó có khả năng nhận thức về nó , theo cách diễn đạt của Louis Mink , như một " cấu hình khả niệm của các quan hệ " .
+Sự nhắm gửi ngầm ấy của sự kiện toát lên từ hình thức văn bản không thể thiếu của nó ( dù chỉ là lời bên trong của chứng nhân hoặc quan tòa ) .
+Mà văn bản nào cũng đều là hiện tượng giá trị , không thể hiện rõ , thì chí ít cũng bộc lộ ngầm , dù muốn hay không nó cũng thể hiện một hệ thống giá trị nào đó .
+Đó là điều có tính nguyên tắc với vị thế sự kiện của các sự thực đã trình bày , vì như W.Smid đã chỉ ra , " sự kiện không căn cứ vào những thay đổi tầm thường theo theo giá trị luận của văn bản nội tại " .
+Cái khả niệm ( cái được nhận thức bằng lí trí ) của sự kiện tuyệt nhiên không phải là tính chủ quan ở ý nghĩa của nó .
+Nhưng nó chỉ có thể được hiện thực hóa nhờ sự hiện diện của chủ thể .
+Ý nghĩa là hiện tượng liên chủ thể .
+Nó không phải là giá trị chủ quan được gán cho sự thực , mà là ý nghĩa bao giờ cũng giải đáp những câu hỏi nào đó .
+Những gì không giải đáp một cái gì đều bị chúng ta xem là vô nghĩa .
+Cho nên , muốn kích hoạt , ý nghĩa cần được tra vấn .
+Nói theo lời của Bakhtin , từ phía chủ thể , " điều quan trọng là sự tiếp xúc " với sự kiện như với " bình diện giá trị - ngữ nghĩa " của thực tế tồn tại .
+Trần thuật là sự tiếp xúc theo kiểu giao tiếp - chủ động ( sản sinh văn bản ) với sự kiện tham chiếu được trình bày - tiếp xúc dưới dạng " quan niệm trần thuật " ( P.Ricoeur ) .
+Đứng trên quan điểm trần thuật học để bàn luận , đặc điểm cốt yếu của sự kiện chính là phẩm chất của cái khả niệm , một phẩm chất , trong một chừng mực nào đấy , tạo nên chỉ số chung cả với đủ mọi loại sự kiện tham chiếu của câu chuyện được kể lại , lẫn với mọi sự kiện giao tiếp trong tiếp xúc ( cùng-tồn tại theo nguyên tắc đối thoại của các ý nghĩa ) .
+Vì sự kiện thuộc loại thứ hai này hoàn toàn mang tính khả niệm : ở đây , tính thực tế của đàm thoại , của sự viết , đọc , của văn bản không đảm bảo tạo nên sự gặp gỡ thực sự của hai ý thức .
+Đồng thời , việc cầu nguyện như là sự kiện giao tiếp trong sự tiếp xúc với Thượng đế , nhìn từ bình diện sự thực ( bề ngoài ) chỉ giống như hành động lễ nghi ( phi sự kiện ) , nhưng thực chất ( bên trong ) có thể mang tính sự kiện sâu sắc .
+Cuối cùng , trong khuôn khổ của diễn ngôn trần thuật , bản thân sự kiện được tham chiếu có thể là sự kiện giao tiếp được " trích dẫn " trong sự tiếp xúc giữa các nhân vật nào đó ( với nội dung tham chiếu riêng , nội dung này đôi khi cũng nhập vào bản thân cả sự giao tiếp ở trình tự tiếp theo ) .
+Điều này tạo thành " hiệu quả búp bê lồng nhau " của tính đa sự kiện trần thuật .
+Muốn xác định đặc điểm của sự kiện , tối thhiểu cần phải kể tới một loạt thuộc tính như sau :
+1 .
+Tính không thuần nhất của sự kiện
+Trái ngược với sự liên tục thuần nhất của tiến trình ( hay trạng thái ) , chuỗi sự kiện mang tính phân mảnh , rời rạc , ngắt đoạn .
+Có như thế bởi tại cấp khởi thủy và tạo sinh của tính sự kiện là yếu tố tham thể xâm nhập làm gián đoạn , bóp méo , làm biến đổi một cách chủ ý hay ngẫu nhiên trình tự tự nhiên và chuẩn mực của các trạng thái , tình huống , hành động .
+Cho nên sự trần thuật đòi hỏi nhân vật hóa ( không nhất thiết phải là con người ) chức năng tác nhân của hành vi , chiến tích , tác động .
+Không chỉ có các nhân vật hành động , mà cả các lực lượng thiên nhiên hoặc sức mạnh siêu nhiên thực hiện chức năng này .
+Sự tác động qua lại của một số nhân tố tác nhân là thuần nhất theo kiểu của nó , nhưng như vậy , nó không thể tạo ra sự kiện , mà chỉ dẫn tới hỗn loạn .
+Tọa độ của sự kiện được tạo thành bởi tương quan giữa các yếu tố mang tính hai mặt : nhân tố tác nhân gây bất ổn và nhân tố thụ động hỗ trợ cho nó tạo nên sự ổn định ( của tình huống , đối tượng , hay chủ thể chịu sự tác động ) .
+2 .
+Tính không - thời gian của sự kiện
+Do tính rời rạc , chuỗi sự kiện trở thành hiện tượng đặc biệt .
+Sự kiện có thể được trình bày bằng trần thuật , những cũng không thể - dẫu không bị mất vị thế sự kiện - trở thành đối tượng tự nó của một thứ phổ quát ngoài thời gian hay ngoài không gian ( bàn luận chung chung , đồng nhất quy phạm ) .
+Cái có thể định hình như một sự kiện trước hết là sự cùng-tồn tại của những nhân tố nào đấy trong thời gian vàkhông gian , chứ không phải trong cõi vĩnh hằng và bất tử .
+Ngay cả một sự kiện diễn ra ngắn ngủi nhất cũng phải có một độ dài trong thời gian , tức là có mở đầu , phát triển và kết thúc , đến lượt mình , nó lại trở thành một khâu của độ dài có ý nghĩa quan trọng hơn nào đó .
+Đồng thời , một sự kiện nhỏ nhất cũng chiếm một khối lượng nào đó trong bức tranh chung của thế giới , tức là cũng chiếm giữ một tọa độ không gian , tạo nên sự thống nhất chặt chẽ giữa không gian và thời gian để trong khuôn khổ của nó , sự kiện mở ra như một hiện tượng ( xuất hiện trước ý thức ) .
+Trái ngược với các hành vi canh tân , các hoạt động lễ - hội duy trì sự ổn định xã hội của tồn tại luôn diễn ra trong hai loại không - thời gian : nhất thời ( bức thiết ) và tiềm ẩn .
+Trong tình huống cụ thể , một trong hai loại này sẽ giữ vai trò tích cực hơn .
+Khi hình thức tiềm ẩn của không gian thiêng hóa và thời gian thiêng hóa thành hình thức chủ đạo , hoạt động nghi lễ trở thành phi thời gian , ngoài sự kiện ; nhưng nếu nhấn mạnh vào tính chất thật ( ai ? , ở đâu ? , bao giờ ? ) , hoạt động ấy có thể sẽ có vị thế sự kiện thuộc loại hiện tượng .
+Đặc biệt , tỉ như , do hậu quả của hành vi vi phạm lễ nghi , hoặc trong bối cảnh của trấn áp tôn giáo ( xóa bỏ cấm kị ) , hay trong con mắt của một giáo đồ mới , việc cử hành nghi lễ tôn giáo sẽ biến thành sự kiện .
+3 .
+Tính khả niệm của sự kiện
+Cấp thứ ba của tính sự kiện là nhân vật kích hoạt sự kiện .
+Nó xuất hiện trong văn bản như " nhân vật thứ ba " của Bakhtin , như chủ sở đắc điểm nhìn ( " chứng nhân " ) và quan điểm giá trị , giọng riêng ( " quan tòa " ) , bản chất ngữ nghĩa của một sự kiện nào đó được kích hoạt là vì nó , thiếu nó , mọi sự thực đều không phải là sự kiện .
+Trong cấu trúc của sự kiện tham chiếu , bản thân người trần thuật thực hiện chức năng kích hoạt này .
+Trong sự kiện giao tiếp của hoạt động kể chuyện , nhân vật kích hoạt là người tiếp nhận - kẻ chứng kiến sự can thiệp của nhân vật trần thuật vào sự toàn vẹn của sự kiện được diễn ra và dừng lại trong quá khứ .
+Đồng thời , tham thể của sự kiện giao tiếp tất nhiên là hình tượng sáng tạo của người nói ( người viết ) ; nhân vật thụ động ở đây - trong trường hợp phương thức trần thuật của phát ngôn - không phải là ai khác , ngoài tham thể của câu chuyện được kể .
+Trong khi đó , ở trường hợp phương thức hành ngôn ( tự tham chiếu ) , cấp thụ động là người tiếp nhận diễn ngôn .
+Sự khác nhau cơ bản giữa sự kiện tham chiếu và sự kiện giao tiếp nằm ở chỗ , sự kiện tham chiếu chỉ diễn ra " ở chỗ kia và lúc ấy " , còn sự kiện giao tiếp ( thường thấy trong kịch ) lại diễn ra " ở đây và bây giờ " , bởi vì nếu thiếu sự tham gia của ý thức tiếp nhận ở người tiếp nhận , thì sẽ không diễn ra bất kì một sự kiện giao tiếp nào .
+Khái quát lại những gì đã nói , có thể định nghĩa sự kiện là sự cùng - tồn tại mang tính thiết yếu của các nhân tố .
+Số lượng các nhân tố không thể ít hơn 3 : nhân tố tham thể của hành động , nhân tố thụ động của tĩnh tại ( hay là phản hành động ) và nhân tố tâm trí của sự chứng thực mang tính tạo nghĩa , hay là quan điểm " tham dự đứng ngoài " ( Bakhtin ) - hai nhân tố đầu gắn kết với nhau bởi cùng chung một không - thời gian ; nhân tố thứ ba , ở mức độ nào đó , về không - thời gian , bị gián cách .
+Tính bức thiết của sự cùng - tồn tại như thế , một mặt , đòi hỏi phải có một sự tách biệt về mặt không - thời gian của cấu hình nào đó giữa các yếu tố ra khỏi cái tất yếu tự nhiên và cái lễ nghi xã hội của tiến trình phi sự kiện .
+Mặt khác , tính " bức thiết " chỉ có thể có với ai đó và đòi hỏi không được tách rời sự kiện với trạng thái tâm trí đã chứng kiến nó .
+Nói cách khác , tính sự kiện là tính khả niệm , còn sự kiện là khách thể của ý đồ .
+Từ những đặc điểm cơ bản của phạm trù đang được trình bày , còn nảy ra một điểm khác , hết sức quan trọng : tính phân mảnh của sự kiện .
+Về nguyên tắc , qua hành vi trần thuật , bất kì sự kiện nào cũng có thể triển khai thành một chuỗi các sự kiện nhỏ , hay ngược lại , gói vào một cảnh đại sự kiện - cho tới tận sự kiện phì đại cuối cùng : " sự kiện tồn tại " ( Bakhtin ) .
+Sự cải biến như thế chứa đựng trong bản thân hiệu quả nhận thức không cần giải thích .
+Đặc điểm này cho phép chúng ta - tiếp bước Ricoeur - khẳng định rằng , trần thuật không quy về một thực tiễn diễn ngôn của một loại nào đó , mà chỉ là một phương thức đặc thù nhận biết đời sống : phương thức sáng tạo , đối lập với phương thức lôgíc .
+Vì tính lôgíc , do tính đơn trị tất yếu ở kết luận và hệ quả , " bao giờ cũng không phù hợp ở một mức độ nào đó với sự sáng tạo , vốn là đặc trưng của truyện kể " .
+Việc trao quyền sáng tạo cho sự thực ( một mắt xích của tiến trình nào đó được định hình bằng văn bản trong một ngôn ngữ nào đó ) vị thế của sự kiện ( sự cùng - tồn tại của các nhân tố tạo nghĩa , quan trọng về hệ hình ) , thật ra , chính là trần thuật như là " ý đồ của hành vi làm nảy sinh trần thuật " ( Genette ) .
+Sự thống nhất nội tại không thể phá vỡ này của hai cực trần thuật có hệ quả là : diễn ngôn trần thuật " trong sự viên mãn sự kiện của nó " ( Bakhtin ) không bị tách ra thành câu chuyện và diễn ngôn .
+Mẹo thuật của câu chuyện và cấu trúc trần thuật của truyện kể về nó là hai bình diện của chiến lược giao tiếp thống nhất trong nhận biết : chẳng những trần thuật không thể không có câu chuyện được trần thuật , mà câu chuyện nào ( trong đó có câu chuyện của dân tộc và nhân loại ) cũng sẽ không thể có nếu nó không được trình bày bằng trần thuật , theo nhận xét của Ricoeur , điều này gắn với tính không thể loại bỏ " khía cạnh lớp lang của tổ chức mẹo thuật " .
+Mẹo thuật
+Phải thừa nhận lớp quả là đơn vị chìa khóa của phân tích trần thuật học .
+Vấn đề phân đoạn trần thuật - sự đích đáng của phương pháp phân chia thành phần văn bản được nghiên cứu - là vấn đề tu từ học phổ quát có tính cách phương pháp luận .
+Khi giải quyết vấn đề này , cần tính tới bản chất sự kiện kép của trần thuật .
+Phương thức phân đoạn đơn giản nhất là phân chia văn bản theo hình thức thành các mảng được chia tách bởi những chỗ dừng với cường độ khác nhau : chương , đoạn , câu , ngữ đoạn .
+Phương thức phân chia chỉ nắm bắt cấu trúc tiết tấu - giọng điệu của văn bản như thế hoàn toàn không phản ánh đặc trưng trần thuật của nó .
+Phân đoạn theo kết cấu - chủ thể , hay phân đoạn diễn ngôn đòi hỏi phát hiện các tiểu diễn ngôn bên trong văn bản - tức là các mảnh bị chia tách bởi chủ thể , người tiếp nhận và / hoặc phương thức phát ngôn ( trong đó có cả phương thức ngoài trần thuật ) trong khuôn khổ một diễn ngôn trần thuật duy nhất .
+Sự thay đổi dẫu chỉ một đặc điểm trong số các đặc điểm ấy cũng vạch ra ranh giới giữa hai tiểu diễn ngôn gần kề nhau của văn bản .
+Phương thức phân đoạn này có ý nghĩa quan trọng với việc nghiên cứu các cấp trần thuật ở những bậc khác nhau của việc trần thuật , cũng như các hình thức lai ghép của nó , nhưng thực tế không đụng tới các phương diện tham chiếu của diễn ngôn trần thuật , tức là không đụng tới câu chuyện được chuyển tới người đọc , câu chuyện đòi hỏi sự hiện diện của hàng loạt " sự kiện , hoặc phân đoạn trần thuật " .
+Khi phân tích bình diện kể chuyện của văn bản tiểu thuyết hay sử kí , mà bỏ qua bình diện diễn ngôn của trần thuật , chúng ta không tiến hành phân chia theo nhu cầu thực tế , mà phân chia theo khả năng tiềm tại đối với câu chuyện được người trần thuật trình bày ( fabula ) .
+Thực chất của sự phân chia theo bình diện kể chuyện như thế là phát hiện và sơ đồ hóa các mẹo thuật ( theo nghĩa mà H.White và Paul Ricoeur đã trao cho thuật ngữ ấy ) , tức là phát hiện tính khả niệm tiềm tàng của chuỗi sự kiện có thể được những người quan sát , hoặc người tham dự khác nhau nhìn thấy , thông hiểu và kể lại theo những kiểu khác nhau .
+Đó là đường hướng của lí thuyết truyện kể - lĩnh vực quan sát sự " di chuyển của nhân vật vượt qua ranh giới của trường nghĩa " .
+Phân đoạn theo kiểu như thế là một trong những bình diện của việc phân tích trần thuật học .
+Gạt lí thuyết truyện kể của khoa nghiên cứu văn học ra ngoài phạm vi của trần thuật học khái luận là một sai lầm .
+Khi xác lập ranh giới ngữ nghĩa của tính sự kiện mà không dùng trần thuật học để mô tả sự trình bày nó bằng diễn ngôn như là cấu hình của các cảnh ( épisode ) , dù muốn hay không , chúng ta đặt mình vào vị thế của tác giả hàm ẩn ( tác giả trừu tượng , theo thuật ngữ của W.Smid ) của một câu chuyện nào đó , do bỏ qua cấp độ của người trần thuật .
+Làm như thế , chúng ta sẽ đi theo con đường tùy tiện của độc giả , bởi vì lập trường thực tế của " tác giả thứ nhất " , tác giả mà theo Bakhtin , " được bao bọc trong im lặng với những hình thức biểu đạt khác nhau " ( các mặt nạ ngôn từ ) , hoàn toàn bị che khuất trước chúng ta : sự tự phát hiện của tác giả phi hư cấu sẽ cải biến trần thuật thành diễn xướng .
+Nhưng nếu không làm rõ xu hướng phát triển của mẹo thuật trong cốt truyện ( fabula ) , thì việc mô tả văn bản theo phương cách trần thuật học về cơ bản sẽ trở thành vô mục đích , vì cấp độ của người trần thuật không tách rời đối tượng quan tâm của trần thuật .
+Cách hiểu của Ricoeur về mẹo thuật như là sự nối kết các sự kiện gắn cái mở đầu và kết thúc , về cơ bản phù hợp với các quan niệm của nghiên cứu văn học truyền thống về cốt truyện hay là nguyên tắc tổ chức truyện kể .
+Nhưng với chúng ta , nó vẫn có một số ưu điểm , do nó có tính tới cấp độ không thể loại khỏi phát ngôn của người tiếp nhận hàm ẩn mà theo nhận xét của Wolfgang Iser , thì nó đánh dấu " tính chỉnh thể của các định hướng sơ bộ mà văn bản cung cấp cho người đọc tiềm năng của nó như là điều kiện của sự tiếp nhận " .
+Mẹo thuật trần thuật nằm ở sự căng thẳng của chuỗi sự kiện khơi dậy ở người tiếp nhận một sự chờ đợi nào đó và mang lại cho " sự chờ đợi cảm giác thỏa mãn được sinh ra từ sự vận động của tác phẩm " .
+Bản chất của mẹo thuật không nằm ở mưu kế của các nhân vật ( có thể hoàn toàn không cần phải có điều này ) , mà nằm ở kho mẹo thuật của độc giả và thính giả : ở " khả năng của chúng ta bao khi theo dõi câu chuyện giờ cũng có một sự hiểu biết quen thuộc nào đó gắn liền với các truyền thống trần thuật " .
+Với sự đa dạng bất tận của chúng , mẹo tổ chức trần thuật của những diễn ngôn trần thuật cụ thể là một trong số những loại hình nền móng truyền thống ( hay là kết quả của sự chồng xếp lên nhau và lây nhiễm của chúng ) .
+Ở mặt này , White từng nói về mẹo thuật như là " hình thức cổ mẫu " liên kết các sự kiện thành một câu chuyện .
+Theo Ricoeur , " Để trở thành lôgíc của truyện kể , câu chuyện cần tìm tới " những cấu hình đã ổn định trong văn hóa " , tới công thức trần thuật hoạt động trong các loại hình mẹo thuật đã được tiếp nhận từ truyền thống .
+Chỉ nhờ có công thức ấy , hành động mới có thể được kể lại .
+Từ thời xa xưa , Aristotle đã nhận ra hai cách tiếp nối khả hữu của các cảnh : cái này sau cái kia ( met ' allela ) , hay cái này là hệ quả của cái kia ( di ' allela ) .
+F.F.Zelinski sử dụng các khái niệm " kịch tính xâu chuỗi " và " kịch tính hướng tâm " .
+Cách phân chia truyện kể thành loại " biên niên " và loại " hướng tâm " quen thuộc của nghiên cứu văn học Nga nằm trong mạch này .
+Cách đây không lâu , N.D.Tamarchenko đã xây dựng lí thuyết loại hình các nguyên tắc tổ chức truyện kể " lũy tích " và " chu kì " , mà sau này , S.N.Broitman tiếp tục phát triển .
+Nếu lũy tích trần thuật là " đối cực của hành vi sáng tác huyền thoại " , hay đúng hơn , có thể nói , là sự đảo ngược của nó , thì rõ ràng , sơ đồ truyện kể chu kì có nguồn cội từ các đặc điểm của cấu trúc huyền thoại .
+Trong câu trình nghiên cứu mẫu mực của I.M.Lotman , Nguồn gốc truyện kể dưới sự soi sáng của loại hình học , ông đã vạch ra đường ranh giới rõ ràng giữa truyện kể và huyền thoại như là các cấu trúc tư duy phân kì theo những kiểu khác nhau .
+Tư duy huyền thoại " xây dựng bức tranh thế giới " bằng cách đưa sự hỗn tạp về với những " hình tượng bất biến " , quy sự thái quá và bất thường vây bọ quanh con người vào các chuẩn mực và thiết chế " .
+Mặc dù trong sự lưu truyền ở thời hiện đại ( bằng các phương tiện trần thuật tuyến tính mở rộng và nắn thẳng vòng tuần hoàn của thời gian chu kì ) , các văn bản huyền thoại thường có dạng truyện kể mà tự bản thân chúng vốn không phải như vậy .
+Chúng không giải thích các hiện tượng đơn nhất , nằm ngoài quy luật , mà giải thích về ... cách hiện tượng lặp lại vĩnh viễn , chúng không giải thích về những gì chỉ xẩy ra một lần , mà giải thích về những chuyện muôn đời vẫn vậy .
+Trong khi đó " ghi lại các sự kiện một lần và ngẫu nhiên " là " hạt nhân của trần thuật truyện kể " .
+Véctơ kiến tạo của tư duy huyền thoại là chiều dọc - cái " cây thế giới " giữ vai trò " tổ chức đặc biệt quan trọng trong tương quan với các hệ thống huyền thoại cụ thể , nó xác định cấu trúc nội tại và tất cả các tham số của chúng " .
+Ứng với cỏ cây muôn loài chết vào mùa đông và hồi sinh vào mùa xuân , cây thế giới là tiền đề tái tạo một trật tự thế giới bất hoại .
+Là biểu tượng cho trung tâm thiêng liêng của thế giới và vòng tuần hoàn của đời sống , nó loại bỏ tính không thể đảo ngược của các tiến trình tuần hoàn diễn ra quanh nó và , qua đó , loại bỏ mọi thứ mẹo .
+Mẹo thuật và huyền thoại là những khái niệm loại trừ nhau .
+Nguyên tắc đồng thuận của huyền thoại không đòi hỏi những chuyện ai cũng đều rõ phải có bất kì một thứ mẹo thuật gì .
+Khi trình bày về huyền thoại nguyên thủy , sở dĩ vẫn phải bàn về mẹo thuật , chỉ bởi vì chúng tôi vẫn phải vận dụng kinh nghiệm trần thuật hiện đại đối văn bản tiền trần thuật .
+Ngược lại , véctơ tư duy truyện kể là chiều ngang , xuyên suốt từ đầu tới cuối là chuỗi " tận thế " của những hành động , hoặc biến cố xẩy ra một lần , không thể đảo ngược tạo thành một câu chuyện nào đó .
+Nếu trước mắt ta không phải là mớ sự thật rời rạc , thì thể nào chúng ta cũng sẽ tìm thấy trong nền cốt của những câu chuyện được kể lại dẫu không có sự hư cấu một số cấu hình có tính khuôn đúc nào đó của các sự kiện .
+Ở đây , mẹo thuật có thể không chỉ là lũy tích ( với các giai đoạn : trình bày , phát triển , tai biến , hay " biến cố vui nhộn " , vốn là đặc điểm của một số phạm trù , như cổ tích , giai thoại , nhất là truyện vừa và tiểu thuyết phiêu lưu phát triển từ giai thoại ) , mà còn là quá độ ( ngưỡng giới ) với " tổ hợp chết đi - sống lại " được xem là " hạt nhân huyền thoại - dân gian của nó " .
+Ở đây , sự giao cắt của ranh giới ngữ nghĩa giữa " sống " và " chết " đóng vai trò của sự kiện chuyển tiếp trung tâm về mặt đẳng cấp , nó không trùng với cái kết được đánh dấu về mặt giá trị của câu chuyện .
+Gọi sơ đồ truyện kể nói trên là sơ đồ chu kì , theo cách gọi trong công trình của N.D.Tamarchenko mà chúng tôi đã trích dẫn , chưa hẳn đã hợp lí .
+Thật ra , con đường tuần hoàn của cách kiến tạo văn bản theo kiểu huyền thoại mặt trời và sự sinh trưởng ( không có trung tâm giá trị chuyển tiếp ) đã tồn tại từ thời tiền trần thuật và bản thân nó không chứa đựng bất kì một thứ mẹo thuật nào , vì nó chỉ mở ra bức tranh về quá trình mang tính quy luật của tự nhiên .
+Tất nhiên , đôi khi điều này không cản trở nó đóng đóng vai trò tổ chức truyện kể cực kì quan trọng trong trần thuật văn học , loại trần thuật đồng hóa hữu hiệu các cấu trúc cổ xưa .
+Một trong những cấu trúc như thế là cốt truyện ba thành phần : đánh mất - đi tìm - tìm thấy .
+Việc nghiên cứu sự biến đổi trong tổ chức mẹo thuật của của nguyên tắc chu kì ( không đồng nhất cái kết thúc của chuỗi sự kiện với cái mở đầu của nó ) , thiết nghĩ , đã mở ra khả năng phát hiện nguồn cội đầu tiên của tư duy sự kiện .
+Ý tôi muốn nói về việc tìm kiếm một sự kiện thế giới nào đó - giống như cái cây thế giới : cơ sở hạ tầng có ý nghĩa nền móng không chỉ của tổ chức truyện kể sơ khai , truyền thống , mà còn của cả tổ chức truyện kể độc đáo xuất hiện muộn nhất .
+Truyện cổ tích thần kì , " hình thức đầu tiên của trần thuật có thể hiện phạm trù kết thúc " , như V.Propp đã chỉ ra và M.Eliade nhiệt liệt tán thưởng , đã để lộ ra từ sườn cốt của nó nghi lễ chuyển đổi của sự trưởng thành với tư cách là lớp nền văn hóa - lịch sử của mình : " Chuỗi trưởng thành là nền tảng cổ xưa nhất của truyện cổ tích " .
+Các nghi lễ chuyển đổi thời cổ đại thường tiến hành theo mô hình huyền thoại huyễn tưởng về một vị thần chết đi rồi phục sinh .
+Nhưng cái chết có ý nghĩa biểu tượng và sự phục sinh có ý nghĩa biểu tượng của con người là sự chuyển đổi không thể đảo ngược của chàng trai thành người đàn ông ( người thợ săn , người chiến binh , hay chàng rể ) .
+Sự tái sinh của bản thể người đã hoàn toàn trưởng thành về tính dục sẽ có được vị thế ngẫu nhiên của sự kiện ( được xem là cái không thể đảo ngược ) tùy thuộc vào việc bản thể đó bắt đầu được xem là một cá nhân , chứ không phải là một đơn vị vai trò vô nhân xưng của dòng tộc nguyên thủy .
+" Hạt nhân trần thuật thực tế của truyện kể " ( Lotman ) là khuôn đúc về sự trưởng thành , chứ không phải là sự " định hình " giản đơn những sự lệch hướng một cách ngẫu nhiên , trượt ra ngoài dòng chảy mang tính quy luật của các tiến trình .
+Sơ đồ truyện kể nguyên thủy này do bốn tiến trình ( chứ không phải ba , như người ta vẫn nghĩ ) tạo thành : giai đoạn ra đi ( sự xóa bỏ các mối liên hệ dòng tộc của cá nhân ) - giai đoạn của cái chết biểu tượng - giai đoạn cư ngụ ở đất nước biểu tượng của những người chết ( trở nên từng trải , học được tri thức và kĩ năng của đời sống trưởng thành do tổ tiên truyền lại ) - giai đoạn trở về ( tái sinh mang tính biểu tượng trong phẩm chất xã hội mới ) .
+O.M.Freidenberg đã chỉ ra đầy thuyết phục mối liên hệ giữa các " mô hình mẫu mực của trần thuật thời cổ đại " với " ngữ nghĩa của sự giáng trần và sự hồi sinh ...
+Chủ đề của nó chính là cái cõi trần ấy .
+Nó có hai kịch bản : kịch bản ra đi và kịch bản trở về .
+Nhưng ngay cả trong cổ tích cũng khó tìm thấy một câu chuyện cổ xưa mà không khác với huyền thoại .
+Khảo sát " nhiều truyền thuyết về các hoàng tử rời bỏ tổ quốc mình để đến trị vì ở nước của người khác " , J.G.Frazer đã chỉ ra , cơ sở của sự trần thuật phi lũy tích là một mô hình kiến tạo văn bản có ít nhiều khác biệt .
+Những truyền thuyết ấy đã minh chứng cho hiệu năng văn hóa rất cao của của những giai đoạn hình thành quốc gia thời cổ xưa - " kế thừa ngôi báu ở quê mẹ " , theo đó , quyền năng huyền bí của chúa tể - tư tế không phải do cha truyền cho con , mà là nhạc phụ truyền cho hiền tế .
+Cốt truyện mang tính thế giới ( rõ ràng có nguồn gốc từ truyện kể cổ xưa về sự trưởng thành ) là câu chuyện về một sự kiện lịch sử hoàn toàn không thể đảo ngược - về sự thay đổi quyền lực , về sự đăng quang của người ngụ cư , kẻ đã thể hiện được sức mạnh và tài năng của mình qua một cuộc thử thách khốc liệt ( đôi khi là cuộc chiến tay đôi với vua cũ ) và trở thành chồng của công chúa .
+Cái mẹo thuật được phổ biến rộng rãi trong folklo thế giới kia khác với sơ đồ nghi lễ trưởng thành bởi sự đảo nhau của giai đoạn thứ ba và thứ tư .
+Thông thường , nhân vật của cổ tích thần kì phải trải qua giai đoạn " giỏi giang " , giai đoạn của những khó khăn và cám giỗ có tính chất thử thách trước khi bước vào giai đoạn thử thách chí tử có tính quyết định , chứ không phải sau giai đoạn ấy như ta vẫn thấy trong lễ hội .
+Sự đảo ngược như thế có tác dụng nâng cao vai trò đỉnh điểm của giai đoạn ranh giới mà trong nghi lễ , sự trải nghiệm chỉ là chuẩn mực , còn trong sự kiện lịch sử , nó lại là tham vọng quyền lực - chỉ có thể xẩy ra một trong hai khả năng như thế .
+Đem vô số văn bản trần thuật hiện đại vận vào mẹo thuật truyện kể gốc của thế giới , ta sẽ nhận ra , có một mô hình bốn giai đoạn phổ quát nào đó cho biến thể chuyển tiếp của vòng tuần hoàn .
+Bản chất của mô hình này có thể khái quát bằng nhận xét của I.M.Lotman : " Bộ khung nghi lễ - huyền thoại khép kín biến thành nền móng hình thức văn phạm của tổ chức văn bản " .
+Sẽ chính xác hơn tất thảy , nếu gọi " viên gạch " đầu tiên của nền móng nói trên là giai đoạn tách biệt .
+Ngoài sự ra đi ở bên ngoài , về mặt không gian thuần túy ( có thể là tìm kiến , đào tẩu , rượt đuổi ) , hoặc ngược lại , đóng kín , giai đoạn này được trình bày như là sự tuyển lựa , hoặc tiếm xưng , trong văn học hiện đại , nó được mô tả như là sự thoái lui vào " bản thân " , bằng sự mệt mỏi , thất vọng , cay độc , mơ mộng , một vị thế nhân sinh nói chung dẫn tới sự đoạn tuyệt , hay suy yếu của các mối liên hệ đời sống trước kia .
+Tóm lại , nhân tố có khả năng giải quyết nhiệm vụ cấu trúc của giai đoạn này là tiền sử , hoặc sự miêu tả đặc điểm hoàn toàn vụn vặt của nhân vật nhằm tách nó ra khỏi bức tranh thế giới chung và biến nó thành nhân vật chính nếu không phải của tất cả các sự kiện , thì cũng là của một tuyến trần thuật truyện kể .
+Giai đoạn thứ hai tiếp theo là kết giao : sự thiết lập các mối quan hệ liên chủ thể mới giữa nhân vật trung tâm và các nhân vật ngoại biên nằm trong khu vực có cùng mối quan tâm đời sống .
+Trong thành phần của mình , ở giai đoạn này , nhân vật có thể sở đắc cả những " trợ thủ " và / hoặc " kẻ thủ ác " .
+Đôi khi có cả những những thử thách không thành công hoặc không cần thiết trong cách hành xử đời sống ( đặc biệt , có có cả sự kết giao nhầm lẫn ) , báo trước cách hành xử hiệu quả của nhân vật ở các cảnh tiếp theo .
+Ở giai đoạn triển khai trần thuật này của văn bản , nhân vật thường bị cám dỗ ( thử thách ) theo đủ mọi kiểu nhằm nâng cao độ từng trải của nó .
+Trong văn học hiện đại , giai đoạn này thường được phình to lên và được triển khai thành hàng loạt " truyện kể giáo huấn " theo kiểu lũy tích .
+Ứng với hệ thống thuật ngữ nhân chủng học của A.van Gennep và V. Turner , giai đoạn thứ ba cần được gọi là giai đoạn quá độ ( ngưỡng giới ) của sự thử thách bằng cái chết .
+Nó có thể xuất hiện như là cái chết mang tính nghi lễ - tượng trưng của nhân vật dưới các hình thức cổ xưa , hoặc nhân vật nhập vào " thế giới cõi âm " xa lạ , có thể quyết liệt gần như liều mạng , mà cũng có thể được giảm nhẹ như một sự tổn thương nhẹ nhàng , hay gặp cái chết trong một hình thứ nào đó ( ví như sự mất mát của người thân , hoặc cảnh tượng chết chóc của ai đó ) .
+Giai đoạn này có thể được phình ra thành truyện kể phiêu lưu - lũy tích của những thử thách lặp đi lặp lại bất tận .
+Cuối cùng , giai đoạn thứ tư là giai đoạn lột xác .
+Cũng như ở giai đoạn cuối của sự trưởng thành , ở đây diễn ra một sự thay đổi vị thế của nhân vật - vị thế bên ngoài ( xã hội ) , hoặc , nhất là ở văn học hiện đại , vị thế bên trong ( tâm lí ) .
+Nhiều khi , sự phục sinh , " tái sinh " mang ý nghĩa tượng trưng này kèm theo việc nhân vật quay trở lại đại điểm cũ , nơi trước kia , các mối liên hệ bị cắt đứt hoặc suy yếu , giờ chất lượng đời sống mới được tập trung trên cái nền của những quan hệ này .
+Trình tự các đầu mối sự kiện trong văn bản trần thuật như trình bày ở trên giống một cách kì lạ ( và có lẽ hoàn toàn không ngẫu nhiên ) với tiến trình hữu cơ có ảnh hưởng mạnh mẽ tới tư duy huyền thoại của con người , tựa như là biến thái trong tiến trình phát triển qua các giai đoạn của côn trùng : trứng - ấu trùng - nhộng - thành trùng ( cá thể trưởng thành ) .
+Rõ ràng , ở đây chúng ta được tiếp xúc với những hệ hình tồn tại dưới đáy sâu nào đấy .
+M.Eliade từng nhận xét : " Mọi sự sống đều phải trải qua môt chuỗi liên tục những " thử thách " , " chết đi " , " tái sinh " , không phụ thuộc vào việc kinh nghiệm ấy được truyền đạt bằng những lời lẽ thế nào , cho nên , từ đáy sâu tâm khảm , kịch bản trưởng thành không bao giờ mất đi tính nghiêm túc của nó " .
+Ở truyện kể cụ thể , mức độ mô phỏng khuôn đúc mẫu gốc truyện kể lũy tích , hay truyện kể quá độ , mức độ dấu kín hay lộ rõ của khuôn đúc ấy , việc giản lược hay phì đại của một giai đoạn nào đó thường rất khác nhau .
+Tuy nhiên , việc phóng chiếu hệ thống sự kiện của một văn bản cụ thể lên một kiểu mẫu hệ hình nào đó của diễn ngôn trần thuật , theo chúng tôi , bao giờ cũng là thao tác nghiên cứu có hiệu quả khoa học .
+Giấu kín trong bản thân một loại mẹo thuật nào đó , diễn ngôn trần thuật bổ sung tính sự kiện cho các sự thực được trình bày , đó là tiền đề tạo nên tính khả niệm hàm ẩn và tính khả tri tiềm tàng của chúng .
+Nhưng nó không thể cắt nghĩa chính xác tính khả niệm ấy của dẫy sự kiện , do vẫn cứ là một diễn ngôn trần thuật , ( mọi sự cắt nghĩa bên trong đều thuộc quyền của tác giả hư cấu hoặc nhân vật được trích dẫn và sự cắt nghĩa ấy có thể chỉ mang ý nghĩa tương đối , hoặc sai hoàn toàn ) .
+Ta hiểu vì sao việc phân đoạn cốt truyện ( fabula ) của một câu chuyện được trần thuật háo thành sự giải đoán mẹo thuật của nó mãi mãi là vấn đề không thể tránh được .
+Xin phân tích truyện Giáo chủ của A.P.Sekhov làm ví dụ .
+Ở trường hợp này , mẹo thuật mà ta chưa biết được tạo ra bởi hai sự kiện chẳng có bất kì mối liên hệ nhân quả nào : cuộc trở về của người mẹ và cái chết của nhân vật trung tâm .
+Nếu giữa chúng không có mối quan hệ nào cả , thì do không trở thành các mắt xích của một mẹo thuật , chúng chỉ là hai sự thật độc lập được đặt ngang hàng và không thể có vị thế của sự kiện .
+Thoạt nhìn , giữa hai sự kiện trụ cột của Giáo chủ , có thể tìm thấy mối liên hệ lũy tích .
+Nhưng rõ ràng , truyện của Sekhov không đủ số lượng mắt xích để tạo ra mẹo thuật lũy tích .
+Nếu xem các tiểu sự kiện mang tính trung gian là những mắt xích như thế ( ví như bữa ăn trưa với người mẹ và người cháu gái , buổi hành lễ cuối cùng trong nhà thờ ... ) , thì chúng vẫn thiếu sự phát triển đủ độ căng để dẫn tới cao trào tạo ra hiệu quả xâu chuỗi : chúng thiếu " sự chồng chất và tăng vọt để kết thúc bằng một thảm họa " .
+Cái chết của giáo chủ không phải là " thảm họa " theo nghĩa của một thuật ngữ mang tính chuyên biệt về lí thuyết truyện kể như thế , bởi vì nó thiếu sự bất ngờ , cả sự lâm chung cũng không đến ngay lập tức mà kéo dài tựa như sự đau khổ tuẫn nạn .
+Chỉ trong khuôn khổ của mô hình quá độ , các sự kiện trong Giáo chủ mới có quan hệ với nhau và mới phủ hợp mẹo thuật nhận biết trần thuật .
+Từ góc độ như thế , đoạn trần thuật mở đầu tạo thành cái nền của giai đoạn tách biệt : thời điểm chứa đựng trong bản thân sự hợp nhất của cá nhân nhân vật với đám đông đang cầu nguyện , nó có thể được xem là giai đoạn " zerô " trong sự phát triển của truyện kể .
+Tiếp theo là một cảnh ngắn về sự tách biệt được thể hiện về mặt văn bản bằng chuyến đi rời khỏi tu viện .
+Lại nữa , bên ngoài giới hạn của thời gian mô tả , giai đoạn này được đào sâu đáng kể bằng chuyến lưu trú của giáo chủ ở nước ngoài trước đó chưa lâu , cũng như sự cô đơn khiến ông mệt mỏi sau khi trở về .
+Thông báo về sự trở về của người mẹ đánh dấu giai đoạn tiếp theo ( kết giao về mặt truyện kể ) .
+Cái chết của nhân vật trong phạm vi khuôn mẫu trần thuật này là giai đoạn quá độ hết sức rõ rệt .
+Nhưng vì tiếp theo sau giai đoạn này , nhân vật chẳng có thay đổi gì rõ rệt , cho nên đoạn kết thúc văn bản - trong phân đoạn cốt truyện của nó - nhìn giống như có thêm một giai đoạn zerô ( kết thúc ) nữa : gần như một sự quên lãng hoàn toàn hiện ra tương phản với hợp thống nhất khởi đầu .
+Trong trường hợp này , cái chết không có sự tái sinh của nhân vật đã mất đi tính chất của một sự kiện chuyển tiếp .
+Tuy nhiên , chúng tôi đã bác bỏ tính lũy tích của cốt truyện đang được phân tích .
+Điều này buộc ta phải suy nghĩ về vai trò của giấc mộng trước khi chết của nhân vật , trong đó nhân vật đã tiến tới giai đoạn lột xác theo cách mà những người xung quanh không nhìn thấy .
+Liệu giấc mơ có phải là mắt xích quyết định của mẹo thuật ?
+Hay đó chỉ là sản phẩm thứ yếu , là cử chỉ mỉa mai bi thảm từ phía người trần thuật .
+Vẫn thường gặp điều trên trong sáng tác của Sekhov .
+Sẽ rất khó nghỉên cứu tính sự kiện khả niệm của những sự thật do người trần thuật trình bày , nếu không thâm nhập thật sâu vào mạng lưới văn bản , mạng lưới khớp nối diễn ngôn câu chuyện của nhân vật bằng phương thức kể chuyện hi hữu chỉ có duy nhất ở tác giả .
+Tách khỏi bức tranh trần thuật phác họa các đoạn ( épisode ) và sự gắn kết giữa chúng với nhau , mẹo thuật có thể sẽ được tiếp nhận và bị giải thích sai lệch .
+Ở đây đang nói về sự phân chia thực tế cấu trúc trần thuật - một sự phân chia không bỏ qua bất kì lời đơn nhất nào của diễn ngôn , nhưng lại dựa vào tham số sự kiện ở bình diện tham chiếu của phát ngôn .
+" Ngữ pháp truyện kể " lộ ra " khi chúng ta chuyển từ đơn vị câu cú pháp ( hay câu văn ) sang đơn vị cú pháp tối cao , nơi nó có thể " trở thành ngang hàng với hoạt động tổ chức mẹo thuật " .
+Ngữ pháp trần thuật này của văn bản ( hay diễn đạt theo cách truyền thống , tổ chức truyện kể như là sự trình bày cốt truyện duy nhất đúng , của " thay tác giả " ) thể hiện sự hiện diện " được bao bọc trong in lặng " ( M.Bakhtin ) của tác giả trong tác phẩm , người nối kết sự kiện giao tiếp và sự kiện tham chiếu của câu chuyện vào thể thống nhất chặt chẽ của chỉnh thể trần thuật .

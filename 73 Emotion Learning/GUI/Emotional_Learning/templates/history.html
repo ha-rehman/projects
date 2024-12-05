@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+
+    <div class="container-fluid">
+        <div class="row" style="padding-top: 100px">
+            <img src="{% static 'images/main_logo.png' %}" alt="" style="display: block; margin: 0 auto">
+        </div>
+    </div>
+
+    <div class="heading-wrapper" style="text-align: center">
+        <h2 style="font-family: Montserrat-Bold; color: #333333">Emotion Learning</h2>
+        <div class="divider"></div>
+    </div>
+
+    <div class="contact1">
+        <div class="container-contact1">
+            <h1 class="" style="font-family: Montserrat-Bold; margin: 0 auto 25px auto; text-align: center">Detection
+                History</h1>
+
+            <div class="table-wrapper" style="width: 100%; overflow-y: scroll; height: 450px">
+                <table class="table table-hover table-striped">
+                    <thead>
+                    <tr>
+                        <th scope="col">Session ID</th>
+                        <th scope="col">Username</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% if request.user.is_authenticated %}
+                        {% for session_id, records in grouped_records.items %}
+                                <tr>
+                                    <th><a href="{% url 'register:session_history' id=session_id %}">{{ session_id }}</a></th>
+                                    <th>{{ request.user.username }}</th>
+                                </tr>
+                        {% endfor %}
+                    {% endif %}
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="bg-dark text-center text-lg-start" style="margin-top: 20px; color: #ffffff">
+        <div class="text-center p-3">
+            &copy; 2023 Pay APP. All rights reserved.
+        </div>
+    </footer>
+
+{% endblock %}

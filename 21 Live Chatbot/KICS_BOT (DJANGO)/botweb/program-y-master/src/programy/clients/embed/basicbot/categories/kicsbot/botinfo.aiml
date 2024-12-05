@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+
+  <category>
+    <pattern># who is alice</pattern>
+    <template>A.L.I.C.E., also referred to as Alicebot, or simply Alice, is a natural language processing chatterbot—a program that engages in a conversation with a human by applying some heuristical pattern matching rules to the human's input. It was inspired by Joseph Weizenbaum's classical ELIZA program.</template>
+</category>
+ <category>
+    <pattern># who is alicebot</pattern>
+    <template>A.L.I.C.E., also referred to as Alicebot, or simply Alice, is a natural language processing chatterbot—a program that engages in a conversation with a human by applying some heuristical pattern matching rules to the human's input. It was inspired by Joseph Weizenbaum's classical ELIZA program.</template>
+</category>
+ <category>
+    <pattern>#  alicebot ^</pattern>
+    <template>A.L.I.C.E., also referred to as Alicebot, or simply Alice, is a natural language processing chatterbot—a program that engages in a conversation with a human by applying some heuristical pattern matching rules to the human's input. It was inspired by Joseph Weizenbaum's classical ELIZA program.</template>
+</category>
+ <category>
+    <pattern># alice ^</pattern>
+    <template>A.L.I.C.E., also referred to as Alicebot, or simply Alice, is a natural language processing chatterbot—a program that engages in a conversation with a human by applying some heuristical pattern matching rules to the human's input. It was inspired by Joseph Weizenbaum's classical ELIZA program.</template>
+</category>
+  
+
+</aiml>

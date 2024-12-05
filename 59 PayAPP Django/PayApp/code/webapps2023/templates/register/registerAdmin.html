@@ -1,0 +1,88 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+<div class="main">
+
+    <!-- Sign up form -->
+    <section class="signup">
+        <div class="container">
+            <div class="signup-content">
+                <div class="signup-form">
+                    <h2 class="form-title">Add New Admin</h2>
+
+                    {% for message in messages %}
+                        <div style="margin-bottom: 20px">
+                            <span style="color: #e72734">{{ message }}</span>
+                        </div>
+                    {% endfor %}
+
+                    <form action="{% url 'register:register_admin' %}" method="POST" class="register-form" id="register-form">
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input type="text" name="f-name" id="name" placeholder="First Name"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input type="text" name="l-name" id="name" placeholder="Last Name"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                            <input type="text" name="username" id="name" placeholder="User Name"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="email"><i class="zmdi zmdi-email"></i></label>
+                            <input type="email" name="email" id="email" placeholder="Your Email"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="pass"><i class="zmdi zmdi-lock"></i></label>
+                            <input type="password" name="pass" id="pass" placeholder="Password"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="re-pass"><i class="zmdi zmdi-lock-outline"></i></label>
+                            <input type="password" name="re_pass" id="re_pass" placeholder="Repeat your password"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="currency"><i class="zmdi zmdi-balance"></i></label>
+                            <select name="currency" id="currency" class="custom-select" style="width: 100%; display: block; border: none; border-bottom: 1px solid #999; padding: 6px 30px">
+                                <option value="USD">USD</option>
+                                <option value="EUR">EUR</option>
+                                <option value="GBP">GBP</option>
+                            </select>
+                        </div>
+                        <div class="form-group" style="display: inline-flex">
+{#                            <label for="re-pass">#}
+{#                                <i class="zmdi zmdi-lock-outline"></i>#}
+{#                            </label>#}
+                            <input type="checkbox" name="admin" id="admin" value="1" style="display: block" />
+                            <span style="padding-left: 10px; ">Add User as Admin</span>
+                        </div>
+                        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+
+
+                        <div class="form-group">
+                            <ul style="color: #777777; padding-left: 17px">
+                                <li>atleast 8 characters</li>
+                                <li>alteast 1 capital or small latter</li>
+                                <li>atleast contain 1 special character</li>
+                            </ul>
+                        </div>
+                        <div class="form-group form-button">
+                            <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>
+                        </div>
+                    </form>
+                </div>
+                <div class="signup-image">
+                    <figure><img src="{% static 'images/signup-image.jpg' %}" alt="sing up image"></figure>
+                    <a href="{% url 'register:signin' %}" class="signup-image-link">I am already member</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</div>
+{% endblock %}
+

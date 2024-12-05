@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+
+    <div class="jumbotron text-center">
+        <h2 style="font-family: Montserrat-Bold; color: #333333">Welcome to Pay APP System</h2>
+        <p style="font-family: Montserrat-Bold; margin-bottom: 20px">Send and Received Payments with ease.</p>
+        <i class="fa fa-user-circle" aria-hidden="true"></i>
+{#        <a class="btn button-main" href="{% url 'student:index' %}" role="button">Get Started</a>#}
+    </div>
+
+    <div class="container">
+        <div class="heading-wrapper" style="text-align: center">
+            <h2 style="font-family: Montserrat-Bold; color: #333333">Features</h2>
+            <div class="divider"></div>
+        </div>
+        <div class="row gx-5">
+            <div class="col feature-col">
+                <h3>Send Payment</h3>
+                <p>Send payment to any register user with ease</p>
+                <a class="btn btn-secondary" href="{% url 'payapp:transfer' %}" role="button">Transfer Payment</a>
+            </div>
+            <div class="col feature-col">
+                <h3>Receive Payments</h3>
+                <p>Request payment for any valid user instantly.</p>
+                <a class="btn btn-secondary" href="{% url 'payapp:request' %}" role="button">Request Payment</a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="bg-dark text-center text-lg-start" style="margin-top: 20px; color: #ffffff">
+        <div class="text-center p-3">
+            &copy; 2023 Pay APP. All rights reserved.
+        </div>
+    </footer>
+
+{% endblock %}

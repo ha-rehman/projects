@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!--	students of affiliated colleges with UET -->
+
+<category>
+    <pattern>How students of affiliated colleges with UET can apply for final or incomplete DMC</pattern>
+    <template>
+        Procedure for complete/final DMC for  students of affiliated colleges with UET, Lahore is<br/>
+Before applying for final/complete DMC for 1st time only, final year students of affiliated colleges with UET, Lahore should follow below instructions:(for undergraduate session 2015)<br/>
+
+1)	Fill exit survey and all subject surveys. <br/>	
+2)	Make sure your proper picture is uploaded on LMS, for this purpose, check your profile under student information option in your LMS account. Your picture must be clear and properly visible. In case of any issue regarding picture, visit your college office bringing your picture.<br/>  
+3)	Make sure your online departmental clearance is made by your LMS Coordinator. Online  dues clearance on LMS must also be made by your college concerned office.<br/>
+4)	Attach following documents<br/>
+a)	DMC form.<br/>
+b)	CNIC copy.<br/>
+c)	Original challan for final DMC fee of Rs. 1000/-  (Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.<br/>
+d)	Degree Requirement Completion Form duly signed and stamped by Principal/HOD/Controller.<br/>
+e)	One Passport size picture.<br/>
+f)	Covering letter for DMC from concerned college.<br/>
+g)	Matric/O level certificate copy. <br/>
+Note <br/>
+Above instructions are for 1st time final DMC. To apply for subsequent copies of final DMC, attach DMC form and Challan of Rs. 1000/- only.<br/>
+042-99029235, 042-99250214  Examinations Branch UET, Lahore   <br/>
+examination@uet.edu.pk<br/>
+        
+  </template>
+</category>
+
+<category>
+    <pattern>^ affiliated colleges ^ DMC ^</pattern>
+    <template>Procedure for incomplete DMC is:-<br/>
+1)	Apply on DMC form <br/>
+2)	Attach challan of Rs. 300 ( Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.)
+Procedure for complete/final DMC for UET, Lahore students is:-<br/>
+Before applying for final/complete DMC for 1st time only, final year students should follow below instructions:(for undergraduate session 2015 and postgraduate session 2016 onwards)<br/>
+
+1)	Fill exit survey and all subject surveys.<br/>	
+2)	Make sure your proper picture is uploaded on LMS, for this purpose, check your profile under student information option in your LMS account. Your picture must be clear and properly visible. In case of any issue regarding picture, visit Admission Cell Admin Block bringing your picture. IBM students have this facility in their department.<br/>
+3)	Make sure your online departmental clearance is made by your LMS Coordinator.<br/>
+4)	Attach following documents:-<br/>
+       a)	DMC form<br/>
+       b)	CNIC copy<br/>
+       c)	Original challan for final DMC fee of Rs. 1000/- (Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.<br/>
+       d)	Original challan of 1st Installment of Rs. 10,000/-  if payable loan is mentioned on dues clearance slip, (Account No: 41707-4 Title: UET Endowment Fund), only bank deposit slip can be used.<br/>
+      e)	Degree Requirement Completion Form duly signed and stamped by Chairperson<br/>
+      f)	One Passport size picture<br/>
+     g)	Library and Dues clearance copy<br/>
+     h)	Matric/O level certificate copy (for foreigners attach passport copy + IBCC)<br/>
+     i)	Thesis notification copy for Postgraduate students only<br/>
+
+Note:-    <br/>
+Online dues clearance for Rachna college, KSK, FSD and NWL will be made by concerned office of their respective campuses.<br/>
+Above instructions are for 1st time final DMC. To apply for subsequent copies of final DMC, attach DMC form and Challan of Rs. 1000/- only.<br/>
+Examinations Branch Admin Block, UET, Lahore 042-99029235, 042-99250214 examination@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># dmc ^</pattern>
+   <template>Procedure for incomplete DMC is:-<br/>
+1)	Apply on DMC form <br/>
+2)	Attach challan of Rs. 300 ( Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.)
+Procedure for complete/final DMC for UET, Lahore students is:-<br/>
+Before applying for final/complete DMC for 1st time only, final year students should follow below instructions:(for undergraduate session 2015 and postgraduate session 2016 onwards)<br/>
+
+1)	Fill exit survey and all subject surveys.<br/>	
+2)	Make sure your proper picture is uploaded on LMS, for this purpose, check your profile under student information option in your LMS account. Your picture must be clear and properly visible. In case of any issue regarding picture, visit Admission Cell Admin Block bringing your picture. IBM students have this facility in their department.<br/>
+3)	Make sure your online departmental clearance is made by your LMS Coordinator.<br/>
+4)	Attach following documents:-<br/>
+       a)	DMC form<br/>
+       b)	CNIC copy<br/>
+       c)	Original challan for final DMC fee of Rs. 1000/- (Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.<br/>
+       d)	Original challan of 1st Installment of Rs. 10,000/-  if payable loan is mentioned on dues clearance slip, (Account No: 41707-4 Title: UET Endowment Fund), only bank deposit slip can be used.<br/>
+      e)	Degree Requirement Completion Form duly signed and stamped by Chairperson<br/>
+      f)	One Passport size picture<br/>
+     g)	Library and Dues clearance copy<br/>
+     h)	Matric/O level certificate copy (for foreigners attach passport copy + IBCC)<br/>
+     i)	Thesis notification copy for Postgraduate students only<br/>
+
+Note:-    <br/>
+Online dues clearance for Rachna college, KSK, FSD and NWL will be made by concerned office of their respective campuses.<br/>
+Above instructions are for 1st time final DMC. To apply for subsequent copies of final DMC, attach DMC form and Challan of Rs. 1000/- only.<br/>
+Examinations Branch Admin Block, UET, Lahore 042-99029235, 042-99250214 examination@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># SUB CAMPUSES ^ DMC ^</pattern>
+    <template>Procedure for incomplete DMC is:-<br/>
+1)	Apply on DMC form <br/>
+2)	Attach challan of Rs. 300 ( Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.)
+Procedure for complete/final DMC for UET, Lahore students is:-<br/>
+Before applying for final/complete DMC for 1st time only, final year students should follow below instructions:(for undergraduate session 2015 and postgraduate session 2016 onwards)<br/>
+
+1)	Fill exit survey and all subject surveys.<br/>	
+2)	Make sure your proper picture is uploaded on LMS, for this purpose, check your profile under student information option in your LMS account. Your picture must be clear and properly visible. In case of any issue regarding picture, visit Admission Cell Admin Block bringing your picture. IBM students have this facility in their department.<br/>
+3)	Make sure your online departmental clearance is made by your LMS Coordinator.<br/>
+4)	Attach following documents:-<br/>
+       a)	DMC form<br/>
+       b)	CNIC copy<br/>
+       c)	Original challan for final DMC fee of Rs. 1000/- (Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.<br/>
+       d)	Original challan of 1st Installment of Rs. 10,000/-  if payable loan is mentioned on dues clearance slip, (Account No: 41707-4 Title: UET Endowment Fund), only bank deposit slip can be used.<br/>
+      e)	Degree Requirement Completion Form duly signed and stamped by Chairperson<br/>
+      f)	One Passport size picture<br/>
+     g)	Library and Dues clearance copy<br/>
+     h)	Matric/O level certificate copy (for foreigners attach passport copy + IBCC)<br/>
+     i)	Thesis notification copy for Postgraduate students only<br/>
+
+Note:-    <br/>
+Online dues clearance for Rachna college, KSK, FSD and NWL will be made by concerned office of their respective campuses.<br/>
+Above instructions are for 1st time final DMC. To apply for subsequent copies of final DMC, attach DMC form and Challan of Rs. 1000/- only.<br/>
+Examinations Branch Admin Block, UET, Lahore 042-99029235, 042-99250214 examination@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># SUBCAMPUSES ^ DMC ^</pattern>
+   <template>Procedure for incomplete DMC is:-<br/>
+1)	Apply on DMC form <br/>
+2)	Attach challan of Rs. 300 ( Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.)
+Procedure for complete/final DMC for UET, Lahore students is:-<br/>
+Before applying for final/complete DMC for 1st time only, final year students should follow below instructions:(for undergraduate session 2015 and postgraduate session 2016 onwards)<br/>
+
+1)	Fill exit survey and all subject surveys.<br/>	
+2)	Make sure your proper picture is uploaded on LMS, for this purpose, check your profile under student information option in your LMS account. Your picture must be clear and properly visible. In case of any issue regarding picture, visit Admission Cell Admin Block bringing your picture. IBM students have this facility in their department.<br/>
+3)	Make sure your online departmental clearance is made by your LMS Coordinator.<br/>
+4)	Attach following documents:-<br/>
+       a)	DMC form<br/>
+       b)	CNIC copy<br/>
+       c)	Original challan for final DMC fee of Rs. 1000/- (Account No: 01287901582203, Title: Student Dues UET, LHR), online Challan from LMS account can be generated or bank deposit slip can be used.<br/>
+       d)	Original challan of 1st Installment of Rs. 10,000/-  if payable loan is mentioned on dues clearance slip, (Account No: 41707-4 Title: UET Endowment Fund), only bank deposit slip can be used.<br/>
+      e)	Degree Requirement Completion Form duly signed and stamped by Chairperson<br/>
+      f)	One Passport size picture<br/>
+     g)	Library and Dues clearance copy<br/>
+     h)	Matric/O level certificate copy (for foreigners attach passport copy + IBCC)<br/>
+     i)	Thesis notification copy for Postgraduate students only<br/>
+
+Note:-    <br/>
+Online dues clearance for Rachna college, KSK, FSD and NWL will be made by concerned office of their respective campuses.<br/>
+Above instructions are for 1st time final DMC. To apply for subsequent copies of final DMC, attach DMC form and Challan of Rs. 1000/- only.<br/>
+Examinations Branch Admin Block, UET, Lahore 042-99029235, 042-99250214 examination@uet.edu.pk</template>
+</category>
+
+</aiml>

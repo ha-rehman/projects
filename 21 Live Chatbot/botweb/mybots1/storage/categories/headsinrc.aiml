@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert you r AIML categories here -->
+<!--System and Network head-->
+<category>
+    <pattern># System ^ Network head ^</pattern>
+    <template>Mr. Waqar Azeem, is the head of system and network in research centre</template>
+</category>
+<category>
+    <pattern>who is the head of system and network in research centre</pattern>
+    <template>Mr. Waqar Azeem, is the head of system and network in research centre</template>
+</category>
+<category>
+    <pattern>_ system and network in research centre _</pattern>
+    <template>Mr. Waqar Azeem, is the head of system and network in research centre</template>
+</category>
+<category>
+    <pattern>_ system and network _</pattern>
+    <template>Mr. Waqar Azeem, is the head of system and network in research centre</template>
+</category>
+<!--lan technicians-->
+<category>
+    <pattern># LAN technicians ^ research ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># LAN technician ^ research ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>who is lan technicians in research labs in kics</pattern>
+    <template>    <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>who is lan technician in research labs in kics</pattern>
+    <template>    <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>who is lan technician ^</pattern>
+    <template>    <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>_ lan technicians in research centre _</pattern>
+    <template>   <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<category>
+    <pattern># lan technicians ^</pattern>
+     <template>   <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>_ lan technicians</pattern>
+    <template>  <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>* lan technicians _</pattern>
+     <template>  <olist>
+            <item>Mr. Athar Yaqoob</item>
+            <item>Mr. Asif Ali</item>
+            <item>Mr. Zeeshan Ali</item>
+            <item>Mr. Agha Ghazanfar Ali</item>
+            <item>Mr. Muhammad Awais</item>
+            <item>Mr. Muhammad Attique</item>
+            <item>Mr. Tariq Ahmad</item>
+            <item>Mr. Farhan Saleem</item>
+        </olist></template>
+</category>
+<!---Network Coordinator-->
+<category>
+    <pattern># Network Coordinator ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Fazal Muhammad</item>
+            <item>Mr. Haseeb Ahmed</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>who is the Network Coordinator in research centre</pattern>
+    <template> <olist>
+            <item>Mr. Fazal Muhammad</item>
+            <item>Mr. Haseeb Ahmed</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>_ Network Coordinator</pattern>
+    <template> <olist>
+            <item>Mr. Fazal Muhammad</item>
+            <item>Mr. Haseeb Ahmed</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>* Network Coordinator _</pattern>
+    <template><olist>
+            <item>Mr. Fazal Muhammad</item>
+            <item>Mr. Haseeb Ahmed</item>
+        </olist></template>
+</category>
+<!---Network Support Coordinator-->
+<category>
+    <pattern># Network support Coordinator ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Umar Draz</item>
+            <item>Mr. Muhammad Imran</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>_ Network support Coordinator</pattern>
+    <template> <olist>
+            <item>Mr. Umar Draz</item>
+            <item>Mr. Muhammad Imran</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>* Network support Coordinator _</pattern>
+    <template> <olist>
+            <item>Mr. Umar Draz</item>
+            <item>Mr. Muhammad Imran</item>
+        </olist></template>
+</category>
+<category>
+    <pattern>who is the Network support Coordinator in research centre</pattern>
+    <template> <olist>
+            <item>Mr. Umar Draz</item>
+            <item>Mr. Muhammad Imran</item>
+        </olist></template>
+</category>
+<!---web Support Coordinator-->
+<category>
+    <pattern># Web Support Coordinator ^</pattern>
+    <template>
+    
+            Mr. Muhammad Waseem Mughal
+        
+    </template>
+</category>
+
+<category>
+    <pattern>_ web Support Coordinator</pattern>
+    <template>
+    
+            Mr. Muhammad Waseem Mughal
+        
+    </template>
+</category>
+<category>
+    <pattern>* web Support Coordinator _</pattern>
+   <template>
+    
+            Mr. Muhammad Waseem Mughal
+        
+    </template>
+</category>
+<category>
+    <pattern>who is the web Support Coordinator in research centre</pattern>
+    <template>
+    
+            Mr. Muhammad Waseem Mughal
+        
+    </template>
+</category>
+
+</aiml>

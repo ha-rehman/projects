@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+
+    <div class="jumbotron text-center">
+        <h2 style="font-family: Montserrat-Bold; color: #333333">Welcome to Emotion Learning APP</h2>
+        <p style="font-family: Montserrat-Bold; margin-bottom: 20px">Detect the Emotion on Real Time.</p>
+        <i class="fa fa-user-circle" aria-hidden="true"></i>
+{#        <a class="btn button-main" href="{% url 'student:index' %}" role="button">Get Started</a>#}
+    </div>
+
+    <div class="heading-wrapper" style="text-align: center">
+        <h2 style="font-family: Montserrat-Bold; color: #333333">Emotion Learning</h2>
+        <div class="divider"></div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static 'images/icons/person.png' %}" id="camera-stream">
+            </div>
+            <div class="col-md-6">
+                <div class="button-wrapper" style="position: absolute; left: 30%; top: 32%; margin: 0">
+                    <button id="start" class="btn btn-primary" style="display: block; border-radius: 10px; height: 50px; width: 150px">Start Session</button>
+                    <button id="end" class="btn btn-danger" style="display: block; border-radius: 10px; height: 50px; width: 150px; margin-top: 10px" disabled>End Session</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row" style="padding-top: 100px">
+            <img src="{% static 'images/main_logo.png' %}" alt="" style="display: block; margin: 0 auto">
+        </div>
+    </div>
+
+    <footer class="bg-dark text-center text-lg-start" style="margin-top: 20px; color: #ffffff">
+        <div class="text-center p-3">
+            &copy; 2023 Pay APP. All rights reserved.
+        </div>
+    </footer>
+
+{% endblock %}
+
+
+{% block script %}
+    <script>
+        $("#start").on('click', function (){
+            $("#start").prop('disabled', true);
+            $("#end").prop('disabled', false);
+            var imgElement = document.getElementById('camera-stream');
+            imgElement.src = "{% url 'register:camera_stream' %}";
+        });
+
+        $("#end").on('click', function () {
+            $("#start").prop('disabled', false);
+            $("#end").prop('disabled', true);
+            var imgElement = document.getElementById('camera-stream');
+            imgElement.src = "{% url 'register:end_camera_stream' %}";
+            imgElement.src = "{% static 'images/icons/person.png' %}";
+        });
+    </script>
+{% endblock %}

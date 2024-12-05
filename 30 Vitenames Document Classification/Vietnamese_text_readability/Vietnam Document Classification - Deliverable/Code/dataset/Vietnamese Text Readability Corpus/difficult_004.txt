@@ -1,0 +1,65 @@
+Vài suy tư về Kafka
+Tác phẩm của Kafka là một vòng hình trứng với hai tiêu điểm cách xa nhau và được xác định , một mặt bằng kinh nghiệm huyền bí ( đặc thù , là kinh nghiệm của truyền thống ) và mặt khác là kinh nghiệm của người dân đô thị lớn hiện đại .
+Khi nói về kinh nghiệm của người dân đô thị lớn , tôi có một loạt các sự việc trong đầu .
+Một mặt , tôi nghĩ về người công dân hiện đại vốn biết mình tự thân tùy thuộc một guồng máy bao la về bàn giấy quan liêu hoạt động do các quyền chức còn mơ màng ngay cả với các cơ quan thừa hành , chứ khoan nói là với đám nhân dân mà họ xử lí ( Được biết rằng một tầng ý nghĩa trong các tiểu thuyết , đặc thù là trong cuốn Vụ án , được bao gồm bởi điều này ) .
+Khi tôi quy chiếu về người dân cư ngụ trong đô thị lớn hiện đại , tôi cũng đang nói tới người đương đại với ngày hôm nay của các nhà vật lí .
+Nếu người ta đọc đoạn văn sau đây trong cuốn Bản tính của thế giới vật thể của Eddington , người ta hầu như có thể nghe tiếng Kafka nói .
+Tôi đang đứng trên thềm sắp sửa bước vào một căn buồng .
+Đó là một sự việc phức tạp .
+Trước tiên tôi phải xô đẩy một khí quyển đè bằng một lực là mười bốn cân Anh trên mỗi inch vuông [ tức ba kí lô trên 6,25 cm2 ] của thân thể tôi .
+Tôi phải chắc chắn rằng đặt chân trên một tấm ván du hành hai mươi dặm [ 32 km ] mỗi giây quanh mặt trời - chỉ cần một phần của giây quá sớm hoặc hai phần của giây quá trễ , là tấm ván kia hẳn sẽ cách xa nhiều .
+Tôi phải làm việc này trong khi lơ lửng từ một hành tinh tròn với đầu nhô ra trong không gian , và bới một ngọn gió thinh không thổi người ta không biết là bao nhiêu dặm mỗi giây qua từng kẽ hở của thân thể tôi .
+Tấm ván về chất liệu không có gì là chắc chắn .
+Bước lên nó chẳng khác nào bước lên một đám ruồi .
+Tôi có bị trượt chân qua không ?
+Không , nếu tôi làm cuộc mạo hiểm một trong những con ruồi có thể va vào tôi và đẩy tôi lên ; tôi lại rớt xuống và lại bị tung lên bởi một con ruồi khác ; và cứ thế .
+Tôi có thể hi vọng rằng kết quả thuần sẽ là tôi vẫn đứng ổn cố ; nhưng nếu chẳng may tôi bị trượt qua sàn nhà hoặc bị đẩy quá mạnh lên trần nhà , việc này có xảy ra sẽ không phải là một sự vi phạm các định luật của tự nhiên , nhưng là một sự trùng hợp hiếm hoi ...
+Thực vậy , một con lạc đà còn dễ chui qua lỗ trôn kim hơn là một nhà khoa học đi qua một cái cửa .
+Và dù cho cái cửa đó có là ở nhà kho hoặc cửa nhà thờ , khôn ngoan hơn là nhà khoa học ấy chịu làm một người bình thường và bước vào hơn là chờ cho tới khi mọi khó khăn liên quan tới việc một sự xâm nhập thực sự khoa học được giải quyết .
+Trong toàn bộ văn học tôi không biết có đoạn văn nào mang dấu ấn của Kafka cùng với mức độ đó .
+Không cần phải cố gắng gì người ta có thể đọ hầu như mọi việc vượt qua của sự phức tạp vật thể này với những câu trong các tác phẩm văn xuôi của Kafka , và có nhiều điều chỉ ra rằng khi làm như thế nhiều đoạn văn " khó hiểu " nhất sẽ thích nghi được .
+Vì vậy , nếu người ta nói - như tôi vừa nói - rằng có một sự căng thẳng lớn lao giữa những kinh nghiệm của Kafka tương ứng với vật lí ngày nay và những kinh nghiệm huyền bí của ông , đó là chỉ phát biểu một nửa sự thật .
+Điều thực sự và trong một nghĩa đen rất sát , sự khó tin một cách lạ lùng ở Kafka là cái thế giới gần nhất của kinh nghiệm này được chuyển tải tới ông chính bằng cái truyền thống huyền bí kia .
+Dĩ nhiên , điều này hẳn đã không xảy ra nếu không có những tiến trình tan hoang ( được thảo luận ngay đây ) bên trong truyền thống này .
+Tất cả vấn đề này là dường như có một sự kêu gọi tới những sức mạnh của truyền thống này nếu một cá nhân ( mang tên Franz Kafka ) phải chạm trán với cái thực tại của chúng ta tự nhận thức một cách lí thuyết , chẳng hạn , trong vật lí hiện đại , và thực tế trong kĩ thuật học của chiến tranh hiện đại .
+Điều tôi muốn nói là thực tại này hầu như không còn có thể trải nghiệm bởi một cá nhân , và thế giới của Kafka , thường rất đùa vui và có các thiên sứ quấn quýt , là sự bổ túc chính xác cho kỉ nguyên của ông đang chuẩn bị thanh toán những cư dân của hành tinh này với tính cách đại quy mô .
+Kinh nghiệm tương ứng với cái của Kafka , cá nhân riêng tư , chắc hẳn sẽ không được quần chúng có thể tiếp cận cho đến khi mà họ bị thanh toán luôn .
+Kafka đang sống trong một thế giới bổ túc .
+( Trong điều này ông liên hệ mật thiết với Klee , mà tác phẩm trong hội họa cũng thiết yếu cô đơn như tác phẩm của Kafka trong văn học ) .
+Kafka đã cung ứng cái bổ túc mà không nhận thức được những gì bao quanh ông .
+Nếu người ta bảo rằng ông nhận biết cái sắp tới mà không nhận biết cái đang tồn tại trong hiện tại , người ta nên thêm rằng ông đã nhận biết nó thiết yếu như một cá nhân bị nó tác động .
+Những cử chỉ kinh hoàng của ông được ban cho quy mô do cái biên diệu kì mà tai biến sẽ không ban cho chúng ta .
+Và kinh nghiệm của ông chỉ căn cứ duy nhất vào truyền thống mà Kafka phó mình ; không có sự nhìn xa trông rộng hoặc " thị kiến tiên tri " nào .
+Kafka đã lắng nghe truyền thống , và kẻ nào mải lắng nghe sẽ không nhìn .
+Lí do chính tại sao sự lắng nghe này lại đòi hỏi cố gắng như thế là bởi chỉ những âm thanh không rõ nhất mới tới được người lắng nghe .
+Không có một chủ thuyết nào người ta có thể hấp thu , không có một tri thức nào người ta có thể bảo tồn .
+Những sự việc muốn được nắm bắt khi chúng lướt qua không chủ định cho tai của ai cả .
+Điều này hàm chứa một tình trạng sự vụ đặc trưng một cách tiêu cực những tác phẩm của Kafka với sự chuẩn xác lớn lao .
+( Ở đây một sự đặc trưng tiêu cực hoàn toàn có kết quả hơn là một sự đặc trưng tích cực ) .
+Tác phẩm của Kafka trình ra một sự bịnh hoạn của truyền thống .
+Minh triết đôi khi đã được định nghĩa như là mặt sử thi của chân lí .
+Một sự định nghĩa như thế in dấu minh triết như là nội tại trong truyền thống ; nó là chân lí trong sự nhất trí của truyền thống Haggadah [ Sự tích của đạo Do thái ] .
+Chính sự nhất trí về chân lí này đã bị mất đi .
+Kafka không hề là người đầu tiên phải giáp mặt với tình huống này .
+Nhiều người đã tự thích nghi với nó , bám lấy chân lí hoặc bất kể thứ gì mà tình cờ họ coi là chân lí , và với cõi lòng ít nhiều u uất , bỏ qua việc truyền thụ nó .
+Thần tính thực sự của Kafka là ông cố thử một điều gì hoàn toàn mới mẻ : Ông hi sinh chân lí để có thể bám vào việc truyền thụ nó , thành tố Haggadah của nó .
+Những văn bản của Kafka trong bản tính là những dụ ngôn .
+Nhưng sự khốn cùng và cái đẹp của chúng là chúng phải trở nên hơn là các dụ ngôn .
+Chúng không khiêm tốn nằm ở dưới chân của chủ thuyết , như Haggadah [ Truyện kể ] nằm dưới chân của Halakah [ Giáo luật ] .
+Mặc dầu dường như bị giảm trừ vào thế khuất phục , chúng bất ngờ giơ vuốt mạnh mẽ chống lại chủ thuyết .
+Đó là lí do tại sao , đối với Kafka , chúng ta không còn có thể nói về minh triết .
+Chỉ có những sản phẩm của sự tan rã của minh triết còn lại .
+Có hai cái : một là tiếng đồn về những điều chân thật ( một thứ lí tính thần học được thì thầm xử lí những vấn đề đã bị mất tin tưởng hoặc lỗi thời ) ; và sản phẩm khác của tố chất này là điên rồ - cái chắc chắn đã hoàn toàn phung phí bản chất của minh triết , nhưng bảo tồn sự hấp dẫn và bảo chứng của nó , là thứ mà tin đồn luôn luôn thiếu .
+Điên rồ nằm ngay tâm điểm những thứ Kafka ưa thích nhất - từ Don Quixote qua những phụ tá tới những loài vật .
+( Là một con vật chừng như đối với ông chỉ có nghĩa là từ bỏ dạng thức người và cái khôn ngoan của loài người do một thứ xấu hổ - như sự xấu hổ có thể khiến một người lịch sự ở trong một quán rượu tồi tàn tránh không lau sạch cốc của mình ) .
+Điều này Kafka tuyệt đối chắc chắn : thứ nhất , ai đó phải là một kẻ khùng mới đứng ra giúp đỡ ; thứ nhì , chỉ sự giúp đỡ của một kẻ khùng mới là giúp đỡ thực sự .
+Điều duy nhất không chắc là chẳng biết sự giúp đỡ như thế vẫn còn có thể hữu ích gì cho một người hay không .
+Chắc hẳn nó có thể giúp đỡ cho các thiên sứ hơn ( so sánh đoạn nói về các thiên sứ phải có việc gì để làm ) là những kẻ không thể không trợ giúp .
+Vậy là , như Kafka nêu ra , có một lượng vô hạn về hi vọng , nhưng không phải cho chúng ta .
+Phát biểu này thực sự chứa đựng hi vọng của Kafka ; nó là cội nguồn sự an nhiên rạng ngời nơi ông .
+Tôi chuyển cho bạn hình ảnh có phần được nén một cách khá ngặt nghèo này - theo cung cách của sự giảm trừ về viễn kiến - với tất cả sự thoải mái là bạn có thể mài nhọn nó bằng những quan điểm mà tôi đã khai triển từ nhiều khía cạnh trong bài tiểu luận của tôi về Kafka đăng ở tạp chí Judische Rundschau , 1934 .
+Điều phê bình chủ yếu của tôi là bản nghiên cứu đó ngày hôm nay có tính chất biện hộ .
+Để công bình với hình tượng của Kafka trong sự thuần khiết và vẻ đẹp đặc thù của nó người ta không bao giờ được đánh mất cái nhìn về một điều : nó là sự thuần khiết và vẻ đẹp của một thất bại .
+Những hoàn cảnh của sự thất bại này có nhiều mặt .
+Người ta bị cám dỗ muốn nói : một khi ông ta chắc chắn cuối cùng cũng thất bại , thì mọi sự vận hành cho ông trên đường như thể trong một giấc mơ .
+Không có gì đáng nhớ hơn niềm hăng say mà Kafka nhấn mạnh về sự thất bại của ông .

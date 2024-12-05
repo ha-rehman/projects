@@ -1,0 +1,15 @@
+Reviewer 3 of SMC 2023 submission 222
+
+Comments to the author
+======================
+
+1. Fig. 1 is unnecessary as they used benchmark datasets.
+2. Which attention the authors deployed is not clear at
+all. What are the parameters values of the attention
+mechanism.
+3. How do the ensemble the different dimensions extracted
+features? Need a mathematical evident. 
+4. Provide interpretability of the proposed system to show
+the trustworthiness. 
+5. How does the models train and validate with the number
+of iterations? Needs accuracy and loss curves.

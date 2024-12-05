@@ -1,0 +1,61 @@
+Phong cách ngôn ngữ khoa học
+I - Khái quát về phong cách ngôn ngữ khoa học
+Phong cách ngôn ngữ khoa học là loại phong cách ngôn ngữ dùng trong các văn bản thuộc lĩnh vực khoa học - công nghệ , thường gọi là văn bản khoa học .
+Văn bản khoa học tồn tại ở cả hai dạng : dạng viết và dạng nói .
+Ở dạng viết , đó là các văn bản khoa học đăng tải trong sách , báo .
+Ở dạng nói , đó là các lời giảng bài trong nhà trường , lời thuyết trình , báo cáo trong hội thảo khoa học , ...
+Dù ở dạng nào , văn bản khoa học cũng thường có ba loại : văn bản khoa học chuyên sâu ( công trình nghiên cứu , chuyên luận , luận án , ... ) , văn bản khoa học giáo khoa ( giáo khoa , giáo trình , ... ) và văn bản khoa học phổ cập ( phổ biến kiến thức khoa học phổ thông , ... ) .
+Phong cách ngôn ngữ khoa học có các đặc điểm chung như sau .
+1 .
+Tính khái quát , trừu tượng : Khoa học không dừng lại ở những hiện tượng cá biệt , riêng lẻ mà nhắm tới những quy luật khái quát , trừu tượng .
+Do đó , ngôn ngữ trong văn bản khoa học cũng phải đảm bảo tính khái quát , trừu tượng .
+2 .
+Tính lí trí , lô gích : Để diễn đạt những thành quả của tư duy khoa học và thuyết phục người đọc tin vào những kết luận khoa học , ngôn ngữ trong văn bản khoa học phải đảm bảo tính lí trí , lô gích .
+3 .
+Tính khách quan , phi cá thể : Mục đích của khoa học là khám phá các quy luật của xã hội , tự nhiên .
+Do vậy , ngôn ngữ được sử dụng trong các văn bản khoa học phải có tính khách quan , thường không mang dấu ấn cá nhân .
+Các đặc điểm của phong cách ngôn ngữ khoa học được thể hiện ở những mức độ nghiêm ngặt khác nhau tùy theo loại văn bản khoa học : chuyên sâu , giáo khoa hay phổ cập .
+II - Cách sử dụng phương tiện ngôn ngữ trong phong cách ngôn ngữ khoa học
+1 .
+Về ngữ âm - chữ viết
+Ở dạng nói , văn bản khoa học tuân theo những yêu cầu phổ biến về phát âm , tạo nên sức thu hút người nghe .
+Ở dạng viết , ngoài những đặc điểm của chuẩn chính tả tiếng Việt nói chung , văn bản khoa học còn có những điểm riêng về hệ thống kí hiệu khoa học mà người viết và người đọc phải biết mới sử dụng và tiếp nhận được .
+Ví dụ : các kí hiệu m , m2 , kg , S , F , a , H2O , ...
+2 .
+Về từ ngữ
+- Mỗi ngành khoa học có hệ thống thuật ngữ riêng buộc người dùng phải hiểu chính xác mới sử dụng được .
+Ví dụ : Chủ ngữ , vị ngữ , câu đơn , câu ghép , ... là các thuật ngữ của khoa học về ngôn ngữ .
+- Từ ngữ dùng trong văn bản khoa học thuộc lớp từ ngữ chung .
+Văn bản khoa học không dùng các từ ngữ địa phương , biệt ngữ xã hội , ...
+- Văn bản khoa học đòi hỏi tính khách quan , phi cá thể nên từ ngữ trong dó thường mang sắc thái biểu cảm trung hòa .
+3 .
+Về kiểu câu
+- Văn bản khoa học thường dùng các kiểu câu có chủ ngữ không xác định , hoặc khuyết chủ ngữ .
+Ví dụ :
++ Để phát hiện các vật nhiễm điện , người ta dùng cái điện nghiệm .
+( Vật lí 9 )
++ Cho một hệ hai phương trình bậc nhất hai ẩn .
+( Đại số 10 Nâng cao )
+- Câu có nghĩa bị động và câu có từ là được sử dụng thường xuyên khi đánh giá , nhận xét , định nghĩa .
+Ví dụ :
++ Như vậy trong mặt phẳng tọa độ , mỗi nghiệm của bất phương trình bậc nhất hai ẩn được biểu diễn bởi một điểm và tập nghiệm của nó được hiểu diễn bởi một tập hợp điểm .
+( Đại số 10 Nâng cao )
++ Muối là hợp chất mà phân tử gồm nguyên tử kim loại liên kết với gốc axít .
+( Hóa học 9 )
+- Để trình bày những biện luận , suy lí khoa học , văn bản khoa học dùng các kiểu câu phức có đầy đủ các cặp quan hệ từ hô ứng như : nếu ... thì , vì ... nên , tuy ... nhưng ...
+Ví dụ :
++ Nếu một đường thẳng song song với một đường thẳng nào đó của một mặt phẳng không chứa nó , thì nó song song với mặt phẳng ấy .
+( Hình học 9 )
++ Vì dầu chỉ dính ướt quặng nên quặng bám vào các màng dầu bao quanh bọt khí và các hạt quặng nổi lên cùng với bọt khí , còn bẩn quặng thì chìm xuống đáy .
+( Vật lí 10 Nâng cao )
++ Tuy không tác dụng trực tiếp với oxi nhưng clo tạo ra một loạt oxit được điều chế bằng con đường gián tiếp .
+( Hóa học 10 Nâng cao )
+4 .
+Về biện pháp tu từ
+Văn bản khoa học chuyên sâu và giáo khoa thường không dùng các biện pháp tu từ .
+Song , trong văn bản khoa học phổ cập , để tăng sự hấp dẫn đối với người đọc và dễ phổ biến những kiến thức khoa học phổ thông , người ta cũng thường sử dụng các biện pháp tu từ như ẩn dụ , nhân hóa , so sánh , ...
+5 .
+Về bố cục , trình bày
+Cách trình bày , bố cục văn bản khoa học đòi hỏi phái chặt chẽ , lô gích .
+Các văn bản khoa học không có khuôn mẫu cố định , nhưng thường được trình bày theo trật tự chương , mục .
+Trong văn bản khoa học , ngoài cách trình bày thông thường , còn có bảng biểu , sơ đồ , mô hình , ... và thường xuất hiện những chú thích , với những quy định sử dụng chặt chẽ , buộc phải tuân theo .

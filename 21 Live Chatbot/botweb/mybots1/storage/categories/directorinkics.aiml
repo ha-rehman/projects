@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+    <pattern># director ^ kics ^</pattern>
+    <template>Dr. Waqar Mahmood, is the Director of KICS. <br/>
+    
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/staff/DrWaqarMahmood</url>
+    </button>
+    </template>
+</category>
+<category>
+    <pattern>_ director of kics</pattern>
+    <template><srai>director of kics</srai></template>
+</category>
+<category>
+    <pattern>* director of kics _</pattern>
+    <template><srai>director of kics</srai></template>
+</category>
+</aiml>

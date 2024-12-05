@@ -1,0 +1,14 @@
+Chiếc Giày Bị Mất
+Con đã tìm thấy chiếc giày của mình chưa ?
+Con đã tìm khắp nơi .
+Chiếc giày không có ở đó .
+Con đã tìm dưới gầm giường chưa ?
+Con đã tìm khắp nơi .
+Chiếc giày không có ở đó .
+Con đã tìm trong thùng đồ chơi chưa ?
+Con đã tìm khắp nơi .
+Chiếc giày không có ở đó .
+Con đã tìm trong tủ của con chưa ?
+Ồ , chưa .
+Con đã không tìm khắp nơi .
+Con chưa tìm ở đó .

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern># Senior warden ^</pattern>
+    <template>DR. Mustaq is the senior warden of all Hostel.  </template>
+</category>	
+<category>
+    <pattern># warden ^</pattern>
+    <template>DR. Mustaq is the senior warden of all Hostel.  </template>
+</category>	
+<category>
+    <pattern># hostel ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility or student  checkbox 
+    Student can apply from their LMS account for hostel facility or student, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>
+<category>
+    <pattern># hostels ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility or student  checkbox 
+    Student can apply from their LMS account for hostel facility or student, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>
+<category>
+    <pattern># Hostel ^ info ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility or student  checkbox 
+    Student can apply from their LMS account for hostel facility or student, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>	
+<category>
+    <pattern># Hostel ^ information ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility or student  checkbox 
+    Student can apply from their LMS account for hostel facility or student, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>	
+<category>
+    <pattern># info ^ Hostel ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility or student  checkbox 
+    Student can apply from their LMS account for hostel facility or student, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>	
+<category>
+    <pattern># information ^ Hostel ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility or student  checkbox 
+    Student can apply from their LMS account for hostel facility or student, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>	
+<!--Where to apply for Hostel Allotment for 1st Year Classes-->
+<category>
+    <pattern># Hostel ^ Allotment ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility checkbox </template>
+</category>	
+<category>
+    <pattern># Allotment ^ Hostel ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility checkbox </template>
+</category>	
+<category>
+    <pattern># Hostel ^ AllotE ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility checkbox </template>
+</category>	
+<category>
+    <pattern># AllotE ^ Hostel ^</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal facility checkbox </template>
+</category>	
+
+<category>
+    <pattern># Maintenance ^ Room ^</pattern>
+    <template>
+        Student can email his problem at hmc@uet.edu.pk or contact the respective store keep of  the hostel for repair and maintenance issue
+    </template>
+</category>
+<category>
+    <pattern># repair ^ Room ^</pattern>
+    <template>
+        Student can email his problem at hmc@uet.edu.pk or contact the respective store keep of  the hostel for repair and maintenance issue
+    </template>
+</category>
+
+<category>
+    <pattern># hostel ^ sanitation ^</pattern>
+    <template>
+        Hostel maintenance cell is responsible for sanitation issues
+    </template>
+</category>
+
+<category>
+    <pattern># Seats ^ Hostels ^</pattern>
+    <template>
+        3000 for boys and girls combined
+    </template>
+</category>
+<category>
+    <pattern># Seats ^ Hostel ^</pattern>
+    <template>
+        3000 for boys and girls combined
+    </template>
+</category>
+
+<category>
+    <pattern># types ^ rooms ^</pattern>
+    <template>
+        ormitory(shared room) and cubical (for single person)
+    </template>
+</category>
+
+<category>
+    <pattern># allotted ^ submission ^ hostel form ^</pattern>
+    <template>
+        2 to 3 days depends  upon  avalaibiliy of seats
+    </template>
+</category>
+<category>
+    <pattern># submission ^ hostel form ^ allotted ^</pattern>
+    <template>
+        2 to 3 days depends  upon  avalaibiliy of seats
+    </template>
+</category>
+
+<category>
+    <pattern># seats ^ Postgraduate ^ Undergraduate ^ students ^</pattern>
+    <template>
+        For postgraduate 400 undergraduate 2500 
+    </template>
+</category>
+
+<category>
+    <pattern># apply for Hostel Allotment *</pattern>
+    <template>At the time of applying for admission on admission portal, you need to click on admission portal and click on the tab apply for hostel.</template>
+</category>	
+
+
+<!--How to apply for Hostel Allotment-->
+<category>
+    <pattern># How to apply for Hostel Allotment ^</pattern>
+    <template>Student can apply from their LMS account for hostel facility, and take print of application and submit hard copy and  challan copy  in senior warden office admission block. 04299029225</template>
+</category>	
+
+	
+<!--How to pay the Hostel Fee-->
+<category>
+    <pattern># pay the Hostel Fee ^</pattern>
+    <template>Challan form is automatically generated when student  applies for hostel facility, after paying fee submit challan copy in senior warden office 04299029225</template>
+</category>	
+
+	
+<!--How much Fee for Hostel Allotment-->
+<category>
+    <pattern># Fee for Hostel Allotment ^</pattern>
+    <template>Fee is different for two categories, i.e Dormitory >3000 (Shared room) per semester and Cubical (single person)</template>
+</category>	
+<category>
+    <pattern>How much Fee for Hostel *</pattern>
+    <template>Fee is different for two categories, i.e Dormitory >3000 (Shared room) per semester and Cubical (single person)</template>
+</category>	
+<category>
+    <pattern># Fee ^ Hostel ^</pattern>
+    <template>Fee is different for two categories, i.e Dormitory >3000 (Shared room) per semester and Cubical (single person)</template>
+</category>	
+<category>
+    <pattern># Hostel ^ Fee ^</pattern>
+    <template>Fee is different for two categories, i.e Dormitory >3000 (Shared room) per semester and Cubical (single person)</template>
+</category>	
+
+	
+<!--Can final year students apply for hostel  facility-->
+<category>
+    <pattern>Can final year students apply for hostel  facility</pattern>
+    <template>Final year students can apply for hostel facility, they will be allotted if seats are available, undergraduate students are preferred for hostel facility</template>
+</category>	
+
+<category>
+    <pattern># final year students ^ hostel  ^</pattern>
+    <template>Final year students can apply for hostel facility, they will be allotted if seats are available, undergraduate students are preferred for hostel facility</template>
+</category>	
+<category>
+    <pattern># final year student ^ hostel  ^</pattern>
+    <template>Final year students can apply for hostel facility, they will be allotted if seats are available, undergraduate students are preferred for hostel facility</template>
+</category>	
+
+	
+<!--Who is not eligible for Hostel allotment-->
+<category>
+    <pattern># not eligible ^ Hostel allotment ^</pattern>
+    <template> Lahore Domicile holders  are not eligible for hostel facility</template>
+</category>	
+
+
+	
+<!--Which hostel will be allotted-->
+<category>
+    <pattern>Which hostel will be allotted</pattern>
+    <template>Hostel is allotted according to merit year wise</template>
+</category>	
+
+<category>
+    <pattern># hostel will be allotted ^</pattern>
+    <template>Hostel is allotted according to merit year wise</template>
+</category>	
+
+	
+<!--Which type of room will be allotted-->
+<category>
+    <pattern>Which type of room will be allotted</pattern>
+    <template>Dormitory (Shared room) and Cubical (single person) room is allotted to students</template>
+</category>	
+
+<category>
+    <pattern># type of room will be allotted ^</pattern>
+    <template>Dormitory (Shared room) and Cubical (single person) room is allotted to students</template>
+</category>	
+
+	
+<!--What sort of facilities available in Hostel-->
+<category>
+    <pattern>What sort of facilities available in Hostel</pattern>
+    <template>Mess, Laundry,  TV room, Common Room for indoor games, Internet, Steel bed, Chair, table, fan, Prayer room, study room etc</template>
+</category>	
+<category>
+    <pattern># facilities ^ Hostel ^</pattern>
+    <template>Mess, Laundry,  TV room, Common Room for indoor games, Internet, Steel bed, Chair, table, fan, Prayer room, study room etc</template>
+</category>	
+
+	
+<!--What is sort of facilities available in Hostel-->
+<category>
+    <pattern>What is sort of facilities available in Hostel</pattern>
+    <template>Mess, Laundry,  TV room, Common Room for indoor games, Internet, Steel bed, Chair, table, fan, Prayer room, study room etc</template>
+</category>	
+
+	
+<!--What is the sort of facilities available in Hostel-->
+<category>
+    <pattern>What is the sort of facilities available in Hostel</pattern>
+    <template>Mess, Laundry,  TV room, Common Room for indoor games, Internet, Steel bed, Chair, table, fan, Prayer room, study room etc</template>
+</category>	
+
+	
+<!-- What are arrangements for meal in hostels-->
+<category>
+    <pattern>What are arrangements for meal in hostels</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+<category>
+    <pattern># meal ^ hostels ^</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+<category>
+    <pattern># meal ^ hostel ^</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+<category>
+    <pattern># hostel ^ meal ^</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+<category>
+    <pattern># food ^ hostels ^</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+<category>
+    <pattern># food ^ hostel ^</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+<category>
+    <pattern># hostel ^ food ^</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+	
+<!-- What is arrangements for meal in hostels-->
+<category>
+    <pattern>What is arrangements for meal in hostels</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+
+	
+<!-- What is the  arrangements for meal in hostels-->
+<category>
+    <pattern>What is the  arrangements for meal in hostels</pattern>
+    <template>Mess is available for students in every hostel. Menu is decided by students committee</template>
+</category>	
+
+	
+<!-- How to register for Hostel Mess-->
+<category>
+    <pattern>How to register for Hostel Mess</pattern>
+    <template>Student can register in respective hostel for mess  by paying security fee </template>
+</category>	
+
+<category>
+    <pattern># register ^ Hostel Mess ^</pattern>
+    <template>Student can register in respective hostel for mess  by paying security fee </template>
+</category>
+
+	
+<!--Who is Warden and his/her responsibilities-->
+<category>
+    <pattern># Who is Warden and his her responsibilities ^</pattern>
+    <template>Resident Tutor in  incharge of every hostel they deal hostel security,  meal and rules and regulations matters, Separate warden is  for boys and girls hostels, senior warden is the head of all hostels.</template>
+</category>	
+
+	
+<!-- Who is Resident Tutor and his/her responsibilities-->
+<category>
+    <pattern># Who is Resident Tutor and his her responsibilities ^</pattern>
+    <template>Resident Tutor in  incharge of every hostel they deal hostel security, meal and rules and regulations matters</template>
+</category>	
+
+
+	
+<!-- Who is Senior Warden and his her responsibilities-->
+<category>
+    <pattern>Who is Senior Warden and his her responsibilities</pattern>
+    <template>Separate warden is  for boys and girls hostels, senior warden is the head of all hostels.</template>
+</category>	
+
+	
+<!-- Hostel Timings for Boys and Girls Hostels-->
+<category>
+    <pattern>Hostel Timings for Boys and Girls Hostels</pattern>
+    <template>Timing for boys hostel is 12 night and for girls hostel is 9 PM </template>
+</category>	
+<category>
+    <pattern># Hostel ^ Timings ^</pattern>
+    <template>Timing for boys hostel is 12 night and for girls hostel is 9 PM </template>
+</category>	
+<category>
+    <pattern># Hostel ^ Timing ^</pattern>
+    <template>Timing for boys hostel is 12 night and for girls hostel is 9 PM </template>
+</category>	
+
+<category>
+    <pattern># Timings ^ Hostel ^</pattern>
+    <template>Timing for boys hostel is 12 night and for girls hostel is 9 PM </template>
+</category>	
+<category>
+    <pattern># Timing ^ Hostel ^</pattern>
+    <template>Timing for boys hostel is 12 night and for girls hostel is 9 PM </template>
+</category>	
+
+	
+<!--Procedure to lodge complaint for any kind of repair and Maintenance in Room -->
+<category>
+    <pattern>Procedure to lodge complaint for any kind of repair and Maintenance in Room</pattern>
+    <template>Student can email his problem at hmc@uet.edu.pk or contact the respective store keep of  the hostel for repair and maintenance issue
+</template>
+</category>	
+
+	
+<!-- Laundry services available in Hostels-->
+<category>
+    <pattern># Laundry services available in Hostels ^</pattern>
+    <template>Yes</template>
+</category>	
+<category>
+    <pattern># Laundry service ^ Hostel ^</pattern>
+    <template>Yes</template>
+</category>	
+<category>
+    <pattern># Laundry service ^ Hostels ^</pattern>
+    <template>Yes</template>
+</category>	
+<category>
+    <pattern># Laundry services available in Hostel ^</pattern>
+    <template>Yes</template>
+</category>	
+
+	
+<!-- What is the procedure of allotment other than 1st Year-->
+<category>
+    <pattern>What is the procedure of allotment other than 1st Year</pattern>
+    <template>Students can apply on LMS for hostel other than 1st year</template>
+</category>	
+
+	
+<!--who is responsibal for hostel sanitation clean and health isuues or problems-->
+<category>
+    <pattern>who is responsibal for hostel sanitation clean and health isuues or problems</pattern>
+    <template>Hostel maintenance cell is responsible for sanitation issues</template>
+</category>	
+
+	
+<!--Number of Seats in Hostels Both boys and  girls-->
+<category>
+    <pattern># Number of Seats in Hostels Both boys and  girls ^</pattern>
+    <template>3000 for boys and girls combined</template>
+</category>	
+
+	
+<!--How much Staff of Senior Warden Office-->
+<category>
+    <pattern># How much Staff of Senior Warden Office ^</pattern>
+    <template>6 persons</template>
+</category>	
+<category>
+    <pattern># Staff ^ Senior Warden Office ^</pattern>
+    <template>6 persons</template>
+</category>	
+	
+<!--How many types of rooms are there in hostels-->
+<category>
+    <pattern>How many types of rooms are there in hostels</pattern>
+    <template>ormitory(shared room) and cubical (for single person)</template>
+</category>	
+
+	
+<!-- When will be allotted room after submission of hostel form-->
+<category>
+    <pattern>When will be allotted room after submission of hostel form</pattern>
+    <template>2 to 3 days depends  upon  avalaibiliy of seats</template>
+</category>	
+
+	
+<!-- How many seats are there for Postgraduate and Undergraduate students-->
+<category>
+    <pattern>How many seats are there for Postgraduate and Undergraduate students</pattern>
+    <template>For postgraduate 400 undergraduate 2500 </template>
+</category>	
+
+	
+<!-- Who make the mess menu-->
+<category>
+    <pattern>Who make the mess menu</pattern>
+    <template>Mess committee and students committee with consolation of resident tutor</template>
+</category>	
+
+	
+<!-- How to pay mess bill-->
+<category>
+    <pattern># How to pay mess bill ^</pattern>
+    <template>After every month, students pay fee to the munshi.</template>
+</category>	
+
+	
+<!-- Who is mess manger-->
+<category>
+    <pattern># mess ^ manager ^</pattern>
+    <template>Mess manager is selected from students based on the merit</template>
+</category>	
+<category>
+    <pattern># manager ^ mess ^</pattern>
+    <template>Mess manager is selected from students based on the merit</template>
+</category>	
+
+	
+<!-- Who is mess manger-->
+<category>
+    <pattern>Who is the mess manager</pattern>
+    <template>Mess manager is selected from students based on the merit</template>
+</category>		
+	
+<!-- Duties of mess manager-->
+<category>
+    <pattern># Duties of mess manager ^</pattern>
+    <template>Mess related issue, cleanliness of mess</template>
+</category>	
+
+	
+<!-- What type of recreational activities in hostels-->
+<category>
+    <pattern> What type of recreational activities in hostels</pattern>
+    <template>Indoor games etc explained above</template>
+</category>	
+
+	
+<!-- What is type of recreational activities in hostels-->
+<category>
+    <pattern> What is type of recreational activities in hostels</pattern>
+    <template>Indoor games etc explained above</template>
+</category>	
+
+
+<!-- What is the type of recreational activities in hostels-->
+<category>
+    <pattern> What is the type of recreational activities in hostels</pattern>
+    <template>Indoor games etc explained above</template>
+</category>	
+	
+
+<!--How will I cancel my hostel allotment -->
+<category>
+    <pattern>How will I cancel my hostel allotment</pattern>
+    <template>Apply to  the senrior ward in written</template>
+</category>	
+
+<!--My district is Lahore can I apply for hostel -->
+<category>
+    <pattern>My district is Lahore can I apply for hostel</pattern>
+    <template>No</template>
+</category>	
+
+<!-- Can I pay fee online-->
+<category>
+    <pattern>Can I pay fee online</pattern>
+    <template>Yes</template>
+</category>	
+
+<!--In which bank to submit hostel fee-->
+<category>
+    <pattern>In which bank to submit hostel fee</pattern>
+    <template>HBL any branch</template>
+</category>	
+
+<!--How to get challan form for hostel-->
+<category>
+    <pattern>How to get challan form for hostel</pattern>
+    <template>From LMS</template>
+</category>	
+
+<!--How will check or know about hostel allotment-->
+<category>
+    <pattern>How will check or know about hostel allotment</pattern>
+    <template>You can check from LMS</template>
+</category>	
+
+<!-- How to  get information about  hostel allotment-->
+<category>
+    <pattern> How to  get information about  hostel allotment</pattern>
+    <template>From LMS</template>
+</category>	
+
+<!--How will check about my roommates-->
+<category>
+    <pattern>How will check about my roommates</pattern>
+    <template>No</template>
+</category>	
+
+<!-- Is it compulsory to apply for hostel using through LMS-->
+<category>
+    <pattern>Is it compulsory to apply for hostel using through LMS</pattern>
+    <template>Yes</template>
+</category>	
+
+<!--Can I apply for hostel without using LMS -->
+<category>
+    <pattern>Can I apply for hostel without using LMS</pattern>
+    <template>No</template>
+</category>	
+
+<!--Can I shift my room from one hostel to another -->
+<category>
+    <pattern>Can I shift my room from one hostel to another</pattern>
+    <template>Allotment is merit based, but can be applied to senior warden </template>
+</category>	
+
+<!--How to shift room-->
+<category>
+    <pattern>How to shift room </pattern>
+    <template>Not allowed</template>
+</category>	
+
+<!-- Is it possible to migrate from one hostel to another or from room to another room-->
+<category>
+    <pattern>Is it possible to migrate from one hostel to another or from room to another room</pattern>
+    <template>Yes based on specific conditions, apply to senior warden</template>
+</category>	
+
+<!--Where I will submit any complain If I face -->
+<category>
+    <pattern>Where I will submit any complain If I face</pattern>
+    <template>RT or senior warden</template>
+</category>	
+
+<!--When I can apply for hostel -->
+<category>
+    <pattern>When I can apply for hostel</pattern>
+    <template>At the time of admission or after every year two semesters</template>
+</category>	
+
+<!--Can I apply for hostel as I am apply for admission-->
+<category>
+    <pattern>Can I apply for hostel as I am apply for admission</pattern>
+    <template>Yes</template>
+</category>	
+
+<!--Is it possible that we submit hostel fee with admission fee-->
+<category>
+    <pattern>Is it possible that we submit hostel fee with admission fee</pattern>
+    <template>Yes</template>
+</category>	
+
+<!--Where uploads the hostel list -->
+<category>
+    <pattern># hostel list ^</pattern>
+    <template>hostel list upload On LMS account</template>
+</category>	
+<category>
+    <pattern>_hostel list *</pattern>
+    <template>hostel list upload On LMS account</template>
+</category>	
+<category>
+    <pattern>Where uploads the hostel list</pattern>
+    <template>On LMS account</template>
+</category>	
+<!--Do you have a central data share-->
+<category>
+    <pattern>Do you have a central data share</pattern>
+    <template>Yes.</template>
+</category>
+<!--Where is senior warden office-->
+<category>
+    <pattern>Where is senior warden office</pattern>
+    <template>In admin block  contact no is 042-99029225</template>
+</category>
+
+<category>
+    <pattern># mess manger ^</pattern>
+    <template>
+        Mess manager is selected from students based on the merit
+    </template>
+</category>
+<category>
+    <pattern># Duties ^ mess manager ^</pattern>
+    <template>
+        Mess related issue, cleanliness of mess
+    </template>
+</category>
+<category>
+    <pattern># Duty ^ mess manager ^</pattern>
+    <template>
+        Mess related issue, cleanliness of mess
+    </template>
+</category>
+
+<category>
+    <pattern># bank ^ submit ^ fee ^</pattern>
+    <template>
+        HBL any branch
+    </template>
+</category>
+
+<category>
+    <pattern># challan ^ hostel ^</pattern>
+    <template>
+        From LMS
+    </template>
+</category>
+
+<category>
+    <pattern># shift ^ room ^ hostel ^</pattern>
+    <template>
+        Allotment is merit based, but can be applied to senior warden.
+    </template>
+</category>
+
+<category>
+    <pattern># shift room ^</pattern>
+    <template>
+        Not allowed
+    </template>
+</category>
+
+<category>
+    <pattern># migrate ^ hostel ^</pattern>
+    <template>
+        Yes based on specific conditions, apply to senior warden.
+    </template>
+</category>
+
+
+
+</aiml>

@@ -1,0 +1,31 @@
+Reviewer 4 of SMC 2023 submission 222
+
+Comments to the author
+======================
+
+The paper proposes a new approach to facial expression
+recognition using attention mechanism and convolutional
+neural networks to achieve high accuracy recognition on
+three well-known datasets. However, the paper has some
+problems suggesting the authors to revise:
+1. the logical presentation of the paper is not coherent
+enough, and further revisions are suggested;
+2. There are some problems in the layout of the paper, the
+usage of "et al." in the paragraph does not meet the
+requirements of the conference template; some punctuation
+marks are inconsistently spaced; the abbreviations of
+proper nouns can be stated only once, and there is no need
+to repeat them in the subsequent text; the table names are
+not set according to the requirements of the template, pay
+attention to the case, and if necessary, add footnote; in
+the experimental table, the data with better effect or more
+prominent can be highlighted to make it more convenient for
+readers to read.
+3. the experimental evaluation index is not clearly
+explained, and there is no formula in the text, which needs
+further explanation;
+4. the identification method proposed by the authors,
+whether to consider the detection effect under the
+influence of factors such as posture or light changes? Or
+is it compared with other methods in terms of recognition
+accuracy under the influence of various factors?

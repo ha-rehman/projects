@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+<category>
+    <pattern># MEMBERS ^ GOVERNING BODIES ^</pattern>
+    <template>There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>
+<category>
+    <pattern># GOVERNING BODIES ^</pattern>
+    <template>There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>
+<category>
+    <pattern># MEMBER ^ GOVERNING BODIES ^</pattern>
+    <template>There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>
+
+<category>
+    <pattern>how many members are there in governing bodies of kics</pattern>
+    <template>There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>
+	
+<category>
+    <pattern>members of governing bodies</pattern>
+    <template>
+       There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>
+	
+<category>
+    <pattern>members of governing bodies *</pattern>
+    <template>There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>	
+<category>
+    <pattern>members are there in governing bodies *</pattern>
+    <template> There are 10 members in governing bodies of kics. 6 are in board of governors and 4 are in management committee.</template>
+</category>	
+	
+<category>
+    <pattern>who is the chairman of  board of governor</pattern>
+    <template>Prof. Dr. Fazal Ahmad Khalid is the chairman of the board of governor.</template>
+</category>
+	
+<category>
+    <pattern># chairman of board of governor ^</pattern>
+    <template>Prof. Dr. Fazal Ahmad Khalid is the chairman of the board of governor.</template>
+</category>
+<category>
+    <pattern># chairman of board of governors ^</pattern>
+    <template>Prof. Dr. Fazal Ahmad Khalid is the chairman of the board of governor.</template>
+</category>
+<category>
+    <pattern># chairman ^ governing bodies ^</pattern>
+    <template>Prof. Dr. Fazal Ahmad Khalid is the chairman of the board of governor.</template>
+</category>
+	
+<category>
+    <pattern>who is the convener of management committee</pattern>
+    <template>Prof. Dr. Waqar Mahmood the convener of in management committee</template>
+</category>
+	
+<category>
+    <pattern># convener of management committee ^</pattern>
+    <template>Prof. Dr. Waqar Mahmood the convener of in management committee</template>
+</category>	
+<category>
+    <pattern># management committee ^</pattern>
+    <template>Prof. Dr. Waqar Mahmood the convener of in management committee</template>
+</category>	
+</aiml>

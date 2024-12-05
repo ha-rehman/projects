@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+<!--What is the mission statement or mission of university -->
+<category>
+    <pattern># University mission and Vision ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+<category>
+    <pattern># Vision ^ university ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+<category>
+    <pattern># mission ^ university ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+
+<category>
+    <pattern># UET mission and Vision ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+<category>
+    <pattern># Vision ^ UET ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+<category>
+    <pattern># mission ^ UET ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+
+<category>
+    <pattern>What is the mission statement or mission of university</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.</template>
+</category>	
+<category>
+    <pattern># University ^ mission ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.</template>
+</category>	
+<category>
+    <pattern># UET ^ mission ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.</template>
+</category>	
+
+<!--What is mission statement or mission of university -->
+<category>
+    <pattern># mission of university ^</pattern>
+    <template>To generate Knowledge for global competitive advantage and become leading world class research University.
+    To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development.</template>
+</category>	
+
+
+<!--What mission statement or mission of university -->
+<category>
+    <pattern>What mission statement or mission of university</pattern>
+    <template><srai>What is the mission statement or mission of university</srai></template>
+</category>	
+<!--What  vision statement or vision of university-->
+<category>
+    <pattern># statement ^</pattern>
+    <template>To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development. </template>
+</category>	
+<!--What  vision statement or vision of university-->
+<category>
+    <pattern># vision ^ university ^</pattern>
+    <template>To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development. </template>
+</category>	
+<category>
+    <pattern># vision ^ UET ^</pattern>
+    <template>To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development. </template>
+</category>	
+<category>
+    <pattern># university ^ vision ^</pattern>
+    <template>To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development. </template>
+</category>	
+<category>
+    <pattern># UET ^ vision ^</pattern>
+    <template>To play leading role as a university of Engineering and Technology in teaching, Research, Innovation and commercialization that is internationally relevant and has a direct bearing on nation al industrial, technological and socio-economic development. </template>
+</category>	
+<!--What  vision statement or vision of university-->
+<category>
+    <pattern>What vision statement or vision of university</pattern>
+    <template><srai>vision statement</srai></template>
+</category>	
+<!--What is  vision statement or vision of university-->
+<category>
+    <pattern>What is  vision statement or vision of university</pattern>
+    <template><srai>vision statement</srai> </template>
+</category>	
+<!--What is the vision statement or vision of university-->
+<category>
+    <pattern>What is the vision statement or vision of university</pattern>
+    <template><srai>vision statement</srai> </template>
+</category>	
+
+</aiml>

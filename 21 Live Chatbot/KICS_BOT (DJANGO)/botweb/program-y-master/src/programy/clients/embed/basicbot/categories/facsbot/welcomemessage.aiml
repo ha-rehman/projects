@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	
+	
+	<category>
+	    <pattern>WELCOMEMESSAGE</pattern>
+	    <template>
+	        <delay>2</delay>
+
+	      Hi 👋, Welcome to FACS BOT 😄 <split/>
+	      I am here to help you out about your general queries related to Financial Aid and Career Services, UET Lahore.
+	      
+	      
+	      <button>
+	          <text>Learn About US!</text>
+	          <postback>ABOUUS</postback>
+          </button>
+          
+          <button>
+              <text>Learn About Our Services</text>
+              <postback>SERVIS</postback>
+          </button>
+          
+          <split/>
+          <delay>2</delay>
+
+        
+          What would you like to do? 
+            
+            <button>
+	            <text>Chat with Me!</text>
+	            <postback>selfintro</postback>
+            </button>
+            
+            <button>
+                <text>Talk to a Human</text>
+                <postback>HumanTalk</postback>
+            </button>
+            
+            <button>
+                <text>Send Feedbacks/Suggestions</text>
+                <postback>Feedbacksinfo</postback>
+            </button>
+            
+            	        
+	    </template>
+    </category>
+    
+    
+    
+   <category>
+       <pattern># ABOUUS ^</pattern>
+       <template>
+           
+           
+           The Financial Aid and Career Services, UET Lahore has a long standing and extraordinary commitment to facilitate students by providing news about Scholarships, need based financial aid and loans to students as well as career opportunities to graduate students seeking to better their live as well as to contribute to country economy. <br/>
+           for more info. visit:
+           <link>
+               <text>Our Website!</text>
+               <url>https://facs.uet.edu.pk/</url>
+           </link>
+          
+           <link>
+               <text> Find US on Facebook!</text>
+               <url>https://m.facebook.com/FACSUET/</url>
+           </link>
+
+       </template>
+   </category>
+   
+   <category>
+       <pattern># ADMINOFI ^</pattern>
+       <template>
+           Mr. Rana Manzoor Ahmad Khan, is the Admin Officer at Financial Aid and Career Services, UET Lahore. <br/>
+            <br/>
+            Phone: 042-99029218<br/>
+            Cell: 0308-4308807<br/>
+            Fax: 99250202<br/>
+            Email: ranamanzoor74@gmail.com
+       </template>
+   </category>
+   
+   <category>
+       <pattern># DIROFI ^</pattern>
+       <template>
+           Dr. Muhammad Usman Ghani, is the Director of Financial Aid and Career Services, UET Lahore.
+           <br/>
+           for more info. visit:
+           <link>
+               <text>Dr Usman Ghani's Profile!</text>
+               <url>https://uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=142</url>
+           </link>
+       </template>
+   </category>
+   
+   
+   <category>
+       <pattern># services ^ FACS ^</pattern>
+       <template><srai>SERVIS</srai></template>
+   </category>
+   
+   
+   
+   
+   <category>
+       <pattern># FACS ^ services ^</pattern>
+       <template><srai>SERVIS</srai></template>
+   </category>
+   
+   
+   
+   
+    
+    <category>
+        <pattern>SERVIS</pattern>
+        <template>
+            <delay>2</delay>
+            
+            
+            Financial Aid and Career Services provides information regarding scholarships available for students, jobs and internships for graduate and undergraduate students, and need-based financial aid or loans.
+            
+            <button>
+                <text>Learn About Scholarships</text>
+                <url>https://facs.uet.edu.pk/site/index.php/category/scholarships/</url>
+            </button>
+            
+            <button>
+                <text>Learn About Career</text>
+                 <url>https://facs.uet.edu.pk/site/index.php/category/career/</url>
+            </button>
+            
+            <button>
+                <text>Learn About Financial Aid</text>
+                 <url>https://facs.uet.edu.pk/site/index.php/category/financial-aid/</url>
+            </button>
+            
+            <button>
+                <text>Learn About Student Loan</text>
+                <url>https://facs.uet.edu.pk/site/index.php/category/student-loan/</url>
+            </button>
+            
+            <split/>
+            <delay>3</delay>
+
+            The Statistics report of scholarships provided to students are also available. For more queries, contact Admin Officer. <br/>
+            <button>
+                <text>Learn more about Statistics</text>
+                <url>https://facs.uet.edu.pk/site/index.php/statistics-2/#</url>
+            </button>
+            
+        </template>
+    </category>
+    
+    
+    
+    
+            
+    <category>
+        <pattern>selfintro</pattern>
+        <template>
+            <delay>2</delay>
+
+            Tell me, how can I help you out?
+        </template>
+    </category>
+    
+    
+    
+    
+    <category>
+        <pattern># talk ^ Human ^</pattern>
+        <template><srai>HumanTalk</srai></template>
+    </category>
+    
+    <category>
+        <pattern># Human ^ talk ^</pattern>
+        <template><srai>HumanTalk</srai></template>
+    </category>
+    
+    <category>
+        <pattern>HumanTalk</pattern>
+        <template>
+            <delay>2</delay>
+
+            
+            Please keep in mind that we are "Proudly Artificial," and there may not be any people available to help you right now, since our live chat function is not manned 24/7. 😅 <split/>
+            <delay>2</delay>
+            If nobody joins you after a few minutes, please contact us at: <br/>
+            <br/>
+
+           facs@uet.edu.pk <br/>
+            
+        </template>
+    </category>
+    
+    <category>
+        <pattern># feedback ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># feedbacks ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># suggestion ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># suggestions ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern>Feedbacksinfo</pattern>
+        <template>
+
+            I originally Invented by Data Science Lab (DSL), KICS UET, Lahore.
+            <br/> If you want to give suggestions/feedbacks to my developers, simply find their contacts info. from the button below:
+            <split/>
+            <button>
+                <text>Developer Contact info.</text>
+                <url>https://www.kics.edu.pk/labs/contacts/dsl</url>
+            </button>
+        </template>
+    </category>
+            
+            
+
+	
+	
+	
+	
+</aiml>

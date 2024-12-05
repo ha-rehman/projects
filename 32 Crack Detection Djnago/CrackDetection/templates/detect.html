@@ -1,0 +1,178 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block title %}
+    <title>Crack Detection</title>
+{% endblock %}
+
+
+{% block style %}
+        <style>
+        .container-wrapper h1{
+            font-family: Montserrat, sans-serif;
+            text-align: center;
+            padding: 20px 0;
+            color: #0f2a5f;
+            font-weight: bold;
+        }
+        .file-upload {
+            background-color: #ffffff;
+            width: 90%;
+            margin: 0 auto;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        .file-upload-btn {
+            width: 100%;
+            margin: 0;
+            color: #fff;
+            background: #0f2a5f;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+            border-bottom: 4px solid #0f2a5f;
+            transition: all .2s ease;
+            outline: none;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .file-upload-btn:hover {
+            background: #0f2a5f;
+            color: #ffffff;
+            transition: all .2s ease;
+            cursor: pointer;
+        }
+
+        .file-upload-btn:active {
+            border: 0;
+            transition: all .2s ease;
+        }
+
+        .file-upload-content {
+            display: none;
+            text-align: center;
+        }
+
+        .file-upload-input {
+            position: absolute;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            outline: none;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        .image-upload-wrap {
+            margin-top: 20px;
+            border: 4px dashed #0f2a5f;
+            position: relative;
+        }
+
+        .image-dropping,
+        .image-upload-wrap:hover {
+            {#background-color: #0f2a5f;#}
+            border: 4px dashed #8E8787;
+        }
+
+        .image-title-wrap {
+            padding: 0 15px 15px 15px;
+            color: #222;
+        }
+
+        .drag-text {
+            text-align: center;
+        }
+
+        .drag-text h4 {
+            font-weight: 100;
+            text-transform: initial;
+            color: #8E8787;
+            padding: 60px 0;
+        }
+
+        .file-upload-image {
+            max-height: 200px;
+            max-width: 200px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .remove-image {
+            width: 200px;
+            margin: 0;
+            color: #fff;
+            background: #cd4535;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+            border-bottom: 4px solid #b02818;
+            transition: all .2s ease;
+            outline: none;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .remove-image:hover {
+            background: #c13b2a;
+            color: #ffffff;
+            transition: all .2s ease;
+            cursor: pointer;
+        }
+
+        .remove-image:active {
+            border: 0;
+            transition: all .2s ease;
+        }
+    </style>
+{% endblock %}
+
+
+{% block body %}
+    <div class="container">
+        <div class="container-wrapper" style="width: 60%; background-color: #e3dddd; margin: 150px auto 0; padding: 60px">
+            <h1>AI Crack Detection</h1>
+
+            <form id="myform" method="post" action="{% url 'detect' %}" enctype="multipart/form-data">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="file">Email address</label>
+                    <input type="file" class="form-control" id="file" aria-describedby="fileHelp"
+                           placeholder="Enter email" name="myfile">
+                    <small id="fileHelp" class="form-text text-muted" style="color: #9C1A1C"></small>
+                </div>
+{#                    <input class="file-upload-input" type='file' name="myfile" accept="image/*"/>#}
+                    <button type="submit">detect Cracks</button>
+
+
+            </form>
+        </div>
+
+        {% if type == "image" %}
+            <div class="container">
+                <div class="container-wrapper predictionDiv" style="width: 70%; margin: 150px auto 0; padding: 60px;">
+                    <h2 style="color:#0f2a5f; text-align:center; margin-top:40px">{{ count_cracks }}</h2>
+                    <h2 id="cracks" style="color:darkred; text-align:center; margin-top:40px"></h2>
+
+                    <h2 style="color:#0f2a5f; text-align:center; margin-top:40px">Predicted Image</h2>
+                    <img src="{{ file_url1 }}" style="width:500px; height:500px; padding:50px" class="img-fluid predict"/>
+
+
+                </div>
+            </div>
+        {% endif %} 
+
+    
+    
+    </div>
+{% endblock %}
+
+
+{% block script %}
+
+
+{% endblock %}

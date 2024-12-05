@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	<!--TRANSPORT OFFICER-->
+	
+			    <category>
+        <pattern># transport ^ contact ^</pattern>
+        <template>
+        Transport Officer: Prof. Zia ur Rehman <br/>
+        Contact: 0301-4033847 <br/>
+        Email: gzia718@hotmail.com<br/>
+        Transport office is located at Bus Stop in UET, Lahore<br/>
+        </template>
+    </category>
+    
+                     		    <category>
+        <pattern># office ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+                         		    <category>
+        <pattern># transport ^ office ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+                 		    <category>
+        <pattern># contact ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+        		    <category>
+        <pattern># transport ^ email ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+            		    <category>
+        <pattern># email ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+           		    <category>
+        <pattern># transport ^ e ^ mail ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+               		    <category>
+        <pattern># e ^ mail ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+           		    <category>
+        <pattern># transport ^ talk ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+               		    <category>
+        <pattern># talk ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+           		    <category>
+        <pattern># email ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+                  		    <category>
+        <pattern># location ^ transport ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+                  		    <category>
+        <pattern># transport ^ location ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+                  		    <category>
+        <pattern># transportation ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+    		    <category>
+        <pattern># transport ^ officer ^</pattern>
+        <template>
+        <srai>transport contact</srai>
+        </template>
+    </category>
+    
+    		    <category>
+        <pattern># officer ^ transport ^</pattern>
+        <template>
+         <srai>transport contact</srai>
+        </template>
+    </category>
+	
+	
+				    <category>
+        <pattern># transport ^ hours ^</pattern>
+        <template>
+        Office hours of Transport Office is 9a.m. to 5p.m.
+        </template>
+    </category>
+    
+    				    <category>
+        <pattern># hours ^ transport ^</pattern>
+        <template>
+        Office hours of Transport Office is 9a.m. to 5p.m.
+        </template>
+    </category>
+    
+    				    <category>
+        <pattern># transportation ^ hours ^</pattern>
+        <template>
+        Office hours of Transport Office is 9a.m. to 5p.m.
+        </template>
+    </category>
+    
+    				    <category>
+        <pattern># hours ^ transportation ^</pattern>
+        <template>
+        Office hours of Transport Office is 9a.m. to 5p.m.
+        </template>
+    </category>
+    
+	
+	<!--BUS DEPARTURE TIMING-->
+    
+        		    <category>
+        <pattern># timing ^ buses ^</pattern>
+        <template>
+        Routes will be at the first stop nearly at 6:30 A.M. to 7:15 and in Evening, it departs from university at 4:15 P.M. For further queries, visit transport office.
+        </template>
+    </category>
+    
+    
+        		    <category>
+        <pattern># buses ^ timing ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+	
+	        		    <category>
+        <pattern># bus ^ timing ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+	
+    	        		    <category>
+        <pattern># timing ^ bus ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+    
+            		    <category>
+        <pattern># routes ^ timing ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+	
+	        		    <category>
+        <pattern># route ^ timing ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+	
+    	        		    <category>
+        <pattern># timing ^ route ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+    
+      	        		    <category>
+        <pattern># timing ^ routes ^</pattern>
+        <template>
+         <srai>timing bus</srai>
+        </template>
+    </category>
+    
+          		    <category>
+        <pattern># time ^ buses ^</pattern>
+        <template>
+               Routes will be at the first stop nearly at 6:30 A.M. to 7:15 and in Evening, it departs from university at 4:15 P.M. For further queries, visit transport office.
+    
+         </template>
+    </category>
+    
+    
+        		    <category>
+        <pattern># buses ^ time ^</pattern>
+        <template>
+         <srai>time bus</srai>
+        </template>
+    </category>
+	
+	        		    <category>
+        <pattern># bus ^ time ^</pattern>
+        <template>
+        <srai>time bus</srai>
+        </template>
+    </category>
+	
+    	        		    <category>
+        <pattern># time ^ bus ^</pattern>
+        <template>
+         <srai>time bus</srai>
+        </template>
+    </category>
+    
+            		    <category>
+        <pattern># routes ^ time ^</pattern>
+        <template>
+         <srai>time bus</srai>
+        </template>
+    </category>
+	
+	        		    <category>
+        <pattern># route ^ time ^</pattern>
+        <template>
+         <srai>time bus</srai>
+        </template>
+    </category>
+	
+    	        		    <category>
+        <pattern># time ^ route ^</pattern>
+        <template>
+         <srai>time bus</srai>
+        </template>
+    </category>
+    
+      	        		    <category>
+        <pattern># time ^ routes ^</pattern>
+        <template>
+        <srai>time bus</srai>
+        </template>
+    </category>
+    
+    
+	<!--LIST OF ROUTES-->
+	
+	
+	 <category>
+	   <pattern># uet ^ routes ^</pattern>
+	    <template>UET facilitates students by providing routes to following locations.
+	   <olist>
+	       <item>Route 1- Ranger Head-Quarters to UET,Lahore(via Askari Flats route)</item>
+	       <item>Route 2- Jallo mor, Harbanspura to UET,Lahore(via Ring Road route)</item>
+	       <item>Route 3- Defence to UET,Lahore(via Lalak Jaan Chowk to Girja Chowk route)</item>
+	       <item>Route 4- AARAY Bazar Walton Road to UET,Lahore(via Cavalry Road route)</item>
+	       <item>Route 5- Hamdard Chowk to UET,Lahore(via Model Town route)</item>
+	       <item>Route 6- Green Town to UET,Lahore(via Riaz Chowk to Model Town route) </item>
+	       <item>Route 7- Nishtar Colony General Hospital to UET,Lahore(via Chongi Amarsadu to Kalma Chowk route)</item>
+	       <item>Route 8- Jinnah Hospital to UET,Lahore(via Shoukat Khanum Hospital to Barkat Market route)</item>
+	       <item>Route 9- Wapda Town to UET,Lahore(via Wapda Town Gol Chakkar to Shah di kholi route)</item>
+	       <item>Route 10- Ghazi Chowk to UET,Lahore(via Butt Chowk to Akbar Chowk route)</item>
+	       <item>Route 11- Akbar Chowk to UET,Lahore(via Barkat Market to Wahdat Road route)</item>
+	       <item>Route 12- Doctors Hospital to UET,Lahore(via Canal Road route)</item>
+	       <item>Route 13- Multan Chongi to UET,Lahore(via Wahdat Road Road to Shadman by Ferozpur Road route)</item>
+	       <item>Route 14- Dubai Chowk, Liaqat Chowk to UET,Lahore(via Tanki Stop to AG office route)</item>
+	       <item>Route 15- Allama Iqbal Town to UET,Lahore(via Akbari Store to Secretariat, GPO route)</item>
+	       <item>Route 16- Thokar Niaz Baig(EME- Colony) to UET,Lahore(via Multan Road route)</item>
+	       <item>Route 17- Gulshan Ravi Bakar Mandi to UET,Lahore(via Mor Samanabad to Jain Mandir route)</item>
+	       <item>Route 18- Samanabad to UET,Lahore(via Chaudary Colony to Chairing Cross route)</item>
+	       <item>Route 19- Islampura to UET,Lahore(via UVAS-Gora Hospital route)</item>
+	       <item>Route 20- Begam Kot Shahdra to UET,Lahore(via Bati Chowk to aik Moria route)</item>
+	        <item>Route 21- Rachna Town to UET,Lahore(via Rachna Town to Data Darbar route) </item>
+	
+	   </olist> 
+	For more, queries, visit Transport Office   
+	   </template>
+    </category> 
+
+	    <category>
+        <pattern># uet ^ buses ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>
+    
+    	    <category>
+        <pattern># uet ^ bus ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>
+	
+	    <category>
+        <pattern># buses ^ uet ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>
+	
+	  <category>
+        <pattern># bus ^ uet ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>
+	
+	
+	    <category>
+        <pattern># routes ^ uet ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>
+		
+	    <category>
+        <pattern># list ^ routes ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>	
+	
+	    <category>
+        <pattern># routes ^ list ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>		
+	
+		    <category>
+        <pattern># list ^ route ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>	
+	
+	    <category>
+        <pattern># route ^ list ^</pattern>
+        <template>
+            <srai>uet routes </srai>
+        </template>
+    </category>	
+    
+    <category>
+        <pattern># other ^ designated ^ stop ^</pattern>
+        <template>
+            Depends on the situation.
+        </template>
+    </category>
+    
+        <category>
+        <pattern># other ^ designated ^ stops ^</pattern>
+        <template>
+           <srai>other designated stop</srai>
+        </template>
+    </category>
+	
+	<!--ROUTES 1-21-->
+	
+	
+	    <category>
+        <pattern># route ^ 1 ^</pattern>
+        <template>
+         Route 1- Ranger Head-Quarters to UET,Lahore(via Askari Flats route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+    <category>
+        <pattern># route ^ one ^</pattern>
+        <template>
+         <srai>route 1</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># one ^ route ^</pattern>
+        <template>
+         <srai>route 1</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 1 ^ route ^</pattern>
+        <template>
+         <srai>route 1</srai>
+        </template>
+    </category>	
+	
+		    <category>
+        <pattern># route ^ 2 ^</pattern>
+        <template>
+         Route 2- Jallo mor, Harbanspura to UET,Lahore(via Ring Road route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+	
+	    <category>
+        <pattern># route ^ two ^</pattern>
+        <template>
+         <srai>route 2</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># two ^ route ^</pattern>
+        <template>
+         <srai>route 2</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 2 ^ route ^</pattern>
+        <template>
+         <srai>route 2</srai>
+        </template>
+    </category>	
+	
+		    <category>
+        <pattern># route ^ 3 ^</pattern>
+        <template>
+       Route 3- Defence to UET,Lahore(via Lalak Jaan Chowk to Girja Chowk route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+	
+	    <category>
+        <pattern># route ^ three ^</pattern>
+        <template>
+         <srai>route 3</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># three ^ route ^</pattern>
+        <template>
+         <srai>route 3</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 3 ^ route ^</pattern>
+        <template>
+         <srai>route 3</srai>
+        </template>
+    </category>	
+	
+		    <category>
+        <pattern># route ^ 4 ^</pattern>
+        <template>
+        Route 4- AARAY Bazar Walton Road to UET,Lahore(via Cavalry Road route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># route ^ four ^</pattern>
+        <template>
+         <srai>route 4</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># four ^ route ^</pattern>
+        <template>
+         <srai>route 4</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 4 ^ route ^</pattern>
+        <template>
+         <srai>route 4</srai>
+        </template>
+    </category>	
+	
+		    <category>
+        <pattern># route ^ 5 ^</pattern>
+        <template>
+        Route 5- Hamdard Chowk to UET,Lahore(via Model Town route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+	
+	        <category>
+        <pattern># route ^ five ^</pattern>
+        <template>
+         <srai>route 5</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># five ^ route ^</pattern>
+        <template>
+         <srai>route 5</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 5 ^ route ^</pattern>
+        <template>
+         <srai>route 5</srai>
+        </template>
+    </category>	
+	
+		    <category>
+        <pattern># route ^ 6 ^</pattern>
+        <template>
+         Route 6- Green Town to UET,Lahore(via Riaz Chowk to Model Town route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+	
+	        <category>
+        <pattern># route ^ six ^</pattern>
+        <template>
+         <srai>route 6</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># six ^ route ^</pattern>
+        <template>
+         <srai>route 6</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 6 ^ route ^</pattern>
+        <template>
+         <srai>route 6</srai>
+        </template>
+    </category>	
+	
+		    <category>
+        <pattern># route ^ 7 ^</pattern>
+        <template>
+         Route 7- Nishtar Colony General Hospital to UET,Lahore(via Chongi Amarsadu to Kalma Chowk route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ seven ^</pattern>
+        <template>
+         <srai>route 7</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># seven ^ route ^</pattern>
+        <template>
+         <srai>route 7</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 7 ^ route ^</pattern>
+        <template>
+         <srai>route 7</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 8 ^</pattern>
+        <template>
+       Route 8- Jinnah Hospital to UET,Lahore(via Shoukat Khanum Hospital to Barkat Market route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ eight ^</pattern>
+        <template>
+         <srai>route 8</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># eight ^ route ^</pattern>
+        <template>
+         <srai>route 8</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 8 ^ route ^</pattern>
+        <template>
+         <srai>route 8</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 9 ^</pattern>
+        <template>
+        Route 9- Wapda Town to UET,Lahore(via Wapda Town Gol Chakkar to Shah di kholi route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+            <category>
+        <pattern># route ^ nine ^</pattern>
+        <template>
+         <srai>route 9</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># nine ^ route ^</pattern>
+        <template>
+         <srai>route 9</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 9 ^ route ^</pattern>
+        <template>
+         <srai>route 9</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 10 ^</pattern>
+        <template>
+         Route 10- Ghazi Chowk to UET,Lahore(via Butt Chowk to Akbar Chowk route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ ten ^</pattern>
+        <template>
+         <srai>route 10</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># ten ^ route ^</pattern>
+        <template>
+         <srai>route 10</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 10 ^ route ^</pattern>
+        <template>
+         <srai>route 10</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 11 ^</pattern>
+        <template>
+         Route 11- Akbar Chowk to UET,Lahore(via Barkat Market to Wahdat Road route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ Eleven ^</pattern>
+        <template>
+         <srai>route 11</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># Eleven ^ route ^</pattern>
+        <template>
+         <srai>route 11</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 11 ^ route ^</pattern>
+        <template>
+         <srai>route 11</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 12 ^</pattern>
+        <template>
+       Route 12- Doctors Hospital to UET,Lahore(via Canal Road route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ twelve ^</pattern>
+        <template>
+         <srai>route 12</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># twelve ^ route ^</pattern>
+        <template>
+         <srai>route 12</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 12 ^ route ^</pattern>
+        <template>
+         <srai>route 12</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 13 ^</pattern>
+        <template>
+       Route 13- Multan Chongi to UET,Lahore(via Wahdat Road Road to Shadman by Ferozpur Road route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ thirteen ^</pattern>
+        <template>
+         <srai>route 13</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># thirteen ^ route ^</pattern>
+        <template>
+         <srai>route 13</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 13 ^ route ^</pattern>
+        <template>
+         <srai>route 13</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 14 ^</pattern>
+        <template>
+        Route 14- Dubai Chowk, Liaqat Chowk to UET,Lahore(via Tanki Stop to AG office route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ fourteen ^</pattern>
+        <template>
+         <srai>route 14</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># fourteen ^ route ^</pattern>
+        <template>
+         <srai>route 14</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 14 ^ route ^</pattern>
+        <template>
+         <srai>route 14</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 15 ^</pattern>
+        <template>
+        Route 15- Allama Iqbal Town to UET,Lahore(via Akbari Store to Secretariat, GPO route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+            <category>
+        <pattern># route ^ fifteen ^</pattern>
+        <template>
+         <srai>route 15</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># fifteen ^ route ^</pattern>
+        <template>
+         <srai>route 15</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 15 ^ route ^</pattern>
+        <template>
+         <srai>route 15</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 16 ^</pattern>
+        <template>
+        Route 16- Thokar Niaz Baig(EME- Colony) to UET,Lahore(via Multan Road route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+            <category>
+        <pattern># route ^ sixteen ^</pattern>
+        <template>
+         <srai>route 16</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># sixteen ^ route ^</pattern>
+        <template>
+         <srai>route 16</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 16 ^ route ^</pattern>
+        <template>
+         <srai>route 16</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 17 ^</pattern>
+        <template>
+         Route 17- Gulshan Ravi Bakar Mandi to UET,Lahore(via Mor Samanabad to Jain Mandir route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ seventeen ^</pattern>
+        <template>
+         <srai>route 17</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># seventeen ^ route ^</pattern>
+        <template>
+         <srai>route 17</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 17 ^ route ^</pattern>
+        <template>
+         <srai>route 17</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 18 ^</pattern>
+        <template>
+         Route 18- Samanabad to UET,Lahore(via Chaudary Colony to Chairing Cross route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+            <category>
+        <pattern># route ^ eighteen ^</pattern>
+        <template>
+         <srai>route 18</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># eighteen ^ route ^</pattern>
+        <template>
+         <srai>route 18</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 18 ^ route ^</pattern>
+        <template>
+         <srai>route 18</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 19 ^</pattern>
+        <template>
+        Route 19- Islampura to UET,Lahore(via UVAS-Gora Hospital route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+    
+            <category>
+        <pattern># route ^ nineteen ^</pattern>
+        <template>
+         <srai>route 19</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># nineteen ^ route ^</pattern>
+        <template>
+         <srai>route 19</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 19 ^ route ^</pattern>
+        <template>
+         <srai>route 19</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 20 ^</pattern>
+        <template>
+         Route 20- Begam Kot Shahdra to UET,Lahore(via Bati Chowk to aik Moria route). For more, queries, visit Transport Office 
+        </template>
+    </category>	
+    
+            <category>
+        <pattern># route ^ twenty ^</pattern>
+        <template>
+         <srai>route 20</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># twenty ^ route ^</pattern>
+        <template>
+         <srai>route 20</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 20 ^ route ^</pattern>
+        <template>
+         <srai>route 20</srai>
+        </template>
+    </category>	
+    
+		    <category>
+        <pattern># route ^ 21 ^</pattern>
+        <template>
+        Route 21- Rachna Town to UET,Lahore(via Rachna Town to Data Darbar route). For more, queries, visit Transport Office 
+        </template>
+    </category>		
+	
+	        <category>
+        <pattern># route ^ twenty one ^</pattern>
+        <template>
+         <srai>route 21</srai>
+        </template>
+    </category>	
+    
+        <category>
+        <pattern># twenty one ^ route ^</pattern>
+        <template>
+         <srai>route 21</srai>
+        </template>
+    </category>	
+	
+	        <category>
+        <pattern># 21 ^ route ^</pattern>
+        <template>
+         <srai>route 21</srai>
+        </template>
+    </category>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</aiml>

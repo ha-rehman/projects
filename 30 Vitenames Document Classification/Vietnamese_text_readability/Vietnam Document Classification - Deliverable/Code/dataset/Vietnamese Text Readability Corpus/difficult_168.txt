@@ -1,0 +1,407 @@
+Thông diễn học
+Thuật ngữ thông diễn học gồm hai lớp nghĩa : cả nghệ thuật lẫn lý thuyết về sự hiểu và sự lý giải về những diễn tả bằng ngôn ngữ và không phải bằng ngôn ngữ .
+Với tính cách là một lý thuyết về sự lý giải , truyền thống thông diễn học đã vạch ra toàn bộ con đường trở lại với triết học Hy Lạp cổ đại .
+Trong thời kỳ Trung cổ và Phục hưng , thông diễn học nổi bật như là một nhánh quan trọng của nghiên cứu Thánh kinh .
+Về sau , nó đi đến bao gồm việc nghiên cứu các nền văn hóa cổ đại và cổ điển .
+Cùng với sự nổi lên của trào lưu lãng mạn và thuyết duy tâm Đức , vị thế thông diễn học thay đổi theo .
+Thông diễn học rẽ hướng sang triết học .
+Nó không còn được quan niệm như là một phương tiện phương pháp luận hay phương tiện giảng dạy cho những bộ môn khác , mà nó hướng đến những điều kiện khả thể cho sự giao tiếp biểu trưng xét như là những điều kiện khả thể .
+Câu hỏi " Làm thế nào để đọc được ? " được thay thế bằng câu hỏi " Làm thế nào ta giao tiếp được ? " Nếu không có một sự chuyển dịch như vậy , do Schleiermacher , Wilhelm Dilthey , và những người khác đề xướng , ta không thể nào xét bước ngoặc bản thể học trong thông diễn học đã được Martin Heidegger châm ngòi qua công trình Sein und Zeit / Tồn tại và thời gian và được thực hiện bởi học trò của ông là Hans-Georg Gadamer .
+Giờ đây , thông diễn học không chỉ là về sự giao tiếp biểu trưng .
+Lĩnh vực của nó thậm chí còn có tính nền tảng hơn nhiều : lĩnh vực của đời sống con người và sự hiện hữu xét như là sự hiện hữu .
+Chính trong hình thức này , với tư cách là một sự truy vấn về những điều kiện sâu nhất cho sự tương tác biểu trưng và cho văn hóa nói chung , thông diễn học ấy đã cung cấp cái chân trời phê phán cho nhiều cuộc bàn luận thú vị nhất trong triết học đương đại , cả trong ngữ cảnh Anh-Mỹ ( Rorty , McDowell , Davidson ) lẫn trong diễn ngôn đậm chất Lục địa ( Châu Âu ) ( Habermas , Apel , Ricoeur , and Derrida ) .
+1 .
+Những khởi đầu của thông diễn học
+Thuật ngữ thông diễn học , một phiên bản được Latinh hóa của chữ hermeneutice trong tiếng Hy Lạp , là một phần của ngôn ngữ chung từ đầu thế kỷ 17 .
+Tuy nhiên , lịch sử của nó trải dài ngược đến tận triết học cổ đại .
+Khi nói đến sự hiểu về những trực cảm tôn giáo , Plato sử dụng thuật ngữ này trong một số đối thoại , đối lập nhận thức thông diễn với nhận thức về sophia ( sự khôn ngoan ) .
+Nhận thức tôn giáo là một nhận thức về những gì được khải lộ hay được nói ra và , giống như sophia , nó không bao gồm nhận thức về giá trị chân lý của lời phát biểu .
+Aristote đẩy việc sử dụng thuật ngữ này đi xa thêm một bước khi đặt tên cho công trình của mình về lô gíc học và ngữ nghĩa học là Peri hermeneias / Bàn về thông diễn , về sau được đổi thành De interpretatione / Về sự lý giải .
+Chỉ với những người phái Khắc kỷ ( Stoa ) , và những suy tưởng của họ về sự lý giải về huyền thoại , làm cho ta đụng phải cái gì tựa như một thức tỉnh phương pháp luận về những vấn đề hiểu văn bản .
+Tuy nhiên , các nhà khắc kỷ lại không hề phát triển thành một lý thuyết có hệ thống về sự lý giải ( interpertation ) .
+Một lý thuyết như thế chỉ có thể được thấy ở Philo xứ Alexandria ( 20tcn-50 ) , mà những suy tưởng của ông về nghĩa phúng dụ ( allegorical meaning ) của kinh Cựu ước dự đoán ý niệm rằng nghĩa đen của một văn bản có thể che đậy một nghĩa bóng sâu xa hơn ( deeper non-literal meaning ) là nghĩa chỉ có thể được bộc lộ thông qua công việc giải thích có hệ thống .
+Khoảng 150 năm sau , Origenes ( 185 - 254 ) giải thích chi tiết về quan niệm này bằng cách tuyên bố rằng Thánh kinh có ba cấp độ nghĩa , tương ứng với bộ ba thân thể , linh hồn và tinh thần , mỗi một cấp độ tuần tự phản ánh một giai đoạn cao hơn của sự hiểu bằng đức tin tôn giáo .
+Với Augustine , chúng ta gặp được một nhà tư tưởng mà sự ảnh hưởng của ông đến thông diễn học hiện đại được Dilthey , Heidegger , và Gadamer thừa nhận một cách sâu sắc .
+Theo Gadamer , chính Augustine la người đầu tiên giới thiệu cái yêu sách phổ quát của thông diễn học .
+Yêu sách này nảy sinh từ sự nối kết mà Augustine xác lập giữa ngôn ngữ và sự lý giải , nhưng cũng nảy sinh từ việc ông nói rằng sự lý giải kinh Thánh bao hàm một cấp độ tồn tại sâu hơn của sự tự-hiểu ( sefl-understanding ) .
+Công trình của Thomas Aquinas ( 1225 - 1274 ) , mà thời trẻ Heidegger hết mực chú ý đến , cũng đã có tác động vào sự phát triển của thông diễn học hiện đại .
+Tuy nhiên , Heidegger chủ yếu quan tâm đến ý niệm " Tồn tại " ở Aquinas , chứ không quan tâm đến việc Aquinas dính dáng một cách đặc biệt đến những chủ đề bàn luận của thông diễn học , ví dụ : tác giả đích thực của những bản văn mạo danh Aristoteles ( pseudo-Aristotelian texts ) nào đó .
+Khi tiền giả định tính thống nhất tương đối của công trình của một tác giả , Aquinas đặt thành vấn đề tính xác thực của những bản văn này bằng cách so sánh chúng với toàn tập Aristoteles hiện có , do đó dự đoán một cách tiến hành phê phán-triết học sau này sẽ nổi lên như một phương diện quan trọng trong ý niệm của Friedrich Schleiermacher về sự lý giải ngữ pháp .
+Tuy nhiên , đây không phải là tiếp điểm duy nhất giữa triết học trung đại và thông diễn học hiện đại .
+Một điểm gặp nhau khác như thế là phương cách mà những lý giải thời trung đại về các văn bản kinh thánh , nhấn mạnh tính bản tính phúng dụ chứ không phải những gốc rễ lịch sử của các văn bản kinh thánh , được phản chiếu trong nỗ lực của Gadamer nhằm phục hồi lại tính thích đáng về thông diễn của phúng dụ .
+Dù là có những điều trên và những điểm tương đồng của sự đối thoại , thì sau [ sự khẳng định ] sola scriptura ( chỉ có kinh Thánh ) của Martin Luther , chúng ta mới thấy sự ló dạng của một thông diễn học hiện đại thực sự .
+Sau việc Luther nhấn mạnh đức tin và sự hướng nội ( inwardness ) , ta có thể đặt thành vấn đề quyền uy của những lý giải truyền thống về kinh Thánh để nhấn mạnh phương cách mà mỗi một người đọc đối diện với sự thách thức của việc tạo dựng cho riêng mình những chân lý của văn bản .
+Việc ta hiểu một văn bản không phải ở chỗ vì tin mà chấp nhận những lối đọc ưu thế và uy quyền của thời đại .
+Cá nhân người đọc có nhiệm vụ phải vạch ra lối đi riêng của mình đến với nghĩa và chân lý ẩn ngầm trong văn bản .
+Giờ đây việc đọc trở thành một vấn đề theo cách mới .
+Đến từ một truyền thống rất khác , Giambattisto Vico ( 1668 - 1744 ) , tác giả của Scienza nuova ( Khoa học mới , 1725 ) , là một nhân vật trung tâm khác trong sự phát triển của thông diễn học hiện đại thời kỳ đầu .
+Khi lên tiếng chống lại thuyết Descartes của thời đại mình , Vico cho rằng tư duy lúc nào cũng cắm rễ vào một bối cảnh văn hóa đã cho .
+Bối cảnh này được phát triển về mặt lịch sử , và hơn nữa , về cơ bản là có quan hệ với ngôn ngữ thường ngày , từ giai đoạn huyền thoại và thi ca tiến triển lên những giai đoạn về sau của sự trừu tượng lý thuyết và những thuật ngữ khoa học .
+Vì thế , hiểu bản thân mình là phải hiểu phả hệ của chân trời trí tuệ của riêng mình .
+Điều này cho thấy có một tình trạng cấp bách mới đối với các khoa học lịch sử .
+Hơn nữa , nó đưa ra một mô hình về chân lý và tính khách quan khác với mô hình được các khoa học tự nhiên ấp ủ .
+Các nhà sử học không gặp phải một diện trường những đối tượng chủ thể-độc lập một cách thuần túy và được lý tưởng hóa , mà nghiên cứu một thế giới mà về cơ bản là của riêng anh ta .
+Không có sự phân biệt rõ ràng nào giữa nhà khoa học và đối tượng nghiên cứu của anh ta .
+Sự hiểu và sự tự-hiểu không thể tách rời nhau .
+Sự tự-hiểu không đạt đến cực điểm trong những mệnh đề tựa như định luật ( law-like propositions ) .
+Nhờ vào cơ trí và lương thức ( common sense ) , nó được định hướng vào những người mà ta đang tồn tại , đang sống , xét như là ta đang tồn tại , đang sống , trong một ngữ cảnh lịch sử đã cho của sự thực hành và sự hiểu .
+Một triết gia khác có ảnh hưởng đến những giai đoạn đầu của thông diễn học hiện đại là Bennedict de Spinoza ( 1632 - 1677 ) .
+Trong chương 7 cuốn Tractatus theologico-politicus / Luận văn Thần học chính trị , Spinoza đề nghị rằng để hiểu những phần khó và cô đọng nhất trong Kinh Thánh , ta phải ghi trong óc cái chân trời lịch sử mà những bản văn này được viết ra , cũng như cái tâm thức tác tạo nên những văn bản ấy .
+Đây là một sự tương đồng , Spinoza khẳng định , giữa việc ta hiểu về tự nhiên và việc ta hiểu về kinh Thánh .
+Cả hai trường hợp này , việc ta hiểu về những bộ phận hoàn toàn phụ thuộc vào việc ta hiểu về một cái tổng thể lớn hơn , cái tổng thể này , một lần nữa , chỉ có thể được hiểu trên cơ sở của những bộ phận .
+Được xét trong một viễn tượng rộng lớn hơn , vòng tròn thông diễn này , sự vận động tới lui giữa những bộ phận và cái toàn thể của văn bản , là một đề tài quan trọng của thông diễn học .
+Cái gì không thích hợp với sự hiểu trực tiếp có thể được lý giải bằng công việc triết học .
+Nghiên cứu về lịch sử trở thành một công cụ không thể thiếu trong tiến trình mở khóa ý nghĩa sâu kín và sự sử dụng ngôn ngữ .
+Bận tâm một cách lần lượt với sự mộ đạo chủ quan , với khoa học mới về con người , và với những phương diện lịch sử của sự hiểu , Luther , Vico , và Sipnoza đều định hình và vạch hướng đi cho thông diễn học hiện đại .
+Thế nhưng không ai trong số những nhà tư tưởng này phát triển cái gì giống như một lý thuyết triết học minh nhiên về sự hiểu , mà chỉ đưa ra có mỗi một phương pháp hay một tập hợp các quy tắc bắt buộc một cách chuẩn mực nhờ đó quá trình lý giải sẽ được tiến hành .
+Một lý thuyết như thế được phát biểu đầu tiên bởi Johann Martin Chladenius ( 1710 - 1759 ) .
+Trong Einleitung zur richtigen Auslegung vernünftiger Reden und Schriften , Chladenius phân biệt thông diễn học với lôgíc học , mà còn cải tiến một loại hình học về điểm nhìn .
+Chứng thực cho di sản của Leibniz và Wolff , cái được gọi là Triết học Trường ốc , sự chú trọng vào những điểm nhìn khác nhau cho phép Chladenius giải thích làm thế nào mà những thay đổi trong tri giác của ta về các hiện tượng và các vấn đề lại có thể gây ra những khó khăn cho việc ta hiểu về các văn bản và các phát biểu của người khác .
+Vấn đề đang bàn thực sự không phải là một phương pháp luận sử học theo nghĩa hiện đại của từ , mà là một cách tiến hành sự lý giải có tính sư phạm và được định hướng về mặt nhận thức .
+Trước hết , để hiểu những gì có vẻ xa lạ hay khó hiểu - và Chladenius soạn ra một danh mục tổng quát về các loại khó hiểu khác nhau - thì ta phải xét những giả định mặc nhiên có tính tiền-phản tư làm đặc trưng cho điểm nhìn mà văn bản hay phát biểu có nghi vấn từ đó nảy sinh .
+Vì thế cái duy nhất mà ta có thể đạt được một sự hiểu đúng thật hay khách quan về nội dung vấn đề .
+Ở điểm này , thông diễn học sánh bước cùng khoa học luận .
+Bằng cách cặp đôi việc tìm chân lý với việc cách hiểu , Chladenius dự đoán một sự định hướng quan trọng trong thông diễn học thế kỷ 20 .
+Georg Friedrich Meier ( 1718 - 1777 ) là một triết gia được chú ý về mặt thông diễn học trong hệ hình triết học Leibniz-Wolff .
+Trong khi Chladenius quan tâm đến lời nói ( speech ) và sự viết ra ( writing ) , thì thông diễn học của Meier được hướng tới các ký hiệu xét như là ký hiệu ( signs as such ) - tức là , mọi loại ký hiệu , kể cả những ký hiệu phi-ngôn từ hay những ký hiệu tự nhiên .
+Trong Versuch einer Allgemeinen Auslegungskunst , Meier cho rằng các ký hiệu không đại diện cho hay quy chiếu đến một nghĩa hay một ý hướng phi-ký hiệu học chuyên biệt nào , mà có được nghĩa của mình qua vị trí chúng ở trong một tổng thể ngôn ngữ rộng lớn hơn .
+Cái xác định nghĩa của một ký hiệu là quan hệ của nó với những ký hiệu khác .
+Sự đóng góp của Meier cho thông diễn học là biện luận cho sự tương thuộc giữa thông diễn học và ngôn ngữ học , bằng cách giới thiệu một thuyết toàn thể ngữ nghĩa ( semantic holism ) trong đó những tối nghĩa ngôn ngữ được gỡ rối bởi sự quy chiếu đến bản thân ngôn ngữ , chứ không phải bởi sự quy chiếu đến những yếu tố ngoài ngôn ngữ , như ý đồ của tác giả chẳng hạn .
+Khi xét thời kỳ sơ khởi của truyền thống thông diễn học hiện đại , hai tên tuổi phải được nói đến nhiều hơn là Friedrich Ast ( 1778 - 1841 ) và Friedrich August Wolf ( 1759 - 1824 ) .
+Ast cho xuất bản công trình Grundlinien der Grammatik , Hermeneutik und Kritik / Những cơ sở của Ngữ pháp học , Thông diễn học và Phê phán vào năm 1808 .
+Một nhà cổ điển học kỳ tài và là học trò của Friedrich Schelling , mục tiêu của ông là đưa ra một phương pháp luận qua đó toàn thể tinh thần lịch sử-thế giới có thể được phục hồi .
+Những phát biểu cá nhân không được hiểu bằng cách quy chiếu đến tác giả của chúng cũng như bằng cách quy chiếu đến vị trí của chúng trong hệ thống ngữ nghĩa , mà dựa theo vị trí của chúng trong lịch sử-thế giới .
+Ast nghĩ điều này là khả hữu nhờ sự kết hợp giữa sự tiếp cận tổng hợp và sự tiếp cận phân tích ; tiếp cận trước chú trọng vào cái toàn thể , tiếp cận sau chú trọng vào những bộ phận đặc thù mà cái toàn thể này bao gồm .
+Bằng cách ấy , Ast mở rộng phạm vi của vòng tròn thông diễn .
+Ban đầu được quan niệm trong quan hệ giữa các bộ phận và tổng thể của văn bản , vòng tròn thông diễn giờ đây gồm cả quan hệ của văn bản với truyền thống lịch sử và văn hóa nói chung .
+Cũng như Ast , Wolf được đào tạo về nghiên cứu Cổ điển .
+Cả công trình Darstellung der Altertumswissenschaft / Trình bày về khoa học cổ đại lẫn Vorlesungen über die Enzyklopädie der Altertumswissenschaft / Những bài giảng về bộ bách khoa thư khoa học cổ đại của ông hướng đến những phương diện tri thức bản thể học ( epistemic ) , tức là những phương diện triết học của ngành ngữ văn học cổ điển .
+Theo Wolf , các nghiên cứu cổ điển nhằm vào một nhận thức toàn diện về đối tượng , nhưng cũng phản tư về sự thích đáng của nhận thức ấy cũng như phương pháp nắm bắt đối tượng .
+Tuy nhiên , khi xử lý các bản văn cổ , nhận thức thông diễn học tiền giả định không những một nghiên cứu khái quát về văn hóa mà còn tiền giả định một sự nhạy cảm nào đó với tính cá nhân của tác giả .
+Bằng việc xác lập ngành ngữ văn học như một bộ môn phương pháp luận phản ánh cả khung văn hóa được dùng chung lẫn chiều kích của tính cá nhân , Wolf đã đánh dấu vị trí của ông như là một trong những tiền bối quan trọng nhất của thông diễn học lãng mạn .
+2 .
+Thời kỳ lãng mạn
+Thời kỳ này , một mặt người ta quan tâm đến các khoa học tinh thần và sốt sắng bảo vệ sự toàn vẹn của các khoa học này khi phân biệt nó với các khoa học tự nhiên .
+Mặc khác , người ta hết sức quan tâm đến vấn đề tạo nghĩa ( making sense ) của các văn bản được trao đến tay ta từ quá khứ .
+Có hai trụ cột trên đó thông diễn học hiện đại được xây dựng nên .
+Vì , nói một nghiêm ngặt , chỉ khi nào hai định hướng này kết hợp lại và cùng thuấm nhuần lẫn nhau thì ta gặp phải những nỗ lực lần đầu tiên nói lên rõ ràng một thông diễn học triết học thực sự .
+Điều này diễn ra trong thời kỳ của trào lưu lãng mạn và chủ nghĩa duy tâm Đức .
+Herder , anh em nhà Schlegel , và Novalis là những người giữ vai trò quan trọng trong ngữ cảnh này .
+Bối cảnh triết học ấy là do Kant và Hegel tạo ra .
+Tuy nhiên chính Friedrich Schleiermacher là người đầu tiên tìm cách hòa hợp những trào lưu trí tuệ của thời đại với nhau để nói lên một quan niệm rành mạch về một thông diễn học phổ quát , một thông diễn học không quan hệ với một loại tư liệu văn kiện đặc thù nào ( như kinh Thánh hay các văn bản cổ ) , mà quan hệ với nghĩa ( meaning ) ngôn ngữ học nói chung .
+Schleiermacher giảng dạy thông diễn học từ năm 1805 trở đi tại các trường đại học Hall và Berlin .
+Dù được đào tạo về triết học Kant nhưng Schleiermacher không bao giờ là một người theo thuyết Kant chính thống .
+Ông tiếp cận những nguồn suối triết học : đơn tử luận của Leibniz , triết học đồng nhất của Schelling , cũng như những giáo huấn của thuyết duy nghiệm Anh .
+Thế nhưng câu hỏi ( theo kiểu Kant ) về tính chính đáng vẫn là trung tâm của thông diễn học Schlaiermacher .
+Theo Schleiermacher , việc hiểu những văn hóa khác không phải là cái gì ta xem như là đúng .
+Việc hiểu những người khác cần có một sự cởi mở đối với những gì xem như hợp lý , chân thật hay mạch lạc có thể che đậy cái gì đó không quen thuộc .
+Sự cởi mở này chỉ có thể có được trong chừng mực ta nghiên cứu tỉ mỉ một cách có hệ thống những tiên kiến thông diễn của chính ta .
+Schleiermacher đề cập đến điều này như là một thực hành thông diễn nghiêm ngặt hơn đối lập với một thực hành thông diễn lỏng lẻo hơn .
+Thế nhưng một thực hành thông diễn nghiêm ngặt , mà Schleiermacher nhiều lần nhấn mạnh , xét như là sự thực hành thông diễn , không thể nào bảo đảm một sự hiểu chính xác hay hoàn toàn thỏa ứng .
+Nhưng theo ông , nó là một sự hỗ trợ không thể thiếu được .
+Nó là cái gì có thể giúp nhà thông diễn học không bị làm mồi cho xu hướng sàng lọc điều được nói ra ( speech ) hay điều được viết ra ( writing ) của người khác qua khung tâm thức văn hóa , thần học hay triết học của riêng họ .
+Điều này áp dụng không chỉ cho sự hiểu của ta về những văn hóa khác .
+Vì theo Schleiermacher , mọi sự sử dụng ngôn ngữ đều được định vị đâu đó giữa tính cá nhân triệt để và tính phổ quát triệt để .
+Cả tính cá nhân lẫn tính phổ quát này đều không tồn tại trong một hình thức thuần túy hóa hoàn toàn .
+Mọi sự sử dụng ngôn ngữ được quy chiếu đến ngữ pháp và một từ vựng biểu trưng chung , thế nhưng chúng ta sử dụng những nguồn được dùng chung này theo những cách thức ít nhiều mang tính cá nhân - có thể nói , tính cá nhân nhiều hơn trong thi ca , và ít hơn trong diễn ngôn khoa học hay các đàm luận về thời tiết .
+Tuy nhiên , tính cá nhân của việc sử dụng ngôn ngữ không quy chiếu tới lớp nội tâm không thể tiếp xúc được của tâm thức .
+Nó quy chiếu đến cái gì giống như phong cách , giọng nói hay tính đặc thù của ngôn ngữ được dùng hay áp dụng .
+Để nắm bắt nghĩa của lời nói hay những văn bản của một người nào đó , ta phải chú trọng đến cả những phương diện của việc sử dụng ngôn ngữ lẫn những nguồn được dùng chung , hay ngữ pháp và cú pháp , cũng như sự vận dụng cá nhân của người ấy .
+Schleiermacher nói đến điều này như là nhiệm vụ kết hợp sự lý giải ngữ pháp với sự lý giải kỹ thuật .
+Tuy nhiên , không có quy tắc nào cho sự kết hợp này .
+Thay vì ta phải so sánh bản văn này với những bản văn khác từ cùng một giai đoạn , thậm chí từ cùng một tác giả , trong khi đó ta luôn giữ trong tầm nhìn tính duy nhất của tác phẩm đặc thù .
+Schleiermacher , cũng như Schlegel và các triết gia khác cùng thời , nói về điều này như là năng lực tiên đoán : khả năng đi từ cái đặc thù đến cái phổ quát mà không cần đến sự hỗ trợ của các quy tắc hay các học thuyết phổ biến .
+Chỉ bằng việc kết hợp một tiếp cận so sánh với việc tạo lập giả thuyết có tính sáng tạo ta mới có thể hiểu tốt hơn .
+Tuy nhiên , việc hiểu tốt hơn không hàm ý sự hứa hẹn nào về một sự hiểu hoàn toàn thỏa ứng .
+Vì cho dù cái nguy cơ hiểu sai không hàm ý một trạng thái tha hóa toàn diện , dù kết cuộc ta có thông giao được hầu như trọn thời gian , thì không có nghĩa là việc hiểu không bao giờ kết thúc .
+Sẽ luôn có một phần dư không chia hết thúc đẩy người lý giải tiến đến khảo sát những triển vọng thông diễn mà cho đến giờ còn ở bên ngoài bờ rào của sự hiểu .
+Rõ ràng là ý niệm về một bước ngoặt phê phán trong thông diễn học kết hợp với sự chú trọng vào tính cá nhân trong việc sử dụng ngôn ngữ làm cho Schleiermacher thành một nhân vật quan trọng nhường ấy cho thế hệ những nhà thông diễn học kế tiếp , có quan hệ với phương pháp luận của các khoa học tinh thần , hay với sự phê phán ( theo nghĩa thuật ngữ của Kant ) về lý tính lịch sử
+3 .
+Phê phán về lý tính lịch sử
+Sau khi Schleiermacher tạ thế vào năm 1834 , thông diễn học được Alexander von Humboldt ( 1769 - 1859 ) , Chajim Steinthal , và Friedrich Carl von Savigny ( 1779 - 1861 ) đưa ra phía trước .
+Tuy nhiên , trong giai đoạn này , các nhà sử học , các nhà thần học và các nhà luật học đều hết sức quan tâm đến việc áp dụng thông diễn học vào các bộ môn chuyên ngành của họ , chứ không quan tâm đến những điều kiện khả thể cho sự hiểu và sự giao tiếp xét như là điều kiện khả thể .
+Nhưng ba nhà tư tưởng nổi bật lên như là những ngoại lệ cho xu hướng này là : Johann Gustave Droysen ( 1808 - 1884 ) , Leopold von Ranke ( 1795 - 1886 ) , và quan trọng nhất là Wilhelm Dilthey ( 1833 - 1911 ) .
+Theo những cách khác nhau , Droysen , von Ranke và Dilthey đại diện cho một sự quay trở lại với vấn đề cũ của Vico , cụ thể là làm thế nào ta có thể biện minh và xem xét về mặt triết học một thứ tính khách quan đặc thù nào đó liên quan đến việc nghiên cứu con người .
+Thế nhưng trong khi Vico quan tâm đến văn hóa và lịch sử nói chung , nhiệm vụ bây giờ tỏ ra chuyên sâu hơn : Làm thế nào để biện minh các khoa học tinh thần trong một hệ thống phổ quát được dựa trên những lý tưởng Khai minh của lý tính phê phán và tính hợp lý , chứ không còn dựa trên quyền uy , truyền thống và bộ chuẩn tắc thần học ?
+Cấu trúc của lịch sử , theo Ranke , mang âm hưởng cấu trúc của một văn bản trong chừng mực nó là một thứ đồng-phụ thuộc đặc thù giữa các bộ phận và tổng thể .
+Giống như việc đọc , việc hiểu lịch sử nghĩa là đi theo những lối đi của vòng tròn thông diễn , từ bộ phận tới tổng thể , và ngược lại .
+Vì tâm thức lịch sử tự đặt mình vào lịch sử , nhưng sự chuyển động tròn này là không bao giờ có kết thúc .
+Như những người theo thuyết Hegel từng lý luận , lịch sử không thể được khái niệm hóa một cách nhất thành bất biến bằng triết học tư biện .
+Hiểu lịch sử là một hoạt động đang diễn ra .
+Nhưng không vì thế mà nó trở nên thừa với tư cách là một khoa học .
+Khi ta cố gắng hiểu lịch sử , đời sống lịch sử làm nảy sinh ra ý thức về chính mình .
+Thực hiện công việc lịch sử nghĩa là tích cực tham gia vào truyền thống văn hóa đang được nghiên cứu ; ý muốn nói : là lịch sử theo một cách dứt khoát nhất .
+Giống như Ranke , Droysen quan tâm đến phương pháp luận của các khoa học lịch sử .
+Khi cố gắng thoát ly khỏi truyền thống duy tâm mà Ranke vẫn còn gắn bó , Droysen ủng hộ một lý thuyết về lịch sử , giống như phương pháp luận của các khoa học tự nhiên , ít liên quan đến đối tượng nghiên cứu ( lịch sử hay giới tự nhiên ) hơn là đến phương cách mà nghiên cứu được tiến hành .
+Các khoa học tự nhiên vạch ra những quy luật tự nhiên phổ quát .
+Các khoa học lịch sử là những khoa học về sự hiểu .
+Không giống với nhà khoa học tự nhiên , nhà sử học bị tách rời khỏi đối tượng nghiên cứu bởi truyền thống luôn được làm mới lại và tự làm mới lại .
+Đối tượng của nhà sử học luôn luôn được trung giới .
+Thế nhưng khi hiểu lịch sử , nhà nghiên cứu cũng hiểu cái gì đó rốt cuộc là của riêng mình , kết quả của sự tự do , những mục đích và những ham muốn của con người .
+Xét cho thật kỹ , ngay cả đối với Droysen , thì lịch sử là khả niệm và có nghĩa - nghiên cứu về nó cho phép ta có một thứ tính khách quan tuy có khác nhưng vẫn có thể so sánh được với tính khách quan trong các khoa học tự nhiên .
+Với Dilthey , sự tìm kiếm một sự hợp thức về mặt triết học cho các khoa học tinh thần đã đem lại một bước đi đầy ý nghĩa hơn nữa .
+Là tác giả của một bộ chuyên luận đồ sộ về Schleiermacher và thời đại của ông , Dilthey trả lời những câu hỏi do Droysen và Ranke đặt ra bằng cách khôi phục lại những nguồn suối của thông diễn học lãng mạn .
+Sự giải thích khoa học về tự nhiên , theo Dilthey , phải được hoàn chỉnh bằng một lý thuyết về việc thế giới được mang lại cho ta như thế nào qua những thực tiễn được trung giới theo cách biểu trưng .
+Để đưa ra một lý thuyết như thế là mục tiêu của các khoa học tinh thần , hay đúng hơn là mục tiêu của triết học về các khoa học tinh thần , lĩnh vực mà Dilthey dành trọn đời mình cho nó .
+Các khái niệm Erlebnis ( sự trải nghiệm ) và Verstehen ( sự hiểu ) đóng một vai trò chủ chốt trong nỗ lực của Dilthey nhằm giải phóng phương pháp luận của các khoa học tinh thần ra khỏi phương pháp luận của các khoa học tự nhiên .
+Trong những bài viết thời kỳ đầu , Dilthey thử cố phân biệt các thuật ngữ này .
+Nhưng sau này , Erlebnis được gắn với tiến trình tự-hiểu , trong khi đó Verstehen lại quan hệ đến việc ta hiểu về những người khác .
+Điểm quan trọng của Dilthey đó là Erlebnis không đưa đến sự tự-hiểu .
+Sự tự-hiểu chỉ có được trong chừng mực bản ngã ( self ) quan hệ với chính mình ( itself ) khi nó quan hệ với những người khác , nghĩa là quan hệ theo một cách trung giới .
+Tuy vậy , Erlebnis , mang tính tổng hợp và chủ động , vẫn là nguồn suối tâm lý học của mọi kinh nghiệm , cái tiềm năng có tính kinh nghiệm được nối khớp và được khái niệm hóa trong sự hiểu .
+Trở lại với cấp độ nghiên cứu lịch sử , nhà khoa học được định hướng về mặt thông diễn phải đáp ứng tình hình này bằng việc kếp hợp một sự hình thành giả thuyết có tính trực quan hơn ( nhắm đến sự trải nghiệm nói trên ) với một phương pháp so sánh để rà soát lại và bảo đảm tính khách quan của tiến trình này .
+Đây là sự điều chỉnh có tính phê phán của Dilthey về thông diễn học lãng mạn của Schleiermacher : một lý thuyết thay thế cho từ vựng lãng mạn như ' sự dự cảm ' , ' sự hợp ý ' , và ' sự so sánh ' bằng một lý thuyết về một sự tạo lập-giả thuyết ban đầu theo lối quy nạp chuẩn bị cho một quá trình nghiên cứu thực nghiệm có tính phê phán và sự so sánh lịch sử nhằm xét lại hay chứng minh giả thuyết ban đầu .
+Đóng góp quan trọng nhất của Dilthey cho thông diễn học có thể nói là ở chỗ ông là người đầu tiên đặt cho thông diễn học một lý thuyết đại cương về đời sống và sự hiện hữu của con người .
+Theo nghĩa này , triết học của Dilthey lót đường cho cái mà sau này chúng ta thừa nhận như là bước ngoặt hướng đến bản thể học .
+4 .
+Bước ngoặt bản thể học
+Được thấm nhuần những tư tưởng của Schleiermacher , Droysen và Dilthey , công trình Sein und Zeit / Tồn tại và thời gian của Heidegger đã hoàn toàn làm biến đổi bộ môn thông diễn học .
+Theo quan niệm của Heidegger , thông diễn học không phải là vấn đề giao tiếp hiểu nhau bằng ngôn ngữ .
+Nó cũng không phải là vấn đề cung cấp một cơ sở phương pháp luận cho các khoa học tinh thần .
+Với Heidegger , thông diễn học là bản thể học ; nó bàn về những điều kiện nền tảng nhất của sự tồn tại của con người trong thế giới .
+Thế nhưng việc Heidegger trở về với bản thể học không tách rời hoàn toàn với các triết học thông diễn thời kỳ đầu .
+Đúng như Vico từng khởi sự bằng cách phê phán quan niệm của Descartes về sự chắc chắn ( certainty ) , Heidegger bắt đầu lật đổ những gì mà ông gọi là đạn đạo ( trajectoty ) Descartes của lý tính triết học hiện đại .
+Với Descartes , theo Heidegger , nhiệm vụ của triết học là phải cho thấy làm thế nào chủ thể có thể xác lập một cách thuần lý những chuẩn mực cho sự chắc chắn của tri thức để nhờ đó một biểu tượng có sẵn được phán đoán là đúng hay sai .
+Từ một lập trường như thế , ông nói tiếp , con đường không còn dẫn đến một quan niệm về chân lý dựa vào những phương pháp chỉ do mỗi các khoa học tự nhiên đưa ra .
+Tuy nhiên , một mô hình như vậy có xu hướng coi nhẹ những phương diện tiền khoa học nhưng lại có tính nền tảng nhất của việc ta tồn tại trong thế giới .
+Đây là lĩnh vực của thông diễn học của Heidegger .
+Với tư cách ấy , thông diễn học không còn nổi lên như là một trong những khả thể triết học .
+Đúng hơn , thông diễn học - thông diễn học về kiện tính , như Heidegger gọi - là những gì mà triết học bàn đến trước tiên .
+Điều này phản chiếu ngược trở lại định nghĩa của Heidegger về các thuật ngữ như : hiểu , lý giải và khẳng định .
+Hiểu , theo Heidegger , không phải là một phương pháp đọc cũng không là hậu quả của một quy trình phản tư phê phán được dẫn dắt kỹ lưỡng theo ý muốn .
+Nó không phải là cái gì mà ta làm hay không làm được một cách có ý thức , mà là cái mà ta là .
+Hiểu là một phương thức tồn tại , và với tư cách ấy nó là đặc trưng của tồn tại người , của Dasein .
+Con đường tiền-phản tư mà Dasein cư ngụ trong thế giới là cái tự-mình ( itself ) của một bản tính thông diễn .
+Sự hiểu của ta về thế giới tiền giả định một thứ biết-thực hành ( know-how ) có tính chất dụng hành được bộc lộ qua phương cách mà ta định hướng cho mình trong thế giới , nếu không có những suy tính lý luận .
+Ta mở cửa mà không cần phải đối tượng hóa hay xác định về mặt khái niệm bản tính của chốt cửa hay khung cửa .
+Thế giới là thiết thân với ta theo cách trực quan cơ bản .
+Một cách sơ thủy nhất , theo Heidegger , ta không hiểu thế giới bằng cách gom thành một bộ sưu tập các sự kiện trung tính qua đó ta có thể đạt đến một tập hợp các mệnh đề , các định luật , hay các phán đoán phổ quát , trong chừng mực rộng hơn hay hẹp hơn , tương ứng với thế giới xét như là thế giới .
+Thế giới là khả niệm mặc nhiên với ta .
+Sự thiết thân nền tảng với thế giới được mang lại cho ý thức phản tư qua công việc lý giải .
+Lý giải , tuy nhiên , không phải là bàn về một bản tính theo mệnh đề .
+Điều cần bàn là cái cận cảnh minh nhiên của một đối tượng được mang lại , như khi ta cảm thấy chiếc búa đột nhiên mất hết công năng sử dụng , ta sẽ dừng việc nện búa lại .
+Như thể khi nhận ra một cấp độ báo động mới , hoạt động mặc nhiên của việc nện búa được thay thế bởi sự ý thức đột khởi về cái mà chiếc búa hướng đến .
+Sự lý giải làm cho các sự vật , các đối tượng , cơ cấu của thế giới , xuất hiện ra như là cái gì đó , như Heidegger nói .
+Mặc dù vậy , cái như là ( as ) này chỉ có thể có được trên bối cảnh của thế giới xét như là một toàn thể các thực hành và các giao tiếp liên chủ thể , của thế giới được mở ra bởi sự có-đó của Dasein trên bình diện hiểu .
+Tại điểm này , chúng ta vẫn còn chưa vươn tới tới cấp độ mà , theo Heidegger , ta sẽ định vị ý niệm về chân lý như là sự phù hợp giữa phán đoán và thế giới .
+Tuy nhiên , một chân lý đó là chân lý về sự khai mở thế giới .
+Qua hoạt động tổng hợp của sự hiểu , thế giới được khai mở như là một toàn thể nghĩa ( a totality of meaning ) , một không gian mà Dasein tồn tại như-trong-nhà-của-mình .
+Chỉ vì sự khẳng định là hoạt động tổng hợp của sự hiểu và sự lý giải được mang lại cho ngôn ngữ , cho nên khi khai mở cái cấu trúc như là ( as-structure ) của một sự vật , ví dụ : cái búa như là một cái búa , sự lý giải khai mở ra nghĩa của sự vật ấy .
+Sự khẳng định do đó giải thích chính xác nghĩa này về mặt ngôn ngữ học .
+Nói khác đi , sự nhận diện trên mặt ngôn ngữ về một sự vật chưa phải là sơ thủy mà là được dựa vào sự tổng hợp có tính chất khai mở-thế giới của sự hiểu và sự giải thích .
+Điều này cũng có thể áp dụng cho giá trị chân lý của sự khẳng định .
+Chân lý khai mở-thế giới của sự hiểu là nền tảng hơn chân lý được trình bày qua cấu trúc mệnh đề " s là p , " và như thế , đi trước sự chắc chắc có căn cứ về mặt phản tư được triết gia Descartes nhất mực cho là đúng .
+Sự cải cách này của Heidegger về vấn đề chân lý làm nảy sinh một quan niệm mới về vòng tròn thông diễn ( hermeneutic circle ) .
+Ở Spinoza , Ast , và Schleiermacher , vòng tròn thông diễn được quan niệm là mối quan hệ qua lại giữa văn bản như một tổng thể với các bộ phận cá thể của nó , hay mối quan hệ giữa văn bản với truyền thống .
+Tuy nhiên , với Heidegger , vòng tròn thông diễn qui chiếu cái gì hoàn toàn khác : sự tác động lẫn nhau giữa việc ta tự-hiểu thế giới và việc ta hiểu thế giới .
+Vòng tròn thông diễn không còn được tri giác như một công cụ triết học hữu ích , mà đòi hỏi một nhiệm vụ phổ sinh mà mỗi người trong chúng ta phải đảm nhận .
+Theo Heidegger , Dasein được phân biệt bởi sự nỗ lực tự-lý giải của nó .
+Dasein là một tồn tại mà sự tồn tại của nó xuất hiện ra như là một vấn đề .
+Thế nhưng , vì Dasein được được ấn định một cách nền tảng vào thế giới , nên ta không thể đơn giản hiểu chính mình nếu không lần vòng qua thế giới , và thế giới không thể được hiểu nếu không quy chiếu đến phương cách của Dasein về đời sống .
+Nhưng đây là một tiến trình không ngừng .
+Cho nên , cái không chắc chắn ở đây không phải là thời điểm ta có thể rời bỏ vòng tròn thông diễn , như trong truyền thống thông diễn học thời kỳ đầu , ở đó những nỗ lực lý giải của ta lên đến đỉnh điểm khi nắm bắt được nghĩa của văn bản một cách sáng sủa , rõ ràng và không thể nghi ngờ .
+Vấn đề là , theo Heidegger , ta cố gắng đi vào vòng tròn cho đúng cách , với một sự sẵn sàng thừa nhận rằng sự nghiên cứu những điều kiện bản thể học về đời sống của tôi phải tác động ngược trở lại phương cách mà đời sống của tôi được dẫn dắt .
+Với bước ngoặt hướng tới bản thể học , những vấn đề của ngữ văn học trở nên thứ yếu .
+Thông diễn học giờ đây xử lý vấn đề nghĩa - hay không có nghĩa - của đời sống con người : nó trở thành một nhiệm vụ phổ sinh .
+5 .
+Thuyết nhân bản thông diễn học
+Sau khi xuất bản Tồn tại và thời gian , Heidegger ngừng việc đương đầu với những vấn đề thông diễn học minh nhiên ( cũng như hệ thuật ngữ : " hiểu " , " lý giải " và " vòng tròn thông diễn " ) .
+Tuy nhiên , phương diện này trong suy tưởng của ông được học trò của ông , Hans-Georg Gadamer tiếp tục triển khai .
+Gadamer làm việc trong hệ hình Heidegger trong chừng mực ông hoàn toàn chấp nhận bước ngoặt bản thể học trong thông diễn học .
+Thế nhưng ông muốn khảo sát những hậu quả của một bước ngoặt như thế đối với việc ta hiểu về các khoa học tinh thần .
+Điều này , Gadamer nghĩ , chỉ có thể được thực hiện nếu ta gác lại khung hệ thông diễn học lãng mạn , cả trong các phiên bản của Schleiermacher lẫn trong các phiên bản của Dilthey .
+Trở lại với Vico và những dòng mạch Aristoteles-mới của thuyết nhân bản hiện đại thời kỳ đầu , Gadamer muốn nối kết quan niệm của Heidegger về sự tổng hợp có tính chất khai mở-thế giới của sự hiểu với ý niệm về Bildung ( sự đào luyện ) , về giáo dục trong văn hóa .
+Nhìn chung , đây là dự án của Wahrheit und Methode / Chân lý và phương pháp , một công trình mà Gadamer đã dày công thực hiện hơn 30 năm .
+Gadamer cho rằng con người là một tồn tại trong ngôn ngữ .
+Chính nhờ ngôn ngữ mà thế giới được mở ra cho ta .
+Ta học cách nhận biết thế giới bằng việc học cách làm chủ một ngôn ngữ .
+Vì thế ta không thể thực sự hiểu bản thân mình trừ phi ta hiểu mình như được định vị trong một văn hóa lịch sử , được trung giới bằng ngôn ngữ .
+Ngôn ngữ là giới tự nhiên thứ hai của ta .
+Điều này có những hậu quả cho việc ta hiểu về nghệ thuật , văn hóa và các văn bản lịch sử , tức là trên lĩnh vực bộ môn của các khoa học tinh thần .
+Là một phần của chính truyền thống riêng của ta , các công trình lịch sử thoạt đầu không tự trình hiện ra cho ta như là những đối tượng trung tính và phi-giá trị của sự nghiên cứu khoa học .
+Chúng là bộ phận của chân trời mà ta đang sống và nhờ đó thế giới quan của ta được hình thành .
+Nói khác đi , ta được hình thành bởi những công trình vĩ đại ấy trước khi ta có cơ hội tiếp cận chúng với một sự chú mục khách quan hóa .
+Gadamer cho rằng ta không bao giờ biết một công trình lịch sử như nó lần đầu tiên xuất hiện ra cho những người cùng thời của nó .
+Ta không có sự tiếp xúc nào với ngữ cảnh tác tạo nguyên thủy hay với những ý đồ của tác giả của nó .
+Truyền thống luôn luôn sống động .
+Nó không thụ động và ngột ngạt , mà là tác tạo và trong sự phát triển hằng cửu .
+Như các nhà thông diễn học thời kỳ đầu nói , cố gắng định vị giá trị ( khoa học ) của các khoa học tinh thần ở năng lực tái kiến tạo khách quan của các khoa học này được xác định là một cố gắng vô ích .
+Quá khứ được chuyển trao đến ta thông qua kết cấu phức tạp và luôn thay đổi của những lý giải , và kết cấu này trở nên phong phú hơn và phức tạp hơn như mấy thập niên và mấy thế kỷ vừa qua Lịch sử , theo Gadamer , luôn là lịch sử tác động ( effective history ) .
+Tuy nhiên , điều này không phải là một bất túc .
+Đúng hơn nó là một khả thể duy nhất , một khả thể gồm loại đặc thù của sự yêu sách-chân lý mà Gadamer quy cho các khoa học tinh thần : chân lý của sự tự-hiểu .
+Xét mọi mặt , Gadamer tuyên bố , trên thực tế , không phải ta đọc các văn bản của truyền thống mà các văn bản kinh điển đang đọc chúng ta .
+Qua bao thập niên và bao thế kỷ , các tác phẩm kinh điển về nghệ thuật , văn chương , khoa học và triết học chất vấn chúng ta và phương cách sống của ta .
+Những tiên kiến của ta , bất kể những phương diện nào của chân trời văn hóa mà ta cho là hiển nhiên , được vén mở ra trong sự giao tiếp với quá khứ .
+Như là một phần của truyền thống mà ta ở trong đó , các văn bản lịch sử có một uy quyền đi trước bản thân ta .
+Thế nhưng uy quyền này còn giữ được hiệu lực chỉ trong chừng mực nó được hiện tại thừa nhận .
+Ta thừa nhận uy quyền của một văn bản ( hay của một công trình nghệ thuật ) bằng cách làm cho khớp với nó khi giải thích và lý giải văn bản , bằng cách xác lập một quan hệ biện chứng với quá khứ .
+Chính sự vận động này của việc hiểu mà Gadamer quy chiếu đến như là sự hòa trộn những chân trời ( fusion of horizons ) .
+Vì qua công việc lý giải , ta sẽ hiểu những gì mà thoạt đầu có vẻ xa lạ , ta tham dự vào việc tác tạo ra một ngữ cảnh phong phú và bao quát hơn của nghĩa ( meaning ) - ta đạt đến việc hiểu rõ hơn và sâu sắc hơn không chỉ về văn vản và còn về chính ta .
+Trong sự hòa trộn những chân trời , cái vẻ ngoài ban đầu của khoảng cách và sự xa lạ không tự hiện ra như là một chức năng của những giới hạn của điểm xuất phát ban đầu của ta .
+Việc đạt được một sự hòa trộn những chân trời đòi hỏi ta phải giao tiếp với văn bản theo một cách tác tạo .
+Tuy nhiên , đây không phải là cái mà ta có thể học hỏi bằng cách thông thạo một học thuyết , một phương pháp hay một lý thuyết nào đó .
+Nó giống với một năng lực ngầm ẩn hơn , năng lực mà ta có được bằng cách noi gương những người khác .
+Nhận thức đang được nói đến giống với một cái biết-thực hành ( know-how ) trong thực tiễn ; nó tương tự như phronesis của Aristoteles .
+Nó là một nhận thức không thể được rút ra về mặt lý thuyết cũng như không được nói rõ một cách hoàn toàn , nhưng là nhận thức dựa vào một thứ tài khéo ( tact ) hay cảm năng ( sensitivity ) chỉ được biểu lộ trong hình thức của các phán đoán hay các lý giải mẫu mực .
+Sự quy định lẫn nhau này giữa văn bản và người đọc là phiên bản của Gadamer về vòng tròn thông diễn .
+Điều quan trọng không kém là sự tương tác giữa bộ phận và toàn thể của một văn bản là phương cách mà việc đọc của ta góp phần vào cái lịch sử tác động của nó , bổ sung thêm vào tính phức tạp và chiều sâu của nghĩa của nó .
+Nghĩa của văn bản không phải là cái gì mà ta có thể nắm bắt một lần là xong .
+Nó là cái gì tồn tại trong sự tương tác biện chứng phức tạp giữa quá khứ và hiện tại .
+Chính xác là ta không bao giờ làm chủ các văn bản của quá khứ , vì thế ta không - một cách tất yếu và một cách cấu tạo - đạt được sự tự-nhận thức có tính kết luận .
+Việc đạt được nhận thức về truyền thống và nhận biết chính mình là những quá trình không bao giờ kết thúc ; chúng là những nhiệm vụ không có điểm kết thúc xác định .
+Ý tưởng triết học trung tâm của bản thể học các khoa học tinh thần của Gadamer ở đây là : tồn tại của ta , bị điều kiện hóa về mặt lịch sử xét như là bản thân nó đang bị điều kiện hóa , luôn luôn là tồn tại ( Sein ) hơn là tồn tại ý thức ( Bewusstssein ) .
+6 .
+Tính khách quan và chủ nghĩa tương đối
+Sức mạnh , mà với nó quyển Chân lý và phương pháp đi đến định hình nên những sự kết hợp của thông diễn học đương đại , chỉ có thể được xét bằng cách tính đến việc làm thế nào mà hơn 40 năm qua sự tranh luận về thông diễn học triết học ( philosophical hermeneutics ) , về đại thể , là sự thảo luận về tác phẩm của Gadamer .
+Emilio Betti là một ví dụ .
+Khi xuất bản quyển Teoria della interpretatione [ Lý thuyết về lý giải ] vào năm 1964 , Betti tiếp cận thông diễn học từ một điểm nhìn phi-bản thể học , minh nhiên nối kết bản thân ông với di sản của Schleiermacher và Dilthey .
+Với Betti , thông diễn học nên hạn mình vào các vấn đề khoa học luận của sự lý giải chứ không phải cố gắng làm khớp với những điều kiện sâu xa nhất của tồn tại người .
+Lời nói và các văn bản , theo Betti , là những biểu tượng được đối tượng hóa của những ý đồ của con người .
+Lý giải nghĩa của chúng là đưa hơi thở của đời sống vào những ý đồ được trung giới một cách biểu trưng này .
+Điều này là có thể có được , bởi lẽ cho dù tính cá nhân của người lý giải và tính cá nhân được thể hiện trong văn bản là khác nhau về mặt cấu tạo , người lý giải có thể vượt khỏi điểm nhìn của mình để nắm bắt được nghĩa của văn bản .
+Đây chính là một nỗ lực tái tạo quá trình sáng tạo nguyên thủy : không phải để đạt tới trạng thái tâm lý học hay nội dung của tác giả mà đề đạt đến cái chân lý và nghĩa duy nhất của văn bản .
+Những khát vọng tương tự là nguyên nhân của tinh thần phê phán do Eric D.Hirsch khởi xướng trong nửa cuối thập niên 1960 .
+Tác phẩm chính của Hirsch , Validity in Interpretation [ Giá trị hiệu lực trong sự lý giải ] cố gắng bác bỏ khái niệm trung tâm của Gadamer là " sự hòa trộn các chân trời " .
+Giống như Betti , Hirsch dùng ý niệm này để viện đến một chủ nghĩa tương đối khoa học luận nghi vấn .
+Nếu không có khái niệm " giá trị hiệu lực " , theo ông , thì không một sự lý giải nào là đáng tin cậy hơn bất cứ sự lý giải nào khác .
+Nhận thức và tính khách quan ắt là không thể có được trong lĩnh vực của thông diễn học .
+Nhưng theo Hirsch , nhận thức và tính khách quan rõ ràng là cái xác định các khoa học tinh thần , cho dù các khoa học này dựa trên sự lý giải ( interpretation ) chứ không phải là sự giải thích ( explanation ) .
+Trong ngữ cảnh này , nó làm sáng tỏ cho việc so sánh những phản đối của Betti và của Hirsch , cho sự phê phán chống lại Chân lý và phương pháp từ một điểm nhìn khác , cụ thể là điểm nhìn của trường phái Frankfurt .
+Được trình bày bởi Jürgen Habermas và Karl-Otto Apel , sự phê phán này cũng được dẫn dắt bởi một sự lo lắng về chủ nghĩa tương đối tiềm tàng của một thông diễn học được thấm nhuần về mặt bản thể học .
+Tuy nhiên , theo Habermas và Apel , vấn đề này không được Betti và Hirsch giải quyết một cách đầy đủ chút nào .
+7 .
+Phê phán về ý hệ
+Trong một số bài viết , Habermas chú ý đến những gì ông coi là sự ngây thơ chính trị của thông diễn học của Gadamer .
+Theo quan niệm của Habermas , Gadamer đã quá nhấn mạnh đến quyền uy của truyền thống , không dành chỗ cho phán đoán và suy tưởng phê phán .
+Lý tính bị phủ nhận sức mạnh của một phán đoán có khoảng cách và có tính phê phán .
+Do đó cái cần không phải là một phân tích về phương cách mà trên thực tế ta bị điều kiện hóa bởi lịch sử , mà là một tập hợp các nguyên tắc gần như là siêu nghiệm của tính giá trị hiệu lực về những gì mà những yêu sách của truyền thống có thể phục tùng theo sự đánh giá .
+Thông diễn học , theo Habermas , phải được hoàn tất bằng một lý luận phê phán về xã hội .
+Điều quan trọng là phải thừa nhận những phản bác của Habermas khác với những phản bác của Betti và Hirsch .
+Đối lập với Betti và Hirsch , Habermas không tuyên bố rằng tiếp cận của Gadamer về thông diễn học là sai lầm hoàn toàn .
+Đúng hơn , ông cho rằng Gadamer gán cho thông diễn học một thứ tính phổ quát không chính đáng .
+Vì thế , vấn đề cơ bản với thông diễn học của Gadamer hẳn sẽ không được giải quyết bằng cách viện đến một phương pháp thông diễn .
+Ý niệm về một phương pháp hình thức thực sự bị Gadamer phê phán một cách thuyết phục .
+Thay vào đó , điều ta cần là một nỗ lực vạch ra một tiêu chuẩn thỏa đáng cho giá trị hiệu lực , hay điều mà Habermas quy chiếu đến như là các nguyên tắc gần như là siêu nghiệm ( quasi-transcendental principles ) của lý tính truyền thông ( communicative reason ) .
+Chỉ có như vậy thông diễn học mới có thể , được hướng dẫn bởi các khoa học xã hội , có vai trò là mục đích của sự giải phóng cá nhân và sự giải phóng xã hội .
+Nhìn chung Apel chia sẻ với những lo lắng của Habermas , nhưng ông tiếp cận lĩnh vực thông diễn học từ một giác độ hơi khác .
+Cũng như Gadamer , Apel là học trò của Heidegger .
+Apel muốn chỉ ra rằng Gadamer đã hiểu nhầm ông thầy của mình .
+Đến những năm 1960 , Apel tuyên bố , quan niệm của Heidegger về chân lý đã trải qua một sự thay đổi có ý nghĩa .
+Mặc dù Apel thừa nhận rằng Heidegger còn tìm thấy nơi việc hiểu về khai mở-thế giới một điều kiện cần cho chân lý , ông tuyên bố rằng Heidegger không hề nghĩ đó là một điều kiện đủ .
+Theo Apel , đây chính là điểm mà Gadamer không nhận ra .
+Gadamer không thấy làm thế nào mà Heidegger thời hậu kỳ cho rằng cấp độ bản thể học của việc hiểu phải được hoàn tất bằng một sự vời gọi đến một chiều kích siêu-lịch sử của tính hiệu lực , không khác với những cái mà sau này được Apel và Habermas đề xuất .
+Những luồng mạch này của tinh thần phê phán - đại diện ở đây là Betti , Hirsch , Habermas và Apel - không phải là không được đáp lại .
+Nhiều lần , Gadamer nhấn mạnh rằng mục tiêu của ông không bao giờ bỏ qua bất cứ sự viện dẫn nào đến tính hiệu lực , tính khách quan và phương pháp trong việc hiểu .
+Theo ông , đây chỉ đơn giản là một sự đọc sai .
+Theo những con đường được đánh dấu bởi bước ngoặt phê phán của Kant , đúng hơn ông cố gắng nghiên cứu những điều kiện khả thể cho sự hiểu xét như là sự hiểu .
+Những điều kiện này không phải là cái gì có thể bị loại bỏ và bị đặt trong ngoặt bằng cách viện đến một phương pháp thông diễn học .
+Hơn nữa , không phải việc ta đặt mình vào lịch sử là điều kiện giới hạn duy nhất : đúng hơn , với tư cách là không gian của kinh nghiệm và lý tính của con người , nó mở thế giới ra cho ta trước hết .
+Với bất cứ chuỗi lập luận nào mà ta thấy có sức thuyết phục hơn , ta dễ dàng đồng ý rằng cả Gadamer lẫn những người phê phán ông đã đạt được từ những sự gặp gỡ này .
+Và có lẽ chính những nhượng bộ và những sự phê phán , những mô tả chi tiết và những sự xét lại , đã làm cho nó trở nên khả hữu , đối với một triết gia như Paul Ricoeur , cho việc đề xuất cái gì như là một con đường thứ ba trong thông diễn học , một sự thay thế cho cả một khuynh hướng khoa học luận đơn thuần trong thông diễn học lẫn cho sự chất vấn bản thể học của Gadamer về sự dị biệt giữa kiện tính và tính hiệu lực trong sự lý giải .
+8 .
+Ký hiệu học và Hậu-cấu trúc
+Hàm ơn phân tâm học cũng như truyền thống ký hiệu học Pháp , Ricoeur bắt đầu chứng minh rằng không có một khoảng trống nào không thể vượt qua giữa thông diễn học bản thể học và thông diễn học phê phán .
+Cho dù những khác biệt giữa chúng là xác thực , ông vẫn đề xuất một khả năng lựa chọn khác nhằm thống nhất những phương diện thuyết phục nhất của cả hai nền thông diễn học này .
+Ricoeur tán thành với Habermas và Apel rằng tác vụ thông diễn học phải luôn được đi kèm bởi sự phản tư phê phán .
+Thế nhưng ông không nhận thấy rằng điều này đòi hỏi một việc gác bỏ lại diện trường của truyền thống và của các văn bản lịch sử .
+Do đó Ricoeur nhấn mạnh văn bản có thể tự mở ra một không gian của những khả thể tồn tại và những khả thể chính trị như thế nào .
+Sức mạnh tác tạo năng động này của văn bản phá vỡ ý niệm về tính thực tại như là một mạng lưới cứng nhắc cố định của những khuôn mẫu lý giải đầy uy quyền .
+Jacquses Derrida cũng tiếp cận diện trường thông diễn học từ bối cảnh của lý thuyết hậu-cấu trúc .
+Cũng như Apel , ông tuyên bố rằng Gadamer đã đọc sai Heidegger .
+Nhưng trong khi Apel sợ rằng sự thiếu vắng một tiêu chuẩn gần như siêu nghiệm về tính hiệu lực có thể dẫn đến một hoàn cảnh mà một truyền thống thế giới-khai mở ( world-disclosive tradition ) được mang lại quá nhiều uy quyền đối với chủ thể phản tư và phán đoán một cách có phê phán , thì sự lo lắng của Derrida là Gadamer vẫn còn trong truyền thống bắt đầu từ Platon hiểu chân lý , logos và lý tính bằng siêu hình học về sự hiện diện .
+Sự bất đồng giữa Derrida và Gadamer - những lý giải của họ về Heidegger cũng như những lý thuyết tổng quát của họ về chân lý và nghĩa - đã trở nên nổi bật trong một cuộc gặp gỡ nổi tiếng giữa hai triết gia ở Paris vào năm 1981 .
+Ở đây Derrida chất vấn ý niệm về tính liên tục trải ra không ngừng của việc hiểu .
+Nghĩa , ông nhấn mạnh , không dựa vào chỉ một mình ý muốn đối thoại .
+Điều căn bản nhất là , nó trở nên khả hữu bởi sự vắng mặt , bởi những quan hệ của từ này với những từ khác trong mạng lưới luôn-lập lờ của cấu trúc mà rốt cuộc ngôn ngữ rơi vào .
+Quan hệ của ta với lời nói của những người khác , hay với các văn bản trong quá khứ , không phải là mối quan hệ của lòng tôn trọng và sự tương tác lẫn nhau .
+Nó là một quan hệ mà ta phải đấu tranh chống lại việc hiểu sai và sự truyền bá , tức quan hệ trong đó sự chú trọng đến tính cộng đồng trong ngôn ngữ chỉ mang lại một ảo tưởng tai hại .
+Đạo đức học của thông diễn học , ở chỗ sự công nhận về chân lý khả hữu của điểm nhìn của người khác , cố gắng che đậy phương cách mà người khác dùng để tránh ta , phương cách mà cáiTôi ( I ) luôn không thể thừa nhận cái anh ( thou ) trong sự dị biệt có tính cấu tạo của nó .
+Mặt khác , Gadamer cho rằng lập trường của Derrida - sự bác bỏ của ông về mọi liên thể của nghĩa ( continuum of meaning ) , về một định hướng đến chân lý , và về một sự thông giao thực sự - ngầm che giấu sự dửng dưng , và cho rằng sự chú trọng đến tính không liên tục và sự phân mảnh giống như loại tư duy mà ông đã phê phán , trong phần đầu tác phẩm Chân lý và phương pháp , với tư cách là ý thức thẩm mỹ .
+Rõ ràng là bằng cách nhấn mạnh chủ thể có thể vượt ra khỏi bản thân mình như thế nào trong sự giao tiếp biện chứng với những người khác mà thuật ngữ Bildung [ đào luyện ] , trong quan niệm của Gadamer , đã xét đến một phương diện đạo đức học của thông diễn học , một thông diễn học có thể góp phần mình cho một thuyết nhân bản chính trị chứ không phải cho một thuyết nhân bản mỹ học .
+9 .
+Thông diễn học và thuyết dụng hành
+Ý nghĩa đạo đức học của thông diễn học , đặc biệt là những nguồn gốc của nó cho việc giải quyết những thách đố của chủ nghĩa tương đối , đã là một vấn đề quan trọng trong sự tiếp nhận và khảo sát tư tưởng thông diễn học trong triết học Anh-Mỹ .
+Tuy nhiên , lực đẩy chính cho sự chiếm hữu và sáp nhập của thông diễn học với những yếu tố cơ bản của truyền thống phân tích đã là siêu-triết học ( meta-philosophical ) .
+Đại diện tiêu biểu nhất cho sự phát triển này là Richard Rorty .
+Sàng lọc thông diễn học bản thể học của Heidegger qua sự phân biệt của ông giữa triết học cấu tạo và triết học trị liệu , Rorty đọc Tồn tại và thời gian như một liều thuốc giải chống-Kant , chống-thuyết biểu tượng cho dự án khoa học luận duy nền tảng của triết học Tây phương .
+Sự nhấn mạnh của Heidegger về thời tính ( temporality ) và sự không đầy đủ của mọi việc hiểu , về tình trạng hệ lụy vào thế giới năng động , không thể gỡ ra được và không bao giờ được nói rõ hoàn toàn của Dasein , khiến Heidegger , trong Philosophy and the Mirror of Nature [ Triết học và chiếc gương của tự nhiên ] của Rorty , là một người hùng ( cùng với Dewey và Wittgenstein ) của tư duy liệu pháp và dụng hành phản-siêu hình học .
+Tuy nhiên , theo thời gian , Rorty đi đến xem Heidegger như là không thể tránh khỏi siêu hình học về biểu tượng ; trong triết học về Tồn tại của Heidegger , Rorty tìm thấy một phiên bản khác về Căn cứ của mọi tư tưởng đúng .
+Theo ý của Rorty , vì Heidegger không chú ý đến lời khuyên của chính mình , không khắc phục được siêu hình học , nên ta phải từ bỏ chỉ mỗi siêu hình học .
+Tiếp tục bước ngoặt rời khỏi siêu hình học của riêng mình , sau Triết học và tấm gương soi của tự nhiên , Rorty ngày càng quan tâm tới văn học và đến quan hệ giữa triết học và văn học .
+Khi ông khảo sát ý niệm về Triết học như là một dạng hoạt động viết , Rorty tìm cách đặt tư tưởng và thức nhận triết học ngang hàng với , nói theo từ ngữ của ông , thi ca chứ không phải với tự nhiên học ( physics ) .
+Phát triển các phân nhánh của tương phản này , Rorty nói rõ theo một cách nền tảng hơn trong Triết học và tấm gương soi của tự nhiên sự đối lập của ông với sự ngang hàng và sự đồng hóa của nhận thức triết học với nhận thức khoa học .
+Sự phát triển này của tư tưởng Rorty , tư tưởng luôn dẫn ông rời khỏi Heidegger , tuy nhiên , không phải là quay lưng khỏi triết học thông diễn học .
+Ngược lại , nó làm nổi bật lên một điểm tương đồng sâu sắc với thuyết nhân bản thông diễn học của Gadamer .
+Gadamer cũng là một người hùng , tuy không bằng Heidegger nhưng có lẽ đã gây ấn tượng lâu hơn , trong nỗ lực của Rorty nhằm phá hủy hệ hình biểu trưng luận ( representationalist paradigm ) trong triết học đi từ bên trong .
+Khi Rorty phát biểu rõ quan niệm có tính đối thoại phi-biểu trưng luận , phản-phương pháp luận về triết học sau khoa học luận , thì rõ ràng ông quay về với nghiên cứu của Gadamer về sự hiểu .
+Đối thoại triết học sẽ không là việc tìm kiếm sự thông ước ( commensuration ) , đúng hơn nó sẽ là thông diễn học .
+Khi dựa vào thuật ngữ này , Rorty có ý muốn chiếm đoạt mô tả của Gadamer về sự hiểu như là một sự hòa trộn những chân trời , như là một biến cố trong đó chủ thể bị thay đổi , chứ không phải là một quá trình mà chủ thể gây ra sự kiểm soát nó về phương pháp luận .
+Việc Rorty vận dụng Gadamer cho những mục đích dụng hành phản-bản thể học của mình , tuy nhiên , hoàn toàn là có chọn lọc .
+Chẳng hạn , trong khi Gadamer tìm thấy ở Kant một nguồn gốc thiết yếu của việc giải phóng thức nhận phản-khoa học , thì Rorty dứt khoát mô tả Kant là gã lừa đảo tinh quái của thuyết biểu tượng và như là người thiết lập sự phân biệt sơ đồ-nội dung .
+Một thước đo khác về khoảng cách giữa họ là sự dị biệt giữa sự bảo vệ có tính dân tộc trung tâm một cách công khai của Rorty về những lý tưởng tự do và quan niệm của Gadamer về sự chiếm hữu của truyền thống như là một phương cách tồn tại đáp lại lý tính .
+Tuy nhiên , điểm tiếp xúc giữa thuyết dụng hành ( pragmatism ) của Rorty và thông diễn học là thực tồn và có ý nghĩa , không chỉ ít ra được biểu hiện trong sự ký thác vào ý niệm của triết học như là hoạt động trí tuệ trong truyền thống khoa học tinh thần .
+Sự giống nhau về tính chất này cũng được chứng thực bởi công trình của các triết gia viện đến một cách có ý nghĩa cả Rorty lẫn Gadamer .
+Những người đọc của Rorty chịu ảnh hưởng bởi sự khảo sát có phê phán của ông về những giả định của siêu hình học biểu tượng và sự nhấn mạnh vào tinh thần phản-duy lý của ông về tính bất tất của tư duy con người .
+Thế nhưng họ nhận thấy nỗ lực không thể phủ nhận của Rorty là xoay vấn đề về sự chính đáng của những chuẩn mực khoa học luận và đạo đức học thành một vấn đề xã hội học .
+Với những người đọc trong tình trạng khó khăn này , sự soạn thảo tỉ mỉ của Gadamer về bản tính lịch sử của lý tính , và thực vậy , sự thực hành suy lý và giải thích biện chứng của ông có thể cung cấp những nguồn gốc quan trọng .
+Ví dụ đáng chú ý nhất về một triết gia như thế là John McDowell .
+Sự chiếm hữu ( appropriation ) của McDowell về Gadamer trong Mind and World [ Tinh thần và thế giới ] , không nghi ngờ gì nữa , chịu ơn cách sử dụng của Rorty về những ý niệm của Gadamer trong sự điều chỉnh của ông về thuyết dụng hành .
+Tuy nhiên , trong khi Rorty dùng thông diễn học để gán một lập trường đối lập với triết học dựa trên khoa học luận , quá khứ và hiện tại , thì sự chiếm hữu của thông diễn học cốt là bộ phận của một sự đọc có tính hòa giải về quá khứ , nhất là về Kant .
+Sự hòa giải này dựa vào một bộ phận cấu thành trung tâm trong nỗ lực của Gadamer đưa ra một quan niệm phi-tương đối luận về một lý tính được lịch sử hóa hoàn toàn , cụ thể là ý niệm về sự đối thoại được gợi hứng từ Hegel .
+Đối thoại là một phương thức của tiến trình hiểu , và đối thoại , theo cả McDowell lẫn Gadamer , tiền giả định một sự sẵn sàng , ít nhất là tạm thời , phục tùng những yêu sách của người khác .
+Sự phục tùng ở đây không hàm ý sự chấp nhận mù quáng , đúng hơn đó là vấn đề duy trì sự cởi mở còn rời rạc bằng cách không nhấn mạnh vào sự vượt trội của những phương cách đặt chủ đề bàn luận của người nào .
+Duy trì sự cởi mở này của từ vựng , sự thăm dò này của cụm từ và của việc diễn đạt lại bằng những từ khác , từ một viễn tượng thông diễn học là một chuẩn mực hướng dẫn của bất cứ sự đối thoại thực sự nào .
+Lý do đó là chỉ trong sự cởi mở như thế những chân lý mới mới có thể xuất hiện , và những chân lý đó không chỉ là mang lại một lập trường cho kẻ khác , mà là một sự bảo tồn thực sự sự thức nhận hàm chứa ở người này hay người khác .
+Phương diện giáo dục , thực hành và năng động này của sự đối thoại là một yếu tố căn bản của thông diễn học bản thể học , và McDowell đã minh nhiên viện đến nó .
+McDowell nhắm vào tiếp nhận những nhân cách như là những tạo vật nhất thời được hiện thân về mặt sinh học bị đắm chìm trong một thế giới được chia sẻ , thế nhưng lại có khả năng , bởi tự nhiên , phản ứng lại lý tính và do đó có khả năng trở thành những chủ thể tự do .
+Do đó , ông phát biểu về , trong số những điều khác , một nghi vấn trung tâm của phần lớn triết học tinh thần của khu vực nói tiếng Anh .
+Tuy nhiên , một bộ phận cấu thành quan trọng trong dự án của McDowell là ý niệm về giới tự nhiên thứ hai .
+Vì những năng lực tự nhiên của chúng , các vật thụ tạo như chúng ta là có tính đối thoại về mặt tiềm năng , tức là , có tính đáp lại lý tính .
+Sự phát triển của giới tự nhiên thứ hai rõ ràng là sự hiện thực hóa cái tiềm năng này .
+McDowell , minh nhiên viện đến những yếu tố Aristoteles trong quan niệm của Gadamer về lý tính , tạo ra một viễn tượng độc đáo về những yêu cầu của thuyết duy nhiên như ông khai triển cái tự nhiên của sự chuyển hóa này thành cái tự nhiên thứ hai về mặt thông diễn .
+McDowell đặc biệt tập trung vào mối quan hệ biện chứng hữu cơ giữa truyền thống và chủ thể là người hiểu , duy trì và làm mới lại truyền thống ấy .
+Quá trình này có thể được xem là một sự mở ra không gian của lý tính .
+Đồng thời nó là một sự hiện thực hóa của sự tự trị của chủ thể như là một người suy tưởng và một sự khẳng định của quyền uy và sự khai mở của truyền thống .
+Trong quan niệm của McDowell , nó cung cấp một công cụ cho cảm năng hiểu đối với lý tính như một sự hiện thực hóa một tiềm năng cố hữu trong tự nhiên sinh học .
+Sự định hướng của dự án triết học của McDowell được sắp ngang hàng sát sườn hơn với việc đọc biện chứng của Gadamer về các nhà tư tưởng trong quá khứ hơn là được sắp ngang hàng với phong cách hoàn toàn có tính phê phán hơn của Rorty về tự sự lịch sử .
+Do đó , sẽ là thú vị khi lưu ý rằng cả Rorty lẫn McDowell viện đến một cách rộng rãi tư tưởng của Donald Davidson , và cả hai đều nhấn mạnh đến những điểm giao thoa giữa triết học của Davidson và thông diễn học của Gadamer .
+Có vẻ như rõ ràng là không có một ảnh hưởng lẫn nhau có ý nghĩa nào giữa Davidson và Gadamer .
+Cũng như , những bận tâm triết học rõ ràng của người trước - làm thế nào để phát biểu một thuyết nhất nguyên không-quy giản , làm thế nào để cung cấp một hình thức của một lý thuyết về nghĩa , làm thế nào để phát hiện ra những điều kiện xã hội của nội dung mệnh đề - là rất khác với những quan tâm của Gadamer .
+Tuy nhiên , những triết gia canh tân như McDowell và Rorty lại là những người được gợi hứng từ Davidson , dường như đã , trong số các nhà lý luận của khu vực Anh ngữ , đặc biệt dễ tiếp thu tư tưởng thông diễn học .
+Ngược lại , các triết học với mối quan tâm sâu sắc đến dòng thông diễn học của triết học lục địa đã cho thấy một sự thân thuộc đối với tư duy Davidson .
+Do đó , việc xem xét những sự hội tụ này là một việc đáng làm .
+Ba điểm nhấn chung nổi bật ngay lập tức : thứ nhất là một sự nối kết chặt chẽ giữa việc hiểu và chân lý ; thứ hai , nhấn mạnh vào sự thâm nhập lẫn nhau trong sự nắm bắt của ta về nghĩa ngôn ngữ và về thực tại khách quan ; và thứ ba , nhấn mạnh vào bản tính xã hội của nghĩa và tư tưởng .
+Về điểm thứ nhất , sự tiếp cận của Davidson đến bản tính của năng lực ngôn ngữ đã nhấn mạnh đến vai trò cấu tạo của cái được gọi là nguyên tắc của lòng trắc ẩn ( charity ) trong mọi sự lý giải .
+Nguyên tắc này phát biểu rằng chúng ta hiểu nhau với tư cách là những người nói và những tác nhân về mặt nguyên tắc và nền tảng trong chừng mực ta chấp nhận nhau như những tác nhân lý tính , khi , theo lời của McDowell , ứng phó lại những chuẩn mực của lý tính .
+Với Davidson , điều này , trong số những điều khác , có nghĩa là chúng ta nói những lời chân thật với nhau về tổng thể như là sự thật .
+Đây là một hậu quả không thể tránh được , như Davidson quan niệm , của việc hiểu ngôn ngữ của người khác .
+Trong khi Davidson quan tâm đến việc nghiên cứu về bản tính của năng lực ngôn ngữ mà ta hãy định rõ hình thức của một lý thuyết ngữ nghĩa học cho người phát ngôn , thì Gadamer lại tìm cách làm sáng tỏ việc làm thế nào mà một cá nhân cụ thể , bị chìm về thời gian được định vị về không gian lại có thể mở ra , và hiểu , một điểm nhìn khác với chính mình .
+Với Gadamer , như ta đã thấy , điều này hàm ý một loại thay đổi hay chuyển động , và cũng ở đây , trong sự hòa trộn những chân trời , các cá nhân nắm bắt về chân lý còn như là cái gì ngoài viễn tượng riêng của mình , hóa ra là đòn bẫy phê phán .
+Đối với cả Davidson lẫn Gadamer , bất chấp những mối quan tâm lý thuyết khác nhau của họ , sự thông giao phụ thuộc vào năng lực nhận biết chân lý của chúng ta được chuyển tải trong điểm nhìn được khớp nối về người khác .
+Đối với cả hai , ý niệm này tự khắc sẽ dẫn đến những điểm thứ hai và thứ ba nói trên .
+Việc xét một quan hệ với chân lý như là cấu tạo nghĩa đối thoại , Gadamer , đi theo Heidegger , bác bỏ việc cho phép bất cứ sự phân đôi nền tảng nào giữa những gì mà một chủ thể trình bày như là chân lý và thế giới thực sự là như thế nào một cách khách quan .
+Để đảm bảo , ông không phủ nhận khả thể của sai lầm hay vô minh .
+Tuy nhiên , với Gadamer , định hướng riêng của ra về thế giới , qua việc giới hạn một cách tất yếu những gì ta có thể nắm bắt , cũng luôn là một phương cách tồn tại mở ra thế giới một cách chính xác .
+Với Gadamer , quan niệm về thực tại khách quan có thể không có một nội dung nào khác hơn là sự khai mở này mà bản tính rất ư là viễn tượng của việc hiểu của ta cung cấp .
+Việc ta mở ra thực tại khách quan tự cho thấy trong năng lực nối khớp lại quan niệm của ta về thế giới trong sự đối thoại thuần lý .
+Đối thoại , tuy vậy , chính xác là sự khai mở ra cho những cái khác ; với Gadamer , để mở ra thế giới về mặt nhận thức và mở ra những điểm nhìn của người khác là , rốt cuộc , những khả năng không thể tránh được .
+Với Gadamer , cả hai về bản chất là những năng lực ( capacities ) của ngôn ngữ .
+Ở đây , Gadamer rõ ràng là mang âm hưởng của châm ngôn của Heidegger rằng ngôn ngữ là ngôi nhà của tồn tại .
+Ta hiểu ngôn ngữ trong chừng mực chúng ta tồn tại với người khác trong một thế giới chung và nhìn chung được biết đến là khách quan .
+Khi đưa ra tuyên bố này , Gadamer được Davidson tiếp nối .
+Davidson cho rằng ta hiểu những người khác một cách căn bản nhất bằng việc liên hệ từ ngữ của họ với thế giới quanh họ , mà ông gọi là sự lý giải triệt để .
+Hơn nữa , những nội dung của những tư tưởng của riêng ta , và do đó của mọi sự thừa nhận của ta về những từ ngữ của những người khác và những đối tượng và những sự kiện mà họ quy chiếu tới , bản thân chúng phụ thuộc vào việc ta chia sẻ với những người khác một mô hình tương tác với thế giới .
+Davidson quy chiếu đến mô hình này như là phép đạc tam giác ( triangulation ) .
+Từ những viễn tượng triết học và lý thuyết khác nhau , thì cả Gadamer lẫn Davidson đều giữ những lập trường đoạn tuyệt một cách nghiêm trọng với truyền thống chủ thể luận trong triết học hiện đại , một phương cách tư duy , theo Descartes , đã gán một ý nghĩa bản thể luận và khoa học luận sâu sắc cho viễn tượng ngôi thứ nhất , cái Tôi phản tư .
+Không nghi ngờ gì nữa , đây là một lý do then chốt cho sự liên quan chung của họ với các triết gia đang đấu tranh để tách ra khỏi những tiếp cận hiện đại truyền thống những vấn đề về tính hiệu lực , nhận thức và các quan hệ tinh thần-thế giới .
+10 .
+Kết luận
+Trong tầm tay của Rorty , McDowell và con số các nhà tư tưởng đương đại ngày càng tăng , những nguồn lực của thông diễn học triết học được được triển khai trong một nỗ lực nhằm làm gãy đổ những hệ hình nhị nguyên khoa học luận của triết học hiện đại , và mở ra một cơ sở triết học mới không hề bị ám ảnh bởi những bóng ma của chủ nghĩa tương đối và chủ nghĩa hoài nghi , cũng như không phải bởi giấc mơ của sự biện minh nền tảng .
+Giờ đây , điều có vẻ nghịch lý là một phương cách của tư tưởng nhấn mạnh một cách chính xác sự hàm ơn của ta với truyền thống sẽ là công cụ mà nó thường được trình bày như là một sự đứt gãy có cân nhắc với truyền thống .
+Tuy nhiên , ấn tượng về nghịch lý này phải nhanh mất đi .
+Một trong những bài học của thông diễn học triết học đó là sự đổi mới trí tuệ của loại này phụ thuộc vào - quả thực , là một biểu hiện của - năng lực tự làm mới lại của truyền thống , của sự năng động của nó , và tính có thể lý giải và lý giải lại của nó .
+Sự chiếm hữu hiện thời của thông diễn học đối với những mục đích triết học theo quan điểm xét lại minh họa cho khái niệm " lịch sử tác động " trong thông diễn học .
+Trong khi vượt lên bất cứ điều gì mà các nhà lý thuyết-lý giải thời kỳ đầu có thể đã từng hình dung , thì sự triển khai của tư tưởng Gadamer nhằm cắt đứt với thuyết chủ thể ắt không thể xảy ra nếu không có chúng .
+Cái lịch sử tác động này , hơn nữa , là biện chứng - việc đọc của ta về các nhà thông diễn thời kỳ đầu , sự hiểu của ta về cái tiềm năng cố hữu trong tư tưởng của họ , chủ yếu được định hình bởi chính cái lịch sử-tác động này , cái tách ta ra khỏi chúng lẫn khiến cho chúng có thể hiểu đối với ta .
+Việc đánh giá thông diễn học như là một truyền thống sống động rốt cuộc không phải là một vấn đề nhận diện một lý thuyết hay một hệ các lý thuyết .
+Về căn bản nó là vấn đề tri giác một chân trời đang vận động , tham gia một tuyến phát triển của sự đối thoại , tức là một sự tái-khớp nối ( re-articulation ) luôn tiếp diễn của bản tính lịch sử một cách năng động của toàn bộ tư tưởng con người .

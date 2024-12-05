@@ -1,0 +1,235 @@
+Kafka : Lòng nhẫn nại và " sự bất diệt " kinh điển ( Trích Điển phạm phương Tây : Tác phẩm và trường phái qua các thời đại )
+Bài dịch dưới đây là toàn bộ mục 20 , thuộc chương III của cuốn Điển phạm phương Tây : Tác phẩm và trường phái qua các thời đại ( Western Canon : The Books and School of the Ages ) - một trong những công trình quan trọng của nhà phê bình người Mỹ đương đại nổi tiếng Harold Bloom
+Phần I
+Nếu muốn tìm một gương mặt tiêu biểu nhất cho văn chương thế kỉ này , có lẽ ta sẽ thấy mình lang thang vô vọng giữa muôn vàn những lựa chọn bị chối bỏ .
+Không biết chừng sang thế kỉ XXII , người đọc - nếu vẫn tồn tại người đọc theo cách hiểu của chúng ta - sẽ gạn lọc đến cả những Dante và Montaigne của thế kỉ XX ( như Kafka và Freud chăng ? ) .
+Trong cuốn sách này , tôi chọn ra chín tác gia hiện đại : Freud , Proust , Joyce , Kafka , Woolf , Neruda , Beckett , Borges và Pessoa .
+Tôi không quả quyết rằng họ là những thiên tài bậc nhất ; họ có mặt ở đây để đại diện cho tất cả những người , ở một chừng mực nào đó , xứng tầm những nhà văn kinh điển của thời đại .
+Ngoại trừ Neruda và Pessoa , các nhà thơ cùng thời không có mặt ở đây là : Yeats , Rilke , Valery , Trakl , Stevens , Eliot , Montale , Mandelstam , Lorca , Vallejo , Hart Crane cùng nhiều người khác nữa .
+Bản thân tôi ưa chuộng thơ ca hơn tiểu thuyết và kịch , thế nhưng dễ thấy rằng ngay cả Yeats , Rilke và Stevens cũng không thể sánh bằng Proust , Joyce và Kafka trong việc biểu thị toàn vẹn tinh thần thời đại .
+W.H.Auden cho rằng Kafka là linh hồn độc đáo của thời đại .
+Hẳn vậy , cái định ngữ " kiểu Kafka " ( Kafkaesque ) , như ta biết , đã hàm chứa một ý nghĩa lạ thường ; dường như nó đã trở thành một thuật ngữ toàn cầu cho cái mà Freud gọi là " cái lạ lùng " ( the uncanny ) - cái hiện hữu vừa gần gũi , thân thuộc lại đầy cách xa , lạ lẫm .
+Nhìn từ khía cạnh văn chương đơn thuần , đây là thời đại của Kafka hơn là của Freud .
+Freud , người kế nhiệm kín đáo của Shakespeare , đã vẽ ra bản đồ tâm lý ; còn Kafka lại ngụ ý rằng không thể trông chờ vào đó mà cứu rỗi bản thân , thậm chí là cứu rỗi bản thân khỏi chính mình .
+Để chứng minh vị trí trung tâm của Kafka trong điển phạm thế kỉ , cần khảo sát trên một diện rộng các tác phẩm , bởi không một thể loại riêng biệt nào Kafka từng thử bút có thể thâu tóm tinh hoa văn chương của ông .
+Kafka là một nhà cách ngôn vĩ đại chứ không phải là một người kể chuyện thuần túy , ngoại trừ trong truyện ngắn ( parable ) .
+Ở thể loại tự sự dài hơi hơn , các tiểu thuyết Nước Mỹ , Vụ án , thậm chí Lâu đài đều hay hơn với tư cách các phần riêng lẻ hơn là ở dạng những tác phẩm hoàn chỉnh ; và ở những truyện vừa như Biến dạng , thì sự khởi đầu cũng thường sâu sắc hơn chiều hướng kết thúc .
+Bên cạnh cách ngôn và truyện ngắn , trí tưởng tượng của Kafka bộc lộ mạnh mẽ nhất trong những truyện kể rất ngắn hay mảnh truyện ( fragment ) , đặc biệt là những mảnh truyện hoàn chỉnh như Người cưỡi xô , Người thầy thuốc nông thôn , Thợ săn Gracchus và Vạn lý trường thành .
+Nhật kí của Kafka được ưa thích hơn thư từ , kể cả những lá thư gửi Milena Jesenka , bởi trên đời này , hay thậm chí trong cả tiểu thuyết của môn đệ của ông - Philip Roth , cũng thật hiếm tìm được người tình nào lại bi thảm như Kafka .
+Freud , người từng bị Kafka gạt đi , xem như là " một Rashi của nỗi âu lo Do Thái đương đại " , hẳn sẽ thỏa nguyện nếu có dịp nghiền ngẫm những bức thư tình của Kafka , ở nơi đó , những nỗi âu lo sâu thẳm nhất của chính Kafka lại càng chất chứa .
+Để khám phá cái bản ngã sâu kín trong những thiên tài văn chương thời đại này , cần phải kiếm tìm ở những nơi mà nhà văn nỗ lực tỏ ra khách quan và trung hòa nhất , và nỗ lực đó , hẳn nhiên , vô hiệu .
+Khám phá bản ngã sâu kín thay vì những khúc mảnh tâm lý manh mún là phương thức phủ nhận rất riêng của Kafka , người đã từng tuyên bố : " Không lặp lại tâm lý học ! " và " Tâm lý học là sự thiếu nhẫn nại " .
+Thiếu nhẫn nại , Kafka quả quyết , là thứ tội lỗi lớn nhất , bao trọn tất cả mọi tội lỗi khác .
+Ấy vậy mà tôi lại chưa từng đọc Kafka mà không nghĩ về cách ngôn ưa thích của mình về bản chất của sự nóng vội Do Thái : " Ngủ nhanh mà giữ gối " .
+Đức Chúa Yahweh không phải là một vị chúa nhẫn nại , ít nhất là trong J , và có lẽ Kafka , người tự xưng là tín đồ Kabbalah mới , đã đeo đuổi cuộc truy tìm nhiệm mầu bí mật một đề án khiến cho đấng tối cao của người Do Thái nhẫn nại hơn .
+Gustav Janouch trong Những cuộc đối thoại với Kafka ( Conversations with Kafka ) , một công trình không mấy đáng tin ( cho dù có những thuyết phục nhất định trong việc nắm bắt được các biến tố trong văn chương Kafka ) , đã cố chứng minh cái mà một số người gọi là thuyết ngộ đạo Do Thái của Kafka , điều cũng được tìm thấy ở Gershom Scholem và Walter Benjamin , hai người chịu ảnh hưởng sâu rộng của ông .
+Thuyết ngộ đạo đó thiếu kiên nhẫn với thời gian , vậy nhưng trong văn chương và trong các cuộc trò chuyện , Kafka lại luôn đề cao lòng nhẫn nại trên tất cả .
+Những nghịch lí là điều mà người đọc Kafka hẳn đã đoán định được từ ông , nhưng cái gọi là thuyết ngộ đạo nhẫn nại thì còn hơn cả một nghịch lí .
+Lòng ngộ đạo , theo định nghĩa , là một tri thức phi thời gian cả về bản ngã trong bản ngã lẫn đấng thần linh ngoại lai ẩn tàng trong bản ngã sâu kín nhất .
+Nhẫn nại có thể là con đường thực dụng dẫn tới lòng ngộ đạo , điều này khá rõ ràng ở Kafka , nhưng tuyệt nhiên nó có rất ít liên hệ với cái gọi là sự phủ nhận đột ngột của bất kì thuyết ngộ đạo nào .
+Bằng chứng cho song đề này là : lòng nhẫn nại , cách hiểu biết của Kafka , không hề dẫn tới sự phủ định mang tính nhị nguyên hay việc đề xuất một thuyết Kabbalah mới .
+Mặc dù chúng ta có xu hướng kết nối hay liên kết lòng ngộ đạo và thuyết ngộ đạo , Kafka lại phân biệt chúng .
+Ông gọi lòng ngộ đạo là " sự nhẫn nại " , và thuyết ngộ đạo là " sự phủ nhận " ; cái đầu tiên vô cùng chậm rãi , cái sau đó lại nhanh đến kinh ngạc bởi vì nó thừa nhận thuyết nhị nguyên mà Kafka cho rằng tồn tại sâu kín trong tất cả mọi thứ , tất cả mọi người .
+" Lòng nhẫn nại " của Kafka chứa đựng một điều gì rất khác biệt : Bạn không cần phải rời khỏi nhà .
+Hãy lưu lại bên bàn và lắng nghe .
+Thậm chí hãy đừng nghe , chỉ cần chờ đợi .
+Thậm chí đừng đợi , hãy cứ tĩnh lặng và cô đơn .
+Thế giới sẽ hiện thân ngay trước mắt ; không gì khác hơn ; trước mắt bạn , nó sẽ quằn quại đớn đau trong ngây ngất vô ngần .
+" Thế giới không thể bị đánh lừa tước mất những chiến thắng của nó " , khi mà Kafka không hề tìm kiếm chiến thắng cho riêng mình .
+Thế nhưng ông chưa từng biết đến thất bại , " bởi vì chưa từng có điều gì xẩy ra " .
+Nếu bị thuyết phục rằng chưa có điều gì từng xảy ra , bạn không thể thoát xa khỏi truyền thống Do Thái .
+Ký ức người Do Thái giống như sự kìm nén trong Freud : tất cả mọi thứ đã xảy ra , và không bao giờ có điều gì mới .
+Bất chấp nỗi sợ hãi bởi chuyện tình gia đình mình , Kafka vẫn kiên quyết viết như thể " chưa có gì từng xẩy ra " .
+Đối với người Do Thái , biến cố mang tính khởi thủy chính là Giao ước của Abraham , và với Kafka , Abraham lại là một nhân vật không đáng tin .
+Có lẽ , vai trò anh hùng của Abraham trong Sợ hãi và run rẩy ( Fear and Trembling ) của Kierkegaard đã khiêu khích Kafka đến những sự phủ định .
+Chúng hẳn nhiên đều là những phản đề đối với truyền thống Do Thái giáo và Ki-tô giáo : Nhưng hãy thử nhìn một Abraham khác .
+Một người muốn hi sinh tất thảy một cách đúng đắn và có cảm quan đúng đắn trong toàn bộ sự việc , nhưng không chịu tin rằng ông ta là một kẻ có ý nghĩa , chính ông , một ông già xấu xí , và đứa trẻ bẩn thỉu ấy con của ông ta .
+Lòng trung thành đúng nghĩa không thiếu trong ông , ông có lòng trung thành ; nhưng ông chỉ có thể hi sinh một cách đúng đắn khi mà ông hiểu rằng ông là một kẻ có ý nghĩa .
+Ông ta e sợ rằng sau khi bắt đầu như là Abraham với con trai mình , ông sẽ thay đổi thành như Don Quixote ( Clement Greenberg dịch )
+Theo một cách đen tối nào đó , Abraham này là tiền thân kiểu Quixote của Kafka .
+Từ bình diện ảnh hưởng văn chương , Goethe là Abraham mà từ đó Kafka xuất thân ; từ bình diện tâm linh , Luật hay đạo Do Thái tích cực được hóa thân trong Abraham .
+Kafka , từ bỏ Luật vì sự phủ nhận của riêng mình , đã ruồng bỏ cả Abraham , người đã diễn giải nhầm thế giới : Abraham đau đớn với ảo ảnh sau : ông ta không thể chịu đựng nổi tính thống nhất của thế giới .
+Tuy vậy , thế giới giờ đây đa dạng chưa từng thấy , bất cứ lúc nào , chỉ cần nhặt một nhúm nhỏ thế giới lên và ngắm nhìn thật kĩ cũng đủ thấy rõ điều đó .
+Bởi vậy , lời than phiền về tính thống nhất của thế giới thực ra là lời than phiền về nỗi không thể hòa nhập sâu sắc với tính đa dạng của nó .
+Kafka là một nhà châm biếm quá ư khôn ngoan để tin rằng nghệ thuật hay cuộc đời của mình có thể hòa trộn sâu sắc với tính đa dạng của thế giới .
+Sự châm biếm nổi loạn của ông chống lại Abraham là sự chống đối lại bản ngã và cả những cuộc trốn chạy của nó , bao gồm sự chạy trốn khỏi Do Thái giáo và truyền thống văn chương chính thống của ngôn ngữ Đức từ Goethe .
+Kafka gọi sự trốn chạy này là " lòng nhẫn nại " , một phép tu từ hay ẩn dụ cho việc thực hành nghệ thuật của một nhà văn .
+Thứ nghệ thuật đó , hơn tất cả công việc của bất kì nhà văn nào có cùng năng lực , tồn tại trong một sức căng biện chứng với khả năng phê bình .
+Joyce lại ở đối cực khác : ông nghênh đón và nhiệt tình hướng dẫn mọi sự diễn giải .
+Beckett - người đủ liều lĩnh và tài năng để kết hợp cả Joyce , Proust và Kafka , trong thái độ với phê bình , lại tỏ ra giống với Kafka hơn là Joyce và Proust ; nhưng thực tế Kafka lại ít để lại ảnh hưởng đối với tác giả Murphy , Molloy và Watt hơn là Joyce và Proust .
+Giới phê bình đành phải chịu thua Kafka mỗi khi rơi vào cái bẫy mà tác giả luôn giăng sẵn chờ mọi nỗ lực diễn giải cắm đầu vào , cái bẫy của riêng Kafka chối bỏ mọi diễn giải .
+Dưới hình thức phúng dụ của riêng mình , mỗi một hình ảnh mà ông bày ra trước chúng ta đều vừa là vừa không phải là cái mà ta tưởng như đang nhìn thấy .
+Vì thế trong truyện Những cuộc điều tra của một con chó ( Investigations of a Dog ) , kịch tính lạ thường xảy ra khi chú chó săn tuyệt đẹp hiển lộ trước kẻ dẫn chuyện - một con chó tội nghiệp đang đầm mình trên nền sân trong vũng máu và một đống nôn mửa , thì chúng ta không thể nào diễn giải một điều dẫu đơn giản rằng con chó săn kia là ai , hay nó tượng trưng cho điều gì .
+Ít nhất một nhà phê bình xuất sắc nào đó về Kafka đã từng bạo gan cho rằng con chó săn mồi đẹp đẽ đó chính là Thượng đế , nhưng cũng như tất thảy những phê bình diễn giải các hình ảnh thần thánh trong thế giới Kafka , trường hợp này rốt cuộc cũng là nạn nhân của sự châm biếm của tác giả mà thôi .
+Sẽ là an toàn khi cứ để những hình ảnh đại diện được yên , chứ các thánh thần trong truyện ngắn và tiểu thuyết Kafka không chuyển tải một gợi ý gì .
+Có nhiều quỷ sứ giả trang thành thiên sứ và thánh thần , và có cả những loài vật thần bí ( và những hình hài giống vật ) , nhưng Thượng đế thì luôn ở một nơi nào khác , một nơi xa xôi dưới vực thẳm , hoặc là đang say ngủ , hoặc có lẽ đã chết .
+Kafka , một thiên tài độc đáo , là một tác gia lãng mạn chứ không đời nào là một nhà văn tôn giáo .
+Ông thậm chí còn không phải là một kẻ ngộ đạo Do thái giáo hay tín đồ Kabbalah như trong trí tưởng tượng của Scholem và Benjamin , bởi vì ông không nuôi hi vọng , dẫu là vì bản thân ông hay vì chúng ta .
+Tất cả những gì dường như là siêu nghiệm trong tác phẩm Kafka , thật kì lạ , lại đều là sự giễu nhại đích thực ; đó là lời giễu nhại khởi phát từ vị ngọt tuyệt vời của tinh thần .
+Mặc dù tôn thờ Flaubert nhưng Kafka sở hữu một cách cảm nhẹ nhàng hơn tác giả Bà Bovary ( Madame Bovary ) .
+Tuy vậy , những truyện kể của ông , dù ngắn hay dài , gần như luôn luôn gay gắt trong những sự kiện , sắc điệu và những lời tiên đoán .
+Điều khủng khiếp sắp xảy đến .
+Tinh thần cốt lõi của văn Kafka có thể được chuyển tải qua nhiều trích đoạn , và một trong chúng là bức thư nổi tiếng ông gửi cho nàng Milena .
+Cũng đầy đớn đau như thư Kafka nói chung , chúng thực là những tuyệt tác của thế kỉ : Đã lâu rồi kể từ lần cuối tôi viết thư cho em , Frau Milena ạ ; và mặc dù thế , hôm nay tôi viết cho em cũng chỉ như kết quả của một sự ngẫu nhiên .
+Thực sự là tôi không cần phải xin thứ lỗi vì đã không viết thư , em biết tôi ghét thư từ đến thế nào rồi đấy .
+Tất cả nỗi bất hạnh của đời tôi - tôi không có ý phàn nàn , chẳng qua chỉ đưa ra một bình luận chung chung - nếu có thể nói , đều phát xuất từ những lá thư hoặc từ việc có thể viết thư .
+Con người khó có thể làm tôi thất vọng , thế mà những lá thư - và sự thật là không chỉ những lá thư của người khác , mà cả của chính tôi - thì luôn luôn làm được điều đó .
+Với tôi , đây là nỗi bất hạnh riêng tư mà tôi sẽ không nói thêm về nó nữa , thế nhưng nó đồng thời lại cũng là nỗi đau chung .
+Cái khả năng dễ dãi của việc viết thư - nhìn một cách đơn thuần lí thuyết - đã làm thối rữa kiệt cùng những linh hồn thế gian .
+Điều này , thật sự là một sự giao tiếp với những hồn ma , và không chỉ với những hồn ma của người nhận mà ngay cả hồn ma của chính mình , bóng ma này hình thành giữa những dòng thư ngay khi người ta đang viết và trở nên lớn hơn trong một chuỗi những lá thư , nơi mà mỗi lá thư lại chứng thực cho một lá thư khác và đến lượt lá thư khác lại là nhân chứng .
+Làm sao trên đời này lại có kẻ mang một ý tưởng rằng con người có thể giao tiếp với nhau bằng thư !
+Mỗi người có thể nghĩ về một người ở xa , và có thể nắm tay người ở gần - còn thì tất thảy mọi điều khác đều vượt quá sức mạnh của con người .
+Hành động viết thư đồng nghĩa với việc lột trần con người ra trước loài ma quỷ , điều mà lũ chúng hau háu chờ chực .
+Những nụ hôn trên trang giấy không thể nào tới được nơi chúng cần tới , trái lại chúng bị quỷ dữ uống cạn trên đường đi .
+Nhờ vào nguồn dinh dưỡng dư dật này , lũ chúng sinh sôi theo cấp số nhân một cách nhanh chóng đến kinh hoàng .
+Loài người cảm nhận được điều này và đấu tranh chống lại nó và để tiêu diệt đến tối đa những yếu tố ma quái tồn tại giữa người với người , để tạo ra sự giao tiếp tự nhiên , để mang lại sự bình yên cho các linh hồn , loài người đã phát minh ra tàu hỏa , xe hơi , máy bay .
+Nhưng cũng chẳng ích gì , rõ rành rành có những phát minh ngay lập tức nát vụn ngay trong khoảnh khắc thành hình .
+Kẻ thù thì bình tĩnh và mạnh mẽ hơn nhiều ; sau dịch vụ thư tín chúng đã phát minh ra điện báo , điện thoại , vô tuyến .
+Quỷ dữ sẽ không chết đói , mà chính chúng ta sẽ bị diệt vong . " ( Bản dịch tiếng Anh của Philip Boehm ) Thật khó để hình dung được một điều gì ám ảnh hơn những câu văn : " Những nụ hôn trên trang giấy không thể nào tới được nơi chúng cần tới , trái lại chúng bị quỷ dữ uống cạn trên đường đi " hay " Quỷ dữ sẽ không chết đói , mà chính chúng ta sẽ bị diệt vong . " Thái độ của Kafka với cội nguồn Do Thái của mình có lẽ là nghịch lí lớn nhất của ông .
+Có những dấu vết khốn khổ của sự tự căm ghét cội nguồn Do Thái trong những bức thư viết cho Milena , nhưng chúng dường như vẫn có thể lí giải được , và tệ nhất , chúng mới chỉ là mặt ngoài của sự ray rứt .
+Trong những phức cảm bất tận , gần như mọi thứ Kafka viết đều gợi lên mối liên quan giữa ông với người Do Thái và những truyền thống Do Thái .
+Chúng ta nên bắt đầu thức nhận rõ ràng về điều này , ít nhất là vì chúng thường không được ghi lại .
+Kafka , với sự nhạy cảm tôn giáo của một thiên tài hiếm có , không hề tin vào Thượng đế , thậm chí không tin vào Đấng Thượng đế xa vời của phái ngộ đạo .
+Ông chia sẻ sự hoài nghi này với Freud , Woolf , Joyce , Beckett , Proust , Borges , Pessoa và Neruda - những nhân vật kinh điển tôi đã chọn lọc từ thời đại chúng ta , nhưng không ai có thể tìm thấy trong bộ tám nói trên , ngay cả ở Beckett - người chịu ảnh hưởng của Kafka , một điều gì tương tự như những mối ưu tư về tôn giáo như ở Kafka .
+Trong Chiến dịch Shylock ( Operation Shylock ) , Philip Roth có một khám phá bước ngoặt đáng ngưỡng mộ rằng Hein , một tác giả Do Thái tiêu biểu trước Kafka , cho rằng tên Chúa là Aristophanes .
+Heine là một tín đồ đầy dằn vặt ; Kafka , một kẻ vô thần , không đặt tên cho Chúa , nhưng nếu những kẻ trong Cung điện vàLâu đài của Kafka có một vị Chúa , thì đó hẳn là Aristophanes .
+Kafka nói giúp và nói với một số lượng độc giả , bất kể là người Do Thái hay không , những người không như Freud xem tôn giáo như một ảo tưởng , nhưng lại đồng ý với Kafka rằng họ đã sinh ra quá muộn để biết chắc rằng mình thuộc về những truyền thống Kitô giáo và Do Thái giáo .
+Kafka không biết liệu ông là sự kết thúc hay sự khởi đầu , chúng ta cũng vậy .
+Ritchie Robertson , một trong những học giả nghiên cứu về Kafka nổi tiếng nhất , đã tinh ý chỉ ra rằng đối với tác giả Lâu đài thì " hình tượng tôn giáo chỉ có giá trị khi được xem là sự biểu hiện của sự thôi thúc tôn giáo , và sẽ trở nên sai lạc khi bị xem là sự diễn giải những thôi thúc đó " .
+Bởi vì Kafka tránh xa việc diễn giải sự thôi thúc tôn giáo và sẽ không thừa nhận bất kì sự diễn giải nào , thành ra độc giả bị bỏ rơi trong hàng loạt những lối tượng trưng kiểu Kafka đối với sự thôi thúc nói trên , những lối tượng trưng đôi khi tuân theo những hình tượng quen thuộc và đôi khi lại xa rời chúng .
+Điều này khiến cho việc nghiên cứu một cách chính xác , trong mức Kafka cho phép , rằng điều gì là quan điểm của Kafka , trở nên rất đỗi quan trọng .
+Phần II
+Tôi đồng tình với Robertson về quan điểm : những văn bản cốt yếu của Kafka là những cách ngôn được sáng tác vào khoảng 1917 - 1918 , giờ đây phần lớn được dịch sang tiếng Anh trong Sổ tay khổ tám màu xanh ( The Blue Octavo Notebooks ) ( Ernst Kaiser và Eithne Wilkins dịch , 1991 ) .
+Nietzsche , một nhà cách ngôn có tầm ảnh hưởng lớn như Emerson , Kierkegaard , và Kafka , đã tuyên bố bãi bỏ lòng tin kiên định vào lối viết cách ngôn như một loại văn chương suy đồi .
+Ở tác phẩm có lẽ có ảnh hưởng mạnh mẽ nhất của Nietzsche - Về phả hệ học của luân lí ( On the Genealogy of Morals ) , tuy gồm ba bài luận tranh biện chặt chẽ , nhưng sức mạnh của chúng cũng chủ yếu nhờ vào những cách ngôn , trong khi lối văn tiểu thuyết khoa trương như trong Zarathustra đã nói như thế ( Thus Spake Zarathustra ) thì bây giờ thật chẳng đọc nổi .
+Di sản của Nietzsche chính là cách ngôn , và đó là phần tuyệt hơn cả .
+Ở Kafka có sự giao thoa giữa một nhà cách ngôn và một người kể chuyện , vừa gần gũi với Wittgenstein vừa gần gũi một cách kì lạ với Schopenhauer và Nietzsche .
+Đằng sau tất cả họ là một Goethe với vai trò một nhà văn thông thái , nhà phê bình Aristophanic Heine bổ sung thêm ở Kafka một thứ chủ nghĩa hoài nghi Do Thái .
+Nhưng không thể gọi Kafka là người Do Thái , kẻ hoài nghi , ngộ đạo hay dị giáo .
+Kafka là , như chính ông nói , là sự kết thúc hoặc sự khởi nguồn của người Do Thái , hoặc có lẽ là cả hai .
+Bất chấp tất cả những chối từ và những lẩn tránh đẹp đẽ đó , ông đơn giản là văn chương Do Thái , thậm chí Do Thái hơn cả Freud .
+Tôi từng nghĩ rằng điều này xảy đến do sức mạnh của sự soán ngôi : Kafka và Freud , bằng sức mạnh đối thủ , đã định nghĩa lại lối viết Do Thái , bởi khi ngoái nhìn lại , đối với chúng ta , họ đã trở thành văn chương Do Thái .
+Nhưng quan điểm đó , mặc dù là ví dụ cho thấy đặc tính hay thay đổi thất thường của điển phạm , lại tỏ ra đã đánh giá thấp mối liên hệ Do Thái ở Freud và Kafka - những người đã trở thành Rashi của nỗi âu lo Do Thái đương đại .
+Sự phủ định của Freud và Kafka , như đã nói ở trên , khác biệt sâu sắc so với sự phủ định của Hegel ở chỗ nó chấp nhận tính ưu việt của thực tế .
+Triết học duy tâm , cho dù là biện chứng , vẫn không thể hòa hợp với sự tôn trọng của người Do Thái với văn chương .
+Bất kể giàu sức mạnh tưởng tượng , Kafka vẫn là một người theo lối kinh nghiệm như Freud hay Beckett .
+Thân phận Do Thái khiến cho hầu như trong thế giới của Kafka , sự tiếp xúc với cái ngoại biên trở nên thật gần gụi ; ví dụ như trongVạn lý trường thành - tác phẩm có thể được gọi tên là Tháp Babel , ví dụ như ngay cả ở nơi mà ta ít nghĩ tới nhất - truyện ngụ ngôn về loài vật .
+Liệu có điều gì căn cốt Do Thái trong cái quyền năng tinh thần mạnh mẽ ở Kafka ?
+Tôi đồng tình với Ritchie Robertson rằng , cốt lõi tinh thần ở Kafka là ý niệm của ông về " sự bất diệt " ( indestructibility ) , mặc dù khác với Robertson , tôi cho rằng điều đó là phong cách riêng của nhà văn hơn là tinh thần thời đại .
+Sau đây là phần góp nhặt những cách ngôn quan trọng xoay quanh " cái bất diệt " ( the indestructible ) : Tin tưởng đồng nghĩa với việc giải phóng cái nhân tố bất diệt trong mình , hay chính xác hơn , là tồn tại bất diệt , hay chính xác hơn nữa , là tồn tại .
+Con người không thể sống mà không có niềm tin vĩnh cửu vào một điều gì bất diệt trong chính mình , mặc dù cả nhân tố bất diệt và niềm tin ấy vẫn còn vĩnh viễn ẩn tàng trong anh ta .
+Một trong những cách để làm hiển lộ những ẩn giấu đó chính là thông qua đức tin vào một vị Chúa của riêng mình .
+Sự bất diệt là duy nhất : nó vừa là sự tồn tại cá nhân , vừa là chung cho tất cả , vì thế , nó là thống nhất vô hình độc đáo giữa người với người .
+Nếu những gì được cho là đã bị phá hủy trên thiên đường là có thể bị hủy diệt , thì điều đó cũng chưa hẳn dứt khoát đúng ; nhưng nếu chúng là bất khả hủy diệt , thì chúng ta đang sống trong một niềm tin giả mạo .
+Tin tưởng là tồn tại , bởi một điều gì đó thẳm sâu trong tồn tại không thể bị hủy diệt .
+Nhưng niềm tin lại là một sự dư thừa , bởi một vị chúa của riêng mình chỉ là phép ẩn dụ cho ý thức của một người về sự bất diệt , cái ý thức hòa hợp mọi bản ngã .
+Chúng ta không gục ngã , cũng không mất đi sự bất tử , bởi vì từ trong căn cốt tồn tại , chúng ta bất diệt .
+Liệu rằng đây chỉ là một sự tô đậm thêm quan niệm của Schopenhauer về ý chí như là vật tự thân , giống với Eros của Freud , hay là Kafka đang đạt tới một điều gì tinh vi , khó nắm bắt hơn ?
+Robertson , lần theo mối liên hệ vốn dĩ không dễ nắm bắt giữa Kafka với Kabbalah , đã tìm thấy trong cách ngôn sau đây của Kafka một phiên bản cho khái niệm tikkun của Issac Luria - việc phục hồi những mảnh vỡ trong con người : Chẳng có điều gì ngoài một thế giới tâm linh ; cái mà chúng ta gọi là thế giới của các giác quan chính là quỷ dữ trong thế giới tâm linh , và cái mà ta gọi là quỷ dữ cũng chỉ là sự cần thiết của một khoảnh khắc trong quá trình tiến hóa vĩnh cửu của chúng ta .
+Quan điểm này nằm lưng chừng giữa thuyết Kabbalah của Luria và thuyết sức sống thần bí của triết gia người Đức vĩ đại , Meister Eckhart .
+Khi đọc và cảm những cách ngôn vĩ đại hơn nữa trong cuốn Sổ tay khổ tám màu xanh ( The Blue Octavo Notebooks ) , tôi đã bàng hoàng : làm sao mà Kafka , trong số tất cả những kẻ trầm tư mặc tưởng tâm linh , lại có thể đầy hi vọng đến thế ?
+Minh chứng thì cho thấy rõ ràng là ông không phải vậy ; bởi như có lần ông đã nói với Max Brod rằng , hi vọng dành cho Chúa , chứ không phải cho chúng ta .
+Hi vọng thuộc về ý thức , cái có thể bị hủy diệt , chứ không thuộc về cái tồn tại bất diệt .
+Bạn không thể kể những câu chuyện , dẫu ngắn gọn , về tồn tại , thậm chí ngay cả khi bạn là Count Leo Tolstoy , người đã tiệm cận với điều đó trong tác phẩm Hadji Murad , nơi nhân vật anh hùng đã nung trộn tồn tại và ý thức của anh ta làm một .
+Ta xem Kafka như một nhà văn kinh điển bậc nhất của thế kỉ bởi tất cả chúng ta chính là hình ảnh thu nhỏ của sự phân cách giữa tồn tại và ý thức - đây chính là chủ thể đích thực , cái chủ thể mà Kafka đã định nghĩa bằng chính con người Do Thái , hay ít nhất và cụ thể hơn , bằng con người Do Thái lưu vong trong ông .
+Trong Beckett , sự phân cách đó lại dường như có cội rễ sâu xa từ Descartes hơn là từ Freud như ở Kafka .
+Nếu hiểu " Jewish " là Do Thái giáo hoặc một truyền thống chính thống mà nó biểu thị thì thuyết nhị nguyên Do Thái là một kiểu của phép nghịch hợp , nó dao động chập chờn trong Freud và Kafka .
+Freud , dĩ nhiên , không biết đến " cái bất diệt " ; ý chí sống cuối cùng cũng nguội tàn đi trong ông .
+Thế nhưng , giống như Nietzsche và Kafka , Freud tin rằng một bản ngã sâu kín có thể được củng cố thêm sức mạnh , rằng Eros có thể trở nên mạnh mẽ hơn để chống lại bản năng chết .
+Ý thức , đối với Freud cũng giống như Nietzsche và Kafka , là sai lầm và ảo tưởng .
+Mặc dù từ chối khái niệm thần bí về tồn tại ( và bác bỏ nó bằng khái niệm " cảm giác đại dương " ) , Freud đã hào hiệp và quyết liệt thay thế nó bằng uy quyền ôn hậu của mình và đề xướng phép chữa trị cho ý thức sai lạc .
+Kafka chối từ mọi quyền năng ( bao gồm cả quyền năng của Freud ) và không đưa ra một liệu pháp chữa trị nào .
+Nhưng ông đã nói cho tồn tại , cho cái bất diệt , theo một cách có lẽ là thuần túy Do Thái , một sự phủ định Do Thái : Tôi thấy mình chẳng mang theo điều gì mà cuộc đời đòi hỏi ngoài sự yếu ớt phổ quát của loài người .
+Với sự yếu ớt đó ( ở khía cạnh nói tới ở đây lại chứng tỏ một sức mạnh phi thường ) , tôi hấp thụ mãnh liệt những nhân tố tiêu cực của thời đại , một thời đại mà , dĩ nhiên , rất gần gũi với tôi , thời đại tôi chưa từng có quyền chống lại mà chỉ có quyền đại diện .
+Một số lượng rất nhỏ cái tích cực , và cái tiêu cực cực đoan đảo ngược thành cái tích cực , là điều mà tôi chẳng được thừa kế .
+Tôi không như Kierkergaard - được dẫn vào đời bằng bàn tay Ki-tô giáo - mà phải thừa nhận là giờ đã uể oải và yếu ớt , và cũng không như những người theo chủ nghĩa Zion - bắt kịp đường viền của chiếc khăn choàng cầu nguyện Do Thái giờ đây đang bay xa khỏi chúng ta .
+Tôi là một sự kết thúc hoặc một sự khởi đầu .
+" Cái tiêu cực cực đoan đảo ngược thành cái tích cực " hẳn phải là một thứ thần học phủ định đang phát triển mạnh , theo tinh thần của những người theo thuyết ngộ đạo , Ki-tô giáo hoặc thuyết Kabbalah dị thường ( như Nathan of Gaza , người tiên tri về đấng Cứu thế giả mạo , Sabbatei Zevi ) .
+Sự phủ định của Kafka tế nhị và nhẹ hơn về sắc độ , vì thế mà phù hợp với tinh thần thời đại .
+Để hình dung cả đường nét và hương vị của điều gây chấn động này , ta có thể truy tìm ở một trong những kiệt tác của Kafka - truyện ngắn Một người thầy thuốc nông thôn ( A Country Doctor ) ( 1917 , bản dịch của J.A.Underwood ) .
+Thật lạ lùng cái cách kể chuyện từ ngôi thứ nhất ; phần lớn câu chuyện được kể bằng thì hiện tại , mặc dù mở đầu tác phẩm dường như gợi về một câu chuyện xưa cũ .
+Nhận một cuộc gọi khẩn từ một bệnh nhân đang nguy kịch từ cách xa mười dặm , trong thời tiết mùa đông khắc nghiệt , người thầy thuốc nông thôn không có ngựa , hoặc giả ông nghĩ vậy .
+Lạ lùng thay , từ cái chuồng lợn bỏ hoang trong ngôi nhà thầy thuốc bỗng bật tung , lộ ra một gã chăn ngựa cục súc , thú tính và hai con ngựa cường tráng tuyệt vời .
+Tên chăn ngựa , ngay trước khi thắng ngựa vào xe , đã bắt đầu tấn công cô hầu gái Rosy , tàn bạo cắn lên má cô .
+Khi người thầy thuốc bị cuốn vù đi gần như không kiểm soát nổi bởi những con ngựa khổng lồ , tên chăn ngựa cạy tung cánh cửa tiếp tục hãm hiếp cô hầu gái Rosy đang kinh hãi , người mà cái tên sẽ còn trở đi trở lại như sự miêu tả vết thương mà người thầy thuốc sẽ phải đương đầu mà không mong gì chữa nổi .
+Bệnh nhân , một anh nông dân , cũng chẳng kém phần lạ lùng và khó chịu hơn vết thương của mình .
+Tính chất huyễn hoặc tồn tại khắp nơi ; những người nông dân lột trần người thầy thuốc , hát những lời đe dọa , rồi đặt ông trần truồng trên giường chàng trai .
+Bị bỏ lại với bệnh nhân của mình , người thầy thuốc , sau khi bị anh ta đe dọa , đã tẩu thoát trên lưng ngựa với chiếc xe , với mớ quần áo mắc lòng thòng sau xe , nhưng lần này là với sự từ từ khủng khiếp khi so sánh với tốc độ siêu phàm của cuộc hành trình : Cứ thế này thì chẳng bao giờ tôi về được đến nhà ; cơ đồ hưng thịnh của tôi đã mất ; tay kế nhiệm đang ăn cướp của tôi , nhưng vô ích thôi bởi lẽ hắn không thể thế chỗ tôi ; ngay trong nhà tôi , gã chăn ngựa súc sinh kia đang hoành hành ; Rosy là nạn nhân của gã ; thôi tôi không mường tượng thêm nữa .
+Trần trụi , phô tấm thân trong băng giá vào thời khắc khổn khổ nhất này , trên cỗ xe trần thế và lũ ngựa siêu phàm , một lão già , chính là tôi , lang thang .
+Chiếc áo khoác lông đang treo ở sau xe nhưng tôi không thể nào với tới , và không ai trong đám bệnh nhân tráo trở thèm nhúc nhích lấy một ngón tay .
+Bị lừa !
+Bị gạt !
+Một khi đã đáp lại tiếng chuông dối trá ban đêm , thì chẳng đời nào còn cứu vãn nổi .
+Người thầy thuốc nông thôn , cũng như những nhân vật chính khác của Kafka - người cưỡi xô , thợ săn Gracchus , nhân viên đạc điền K. , cuối cùng không sống không chết , không chuyển động có ý hướng cũng không đứng yên .
+Những dự đoán của họ và của chúng ta bị ngăn trở bởi nghĩa đen , bởi địa hạt của sự thật .
+Chúng ta không biết liệu rằng Kafka có ám chỉ thân phận Do Thái trong thời đại và không gian ông sống hay chính địa vị nhà văn của ông trong đó hay không .
+Theo một cách nào đó , chúng ta có thể hiểu Kafka tự có cách thức phủ định của riêng mình : về mặt nhận thức , có một sự giải thoát khỏi mọi trạng thái kìm nén , và định mệnh của người thầy thuốc nông thôn kia là một thí dụ theo một cách rất Do Thái , hoặc định mệnh đó gợi nghĩ về cái giá mà Kafka phải trả cho thử nghiệm khẳng định với tư cách nhà văn của mình .
+Về mặt lí trí thì những giải thích trên là khả dĩ , thậm chí có tính gợi mở , nhưng về mặt tình cảm thì chúng không hề thuyết phục .
+Có một sự thiếu hụt cảm xúc đến mức kì quặc ở người thầy thuốc nông thôn , thực ra là trong toàn bộ câu chuyện của y .
+Một khi người đọc vẫn còn bận tâm tới câu chuyện thì trạng thái ức chế vẫn cứ dai dẳng trong họ ; không nhân vật nào của Kafka lại dễ mến hay dễ cảm thông , hoặc ít nhất không nhân vật nào dễ cảm hơn nhân vật nào .
+Có thể nhận thức rằng tình thế nan giải của người thầy thuốc nông thôn biết đâu cũng chính là tình thế của chúng ta , nhưng để đồng điệu với cảm xúc với y thì quả thật là khó .
+Những gì xảy ra với y vừa kì ảo vừa tất yếu .
+Nó có khả năng và đôi khi có thể trở thành của chính chúng ta , nhưng không ai sẽ chia sẻ với ta niềm xúc cảm bi ai , cũng chính như chúng ta không thể sẻ chia với người thầy thuốc .
+Một sự khởi đầu tùy tiện - đáp lại tiếng chuông giả dối trong đêm - mang đến những hậu quả tất yếu ở thì hiện tại vĩnh hằng , và thế là không đời nào còn cứu vãn nổi .
+Phạm trù " tính chất Kafka " tạo thành một hình thức mới của cái từng được gọi là " cái nghịch dị " và nó thâm nhập vào cuộc sống đời thường cũng mạnh mẽ như trong văn chương .
+Một người thầy thuốc nông thôn có điều gì đó gần như một câu chuyện có sức mạnh ma quái , nó nhắc nhở chúng ta rằng cái ma quái hay lạ lùng đích thực luôn có thể đạt đến được trạng thái kinh điển .
+Nietzsche đã khăng khăng rằng chỉ có nỗi đau mới có thể mang đến sự tưởng nhớ .
+Từ khía cạnh văn chương , điều này có thể giải thích hiệu ứng gây chấn động kéo dài của Một người thầy thuốc nông thôn , nơi mà nỗi đau dồn xoáy vào chính sự thiếu vắng cảm xúc .
+Đó là món quà độc đáo và kì lạ bậc nhất mà Kafka lấy lại từ sự quên lãng của người đọc , nó để lại trong lòng người đọc cảm giác mình sẽ vẫn cứ quên đi cảm giác của chính mình khi trải nghiệm những điều lạ lùng này .
+Gần bảy mươi năm sau khi mất , Kafka dường như vẫn hơn bao giờ hết , là tác gia trung tâm của Thời đại Hỗn loạn , dẫu rằng , khi dòng thời gian cuốn đi một nghìn năm nữa , có thể có một Thời đại Thần quyền mới sẽ nhấn chìm chúng ta .
+Vụ án và Lâu đài dĩ nhiên không sánh được với ngôi vị thẩm mỹ của Đi tìm thời gian đã mất hay Ulysses và Finnegans thức giấc .
+Nhưng những tác phẩm ngắn gọn tuyệt tác nhất của Kafka - truyện ngắn , truyện rất ngắn , cách ngôn - lại vượt xa Proust và Joyce trong việc đem tới cho chúng ta một sức mạnh tinh thần không hề phụ thuộc vào tín ngưỡng hay ý thức hệ .
+Không tồn tại cái gọi là cái bất diệt trong Proust và Joyce , trong Flaubert hay Henry James , tất cả họ đều trở thành những thầy tu cho bản thân tiểu thuyết và họ cũng chỉ là những thầy tu của nhận thức và hiểu biết như Walter Pater .
+Nếu có một điều gì bí ẩn ở Kafka , đó là vì sao ông và những trang viết của ông giờ đây lại có một thẩm quyền tâm linh đối với nhiều người trong chúng ta đến vậy , điều mà Wordsworth và Tolstoy từng có một thời .
+Có lẽ một ngày , cái hương vị tôn giáo lạ kì ở Kafka sẽ phai nhạt đi , nhưng nó sẽ không biến mất .
+Chưa từng có một vị thần hiển linh nào trong Kafka ; bản giao ước duy nhất mà ông tin cậy chính là bản giao ước với chính trang viết của mình .
+Tôi từng nghĩ rằng vị trí tâm linh của Kafka chủ yếu xuất phát từ tính chất hồi cố của phê bình , nó na ná như cái cách người ta xem Dante như một nhà văn Công giáo bất kể lòng mộ đạo ông dành riêng cho Beatrice , và xem Milton như một nhà thơ Tin lành bất kể niềm tin của ông vào Thuyết sự chết ( Mortalism ) và khát vọng duy nhất của ông được trở thành một phần của dị giáo đó .
+Tương tự như vậy , Kafka , với tất cả những ray rứt Do Thái giáo , dường như là nhà văn Do Thái , Do Thái hơn bất cứ ai kể từ sau Kinh Thánh Do Thái .
+Nhưng mô tả như vậy đã đánh giá thấp tính chất toàn cầu của Kafka trong thế kỉ này .
+Ông là biểu tượng cho thiên hướng truy tìm tinh thần của nhà văn , những cách ngôn của ông còn đọng lại trong ta với những vang vọng của uy quyền .
+Lời bình luận trên , bởi vậy , có vẻ giống như dành cho ai khác hơn là dành cho Kafka ?
+Vậy cần nói tới ẩn dụ của Kafka về " cái bất diệt " .
+Thuyết sức sống của riêng Tolstoy đã dấy lên một nguồn cảm hứng tráng lệ về sự sống , làm tiêu tan những gì xưa cũ .
+Ở Kafka có một dòng sức mạnh dai dẳng mà lặng lẽ , nhưng cũng như người thợ săn Gracchus , ông không hề chống lại cái chết .
+Bất kể " cái bất diệt " là gì đi nữa , thì cũng không cần thiết tìm kiếm hình ảnh nào của sự bất tử .
+Liệu có điều gì mang tính chất Thánh Kinh ở việc ông chẳng mấy quan tâm đến thế giới bên kia , cũng ít ưu tư tới Yahwist hay các đấng tiên tri .
+Nếu Kafka có một ý niệm gì về phúc lành , như một món quà giấu kín , thì ông cũng không cho phép ta biết nó là gì .
+Dĩ nhiên Vụ án và Lâu đài không thể ban phúc lành , thậm chí cả khi giả sử chúng có muốn vậy .
+Không có việc ban phước lành trong Kafka .
+Một kiếp sống ở thế giới bên kia , trong một thời gian không biên giới , không hề tồn tại trong vũ trụ của Kafka .
+Vậy sự bất diệt là gì nếu không phải là sự bất tử lẫn phúc lành ?
+Đó không phải là quyền năng tinh thần trong ý chí sống của Schopenhauer , trong địa hạt bản năng của Freud , cũng không hẳn bắt rễ từ thuyết Kabbalah của Luria .
+Với sự phủ định của mình , Kafka có những mối ưu tư nhất định với những đức tin tôn giáo .
+Ông không chấp nhận sự quy giản của Freud rằng những thôi thúc tôn giáo đơn thuần là niềm khao khát , hoài vọng người cha .
+Nhưng những cách ngôn của ông không bao giờ để hiển lộ khái niệm " cái bất diệt " , việc cắt nghĩa nó là một thách thức với cả những đầu óc phê bình tinh bén nhất .
+Trong một bức thư gửi Milena , Kafka bày tỏ cách hiểu của ông về sự bất diệt như là " chốn neo đậu trên mảnh đất trần gian " và sự bất diệt là điều gì đó ngoài những ám ảnh riêng tư .
+Đối với ông , nó là sự kết nối thực sự giữa người và người , là biểu hiện bản thể bí ẩn sâu thẳm nhất trong họ .
+Tôi đành gọi khái niệm này là lòng ngộ đạo , nhưng dĩ nhiên nó không phải là chủ nghĩa ngộ đạo , bởi nó khước từ mọi ý niệm về một Đấng sáng thế , cho dù Đấng sáng thế đó xa xôi hay ẩn giấu trong vực sâu nguyên thủy .
+Cái mà Kafka khẳng định , sự bất diệt , nằm ở ngay chính thuộc tính nguyên thủy của con người , giống thánh thần nhưng đầy thế tục .
+Thế nhưng Kafka không phải là một vị thánh hay một nhà thần bí ; ông chẳng được xếp vào hợp tuyển Triết lý vĩnh cửu ( The Perennial Phylosophy ) - một cuốn sách đẹp đẽ nhưng quá lý tưởng của Aldous Huxley .
+Cũng giống như Freud , Kafka là kẻ cầm bút của thuyết Phủ định , nhưng phương thức phủ định của ông biện chứng hơn Freud .
+Uy quyền của sự thực vốn bị Hegel bác bỏ đã được hai tác gia Do Thái tôn trọng sâu sắc , có điều so với Freud , ở Kafka phạm vi nhận thức sự thực rộng hơn .
+Đối với Kafka , nhận thức về cốt lõi của sự bất diệt chính là sự thực , giống như thiên chức nhà văn của ông .
+Có lẽ đó chính là bằng chứng cho vị trí điển phạm tinh thần của Kafka : ông không phải là một nhà văn tôn giáo , nhưng ông đã biến văn chương thành tôn giáo .
+Trong sự biến chuyển đó , không cần phải có một nhân tố Lãng mạn hay Hiện đại khác thường nào , như khi tôi đã nói trong phần bàn luận về Dante .
+Nếu như Pascal từng đặt cược với đức tin thì những nhà văn nuôi tham vọng trở thành nhà văn kinh điển cũng thường đặt cược vào trang viết của mình .
+Liệu trong trường hợp này , Shakespeare , một lần nữa , có phải là một ngoại lệ xuất chúng không ?
+Tôi thì không cho là vậy : Shakespeare đã dọn đường cho Milton và Goethe , cho Ibsen và Joyce , bằng cách ngầm đặt toàn bộ đức tin vào chính nghệ thuật của riêng mình .
+Sẽ là một thử nghiệm táo bạo và hão huyền nếu muốn biến nhà soạn kịch Shakespeare trở thành một tín đồ Ki-tô giáo .
+Bất kể Shakespeare tin tưởng hay nghi hoặc kiểu người gì , thì Hamlet của ông vẫn không thể là một người anh hùng Ki-tô giáo , và toàn thế giới của Othello , Lear và Macbeth đều gần với Saman giáo hơn là Ki-tô giáo .
+Iago , Edmund và Macbeth đem lại một ấn tượng kì quặc nhưng đầy thuyết phục rằng mỗi một kẻ trong họ là hiện thân hoàn hảo của những điều cực kì đen tối ẩn tàng trong thế giới .
+Phía tăm tối trong bản chất Hamlet đã tạo nên một mẫu hình bi kịch Shakespeare .
+Thế giới bị rời vỡ , và kẻ thiết lập công lý của nó , Hamlet , cũng vậy .
+Kafka , có lẽ dưới ảnh hưởng của Goethe , thừa hưởng cách cảm nhận của người Đức về nhân vật Hamlet như một người anh hùng quá phức tạp và nhạy cảm để có thể chiến thắng trong cái thế giới rối ren vá víu này .
+Sự khác biệt của Kafka đối với Hamlet của Goethe là ông đã biến sự yếu đuối đó trong Hamlet thành sự táo bạo đến khó cảm trong cái tư thế dấn tới tòa án và lâu đài của Joseph K. và anh nhân viên đạc điền K.
+Sự biến chuyển đó sẽ tiếp tục được đẩy lên nữa trong vở Tàn cuộc ( Endgame ) , nơi mà Samuel Beckett làm sống lại một Hamlet theo phương thức của Kafka .
+Ham của Beckett gần gũi với Joseph K. hơn là anh chàng Hamlet hiền lành của Goethe , một kẻ không tội lỗi , một kẻ khác với Hamlet của Shakespeare , không có năng lực tự cảm thấy tội lỗi vì những tội ác có thật của mình : ngộ sát tên tọc mạch Polonius , tráo mật lệnh kết liễu Rosencrantz và Guildenstern khốn khổ , và tồi tệ hơn cả , là dồn đẩy Ophelia nghiệt ngã tới mức nàng phát điên và tự vẫn .
+Hamlet chịu đựng cảm giác tội lỗi vì hành động giết người anh ta chưa kịp thực hiện .
+Về vấn đề này , Kafka tỏ ra sắc sảo hơn Goethe , ông dường như hiểu cảm giác tội lỗi đó trong Shakespeare là điều không cần phải nghi vấn và là tiền thân cho mọi tội ác thực sự .
+Không phải tội tổ tông trong Ki-tô giáo mà chính cảm giác vô thức về tội lỗi kiểu Shakespeare và Freud mới là quy luật trong thế giới Kafka .
+Tội lỗi chiếm một quyền ưu tiên trong Kafka bởi nó là cái giá ta phải đánh đổi cho " sự bất diệt " ; thực sự , đối với Kafka , chúng ta mang tội bởi bản ngã sâu kín nhất của chúng ta là cái bất diệt .
+Tôi ngờ rằng tính chất khó nắm bắt cũng như tính chất tượng trưng ở văn Kafka chính là sự phòng vệ của ông cho ý thức của mình về cái bất diệt , một ý thức mà sau này được truyền lại tốt nhất ở Beckett trong những tác phẩm như Tàn cuộc ( Endgame ) , Cuốn băng cuối cùng của Krapp ( Krapp 's Last Tape ) , Malone chết ( Malone Dies ) , và Như điều đó ( How it is ) .
+Cái bất diệt không phải luôn chiếm phần thắng , nhưng như Beckett nói , nó là sự dấn tới ngay khi bạn không thể tiếp tục bước đi .
+Trong Kafka , sự dấn tới hầu như luôn được diễn tả dưới hình thức phúng dụ : cuộc dấn thân không ngơi nghỉ của K. vào lâu đài , chuyến hành trình bất tận của Gracchus trên con thuyền chết , chuyến bay của người cưỡi xô vào dãy núi băng , chuyến xe của người thầy thuốc nông thôn về nơi vô định .
+" Cái bất diệt " trú ngụ trong ta như một niềm hi vọng hay một cuộc truy tìm , nhưng bởi những nghịch lý vốn luôn ác nghiệt ở Kafka , sự hiện hình của nỗ lực đó lại tất yếu trở thành sự hủy diệt , cụ thể là sự tự hủy diệt .
+Lòng nhẫn nại không hẳn chỉ là bản tính , phẩm hạnh của Kafka mà hơn thế , nó trở thành nguồn sống duy nhất , tựa như lòng nhẫn nại kinh điển của người Do Thái .

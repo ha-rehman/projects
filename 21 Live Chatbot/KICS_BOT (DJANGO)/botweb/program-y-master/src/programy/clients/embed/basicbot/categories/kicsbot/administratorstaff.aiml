@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+<pattern># ADMINISTRATOR STAFF ^ KICS ^</pattern>
+<template>
+    <olist>
+        <item>Mr. Faisal Mehboob(Marketing Officer)</item>
+        <item>Mr. Hassan Khan(Marketing Officer)</item>
+        <item>Mr. Muhammad Ali(Senior HR Officer)</item>
+        <item>Ms. Zonera Aslam(Exam Administrator)</item>
+        <item>Mr. Aamir Mughal(Sr. Admin / Procurement Officer)</item>
+        <item>Mr. Amir Shahzad(Accounts Officer)</item>
+        <item>Mr. Dilshad Ali(Sr. Admin / Procurement Officer)</item>
+        <item>Mr. Muhammad Usman(Admin Officer)</item>
+        <item>Mr. Rizwan Ahmad Bhatti(HR Assistant)</item>
+        <item>Mr. Umair Farooq(Admin Assistant)</item>
+        <item>Mr. Waqas Sardar(Admin Officer)</item>
+        <item>Ms. Arooj Bint-e-Tariq(Account Assistant)</item>
+        <item>Ms. Kashaf Shahzad(Admin Officer)</item>
+        <item>Dr. Shehzad Ali Khan(Medical Officer)</item>
+        <item>Mr. Shahid Zulfiqar(Program Officer)</item>
+        <item>Ms. Anam Anwar(Program Officer)</item>
+        <item>Mr. Aisha Noreen(Front Desk Officer)</item>
+        <item>Ms. Saima Kanwal(Front Desk Officer)</item>
+        <item>Mr. Faisal Shakoor(Office Assistant)</item>
+        <item>Mr. Muhammad Munir(Office Assistant)</item>
+        <item>Mr. Muhammad Wasim(Graphic Designer)</item>
+        <item>Mr. Fahad Ghayyur(Assistant Marketing Officer)</item>
+    </olist>
+    <button>
+        <text> learn more about</text>
+       <url>https://www.kics.edu.pk/people/all_staff</url>
+    </button>
+ </template>
+</category>
+
+<category>
+    <pattern># Administrative Staff ^ KICS ^</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+
+<category>
+    <pattern>Administrator staff</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+<category>
+    <pattern>Administrator staff *</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+<category>
+    <pattern>* Administrator staff *</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+<category>
+    <pattern># ADMIN ^ STAFF ^ KICS ^</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+<category>
+    <pattern># KICS ^ ADMIN ^ STAFF ^</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+<category>
+    <pattern># STAFF ^ ADMIN ^</pattern>
+    <template><srai>ADMINISTRATOR STAFF KICS</srai></template>
+</category>
+</aiml>

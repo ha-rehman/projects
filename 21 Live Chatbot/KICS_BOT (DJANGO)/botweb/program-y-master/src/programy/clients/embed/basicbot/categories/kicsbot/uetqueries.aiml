@@ -1,0 +1,3995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+<category>
+    <pattern># UET ^</pattern>
+    <template>
+        The University of Engineering and Technology, Lahore (UET Lahore) is a public university located in Lahore, Punjab, Pakistan specializing in science, technology, engineering and mathematics (STEM) subjects. It is the oldest and one of the most selective engineering institutions in Pakistan.
+        <br /><br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://uet.edu.pk/</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># University ^ Engineering ^ Technology ^</pattern>
+    <template>
+        The University of Engineering and Technology, Lahore (UET Lahore) is a public university located in Lahore, Punjab, Pakistan specializing in science, technology, engineering and mathematics (STEM) subjects. It is the oldest and one of the most selective engineering institutions in Pakistan.
+        <br /><br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://uet.edu.pk/</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># HISTORY ^ UET ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># ESTABLISH ^ UET ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># ESTABLISHED ^ UET ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># FOUND ^ UET ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># FOUNDS ^ UET ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+
+
+
+<category>
+    <pattern># UET ^ HISTORY ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># UET ^ ESTABLISH ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># UET ^ ESTABLISHED ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># UET ^ FOUND ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+<category>
+    <pattern># UET ^ FOUNDS ^</pattern>
+    <template>Founded in 1921 in Mughalpura, a suburban area of Lahore, as Mughalpura Technical College, it later became the 'MacLagan Engineering College', a name given to it in 1923 when Sir Edward Douglas MacLagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block.</template>
+</category>
+
+
+
+<category>
+    <pattern># CONTACT ^ UET ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># PHONE ^ UET ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># TALK ^ UET ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+
+<category>
+    <pattern># UET ^ CONTACT ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># UET ^ PHONE ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category> 
+<category>
+    <pattern># UET ^ TALK ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+
+
+<category>
+    <pattern># WHERE ^ UET ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># ADDRESS ^ UET ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># UET ^ ADDRESS ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># LOCATION ^ UET ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+<category>
+    <pattern># UET ^ LOCATED ^</pattern>
+    <template>University of Engineering and Technology, Lahore<br /> Address: G. T. Road, Staff Houses Engineering University Lahore, Lahore, Punjab 39161 <br /> Phone: (042) 99029216 <br /> info@uet.edu.pk </template>
+</category>
+
+
+
+<category>
+    <pattern># WEBSITE ^ UET ^</pattern>
+    <template> 
+    <button>
+        <text>UET website is</text>
+        <url>https://www.uet.edu.pk/</url>
+    </button>
+        
+    </template>
+</category>
+
+
+<category>
+    <pattern># UET ^ WEBSITE ^</pattern>
+    <template> 
+    <button>
+        <text>UET website is</text>
+        <url>https://www.uet.edu.pk/</url>
+    </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># HEAD ^ UET ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># UET ^ HEAD ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># vice chancellor ^ UET ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># UET ^ vice chancellor ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># VC ^ UET ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># VICE CHANCELLOR ^ UET ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern>#  UET ^ VICE CHANCELLOR ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># VICE CHANCELLOR ^ University of Engineering and Technology ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern>#  University of Engineering and Technology ^ VICE CHANCELLOR ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+<category>
+    <pattern># UET ^ VC ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+
+<category>
+    <pattern># MANSOOR ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+
+<category>
+    <pattern># MANSOOR SARWAR ^</pattern>
+    <template>Prof. Dr. Mansoor Sarwar, is the Vice Chancellor of University of Engineering and Technology, Lahore</template>
+</category>
+
+
+<category>
+    <pattern># CONTACT ^ HEAD ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br /> Muhammad Affan Nawaz <br /> Phone: 99250201/99029205 <br /> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># PHONE ^ HEAD ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br /> Muhammad Affan Nawaz <br /> Phone: 99250201/99029205 <br /> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># CONTACT ^ VC ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br /> Muhammad Affan Nawaz <br /> Phone: 99250201/99029205 <br /> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># PHONE ^ VC ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br /> Muhammad Affan Nawaz <br /> Phone: 99250201/99029205 <br /> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># talk ^ VC ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br /> Muhammad Affan Nawaz <br /> Phone: 99250201/99029205 <br /> email: svc@uet.edu.pk</template>
+</category>
+
+
+
+<category>
+    <pattern># CONTACT ^ vice chancellor ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># PHONE ^ vice chancellor ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># TALK ^ vice chancellor ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern># TALK ^ HEAD ^ UET ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># HEAD ^ UET ^ CONTACT ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># CONTACT ^ MANSOOR SARWAR ^</pattern>
+      <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># TALK ^ MANSOOR SARWAR ^</pattern>
+       <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>  
+<category>
+    <pattern># PHONE ^ MANSOOR SARWAR ^</pattern>
+      <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># MANSOOR SARWAR ^ CONTACT ^</pattern>
+      <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+<category>
+    <pattern># MANSOOR SARWAR ^ TALK ^</pattern>
+      <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>  
+<category>
+    <pattern># MANSOOR SARWAR ^ PHONE ^</pattern>
+    <template>If you want to talk with Dr. Mansoor Sarwar, first you can take an appointment from Secretary to Vice Chancellor <br/> Muhammad Affan Nawaz <br/> Phone: 99250201/99029205 <br/> email: svc@uet.edu.pk</template>
+</category>
+
+<category>
+    <pattern># contact ^ vice chancellor ^</pattern>
+    <template>
+        <srai>contact vice chancellor uet</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># email ^ vice chancellor ^</pattern>
+    <template>
+        Email Id of Vice Chancellor is : vc@uet.edu.pk
+    </template>
+</category>
+    
+    
+
+<!--Sir, 1st merit list is displayed yet-->
+<category>
+    <pattern>Sir 1st merit list is displayed yet</pattern>
+    <template>Not sure, please see admission website.</template>
+</category>
+<category>
+    <pattern># merit list ^</pattern>
+    <template>Not sure, please see admission website.</template>
+</category>
+<!--I have forgot my LMS credentials? What’s next-->
+<category>
+    <pattern>I have forgot my LMS credentials What’s next</pattern>
+    <template>Please approach CQI Cell.</template>
+</category>
+<category>
+    <pattern># forgot ^ LMS ^</pattern>
+    <template>Please approach CQI Cell.</template>
+</category>
+<category>
+    <pattern># forget ^ LMS ^</pattern>
+    <template>Please approach CQI Cell.</template>
+</category>
+<!-- What are credentials rules for smart university WiFi connection-->
+<category>
+    <pattern>What are credentials rules for smart university WiFi connection</pattern>
+    <template>Provided as per list to authorized person.</template>
+</category>
+<!--Timetable inquiry where is timetable notice where timetable notice is displayed-->
+<category>
+    <pattern>where timetable notice is displayed</pattern>
+    <template>Timetable is available on the notice board however we can inform about existence of rooms or labs</template>
+</category>
+<category>
+    <pattern># Timetable inquiry ^</pattern>
+    <template>Timetable is available on the notice board however we can inform about existence of rooms or labs</template>
+</category>
+<category>
+    <pattern># timetable notice ^</pattern>
+    <template>Timetable is available on the notice board however we can inform about existence of rooms or labs</template>
+</category>
+<category>
+    <pattern># timetable ^</pattern>
+    <template>Timetable is available on the notice board however we can inform about existence of rooms or labs</template>
+</category>
+<!--where is timetable notice?-->
+<category>
+    <pattern>where is timetable notice</pattern>
+    <template><srai>
+        Timetable inquiry where is timetable notice where timetable notice is displayed
+    </srai></template>
+</category>
+
+<!--All information about Scholarship how to get scholarship where we will apply for scholarship where will upload the lists of selected students for scholarship-->
+<category>
+    <pattern># scholarship ^</pattern>
+    <template>Contact in the office of FA and CS financial aid and carrier services</template>
+</category>
+
+<category>
+    <pattern>All information about Scholarship</pattern>
+    <template>Contact in the office of FA and CS financial aid and carrier services</template>
+</category>
+<category>
+    <pattern>where we will apply for scholarship</pattern>
+    <template>Contact in the office of FA and CS financial aid and carrier services</template>
+</category>
+<category>
+    <pattern>where will upload the lists of selected students for scholarship</pattern>
+    <template>Contact in the office of FA and CS financial aid and carrier services</template>
+</category>
+
+
+
+<!--Result inquiry information about result-->
+<category>
+    <pattern># information about result ^</pattern>
+    <template>Related to department contact with PA office or with Gulnwaz sb. And related to examination branch may contact to controller of examination (examination branch) in admin block 042-99029235.</template>
+</category>
+<!--Information about leaves what is procedure to get leave-->
+<category>
+    <pattern>Information about leaves what is procedure to get leave</pattern>
+    <template>Contact to Tariq sb in CS to get information about leave. Contact with concerned personality if you belong to any other department excepted to computer science.</template>
+</category>
+<category>
+    <pattern># procedure to get leave ^</pattern>
+    <template>Contact to Tariq sb in CS to get information about leave. Contact with concerned personality if you belong to any other department excepted to computer science.</template>
+</category>
+<!--How to make clearance-->
+<category>
+    <pattern>How to make clearance ^</pattern>
+    <template>Get Clearance Form from Star Copy, got signatures from all mention departments before going to dues section.</template>
+</category>
+
+<category>
+    <pattern># clearance ^</pattern>
+    <template>Get Clearance Form from Star Copy, got signatures from all mention departments before going to dues section.</template>
+</category>
+<!--How to apply for clearance-->
+<category>
+    <pattern>How to apply for clearance ^</pattern>
+    <template><srai>
+        How to make clearance
+    </srai></template>
+</category>
+
+<!--Where to get form for clearance-->
+<category>
+    <pattern>Where to get form for clearance</pattern>
+    <template>Get Clearance Form from Star Copy.</template>
+</category>
+
+<!--What is procedure for clearance-->
+<category>
+    <pattern>What is procedure for clearance</pattern>
+    <template>Get Clearance Form from Star Copy, got signatures from all mention departments before going to dues section.</template>
+</category>
+
+<category>
+    <pattern>What is the procedure for clearance *</pattern>
+    <template><srai>What is procedure for clearance</srai></template>
+</category>
+<!--Where to apply for provisional certificate-->
+<category>
+    <pattern>Where to apply for provisional certificate</pattern>
+    <template>Contact Student Section (042-99029281-470)</template>
+</category>
+<category>
+    <pattern># apply for provisional certificate ^</pattern>
+    <template>Contact Student Section (042-99029281-470)</template>
+</category>
+<!--What is procedure to apply provisional certificate-->
+<category>
+    <pattern>What is procedure to apply provisional certificate</pattern>
+    <template> <srai>
+            What documents are required for BSc undergraduate bachelors  provisional certificate
+        </srai></template>
+</category>
+
+<category>
+    <pattern># procedure ^ provisional certificate ^</pattern>
+    <template> <srai>
+            What documents are required for BSc undergraduate bachelors  provisional certificate
+        </srai></template>
+</category>
+
+<category>
+    <pattern># apply provisional certificate ^</pattern>
+    <template> <srai>
+            What documents are required for BSc undergraduate bachelors  provisional certificate
+        </srai></template>
+</category>
+<category>
+    <pattern># provisional certificate ^</pattern>
+    <template> <srai>
+            What documents are required for BSc undergraduate bachelors  provisional certificate
+        </srai></template>
+</category>
+
+
+<!--Where to submit application for provisional certificate-->
+<category>
+    <pattern>Where to submit application for provisional certificate</pattern>
+    <template>Student Section</template>
+</category>
+<category>
+    <pattern># submit application ^ provisional certificate ^</pattern>
+    <template>Student Section</template>
+</category>
+	
+<!--How to apply for admission cancellation-->
+<category>
+    <pattern>How to apply for admission cancellation</pattern>
+    <template>Get Clearance Form from Star Copy, get signatures from all mention departments before going to dues section and also mention on clearance form how much semesters registered on lms from department coordinator. </template>
+</category>
+<category>
+    <pattern># admission cancellation ^</pattern>
+    <template>Get Clearance Form from Star Copy, get signatures from all mention departments before going to dues section and also mention on clearance form how much semesters registered on lms from department coordinator. </template>
+</category>
+	
+<!--How can I cancel my admission-->
+<category>
+    <pattern>How can I cancel my admission</pattern>
+    <template><srai>
+        How to apply for admission cancellation
+    </srai></template>
+</category>
+<category>
+    <pattern># cancel ^ admission ^</pattern>
+    <template><srai>
+        How to apply for admission cancellation
+    </srai></template>
+</category>
+	
+<!--How to freeze semester-->
+<category>
+    <pattern>How to freeze semester</pattern>
+    <template>By the recommendation of The Chairman and Dean</template>
+</category>
+
+<category>
+    <pattern># freeze ^ semester ^</pattern>
+    <template>By the recommendation of The Chairman and Dean</template>
+</category>
+<category>
+    <pattern># semester ^ freeze ^</pattern>
+    <template>By the recommendation of The Chairman and Dean</template>
+</category>
+	
+<!--Can I freeze my semester-->
+<category>
+    <pattern>Can I freeze my semester *</pattern>
+    <template><srai>
+        How to freeze semester
+    </srai></template>
+</category>
+	
+<!--Will I have to pay fee for semester freeze-->
+<category>
+    <pattern>Will I have to pay fee for semester freeze</pattern>
+    <template>Yes Rs.5000/- Challan get from Dues Section.</template>
+</category>
+<category>
+    <pattern># fee ^ semester freeze ^</pattern>
+    <template>Yes Rs.5000/- Challan get from Dues Section.</template>
+</category>
+<category>
+    <pattern># semester freeze ^ fee ^</pattern>
+    <template>Yes Rs.5000/- Challan get from Dues Section.</template>
+</category>
+	
+<!--Where to submit form for semester freeze-->
+<category>
+    <pattern>Where to submit form for semester freeze</pattern>
+    <template>Download prescribe form available at UET website recommendation from Chairman and Dean.</template>
+</category>
+<category>
+    <pattern># submit form ^ semester freeze ^</pattern>
+    <template>Download prescribe form available at UET website recommendation from Chairman and Dean.</template>
+</category>
+
+<!--Is there any fee for semester freeze-->
+<category>
+    <pattern>Is there any fee for semester freeze</pattern>
+    <template><srai>
+        Will I have to pay fee for semester freeze
+    </srai></template>
+</category>
+
+<!--How unfreeze semester-->
+<category>
+    <pattern>How unfreeze semester</pattern>
+    <template>Get letter from Student Section.</template>
+</category>
+<category>
+    <pattern># unfreeze ^ semester ^</pattern>
+    <template>Get letter from Student Section.</template>
+</category>
+<category>
+    <pattern># semester ^ unfreeze ^</pattern>
+    <template>Get letter from Student Section.</template>
+</category>
+
+<!--Where to get admission fee voucher-->
+<category>
+    <pattern>Where to get admission fee voucher</pattern>
+    <template>Student Login on LMS</template>
+</category>
+<category>
+    <pattern># admission fee voucher ^</pattern>
+    <template>Student Login on LMS</template>
+</category>
+<category>
+    <pattern>#  fee voucher ^ admission ^</pattern>
+    <template>Student Login on LMS</template>
+</category>
+
+<!--How can I get admission fee voucher-->
+
+<category>
+    <pattern>How can I get admission fee voucher</pattern>
+    <template>Admission fee Voucher will be available on student account when he will be applied for admission.</template>
+</category>
+
+<!--I have lost my fee voucher how can I update my dues-->
+<category>
+    <pattern>I have lost my fee voucher how can I update my dues</pattern>
+    <template>Contact dues section.</template>
+</category>
+
+
+<!--I have lost my paid fee voucher, what can I do now-->
+<category>
+    <pattern>I have lost my paid fee voucher, what can I do now</pattern>
+    <template><srai>I have lost my fee voucher how can I update my dues</srai></template>
+</category>
+
+<category>
+    <pattern># paid fee voucher ^</pattern>
+    <template><srai>I have lost my fee voucher how can I update my dues</srai></template>
+</category>
+
+<!--Is it compulsory to clear thesis within four semesters 2 years duration-->
+<category>
+    <pattern>Is it compulsory to clear thesis within four semesters 2 years duration</pattern>
+    <template>No</template>
+</category>
+<category>
+    <pattern># clear thesis ^ four semesters ^</pattern>
+    <template>No</template>
+</category>
+<category>
+    <pattern># clear thesis ^ 4 semesters ^</pattern>
+    <template>No</template>
+</category>
+<category>
+    <pattern># clear thesis ^ 2 years ^</pattern>
+    <template>No</template>
+</category>
+<category>
+    <pattern># clear thesis ^ two years ^</pattern>
+    <template>No</template>
+</category>
+
+
+<!--What are Maximum semester to clear thesis-->
+<category>
+    <pattern>What are Maximum semester to clear thesis</pattern>
+    <template>Eight Semester Degree Time period.</template>
+</category>
+<category>
+    <pattern># Maximum ^ clear thesis ^</pattern>
+    <template>Eight Semester Degree Time period.</template>
+</category>
+
+<category>
+    <pattern>What are the Maximum semester to clear thesis</pattern>
+    <template><srai>What are Maximum semester to clear thesis</srai></template>
+</category>
+
+<!--Will I have to pay full fee after four semesters in MSc MPhil postgraduate if I register subject-->
+
+<category>
+    <pattern>Will I have to pay full fee after four semesters in MSc MPhil postgraduate if I register subject</pattern>
+    <template>Yes, full fee charged if student registered subject in any semester.</template>
+</category>
+
+<category>
+    <pattern># pay ^ fee ^ semesters ^ register subject ^</pattern>
+    <template>Yes, full fee charged if student registered subject in any semester.</template>
+</category>
+
+
+<!--Will I have to pay full fee after four semesters in MSc MPhil postgraduate if I do not register subject-->
+<category>
+    <pattern>Will I have to pay full fee after four semesters in MSc MPhil postgraduate if I do not register subject</pattern>
+    <template>No.</template>
+</category>
+<category>
+    <pattern># pay ^ fee ^ semesters ^ do not register subject ^</pattern>
+    <template>No.</template>
+</category>
+
+<!--What is account number to pay fee-->
+<category>
+    <pattern>What is account number to pay fee</pattern>
+    <template>Fee Will be paid through LMS Challan where everything is mentioned on it</template>
+</category>
+
+<category>
+    <pattern># account ^ pay fee ^</pattern>
+    <template>Fee Will be paid through LMS Challan where everything is mentioned on it</template>
+</category>
+
+<category>
+    <pattern>What is the account number to pay fee</pattern>
+    <template><srai>What is account number to pay fee</srai></template>
+</category>
+
+<!--Can I pay fee online-->
+<category>
+    <pattern>Can I pay fee online</pattern>
+    <template>Yes, You Can pay online via HBL Connect App, HBL Internet Banking. HBL Mobile App.</template>
+</category>
+		
+<!--Can I pay fee in any bank-->
+<category>
+    <pattern># pay fee ^ bank ^</pattern>
+    <template>Only HBL Branches</template>
+</category>
+	
+<!--Can I pay fee in any branch of HBL-->
+<category>
+    <pattern>Can I pay fee in any branch of HBL</pattern>
+    <template>Yes</template>
+</category>
+	
+<!--In which bank I can pay fee-->
+<category>
+    <pattern># bank ^ pay fee ^</pattern>
+    <template><srai>
+       pay fee  bank
+    </srai></template>
+</category>
+	<category>
+    <pattern># pay fee ^ bank ^</pattern>
+    <template><srai>
+       pay fee  bank
+    </srai></template>
+</category>
+
+<!--What is procedure for provisional certificate verification-->
+<category>
+    <pattern>What is procedure for provisional certificate verification</pattern>
+    <template>Pay Rs.500/- in HBL Bank than Contact Student Section.</template>
+</category>
+<category>
+    <pattern># provisional certificate verification ^</pattern>
+    <template>Pay Rs.500/- in HBL Bank than Contact Student Section.</template>
+</category>
+<category>
+    <pattern>What is the procedure for provisional certificate verification</pattern>
+    <template><srai>What is procedure for provisional certificate verification</srai></template>
+</category>	
+	
+<!--How to apply for (No objection Certificate) NOC-->
+<category>
+    <pattern>How to apply for NOC</pattern>
+    <template>Download prescribe form available at UET website or Buy from Star Photo Copy shop and Pay Rs.2000/- in HBL Bank than Contact Student Section.</template>
+</category>
+<category>
+    <pattern># NOC ^</pattern>
+    <template>Download prescribe form available at UET website or Buy from Star Photo Copy shop and Pay Rs.2000/- in HBL Bank than Contact Student Section.</template>
+</category>
+<!--From Where to get form for (No objection Certificate) NOC-->
+<category>
+    <pattern>From Where to get form for No objection Certificate NOC</pattern>
+    <template><srai>
+        How to apply for NOC
+    </srai></template>
+</category>
+
+<!--What is procedure to apply for (No objection Certificate) NOC-->	
+<category>
+    <pattern>What is procedure to apply for No objection Certificate NOC</pattern>
+    <template><srai>
+        How to apply for NOC
+    </srai></template>
+</category>
+	
+<category>
+    <pattern># No objection Certificate ^</pattern>
+    <template><srai>
+        How to apply for NOC
+    </srai></template>
+</category>
+	
+
+<category>
+    <pattern>What is the procedure to apply for No objection Certificate NOC</pattern>
+    <template><srai>
+        How to apply for NOC
+    </srai>
+    </template>
+</category>	
+	
+<!--What is fee to apply No objection Certificate NOC	-->
+<category>
+    <pattern>Where to submit application for No objection Certificate NOC</pattern>
+    <template>Student Section</template>
+</category>
+	
+<!--How can I get my dues details-->
+<category>
+    <pattern>How can I get my dues details</pattern>
+    <template>You can See Your dues detail on Student LMS Account otherwise contact Dues Section for any Queries.</template>
+</category>
+<category>
+    <pattern># dues ^ details ^</pattern>
+    <template>You can See Your dues detail on Student LMS Account otherwise contact Dues Section for any Queries.</template>
+</category>
+<category>
+    <pattern># dues ^ detail ^</pattern>
+    <template>You can See Your dues detail on Student LMS Account otherwise contact Dues Section for any Queries.</template>
+</category>
+<category>
+    <pattern># details ^ dues ^</pattern>
+    <template>You can See Your dues detail on Student LMS Account otherwise contact Dues Section for any Queries.</template>
+</category>
+<category>
+    <pattern># detail ^ dues ^</pattern>
+    <template>You can See Your dues detail on Student LMS Account otherwise contact Dues Section for any Queries.</template>
+</category>
+	
+<!--From where I can get dues details-->
+<category>
+    <pattern>From where I can get dues details</pattern>
+    <template>Dues Section</template>
+</category>
+	
+<!--What is fee structure-->
+<category>
+    <pattern>What is fee structure</pattern>
+    <template>Fee structure is the fee of student Semester.</template>
+</category>
+<category>
+    <pattern># fee structure ^</pattern>
+    <template>Fee structure is the fee of student Semester.</template>
+</category>
+	
+<!--Can I pay fee in instalments-->	
+<category>
+    <pattern>Can I pay fee in instalments</pattern>
+    <template>No</template>
+</category>
+
+<!--What is procedure for fee refund-->
+<category>
+    <pattern>What is procedure for fee refund</pattern>
+    <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section.</template>
+</category>
+<category>
+    <pattern># fee ^ refund ^</pattern>
+    <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section.</template>
+</category>
+	
+<category>
+    <pattern># refund ^ fee ^</pattern>
+    <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section.</template>
+</category>
+	
+	
+<category>
+    <pattern>What is the procedure for fee refund</pattern>
+    <template>
+        <srai>
+        What is procedure for fee refund
+    </srai>
+    </template>
+</category>	
+	
+<!--How can I refund my fee?-->
+<category>
+    <pattern>How can I refund my fee</pattern>
+    <template><srai>
+        What is procedure for fee refund
+    </srai></template>
+</category>
+
+<!--How can I refund my fee-->
+<category>
+    <pattern>How can I refund my fee</pattern>
+    <template><srai>
+        What is procedure for fee refund
+    </srai></template>
+</category>
+	
+<!--Where to apply for fee refund-->	
+<category>
+    <pattern>Where to apply for fee refund</pattern>
+    <template>Write Simple application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+</category>
+	
+<!--How much fee can be refunded-->	
+<category>
+    <pattern>How much fee can be refunded</pattern>
+    <template><srai>
+        How much fee will be deducted for refund
+    </srai> </template>
+</category>
+<category>
+    <pattern># fee ^ refunded ^</pattern>
+    <template><srai>
+        How much fee will be deducted for refund
+    </srai> </template>
+</category>
+
+<!--How much fee will be deducted for refund-->
+<category>
+    <pattern>How much fee will be deducted for refund</pattern>
+    <template>
+Admission Cancellation by Freshly admitted students on the date of registration in University Classes<br/>
+(d)	Full (100%) Fee refund if admission cancelled up to 8th day.<br/>
+(e)	Half (50%) Fee refund if admission Cancelled from 9th to 16th day.<br/>
+(f)	No fee refund if admission cancelled from 17th day onward.</template>
+</category>
+
+<category>
+    <pattern># deducted ^ refund ^</pattern>
+    <template>
+Admission Cancellation by Freshly admitted students on the date of registration in University Classes<br/>
+(d)	Full (100%) Fee refund if admission cancelled up to 8th day.<br/>
+(e)	Half (50%) Fee refund if admission Cancelled from 9th to 16th day.<br/>
+(f)	No fee refund if admission cancelled from 17th day onward.</template>
+</category>
+	
+<!--In how many days can I apply for fee refund-->
+<category>
+    <pattern>In how many days can I apply for fee refund</pattern>
+    <template><srai>
+        How much fee will be deducted for refund
+    </srai></template>
+</category>
+<category>
+    <pattern># days ^ refund ^</pattern>
+    <template><srai>
+        How much fee will be deducted for refund
+    </srai></template>
+</category>
+	
+
+<!--Can I apply for fee refund after attending classes-->
+<category>
+    <pattern>Can I apply for fee refund after attending classes</pattern>
+    <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+</category>
+
+<category>
+    <pattern># refund ^ classes ^</pattern>
+    <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+</category>
+
+<!--I have attended classes can I apply for fee refund-->
+<category>
+    <pattern>I have attended classes can I apply for fee refund</pattern>
+    <template><srai>
+        Can I apply for fee refund after attending classes
+    </srai></template>
+</category>
+
+<category>
+    <pattern># classes ^ refund ^</pattern>
+    <template><srai>
+        Can I apply for fee refund after attending classes
+    </srai></template>
+</category>
+
+<!--Where to get application form for fee refund-->
+<category>
+    <pattern>Where to get application form for fee refund</pattern>
+    <template><srai>
+            Where to get form for security refund
+        </srai></template>
+</category>
+
+<!--How to apply for security refund-->
+<category>
+    <pattern>How to apply for security refund</pattern>
+    <template>Security refund Only in case of admission cancelled</template>
+</category>
+<category>
+    <pattern># security refund ^</pattern>
+    <template>Security refund Only in case of admission cancelled</template>
+</category>
+
+<!--Where to get form for security refund-->
+<category>
+    <pattern>Where to get form for security refund</pattern>
+    <template>Only Write a Simple application to the Convener Admission Committee or provide a Copy of Clearance Form for Fee Refund to Dues Section.</template>
+</category>
+<category>
+    <pattern># form ^ security refund ^</pattern>
+    <template>Only Write a Simple application to the Convener Admission Committee or provide a Copy of Clearance Form for Fee Refund to Dues Section.</template>
+</category>
+<category>
+    <pattern># security refund ^ form ^</pattern>
+    <template>Only Write a Simple application to the Convener Admission Committee or provide a Copy of Clearance Form for Fee Refund to Dues Section.</template>
+</category>
+
+<!--What is procedure for security refund-->
+<category>
+    <pattern>What is procedure for security refund</pattern>
+    <template>
+        <srai>
+            Where to get form for security refund
+        </srai>
+    </template>
+</category>
+
+<!--What documents are required for security refund-->
+<category>
+    <pattern>What documents are required for security refund</pattern>
+    <template>Copy of Clearance Form.</template>
+</category>
+<category>
+    <pattern># documents ^ security refund ^</pattern>
+    <template>Copy of Clearance Form.</template>
+</category>
+<category>
+    <pattern>What is documents are required for security refund</pattern>
+    <template>
+        <srai>
+            What documents are required for security refund
+        </srai>
+    </template>
+</category>
+
+<category>
+    <pattern>What is the documents are required for security refund</pattern>
+    <template> <srai>
+            What documents are required for security refund
+        </srai></template>
+</category>
+
+<!--Where to submit form for security refund-->
+<category>
+    <pattern>Where to submit form for security refund</pattern>
+    <template>Dues Section.</template>
+</category>
+<category>
+    <pattern># submit ^ form ^ security refund ^</pattern>
+    <template>Dues Section.</template>
+</category>
+
+<!--What if I lost my challan-->
+<category>
+    <pattern>What if I lost my challan</pattern>
+    <template>Contact Dues Section</template>
+</category>
+<category>
+    <pattern># lost ^ challan ^</pattern>
+    <template>Contact Dues Section</template>
+</category>
+<category>
+    <pattern># challan ^ lost ^</pattern>
+    <template>Contact Dues Section</template>
+</category>
+
+<!--How to apply for entry test-->
+<category>
+    <pattern>How to apply for entry test</pattern>
+    <template>
+     <srai>
+         How to fill entry test form online
+     </srai>
+    </template>
+</category>
+<category>
+    <pattern># apply ^ entry test ^</pattern>
+    <template>
+     <srai>
+         How to fill entry test form online
+     </srai>
+    </template>
+</category>
+
+<!--What is website to apply for entry test-->
+<category>
+    <pattern>What is website to apply for entry test</pattern>
+    <template>Log on to admission.uet.edu.pk for admission at UET, Lahore</template>
+</category>
+<category>
+    <pattern># website ^ apply ^ entry test ^</pattern>
+    <template>Log on to admission.uet.edu.pk for admission at UET, Lahore</template>
+</category>
+<!--Dues and fee structure inquiry-->
+<category>
+    <pattern>Dues and fee structure inquiry</pattern>
+    <template>Contact to due section in admin block 04299029427.</template>
+</category>
+<category>
+    <pattern># fee structure inquiry ^</pattern>
+    <template>Contact to due section in admin block 04299029427.</template>
+</category>
+<category>
+    <pattern># Dues inquiry ^</pattern>
+    <template>Contact to due section in admin block 04299029427.</template>
+</category>
+
+<!--Information inquiry about BS  BSC  MS  PHD computer science CS-->
+<category>
+    <pattern>Information inquiry about BS  BSC  MS  PHD computer science CS</pattern>
+    <template>Information related to  BSc computer science or computer engineering contact to Mr Gulnwaz sb and information related to MSc computer science or computer engineering or PhD contact Mr kaleem sb</template>
+</category>
+<category>
+    <pattern># Information inquiry ^ BS ^ computer science ^</pattern>
+    <template>Information related to  BSc computer science or computer engineering contact to Mr Gulnwaz sb and information related to MSc computer science or computer engineering or PhD contact Mr kaleem sb</template>
+</category>
+<category>
+    <pattern># Information inquiry ^ BSC ^ computer science ^</pattern>
+    <template>Information related to  BSc computer science or computer engineering contact to Mr Gulnwaz sb and information related to MSc computer science or computer engineering or PhD contact Mr kaleem sb</template>
+</category>
+<category>
+    <pattern># Information inquiry ^ MS ^ computer science ^</pattern>
+    <template>Information related to  BSc computer science or computer engineering contact to Mr Gulnwaz sb and information related to MSc computer science or computer engineering or PhD contact Mr kaleem sb</template>
+</category>
+<category>
+    <pattern># Information inquiry ^ PHD ^ computer science ^</pattern>
+    <template>Information related to  BSc computer science or computer engineering contact to Mr Gulnwaz sb and information related to MSc computer science or computer engineering or PhD contact Mr kaleem sb</template>
+</category>
+<!--Teacher availability inquiry/when teachers are available-->
+<category>
+    <pattern>Teacher availability inquiry when teachers are available</pattern>
+    <template>Visit concerned teacher’s office,  or check timetable to know where classroom  is located, or contact in the office of PA.</template>
+</category>
+<category>
+    <pattern># Teacher availability inquiry ^</pattern>
+    <template>Visit concerned teacher’s office,  or check timetable to know where classroom  is located, or contact in the office of PA.</template>
+</category>
+<!--Hostel inquiry where to get hostel information-->
+<category>
+    <pattern>Hostel inquiry where to get hostel information</pattern>
+    <template>Contact to the senior warden office in admin block 042-99029225</template>
+</category>
+<category>
+    <pattern># Hostel inquiry ^</pattern>
+    <template>Contact to the senior warden office in admin block 042-99029225</template>
+</category>
+<!--How to get Information about Security issues-->
+<category>
+    <pattern>How to get Information about Security issues</pattern>
+    <template>Contact to security office 042-99029400</template>
+</category>
+<category>
+    <pattern># Information ^ Security issues ^</pattern>
+    <template>Contact to security office 042-99029400</template>
+</category>
+<!--How to fill entry test form online-->
+<category>
+    <pattern>How to fill entry test form online</pattern>
+    <template>
+        1. To apply for entry test<br/>
+2. visit admission.uet.edu.pk<br/>
+3. Register yourself by entering your CNIC/B form and Token number<br/>
+4. Fill your bio data and academic information, and choose your test centre with other details and upload your picture<br/>
+5. take the print of entry test slip and bring it on test day with any original document like( matric/first   year result card/domicile/ID card) which have your picture on it
+    </template>
+</category>
+
+<!--I am appearing for entry test at main campus, does it mean I will get admission at main campus-->
+<category>
+    <pattern>I am appearing for entry test at main campus, does it mean I will get admission at main campus</pattern>
+    <template>You will be considered for admission according to your selected preference order, location for entry test centre does not matter</template>
+</category>
+
+
+<!--for admission at other campuses, where to give entry test-->
+<category>
+    <pattern>for admission at other campuses, where to give entry test</pattern>
+    <template>
+        You can select any centre offered by UET, Lahore to appear in entry test. You can select the campus of your choice at the time of applying for admission online. Location for entry test centre does not matter
+    </template>
+</category>
+
+<!--I want to take admission at KSK, FSD, Narowal , Rachna. Do I have to appear at same campus where I want to get admission-->
+<category>
+    <pattern>I want to take admission at KSK FSD Narowal  Rachna Do I have to appear at same campus where I want to get admission</pattern>
+    <template>
+        <srai>
+            for admission at other campuses, where to give entry test
+        </srai>
+    </template>
+</category>
+
+<!--I have registered for entry test with wrong ID card number. What can I do now-->
+<category>
+    <pattern>I have registered for entry test with wrong ID card number What can I do now</pattern>
+    <template>Please contact Convener Officer UET Lahore 042-99029452 04299029216 to correct your CNIC number</template>
+</category>
+
+<!--I have registered for entry test with my father ID card number what can I do now-->
+<category>
+    <pattern>I have registered for entry test with my father ID card number what can I do now</pattern>
+    <template>
+        <srai>
+            I have registered for entry test with wrong ID card number What can I do now
+        </srai>
+    </template>
+</category>
+
+<!--I have registered for entry test with wrong ID card number what can I do now-->
+<category>
+    <pattern>I have registered for entry test with wrong ID card number what can I do now</pattern>
+    <template> <srai>
+            I have registered for entry test with wrong ID card number What can I do now
+        </srai></template>
+</category>
+
+<!--I am unable to apply for admission because I have registered with wrong ID card number What can I do now-->
+<category>
+    <pattern>I am unable to apply for admission because I have registered with wrong ID card number What can I do now</pattern>
+    <template>
+        <srai>
+            I have registered for entry test with wrong ID card number What can I do now
+        </srai>
+    </template>
+</category>
+
+<!--System does not allow me to login what can I do now-->
+<category>
+    <pattern>System does not allow me to login what can I do now</pattern>
+    <template>Please contact Convener Officer UET Lahore 04299029452 04299029216</template>
+</category>
+
+<!--System is not allowing me to login what can I do now-->
+
+<category>
+    <pattern>System is not allowing me to login what can I do now</pattern>
+    <template><srai>System does not allow me to login what can I do now</srai></template>
+</category>
+
+<!--I am not able to upload my picture what to do now-->
+<category>
+    <pattern>I am not able to upload my picture what to do now</pattern>
+    <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg and png. 
+Picture must be 100 dpi.</template>
+</category>
+
+<!--My picture is not uploading what to do now hint max picture file type-->
+<category>
+    <pattern>My picture is not uploading what to do now hint max picture file type</pattern>
+    <template><srai>I am not able to upload my picture what to do now</srai></template>
+</category>
+
+<!--In which format can I upload picture-->
+<category>
+    <pattern>In which format can I upload picture</pattern>
+    <template>format of picture is jpg, jpeg, png
+    </template>
+</category>
+
+<!--What is maximum size to upload picture-->
+<category>
+    <pattern>What is maximum size to upload picture</pattern>
+    <template>Maximum size of picture is 1 MB</template>
+</category>
+
+<!--Can resident of Lahore apply for hostel allotment-->
+<category>
+    <pattern>Can resident of Lahore apply for hostel allotment</pattern>
+    <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore</template>
+</category>
+
+<!--Why LMS is not allowing me to apply for hostel allotment-->
+<category>
+    <pattern>Why LMS is not allowing me to apply for hostel allotment</pattern>
+    <template><srai></srai></template>
+</category>
+
+<!--I have given address of Lahore at the time of admission, now I am unable to apply for hostel, how can I change my address-->
+<category>
+    <pattern>I have given address of Lahore at the time of admission, now I am unable to apply for hostel, how can I change my address</pattern>
+    <template>To change your district at LMS, please contact Examinations Branch by bringing your original Domicile CNIC, Admin Block 042-99029235</template>
+</category>
+
+<!--I am unable to apply for hostel due to address of Lahore, but I belong to other city, what is procedure to change address on LMS-->
+
+<category>
+    <pattern>I am unable to apply for hostel due to address of Lahore, but I belong to other city, what is procedure to change address on LMS</pattern>
+    <template><srai>I have given address of Lahore at the time of admission, now I am unable to apply for hostel, how can I change my address</srai></template>
+</category>
+
+<!--I want to change my entry test center; how can I do that-->
+<category>
+    <pattern>I want to change my entry test center how can I do that</pattern>
+    <template>Change of Entry test centre is not allowed</template>
+</category>
+
+<!--How can I change entry test center-->
+<category>
+    <pattern>How can I change entry test center</pattern>
+    <template><srai>I want to change my entry test center how can I do that</srai></template>
+</category>
+<!--My result is stopped due to not showing document with picture, how can I check my result-->
+<category>
+    <pattern>My result is stopped due to not showing document with picture, how can I check my result</pattern>
+    <template>Please visit Convener Office 04299029452, 04299029216, Admin Block by bringing your CNIC Matric Inter Domicile to unblock your entry test result</template>
+</category>
+<!--My result is wrong on UET website, how to correct it-->
+<category>
+    <pattern>My result is wrong on UET website, how to correct it</pattern>
+    <template>Please contact Convener Officer UET, Lahore 04299029452, 04299029216</template>
+</category>
+
+
+<!--I have matched keys online; my total marks are not correct on UET website-->
+<category>
+    <pattern>How can I check my entry test result online</pattern>
+    <template>To check your entry test online, visit admission.uet.edu.pk and enter your CNIC, entry test roll no. and date of birth</template>
+</category>
+
+<!--I want to check my entry test result, how can I check it-->
+<category>
+    <pattern>I want to check my entry test result, how can I check it</pattern>
+    <template><srai>How can I check my entry test result online</srai></template>
+</category>
+
+<!--What are passing marks of entry test-->
+<category>
+    <pattern>What are passing marks of entry test</pattern>
+    <template>There are no passing marks for entry test. Aggregate of student's entry test marks 30% and Intermediate/A level marks 70% is computed and merit is calculated.</template>
+</category>
+
+<!--What are minimum marks to pass entry test-->
+<category>
+    <pattern>What are minimum marks to pass entry test</pattern>
+    <template><srai>What are passing marks of entry test</srai></template>
+</category>
+
+<!--How to apply for admission-->
+<category>
+    <pattern>How to apply for admission</pattern>
+    <template>
+       <srai>What documents are required to apply for admission</srai>
+    </template>
+</category>
+<!--I don’t have domicile at this time, can I apply for admission-->
+<category>
+    <pattern>I do not have domicile at this time, can I apply for admission</pattern>
+    <template>No, Domicile is compulsory for admission at UET, Lahore </template>
+</category>
+<!--Without equivalence certificate how can I calculate my A level intermediate FSC marks-->
+<category>
+    <pattern>Without equivalence certificate how can I calculate my A level intermediate FSC marks</pattern>
+    <template>You cannot apply for admission without submitting all required documents</template>
+</category>
+
+<!--Is equivalence certificate compulsory to get admission at UET Lahore-->
+<category>
+    <pattern>Is equivalence certificate compulsory to get admission at UET Lahore</pattern>
+    <template>
+                Check this:
+
+        <link>
+            <text> https://www.ibcc.edu.pk/equivalence-detail.php</text>
+            <url> https://www.ibcc.edu.pk/equivalence-detail.php</url>
+        </link>
+    </template>
+</category>
+
+<!--I do not have equivalence certificate; how can I calculate my aggregate-->
+<category>
+    <pattern>I do not have equivalence certificate how can I calculate my aggregate</pattern>
+    <template>Equivalence certificate is compulsory for students of A level/foreign countries</template>
+</category>
+
+<!--How can I change my preference-->
+<category>
+    <pattern>How can I change my preference</pattern>
+    <template>calculate equivalence from the mention website https://www.ibcc.edu.pk/equivalence-detail.php</template>
+</category>
+
+<!--Can I change my preference after submission of form-->
+<category>
+    <pattern>Can I change my preference after submission of form</pattern>
+    <template>Change of preference is not allowed, However, after displaying 4th merit list……… but not sure this will be the decision of authority.</template>
+</category>
+
+<!--How many preferences can I select-->
+<category>
+    <pattern>How many preferences can I select</pattern>
+    <template>Change of preference is not allowed, However, after displaying 4th merit list……… but not sure this will be the decision of authority.</template>
+</category>
+
+<!--Can I select multiple preferences-->
+<category>
+    <pattern>Can I select multiple preferences</pattern>
+    <template>There is no limit of number of preferences, you can select any number of preferences</template>
+</category>
+
+<!--I have selected wrong preference, can I change it-->
+<category>
+    <pattern>I have selected wrong preference, can I change it</pattern>
+    <template><srai>Can I select multiple preferences</srai></template>
+</category>
+
+<!--I have applied online for admission but did not submit hard copy at UET, will I get admission-->
+<category>
+    <pattern>I have applied online for admission but did not submit hard copy at UET, will I get admission</pattern>
+    <template><srai>Is it compulsory to submit hard copy documents for admission</srai></template>
+</category>
+<!--Is it compulsory to submit hard copy/documents for admission-->
+<category>
+    <pattern>Is it compulsory to submit hard copy documents for admission</pattern>
+    <template>Submission of hard copies and dues is compulsory within time limit, otherwise your name will not be considered</template>
+</category>
+
+<!--Can I send hard copies through courier-->
+<category>
+    <pattern>Can I send hard copies through courier</pattern>
+    <template><srai>Is it compulsory to submit hard copy documents for admission</srai></template>
+</category>
+
+<!--Can I send hard copies through post Dak  TCS etc.-->
+<category>
+    <pattern>Can I send hard copies through post Dak  TCS etc</pattern>
+    <template><srai>Can I TCS hard copies</srai></template>
+</category>
+
+<!--Can I TCS hard copies-->
+<category>
+    <pattern>Can I TCS hard copies</pattern>
+    <template>You can only submit hard copies by hand at UET, Lahore, not allowed through courier</template>
+</category>
+<category>
+    <pattern>Can I post hard copies</pattern>
+    <template>You can only submit hard copies by hand at UET, Lahore, not allowed through courier</template>
+</category>
+<category>
+    <pattern>Can I Dak hard copies</pattern>
+    <template>You can only submit hard copies by hand at UET, Lahore, not allowed through courier</template>
+</category>
+<!--I have appeared in entry test but did not apply for admission, how can I apply for admission now-->
+<category>
+    <pattern>I have appeared in entry test but did not apply for admission, how can I apply for admission now</pattern>
+    <template><srai>Can I TCS hard copies</srai></template>
+</category>
+
+<!--Why My name did not appear in merit list-->
+<category>
+    <pattern>Why My name did not appear in merit list</pattern>
+    <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+</category>
+
+<!--I forgot to apply for admission, what can I do now-->
+<category>
+    <pattern>I forgot to apply for admission, what can I do now</pattern>
+    <template>There may be following reasons due to which your name did not appear in merit list<br/>
+1. Your aggregate is lower than the merit<br/>
+2. you did not submit hard copies and dues<br/>
+3. you did not apply for admission after entry test</template>
+</category>
+
+<!--I did not pay fee for admission, due to which my name is excluded from merit list, how can I pay fee now-->
+<category>
+    <pattern>I did not pay fee for admission, due to which my name is excluded from merit list, how can I pay fee now</pattern>
+    <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+</category>
+
+<!--How many merit lists are prepared/displayed at UET-->
+<category>
+    <pattern>How many merit lists are prepared displayed at UET</pattern>
+    <template>Yes, Name will be exluded from next merit list
+After entry test, student need to apply for admission online and have to pay dues within time, otherwise his name will not be considered for admission</template>
+</category>
+
+<!--When first merit list will be displayed-->
+<category>
+    <pattern>^ first merit list will be displayed</pattern>
+    <template>kindly check it on official web page of UET.</template>
+</category>
+
+<!--When second merit list will be displayed-->
+<category>
+    <pattern>^ second merit list will be displayed</pattern>
+    <template><srai>When first merit list will be displayed</srai></template>
+</category>
+
+<!--When third merit list will be displayed-->
+<category>
+    <pattern>^ third merit list will be displayed</pattern>
+    <template><srai>When first merit list will be displayed</srai></template>
+</category>
+
+<!--When fourth merit list will be displayed-->
+<category>
+    <pattern>^ fourth merit list will be displayed</pattern>
+    <template><srai>When first merit list will be displayed</srai></template>
+</category>
+
+
+<!--Merit list is uploaded but System does not allow me to login, what can I do now Hint wrong ID card number etc-->
+
+<category>
+    <pattern>Merit list is uploaded but System does not allow me to login what can I do now Hint wrong ID card number etc</pattern>
+    <template>
+        Please make sure that you have entered correct details like CNIC date of birth and entry test roll No. etc in case of any issue Please visit Convener Office 04299029452, 04299029216, Admin Block
+    </template>
+</category>
+
+<!--I am unable to check my list , what can I do now Hint wrong ID card number etc-->
+<category>
+    <pattern>I am unable to check my list , what can I do now Hint wrong ID card number etc</pattern>
+    <template><srai>Merit list is uploaded but System does not allow me to login what can I do now Hint wrong ID card number etc</srai></template>
+</category>
+
+<!--Where can I check merit list-->
+<category>
+    <pattern>Where can I check merit list</pattern>
+    <template>You can check your merit list at admission.uet.edu.pk</template>
+</category>
+
+<!--How can I check merit list-->
+<category>
+    <pattern>How can I check merit list *</pattern>
+    <template><srai>You can check your merit list at admission.uet.edu.pk</srai></template>
+</category>
+
+<!--My name is appeared in merit list, but I don’t have dues to pay fee, how can I get admission-->
+<category>
+    <pattern>My name is appeared in merit list, but I don’t have dues to pay fee, how can I get admission</pattern>
+    <template>Submission of dues and documents are compulsory within time limit, otherwise your name will not be considered</template>
+</category>
+
+<!--I have qualified for merit list, but I do not have dues to pay fee, how can I get admission-->
+<category>
+    <pattern>I have qualified for merit list, but I do not have dues to pay fee, how can I get admission</pattern>
+    <template><srai>My name is appeared in merit list, but I don’t have dues to pay fee, how can I get admission</srai></template>
+</category>
+<!--I have qualified for merit list, but I don’t have dues, can I get relaxation in dues-->
+<category>
+    <pattern>I have qualified for merit list, but I don’t have dues, can I get relaxation in dues</pattern>
+    <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues</template>
+</category>
+
+<!--My name appeared in merit list, but I don’t have required documents, what can I do now-->
+<category>
+    <pattern>My name appeared in merit list, but I don’t have required documents, what can I do now</pattern>
+    <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+</category>
+
+<!--I have qualified for merit list, but I don’t have required documents, what can I do now-->
+<category>
+    <pattern>I have qualified for merit list, but I don’t have required documents, what can I do now</pattern>
+    <template><srai>My name appeared in merit list, but I don’t have required documents, what can I do now</srai></template>
+</category>
+
+<!--My name appeared in upper preference, I want to take admission in lower preference, will my name be considered in lower preference-->
+<category>
+    <pattern>My name appeared in upper preference, I want to take admission in lower preference, will my name be considered in lower preference</pattern>
+    <template>Downgrading will be allowed after 4th merit list</template>
+</category>
+
+<!--I want to take admission in lower preference, will my name be considered automatically in lower preference-->
+<category>
+    <pattern>I want to take admission in lower preference, will my name be considered automatically in lower preference</pattern>
+    <template><srai>My name appeared in upper preference, I want to take admission in lower preference, will my name be considered in lower preference</srai></template>
+</category>
+
+<!--Can I change my preference-->
+<category>
+    <pattern>Can I change my preference</pattern>
+    <template>Change of preference is not allowed</template>
+</category>
+
+<!--What is procedure to change preference-->
+<category>
+    <pattern>What is procedure to change preference</pattern>
+    <template>System will allow to submit 2 prefernces after 4th merit list. This submission is online in admission website</template>
+</category>
+
+<!--Can I revert my preference -->
+<category>
+    <pattern>Can I revert my preference</pattern>
+    <template>No</template>
+</category>
+
+<!--Can I move to my previous preference again-->
+<category>
+    <pattern>Can I move to my previous preference again</pattern>
+    <template>No</template>
+</category>
+
+<!--If my name does not appear in new merit list after changing preference, will I be considered for previous preference-->
+<category>
+    <pattern>If my name does not appear in new merit list after changing preference, will I be considered for previous preference</pattern>
+    <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website</template>
+</category>
+
+<!-- How many merit lists are displayed after changing the preference-->
+<category>
+    <pattern>How many merit lists are displayed after changing the preference</pattern>
+    <template>Final Status is displayed on admission.uet.edu.pk where student can see his last status.</template>
+</category>
+
+<!--Can I swap department-->
+<category>
+    <pattern>Can I * department</pattern>
+    <template>This will be on authority decision. 
+Student will submit manually application to Student Section</template>
+</category>
+
+<!-- Can I change department -->
+<category>
+    <pattern>Can I change department</pattern>
+    <template>This will be on authority decision. 
+Student will submit manually application to Student Section</template>
+</category>
+<category>
+    <pattern>Can I change department *</pattern>
+    <template><srai>Can I change department</srai></template>
+</category>
+
+<!-- Can I pay admission fee in installments -->
+<category>
+    <pattern>Can I pay admission fee in installments</pattern>
+    <template>Payment of admission fee in installments is not allowed</template>
+</category>
+
+<!--How to apply for admission at reciprocal seat-->
+<category>
+    <pattern>How to apply for admission at reciprocal seat</pattern>
+    <template>Only students having Punjab domiciled can apply. Rs. 1500/= fee will be charged paid in the HBL UET, Branch, as admission form fee, for all seats reserved in other provinces. No prospectus required.</template>
+</category>
+
+
+
+
+
+
+
+
+
+<!-- Who can apply for admission at reciprocal seat-->
+<category>
+    <pattern>Who can apply for admission at reciprocal seat</pattern>
+    <template>Only Punjab residents can apply for these seats.</template>
+</category>
+
+<!-- When to apply for admission at reciprocal seat-->
+<category>
+    <pattern>When to apply for admission at reciprocal seat</pattern>
+    <template>During the regular Admission Process, almost in September.</template>
+</category>
+
+<!--What is procedure for admission at reciprocal seat-->
+<category>
+    <pattern>What is procedure for admission at reciprocal seat</pattern>
+    <template>Download a form  UET admission portal, attached required documents mentioned on the form and submit the form in students’ section at window # 6.</template>
+</category>
+<!--Migration is allowed at postgraduate level at UET, Lahore-->
+<category>
+    <pattern>Migration is allowed at postgraduate level at UET, Lahore</pattern>
+    <template>Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+</category>
+
+<!--What is procedure for migration-->
+<category>
+    <pattern>What is procedure for migration</pattern>
+    <template>Migration form is available at UET site. Terms and conditions are mention there.</template>
+</category>
+
+<!-- Migration is allowed at undergraduate/B.Sc/Bachelors level at UET, Lahore-->
+
+<category>
+    <pattern>Migration is allowed at undergraduate BSc Bachelors level at UET, Lahore</pattern>
+    <template>Yes  Students can migrate anywhere from UET  but cannot migrate to UET, Lahore.</template>
+</category>
+
+<!--Can I apply for migration at UET, Lahore-->
+<category>
+    <pattern>Can I apply for migration at UET, Lahore</pattern>
+    <template>Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+</category>
+<!--Is it compulsory to submit or deposit fee in university bank-->
+<category>
+    <pattern>Is it compulsory to submit or deposit fee in university bank</pattern>
+    <template>Yes.</template>
+</category>
+<!--Is it compulsory to submit or deposit fee in university bank-->
+<category>
+    <pattern>Is it compulsory to submit or deposit fee in university bank</pattern>
+    <template>Yes.</template>
+</category>
+
+<!--Can we submit or deposit fee even we have missed any document-->
+<category>
+    <pattern>Can we submit or deposit fee even we have missed any document</pattern>
+    <template>Yes.</template>
+</category>
+<!--How we can or will UpToDate to himself with new updates-->
+<category>
+    <pattern>How we can or will UpToDate to himself with new updates</pattern>
+    <template>From UET Admission Portal.</template>
+</category>
+
+<!--Can submit bay-form in replacement of NIC-->
+<category>
+    <pattern>Can submit bay-form in replacement of NIC</pattern>
+    <template>No</template>
+</category>
+
+<!-- What’s if final transcript is late then we can apply for admission-->
+<category>
+    <pattern>What is if final transcript is late then we can apply for admission</pattern>
+    <template>Yes, conditionally.</template>
+</category>
+<!--What is the procedure after if admission is finalized-->
+<category>
+    <pattern>What is the procedure after if admission is finalized</pattern>
+    <template>Submit required documents in the student’s section, then go to department and get registration number.</template>
+</category>
+<!--Can we see past papers against any subjects on anywhere i.e UET website or on teacher profile?-->
+<category>
+    <pattern>Can we see past papers against any subjects on anywhere  UET website or on teacher profile</pattern>
+    <template>No</template>
+</category>
+<!--What is the admission process-->
+<category>
+    <pattern>What is the admission process</pattern>
+    <template>See the Admission Portal UET website.</template>
+</category>
+
+<!--What is ruled to pass degree with honor-->
+<category>
+    <pattern>What is ruled to pass degree with honor</pattern>
+    <template>Minimum of 3.7 CGPA having no F, WF, W grade</template>
+</category>
+
+<!--What is rule for grade change before declaration of result-->
+<category>
+    <pattern>What is rule for grade change before declaration of result</pattern>
+    <template>Contact to concerned teacher</template>
+</category>
+
+<!--What is rule for grade change after declaration of result -->
+<category>
+    <pattern>What is rule for grade change after declaration of result</pattern>
+    <template>Apply on grade change form with genuine reason, request will be approved through teacher, Chairman and Dean.</template>
+</category>
+
+<!--What is rule for transfer of credits for migrated students-->
+<category>
+    <pattern>What is rule for transfer of credits for migrated students</pattern>
+    <template>Minimum of 40% marks or C grade . </template>
+</category>
+
+
+<!--What is the rule for transfer of credits for migrated students-->
+<category>
+    <pattern>What is rule for transfer of credits for migrated students</pattern>
+    <template>Minimum of 40% marks or C grade . </template>
+</category>
+
+
+<!--What is rule for transfer of credits for double degree program-->
+<category>
+    <pattern>What is rule for transfer of credits for double degree program</pattern>
+    <template>Minimum of 40% marks or C grade.</template>
+</category>	
+
+<!--What is the rule for transfer of credits for double degree program-->
+<category>
+    <pattern>What is rule for transfer of credits for double degree program</pattern>
+    <template>Minimum of 40% marks or C grade.</template>
+</category>	
+	
+<!--How to apply for W grade-->
+<category>
+    <pattern>How to apply for W grade</pattern>
+    <template>Apply on a form for W grade within 6 weeks after the start of the semester. </template>
+</category>
+<category>
+    <pattern>How to apply for W grade *</pattern>
+    <template><srai>How to apply for W grade</srai> </template>
+</category>
+<!--How to apply for I grade-->
+<category>
+    <pattern>How to apply for I grade</pattern>
+    <template>Contact with concerned teacher, I grade can be awarded only for genuine reasons like medical or any other genuine reason that may seem fit by the teacher. However, minimum of 50 % attendance is required to qualify for I grade.</template>
+</category>	
+<category>
+    <pattern>How to apply for I grade *</pattern>
+    <template><srai>How to apply for I grade</srai> </template>
+</category>	
+<!--How to clear I grade-->
+<category>
+    <pattern>How to clear I grade</pattern>
+    <template>I grade can be cleared till the end of following next semester, it’s the responsibility of the student to contact with teacher to clear the I grade by fulfilling the left over portion.</template>
+</category>	
+	
+<!--What is rule for merit certificate-->
+<category>
+    <pattern>What is rule for merit certificate</pattern>
+    <template>Student should be from top 5% of the class having degree with honors with other conditions. </template>
+</category>
+<category>
+    <pattern>What is the rule for merit certificate *</pattern>
+    <template><srai>What is rule for merit certificate</srai> </template>
+</category>
+<!--What is rule for medals-->
+<category>
+    <pattern>What is rule for medals</pattern>
+    <template>Its confidential </template>
+</category>		
+<category>
+    <pattern>What is rule for medals *</pattern>
+    <template><srai>What is rule for medals</srai></template>
+</category>	
+
+<!--What is minimum CGPA required to qualify for medal-->
+<category>
+    <pattern>What is minimum CGPA required to qualify for medal</pattern>
+    <template>Degree with honors with other conditions. </template>
+</category>	
+
+<!--What is minimum CGPA required for Deans Honors role certificate-->
+<category>
+    <pattern>What is minimum CGPA required for Deans Honors role certificate</pattern>
+    <template>Minimum of 3.7 GPA in a semester</template>
+</category>
+
+	
+<!--What is the minimum CGPA required for Deans Honors role certificate-->
+<category>
+    <pattern>What is the minimum CGPA required for Deans Honors role certificate *</pattern>
+    <template><srai>What is minimum CGPA required for Deans Honors role certificate</srai></template>
+</category>
+
+<!--Will exchange programs courses get credits transferred to UET-->
+<category>
+    <pattern>Will exchange programs courses get credits transfer to UET</pattern>
+    <template>Yes, if department gives written permission, transferred subject’s contents should match the subject taught at UET. </template>
+</category>		
+	
+	
+<!--What are minimum marks required to transferred credits to UET for exchange programs-->
+<category>
+    <pattern>What are minimum marks required to transfer credits to UET for exchange programs</pattern>
+    <template>Department decides. </template>
+</category>	
+	
+	
+<!--What are the minimum marks required to transferred credits to UET for exchange programs-->
+<category>
+    <pattern>What are the minimum marks required to transfer credits *</pattern>
+    <template><srai>What are minimum marks required to transfer credits to UET for exchange programs</srai> </template>
+</category>		
+
+<!--Is there any way to register more than allowed credit hours-->
+<category>
+    <pattern>Is there any way to register more than allowed credit hours</pattern>
+    <template>No</template>
+</category>
+
+<!--What is rule for readmission-->
+<category>
+    <pattern>What is rule for readmission</pattern>
+    <template>Undergraduate students can get readmission if they fail to maintain minimum 2.000 CGPA, if postgraduate students don’t complete their degree within prescribed time period, they may get readmission within 5 years. Their passed subjects will be transferred.</template>
+</category>	
+<category>
+    <pattern>What is rule for readmission *</pattern>
+    <template>What is rule for readmission</template>
+</category>		
+	
+	
+<!--Who leads to convocation-->
+<category>
+    <pattern>Who leads to convocation</pattern>
+    <template>Examinations Branch in cooperation with Registrar office and departments.</template>
+</category>	
+	
+<!--After how many years convocation is held-->
+<category>
+    <pattern>After how many years convocation is held</pattern>
+    <template>There is not exact time frame but usually it is held after every year in November/December.</template>
+</category>
+
+<!--Will our credit hours accommodate if we migrate-->
+<category>
+    <pattern>Will our credit hours accommodate if we migrate</pattern>
+    <template>Yes</template>
+</category>			
+	
+<!--What is the process to freeze semester-->
+<category>
+    <pattern>What is the process to freeze semester</pattern>
+    <template>Apply  on semester freeze form at least 15 days before start of semester.</template>
+</category>
+
+<!--How I can enroll myself in convocation-->
+<category>
+    <pattern>How I can enroll myself in convocation</pattern>
+    <template><srai>What is the process to join convocation</srai></template>
+</category>		
+	
+<!--What is the process to join convocation-->
+<category>
+    <pattern>What is the process to join convocation</pattern>
+    <template>Students can enroll for convocation online on LMS before the start of convocation.</template>
+</category>
+
+<!--What is  process to join convocation-->
+<category>
+    <pattern>What is process to join convocation *</pattern>
+    <template><srai>What is the process to join convocation</srai></template>
+</category>
+
+<!--Can we register more than three subjects in MS-->
+<category>
+    <pattern>Can we register more than three subjects in MS</pattern>
+    <template>Maximum 4 subjects are allowed to register in postgraduate programs MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+</category>		
+	
+<!--How many maximum credit hours we can register in MS first semester-->
+<category>
+    <pattern>How many maximum credit hours we can register in MS first semester</pattern>
+    <template>Maximum 4 subjects are allowed to register in postgraduate programs MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+</category>
+<!--Can we Enroll in summer camps-->
+<category>
+    <pattern>Can we Enroll in summer camps</pattern>
+    <template>Yes, usually undergraduate students can enroll in summer school, department may arrange summer school for postgraduate students is necessary</template>
+</category>		
+	
+<!--Who can enroll in summer camps-->
+<category>
+    <pattern>Who can enroll in summer camps</pattern>
+    <template><srai>Can we Enroll in summer camps</srai></template>
+</category>
+	
+<!-- Which grade we can improve-->	
+<category>
+    <pattern>Which grade we can improve</pattern>
+    <template>Any grade can be enrolled for improvement, there is no restriction</template>
+</category>
+<category>
+    <pattern>Which grade we can improve *</pattern>
+    <template><srai>Which grade we can improve</srai></template>
+</category>
+<!--Ask any question about CS timetable where to get information about CS timetable-->
+<category>
+    <pattern>Ask any question about CS timetable where to get information about CS timetable</pattern>
+    <template>To get information about timetable contact to Tariq sab</template>
+</category>
+
+<!--Schedule of the academic calendar information about academic calendar-->
+<category>
+    <pattern>Schedule of the academic calendar information about academic calendar</pattern>
+    <template>
+        <srai>
+            Information about leaves what is procedure to get leave
+        </srai>
+    </template>
+</category>
+<!--How to get degree-->
+
+<category>
+    <pattern>How to get degree</pattern>
+    <template>1)Attach DMC/degree form, get it signed from students' section<br/>
+2)Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR), <br/>
+3)Attach 1 passport size picture<br/>
+4)Attach copy of provisional Certificate<br/>
+5)Attach matric/O level certificate copy<br/>
+6)Attach copy of Thesis notification (for postgraduate students only)<br/>
+7)Apply in Examinations Branch window number 1, degree is prepared in 40 days,<br/>
+Note:-  students of affiliated colleges  need to attach covering letter  issued by their college. <br/>
+What documents are required to attach with Degree
+</template>
+</category>
+<category>
+    <pattern>what is the method to get degree</pattern>
+    <template>1)Attach DMC/degree form, get it signed from students' section<br/>
+2)Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR), <br/>
+3)Attach 1 passport size picture<br/>
+4)Attach copy of provisional Certificate<br/>
+5)Attach matric/O level certificate copy<br/>
+6)Attach copy of Thesis notification (for postgraduate students only)<br/>
+7)Apply in Examinations Branch window number 1, degree is prepared in 40 days,<br/>
+Note:-  students of affiliated colleges  need to attach covering letter  issued by their college. <br/>
+What documents are required to attach with Degree
+</template>
+</category>
+
+
+
+<category>
+    <pattern>what is method to get degree</pattern>
+    <template>1)Attach DMC/degree form, get it signed from students' section<br/>
+2)Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR), <br/>
+3)Attach 1 passport size picture<br/>
+4)Attach copy of provisional Certificate<br/>
+5)Attach matric/O level certificate copy<br/>
+6)Attach copy of Thesis notification (for postgraduate students only)<br/>
+7)Apply in Examinations Branch window number 1, degree is prepared in 40 days,<br/>
+Note:-  students of affiliated colleges  need to attach covering letter  issued by their college. <br/>
+What documents are required to attach with Degree
+</template>
+</category>
+<!--Which challan to attach with Degree, i.e challan no. 1 or 2-->
+
+<category>
+    <pattern>Which challan to attach with Degree challan no 1 and 2</pattern>
+    <template>Attach challan number 1 for degree.</template>
+</category>
+<!--How to write authority letter to received degree ( if somebody else receives degree instead of student)-->
+
+<category>
+    <pattern>How to write authority letter to received degree if somebody else receives degree instead of student</pattern>
+    <template>
+        It is advised to receive degree by student himself, however, in case student is not available in country, he can authorize his parents/siblings to receive his degree by following procedure below:<br/>
+1)write an authority letter on stamp paper of Rs 50/- with registration number, name, father name, signatures and names of student and authorized person to collect degree.<br/>
+2)Attested ID card copies of student and authorized person.<br/>
+3)Show original ID card of authorized person
+    </template>
+</category>
+<!--Can somebody else receive my Degree-->
+
+<category>
+    <pattern>Can somebody else receive my Degree</pattern>
+    <template>It is advised to receive degree by student himself, however, in case student is not available in country, he can authorize his parents/siblings to receive his degree by following procedure below:<br/>
+1)write an authority letter on stamp paper of Rs 50/- with registration number, name, father name, signatures and names of student and authorized person to collect degree.<br/>
+2)Attested ID card copies of student and authorized person.<br/>
+3)Show original ID card of authorized person</template>
+</category>
+<!--In how many days I can get my Degree-->
+
+<category>
+    <pattern>In how many days I can get my Degree</pattern>
+    <template>Degree is issued in 40 days</template>
+</category>
+
+
+<!--What is fee for Degree-->
+
+<category>
+    <pattern>What is fee for Degree</pattern>
+    <template>Fee for degree is Rs. 1000/-.</template>
+</category>
+
+
+<category>
+    <pattern>What is the fee for Degree</pattern>
+    <template>Fee for degree is Rs. 1000/-.</template>
+</category>
+
+
+<category>
+    <pattern>how much fee required for Degree</pattern>
+    <template>Fee for degree is Rs. 1000/-.</template>
+</category>
+
+
+<!--What is fee to get urgent Degree-->
+
+<category>
+    <pattern>What is fee to get urgent Degree</pattern>
+    <template>Degree is issued in 40 days, urgent degree is not issued.</template>
+</category>
+
+<category>
+    <pattern>What is the fee to get urgent Degree</pattern>
+    <template>Degree is issued in 40 days, urgent degree is not issued.</template>
+</category>
+
+<category>
+    <pattern>How much fee required to get urgent Degree</pattern>
+    <template>Degree is issued in 40 days, urgent degree is not issued.</template>
+</category>
+<!--Can we get Degree by post-->
+<category>
+    <pattern>Can we get Degree by post</pattern>
+    <template>No, degree is issued by hand only.</template>
+</category>
+
+<!--For how much amount stamp paper will be used for authority letter-->
+<category>
+    <pattern>For how much amount stamp paper will be used for authority letter</pattern>
+    <template>Challan Rs. 50 is used for authority letter for degree.</template>
+</category>
+
+<category>
+    <pattern>how much amount stamp paper will be used for authority letter</pattern>
+    <template>Challan Rs. 50 is used for authority letter for degree.</template>
+</category>
+
+<!--What is fee for embassy Bonafide certificate-->
+<category>
+    <pattern>What is fee for embassy Bonafide certificate</pattern>
+    <template>Fee for embassy bonafide certificate is Rs. 500/-</template>
+</category>		
+	
+<!--How many days it will take to get embassy Bonafied certificate-->
+<category>
+    <pattern>How many days it will take to get embassy Bonafied certificate</pattern>
+    <template>It takes 3 working days to prepare embassy bonafide certificate</template>
+</category>		
+	
+<!--I have been re-admitted, how to get new LMS username and password-->
+<category>
+    <pattern>I have been readmitted, how to get new LMS username and password</pattern>
+    <template>After readmission, get your new username and password from Examinations Branch 2nd floor Admin block 04299029235 by showing your re-admission letter.</template>
+</category>		
+	
+<!--How can I register my subjects after readmission -->
+<category>
+    <pattern>How can I register my subjects after readmission </pattern>
+    <template>After re-admission, register your subjects by login in to LMS, in case of any issue, contact Examinations Branch 2nd floor Admin block 04299029235</template>
+</category>		
+	
+
+<!--Which grades will be transferred in my new DMC after readmission-->
+<category>
+    <pattern>Which grades will be transferred in my new DMC after readmission</pattern>
+    <template>C grade or above will be transferred in new DMC after re-admission.</template>
+</category>		
+	
+<!--Can I get second time readmission-->
+<category>
+    <pattern>Can I get second time readmission</pattern>
+    <template>Second time readmission is not allowed.</template>
+</category>		
+	
+
+<!--What is rule for discipline change-->
+<category>
+    <pattern>What is rule for discipline change</pattern>
+    <template>Contact convener office for discipline change contact number here</template>
+</category>		
+	
+	
+<!--What is ruled to get extension-->
+<category>
+    <pattern>What is ruled to get extension</pattern>
+    <template>For extension apply to the Convener Admission Committee office by writing a simple application duly signed and forwarded by your HOD.</template>
+</category>		
+	
+
+<!--What is the ruled to get extension-->
+<category>
+    <pattern>What is the ruled to get extension</pattern>
+    <template>For extension apply to the Convener Admission Committee office by writing a simple application duly signed and forwarded by your HOD.</template>
+</category>		
+	
+<!--How can I get extension-->
+<category>
+    <pattern>How can I get extension</pattern>
+    <template>For extension apply to the Convener Admission Committee office by writing a simple application duly signed and forwarded by your HOD.</template>
+</category>
+	
+<!--Who is the authority to grant extension-->
+<category>
+    <pattern>Who is the authority to grant extension</pattern>
+    <template>Convener Admission Committee is the authority to grant extension</template>
+</category>	
+	
+<!--How much extension can I get at one time-->
+<category>
+    <pattern>How much extension can I get at one time</pattern>
+    <template>You can get maximum 1 year extension at a time</template>
+</category>	
+	
+<!--Will my admission be cancelled If I do not get further extension-->
+<category>
+    <pattern>Will my admission be cancelled If I do not get further extension</pattern>
+    <template>If you do not get further extension, your admission will be cancelled. </template>
+</category>	
+	
+<!--Will I be granted second time extension-->
+<category>
+    <pattern>Will I be granted second time extension</pattern>
+    <template>Second time extension may be granted if approved by concerned authorities.</template>
+</category>	
+
+<!--What are credit hours requirements for undergraduate BSc degree programs-->
+<category>
+    <pattern>What are credit hours requirements for undergraduate BSc degree programs</pattern>
+    <template>Minim of 130 and Maximum 136 credit hours are required for the award of undergraduate degree as prescribed for every degree program.</template>
+</category>	
+	
+<!--What are credit hours requirements for postgraduate Msc, MPhil degree programs-->
+<category>
+    <pattern>What are credit hours requirements for postgraduate Msc, MPhil degree programs</pattern>
+    <template>30 credit hours are required for the award  of /M.Sc./M. Phil degree programs, either 24 credit hours of course work with thesis of 6 credit hours or 30 credit hours of course work with design project of 0 credit hours. </template>
+</category>	
+	
+<!--What are credit hours requirements for PhD degree programs-->
+<category>
+    <pattern>What are credit hours requirements for PhD degree programs</pattern>
+    <template>60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. </template>
+</category>	
+	
+<!--How can I get my degree/DMC verified-->
+<category>
+    <pattern>How can I get my degree DMC verified</pattern>
+    <template>
+        Student can apply for degree/DMC verification in Examinations Branch. <br/>
+a)	Attach DMC form<br/>
+b)	Attach Challan for Rs. 500/- per document<br/>
+c)	Attach copy of DMC
+    </template>
+</category>	
+	
+<!--What is fee for degree DMC verification-->
+<category>
+    <pattern>What is fee for degree DMC verification</pattern>
+    <template>Fee for degree/DMC verification is Rs. 500/-</template>
+</category>	
+	
+<!--What is the fee for degree DMC verification-->
+<category>
+    <pattern>What is the fee for degree DMC verification</pattern>
+    <template>Fee for degree/DMC verification is Rs. 500/-</template>
+</category>		
+	
+<!--How to pay fee-->
+<category>
+    <pattern>How to pay fee</pattern>
+    <template>Print Challan from LMS account or use HBL deposit slip(account No. 01287901582203, Title Student Dues UET, LHR)</template>
+</category>		
+	
+	
+<!--If there is change in my name father name, then how can I get revised degree DMC?-->
+<category>
+    <pattern>If there is change in my name father name, then how can I get revised degree DMC</pattern>
+    <template>Before getting final DMC, you can get your name/father name corrected from Examinations Branch by showing original matric certificate, but after getting final DMC/degree, get your name/father name corrected on matric and intermediate and then from students section of UET, Lahore, in the end you can contact examinations branch .</template>
+</category>		
+	
+<!--How many days it will take to verify my degree DMC-->
+<category>
+    <pattern>How many days it will take to verify my degree DMC</pattern>
+    <template>Usually 3 days are required for degree/DMC verification.</template>
+</category>		
+	
+<!--How can a company Institution send degree DMC for verification-->
+<category>
+    <pattern>How can a company Institution send degree DMC for verification</pattern>
+    <template>A company/Institution can get degree/DMC verified by sending a letter to the University on their letter head. They need to pay fee of Rs. 1000/- per document as verification fee.</template>
+</category>		
+	
+	
+<!--How can I get my degree DMC verified from abroad-->
+<category>
+    <pattern>How can I get my degree DMC verified from abroad</pattern>
+    <template>
+        Degree/DMC copy can be verified from abroad by sending an email at examination@uet.edu.pk with fee of US $ 50 per document.<br/>
+The documents will be verified after receiving fee acknowledgement.<br/>
+    </template>
+</category>
+<!-- What should be written on police report, newspaper ad for duplicate degree-->
+<category>
+    <pattern>What should be written on police report, newspaper ad for duplicate degree</pattern>
+    <template>Attach original report of police station for the loss of degree, report must contain your name,  father name and registration number.</template>
+</category>
+
+<!--In how many days I can get duplicate degree-->
+<category>
+    <pattern>In how many days I can get duplicate degree</pattern>
+    <template>Duplicate degree is issue within 10 days.</template>
+</category>
+
+<!--What is minimum degree duration for undergraduate program B.Sc program?-->
+<category>
+    <pattern>What is minimum degree duration for undergraduate program BSc program</pattern>
+    <template>Minimum degree duration for undergraduate program BSc program is 4 years.</template>
+</category>
+
+<!-- What is minimum degree duration for postgraduate program MSc. MPhil programs-->
+<category>
+    <pattern>What is minimum degree duration for postgraduate program MSc, MPhil programs</pattern>
+    <template>Chart is given on prospectus.</template>
+</category>
+
+<!--What is minimum degree duration for PhD programs-->
+<category>
+    <pattern>What is minimum degree duration for PhD programs</pattern>
+    <template>Minimum degree duration for Ph.D. program is 3 years.</template>
+</category>
+
+<!--What is minimum degree duration for MBA programs-->
+<category>
+    <pattern>What is minimum degree duration for MBA programs</pattern>
+    <template>Chart is given on prospectus.</template>
+</category>
+
+<!--What is Maximum degree duration for undergraduate program B.Sc programs.-->
+<category>
+    <pattern>What is Maximum degree duration for undergraduate program BSc programs</pattern>
+    <template>Maximum degree duration for under  undergraduate program BSc programs is 6 years.</template>
+</category>
+
+<!--What is the Maximum degree duration for undergraduate program B.Sc programs.-->
+<category>
+    <pattern>What is the Maximum degree duration for undergraduate program BSc programs</pattern>
+    <template>Maximum degree duration for under  undergraduate program BSc programs is 6 years.</template>
+</category>
+
+<!--What is Maximum degree duration for postgraduate program Msc MPhil program-->
+<category>
+    <pattern>What is Maximum degree duration for postgraduate program Msc MPhil program</pattern>
+    <template>Chart is given on prospectus. </template>
+</category>
+
+<!--What is the Maximum degree duration for postgraduate program Msc MPhil program?-->
+<category>
+    <pattern>What is the Maximum degree duration for postgraduate program Msc MPhil program</pattern>
+    <template>Chart is given on prospectus. </template>
+</category>
+
+<!--What is Maximum degree duration for PhD program-->
+<category>
+    <pattern>What is Maximum degree duration for PhD program</pattern>
+    <template>Maximum degree duration for PhD programs is 5 years. </template>
+</category>
+	
+	
+<!--What is the Maximum degree duration for PhD program-->
+<category>
+    <pattern>What is the Maximum degree duration for PhD program</pattern>
+    <template>Maximum degree duration for PhD programs is 5 years. </template>
+</category>	
+	
+<!--What is Maximum degree duration for MBA programs-->
+<category>
+    <pattern>What is Maximum degree duration for MBA programs</pattern>
+    <template>Chart is given on prospectus. </template>
+</category>	
+	
+<!--What is the Maximum degree duration for MBA programs-->
+<category>
+    <pattern>What is the Maximum degree duration for MBA programs</pattern>
+    <template>Chart is given on prospectus. </template>
+</category>	
+	
+	
+<!--Can I get degree without paying all outstanding dues-->
+<category>
+    <pattern>Can I get degree without paying all outstanding dues</pattern>
+    <template>No</template>
+</category>	
+	
+<!--How many days will it take to confirm our result -->
+<category>
+    <pattern>How many days will it take to confirm our result </pattern>
+    <template>Your result will be confirmed upon submission of result by your teachers via online and in hard form in Examinations Branch. </template>
+</category>	
+	
+<!--My result status is still provisional, who will confirm it-->
+<category>
+    <pattern>My result status is still provisional, who will confirm it</pattern>
+    <template>Your result will be confirmed upon submission of result by your teachers via online and in hard form in Examinations Branch.</template>
+</category>
+	
+<!--There is come mistake in counting computation of my CGPA, who will correct it-->
+<category>
+    <pattern>There is come mistake in counting computation of my CGPA, who will correct it</pattern>
+    <template>In case of any issue regarding computation of GPA CGPA, contact Examinations Branch 2nd floor Admin Block 04299029235. </template>
+</category>	
+	
+<!-- There is some mistake in counting of my credit hours, who will correct it-->
+<category>
+    <pattern>There is some mistake in counting of my credit hours, who will correct it</pattern>
+    <template>In case of any issue regarding credit hours, contact Examinations Branch 2nd floor Admin Block 04299029235</template>
+</category>	
+	
+<!--How many days will it take to reach my comprehensive result notification from exams branch to students sections-->
+<category>
+    <pattern>How many days will it take to reach my comprehensive result notification from exams branch to students sections</pattern>
+    <template>It usually takes 3 to 4 days for comprehensive result to reach from Exams branch to students section after completing formalities</template>
+</category>	
+	
+<!--PEC has not received My comprehensive result notification I need it to register with PEC?-->
+<category>
+    <pattern>PEC has not received My comprehensive result notification I need it to register with PEC</pattern>
+    <template>In case your comprehensive result notification/result gazette  is not received by PEC, then you can email at examination@uet.edu.pk with your registration number or contact 04299029235.</template>
+</category>	
+	
+<!--What is rule if I get lower grade than my previous grade-->
+<category>
+    <pattern>What is rule if I get lower grade than my previous grade</pattern>
+    <template>In case a student gets lower grade than previous grade, the latest grade will be counted</template>
+</category>	
+	
+<!--What is the rule if I get lower grade than my previous grade-->
+<category>
+    <pattern>What is the rule if I get lower grade than my previous grade</pattern>
+    <template>In case a student gets lower grade than previous grade, the latest grade will be counted</template>
+</category>	
+
+
+<!--What is minimum CGPA required to continue studies at UET-->
+<category>
+    <pattern>What is minimum CGPA required to continue studies at UET</pattern>
+    <template>A student needs to maintain at least 2.000 CGPA to continue studies to avoid from separation from university rules here.</template>
+</category>	
+
+<!--What is the minimum CGPA required to continue studies at UET-->
+<category>
+    <pattern>What is the minimum CGPA required to continue studies at UET</pattern>
+    <template>A student needs to maintain at least 2.000 CGPA to continue studies to avoid from separation from university rules here.</template>
+</category>	
+	
+<!--What is minimum CGPA required to pass the undergraduate Bsc degree-->
+<category>
+    <pattern>What is minimum CGPA required to pass the undergraduate Bsc degree</pattern>
+    <template>Minimum 2.000 CGPA is required to pass undergraduate B.Sc degree. </template>
+</category>	
+
+<!--What is the minimum CGPA required to pass the undergraduate Bsc degree-->
+<category>
+    <pattern>What is the minimum CGPA required to pass the undergraduate Bsc degree</pattern>
+    <template>Minimum 2.000 CGPA is required to pass undergraduate B.Sc degree. </template>
+</category>	
+	
+<!--What is minimum CGPA required to pass the postgraduate MSc, MS, Mphil, degree?-->
+<category>
+    <pattern>What is minimum CGPA required to pass the postgraduate MSc, MS, Mphil, degree</pattern>
+    <template>Minimum 2.500 CGPA is required to pass postgraduate Msc MS Mphil degree</template>
+</category>	
+
+<!--What is the minimum CGPA required to pass the postgraduate MSc, MS, Mphil, degree?-->
+<category>
+    <pattern>What is the minimum CGPA required to pass the postgraduate MSc, MS, Mphil, degree</pattern>
+    <template>Minimum 2.500 CGPA is required to pass postgraduate Msc MS Mphil degree</template>
+</category>	
+	
+<!--What is minimum CGPA required to pass the PhD degree-->
+<category>
+    <pattern>What is minimum CGPA required to pass the PhD degree</pattern>
+    <template>Minimum 3.300 CGPA is required to pass PhD degree. </template>
+</category>	
+
+<!--What is the minimum CGPA required to pass the PhD degree-->
+<category>
+    <pattern>What is the minimum CGPA required to pass the PhD degree</pattern>
+    <template>Minimum 3.300 CGPA is required to pass PhD degree. </template>
+</category>	
+
+<!--Will WF grade be counted towards CGPA-->
+<category>
+    <pattern>Will WF grade be counted towards CGPA</pattern>
+    <template>WF grade is not counted towards CGPA</template>
+</category>	
+
+<!--Will W grade be counted towards CGPA-->
+<category>
+    <pattern>Will W grade be counted towards CGPA</pattern>
+    <template>W grade is not counted towards CGPA</template>
+</category>	
+
+<!--Will I grade be counted towards CGPA-->
+<category>
+    <pattern>Will I grade be counted towards CGPA</pattern>
+    <template>I grade is not counted towards CGPA</template>
+</category>	
+
+<!-- Will IP grade be counted towards CGPA-->
+<category>
+    <pattern>Will IP grade be counted towards CGPA</pattern>
+    <template>IP grade is not counted towards CGPA</template>
+</category>	
+
+<!--What is minimum attendance required in a subject?-->
+<category>
+    <pattern>What is minimum attendance required in a subject</pattern>
+    <template>Minimum 75% attendance is required in a subject to pass</template>
+</category>	
+
+<!--What is the minimum attendance required in a subject?-->
+<category>
+    <pattern>What is the minimum attendance required in a subject</pattern>
+    <template>Minimum 75% attendance is required in a subject to pass</template>
+</category>	
+	
+<!--Will my approved leave be counted towards shortage of attendance-->
+<category>
+    <pattern>Will my approved leave be counted towards shortage of attendance</pattern>
+    <template>Approved leave is not counted towards shortage of attendance. </template>
+</category>	
+
+<!--What is minimum attendance percentage required for the award of I grade-->
+<category>
+    <pattern>What is minimum attendance percentage required for the award of I grade</pattern>
+    <template>Minimum 50% attendance is required for the award of I grade.</template>
+</category>	
+	
+<!--What is the minimum attendance percentage required for the award of I grade-->
+<category>
+    <pattern>What is the minimum attendance percentage required for the award of I grade</pattern>
+    <template>Minimum 50% attendance is required for the award of I grade.</template>
+</category>	
+
+<!--Can  I improve only theory part-->
+<category>
+    <pattern>Can I improve only theory part</pattern>
+    <template>Student can improve/repeat only theory or only lab part depending upon his choice</template>
+</category>		
+	
+<!--When subject registration will open-->
+<category>
+    <pattern>When subject registration will open</pattern>
+    <template>Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.</template>
+</category>	
+
+<!--How many maximum credit hours I can register at undergraduate level-->
+<category>
+    <pattern>How many maximum credit hours I can register at undergraduate level</pattern>
+    <template>
+        At undergraduate level, a 1st or 2nd student can register maximum of 18 credit hours, from 3rd year onward, student can register maximum of 21 credit hours on LMS. 
+At postgraduate level, student can register maximum of 12 credit hours during a semester.
+    </template>
+</category>		
+	
+
+<!--How many maximum credit hours I can register at post graduate level-->
+<category>
+    <pattern>How many maximum credit hours I can register at post graduate level</pattern>
+    <template>At undergraduate level, a 1st or 2nd student can register maximum of 18 credit hours, from 3rd year onward, student can register maximum of 21 credit hours on LMS. 
+At postgraduate level, student can register maximum of 12 credit hours during a semester.</template>
+</category>		
+	
+<!--How many maximum credit hours I can register in regular semester-->
+<category>
+    <pattern>How many maximum credit hours I can register in regular semester</pattern>
+    <template>At undergraduate level, a 1st or 2nd student can register maximum of 18 credit hours, from 3rd year onward, student can register maximum of 21 credit hours on LMS. 
+At postgraduate level, student can register maximum of 12 credit hours during a semester.</template>
+</category>	
+
+<!--How many maximum credit hours I can register in summer-->
+<category>
+    <pattern>How many maximum credit hours I can register in summer</pattern>
+    <template>Maximum of 8 credit hours can be registered in summer</template>
+</category>		
+	
+
+<!--I have registered that particular subject on LMS but it is not showing in registered subjects list?-->
+<category>
+    <pattern>I have registered that particular subject on LMS but it is not showing in registered subjects list </pattern>
+    <template>In case of any subject registration problem contact your departmental LMS coordinator, if problem is not resolved then contact Examinations Branch, 2nd floor Admin block 04299029235</template>
+</category>		
+	
+<!--I did not register that subject, but it is automatically registered-->
+<category>
+    <pattern>I did not register that subject, but it is automatically registered</pattern>
+    <template>In case of any subject registration problem contact your departmental LMS coordinator, if problem is not resolved then contact Examinations Branch, 2nd floor Admin block 04299029235</template>
+</category>	
+
+<!--My registered subjects have been removed from LMS due to nonpayment of dues, how can I register again after payment of dues-->
+<category>
+    <pattern>My registered subjects have been removed from LMS due to nonpayment of dues, how can I register again after payment of dues</pattern>
+    <template>In case your subjects have removed due to nonpayment of dues, contact Examinations Branch, 2nd floor Admin block 04299029235</template>
+</category>		
+	
+<!--If there is timetable clash between two subjects, then how can I register both subjects-->
+<category>
+    <pattern>If there is timetable clash between two subjects, then how can I register both subjects</pattern>
+    <template>You cannot register two subjects in case of timetable clash.</template>
+</category>		
+	
+<!--I have cleared pre-requisite subject; can I register in advanced subject-->
+<category>
+    <pattern>I have cleared prerequisite subject can I register in advanced subject</pattern>
+    <template>In case a student has passed prerequisite, then he can register in advanced subject.</template>
+</category>		
+	
+<!-- What are minimum number of students required to get registered for a subject to offer in summer-->
+<category>
+    <pattern>What are minimum number of students required to get registered for a subject to offer in summer</pattern>
+    <template>Minimum 5 students should be registered in a subject in summer to continue, otherwise subject will be withdrawn.</template>
+</category>	
+
+<!-- What are the minimum number of students required to get registered for a subject to offer in summer-->
+<category>
+    <pattern>What are minimum number of students required to get registered for a subject to offer in summer</pattern>
+    <template>Minimum 5 students should be registered in a subject in summer to continue, otherwise subject will be withdrawn.</template>
+</category>	
+
+<!--What if minimum number of students do not register in subject in summer-->
+<category>
+    <pattern>What if minimum number of students do not register in subject in summer</pattern>
+    <template>Minimum 5 students should be registered in a subject in summer to continue, otherwise subject will be withdrawn.</template>
+</category>		
+	
+<!--What is rule to drop a subject-->
+<category>
+    <pattern>What is rule to drop a subject</pattern>
+    <template>Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.</template>
+</category>		
+	
+<!--What is the rule to drop a subject-->
+<category>
+    <pattern>What is the rule to drop a subject</pattern>
+    <template>Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.</template>
+</category>	
+
+<!--How I can drop any regesterd subject-->
+<category>
+    <pattern>How I can drop any regesterd subject</pattern>
+    <template>Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.</template>
+</category>		
+
+<!--How to get percentage equivalence certificate-->
+<category>
+    <pattern>How to get percentage equivalence certificate</pattern>
+    <template>To apply for percentage equivalence certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare percentage equivalence certificate. </template>
+</category>		
+
+<!--What documents are required to attach for percentage equivalence certificate-->
+<category>
+    <pattern>What documents are required to attach for percentage equivalence certificate</pattern>
+    <template>To apply for percentage equivalence certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare percentage equivalence certificate. </template>
+</category>		
+	
+
+<!--What is fee for percentage equivalence certificate?-->
+<category>
+    <pattern>What is fee for percentage equivalence certificate</pattern>
+    <template>Fee for percentage certificate is Rs. 500/-</template>
+</category>		
+	
+<!-- How many days it will take to get percentage equivalence certificate-->
+<category>
+    <pattern>How many days it will take to get percentage equivalence certificate</pattern>
+    <template>It takes 3 working days to prepare percentage equivalence certificate.</template>
+</category>		
+	
+<!--How to get regular Bonafide certificate -->
+<category>
+    <pattern>How to get regular Bonafide certificate</pattern>
+    <template>
+        To apply for regular bonafide certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare regular bonafide certificate
+    </template>
+</category>		
+	
+<!--What documents are required to attach for regular bonafide certificate-->
+<category>
+    <pattern>What documents are required to attach for regular bonafide certificate</pattern>
+    <template>To apply for regular bonafide certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare regular bonafide certificate.</template>
+</category>		
+	
+
+<!--What is fee for regular bonafide certificate-->
+<category>
+    <pattern>What is fee for regular bonafide certificate</pattern>
+    <template>Fee for regular bonafide certificate is Rs. 500/-</template>
+</category>	
+
+
+<!--What is the fee for regular bonafide certificate-->
+<category>
+    <pattern>What is the fee for regular bonafide certificate</pattern>
+    <template>Fee for regular bonafide certificate is Rs. 500/-</template>
+</category>		
+	
+<!--How many days it will take to get regular bonafide certificate?-->
+<category>
+    <pattern>How many days it will take to get regular bonafide certificate</pattern>
+    <template>It takes 3 working days to prepare regular bonafide certificate. </template>
+</category>		
+	
+<!--How to get embassy bonafide certificate-->
+<category>
+    <pattern>How to get embassy bonafide certificate</pattern>
+    <template>To apply for embassy bonafide certificate, get DMC form, attach DMC and degree copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare embassy bonafide certificate</template>
+</category>		
+<!--What is the detail of university bank account-->
+<category>
+    <pattern>What is the detail of university bank account</pattern>
+    <template>
+Detail of University Bank Account is:<br/>
+
+Name of Bank       :   Habib Bank Limited, Pakistan<br/>
+Title                       :   Student Dues<br/>
+Name of Branch   :   Engineering University<br/>
+Branch Code         :  0128<br/>
+Swift Code             :   HABBPKKA007<br/>
+IBAN Code            :   PK23 HABB 0001 2879 0158 2203
+    </template>
+</category>		
+
+	
+<!--What is  detail of university bank account-->
+<category>
+    <pattern>What is  detail of university bank account</pattern>
+    <template>
+Detail of University Bank Account is:<br/>
+
+Name of Bank       :   Habib Bank Limited, Pakistan<br/>
+Title                       :   Student Dues<br/>
+Name of Branch   :   Engineering University<br/>
+Branch Code         :  0128<br/>
+Swift Code             :   HABBPKKA007<br/>
+IBAN Code            :   PK23 HABB 0001 2879 0158 2203
+    </template>
+</category>			
+	
+<!--How they will pay fee and how will university send them my verification-->
+<category>
+    <pattern>How they will pay fee and how will university send them my verification</pattern>
+    <template>The documents will be verified after receiving fee acknowledgement.<br/>
+
+Detail of University Bank Account is:<br/>
+
+
+Name of Bank       :   Habib Bank Limited, Pakistan<br/>
+Title                       :   Student Dues<br/>
+Name of Branch   :   Engineering University<br/>
+Branch Code         :  0128<br/>
+Swift Code             :   HABBPKKA007<br/>
+IBAN Code            :   PK23 HABB 0001 2879 0158 2203
+</template>
+</category>		
+	
+	
+<!--How to send verified degree DMC to any university institution abroad in a sealed envelope directly by UET-->
+<category>
+    <pattern>How to send verified degree DMC to any university institution abroad in a sealed envelope directly by UET</pattern>
+    <template>Apply in Examinations Branch and get your documents sealed in official envelop. </template>
+</category>		
+	
+	
+<!--When convocation is being held this year-->
+<category>
+    <pattern>When convocation is being held this year</pattern>
+    <template>
+        There is not fixed time for convocation ceremony. However, convocation is held usually at the end of each year.
+    </template>
+</category>		
+	
+	
+<!--Who can attend convocation-->
+<category>
+    <pattern>Who can attend convocation</pattern>
+    <template>Graduating students can attend convocation. The details are advertised before commencement of convocation.</template>
+</category>		
+	
+	
+<!--From where I can get entry pass for convocation-->
+<category>
+    <pattern>From where I can get entry pass for convocation</pattern>
+    <template>Entry pass can be obtained from concerned department one day before convocation.</template>
+</category>		
+		
+	
+<!--Can I receive my degree on convocation-->
+<category>
+    <pattern>Can I receive my degree on convocation</pattern>
+    <template>Students can receive degree on convocation day.</template>
+</category>		
+	
+	
+<!--Can my parents attend convocation-->
+<category>
+    <pattern>Can my parents attend convocation</pattern>
+    <template>Parents of Gold Medalists and Ph.D scholars can attend convocation</template>
+</category>		
+	
+	
+<!--I have lost my LMS password, how can I reset it-->
+<category>
+    <pattern>I have lost my LMS password, how can I reset it</pattern>
+    <template>
+        You can reset your password by visiting lms.uet.edu.pk , click on sign in and then click on reset password. Alternately, you can contact your department LMS coordinator to change/reset your password.
+    </template>
+</category>			
+	
+	
+<!--Who can provide me LMS password-->
+<category>
+    <pattern>Who can provide me LMS password</pattern>
+    <template>You can contact your department LMS coordinator to change/reset your password.</template>
+</category>		
+	
+	
+<!--My LMS account is not logging in-->
+<category>
+    <pattern>My LMS account is not logging in</pattern>
+    <template>You can contact your department LMS coordinator to change/reset your password.</template>
+</category>		
+	
+	
+<!--Why My LMS account is blocked?-->
+<category>
+    <pattern>Why My LMS account is blocked</pattern>
+    <template>Contact examinations branch if your LMS account is blocked. </template>
+</category>			
+	
+<!--How many days will it take to notify my thesis-->
+<category>
+    <pattern>How many days will it take to notify my thesis</pattern>
+    <template>After receiving thesis from ORIC, the examinations branch usually takes 2 to 3 days to notify thesis, however, the requirement for PhD thesis are different.</template>
+</category>		
+	
+<!--Is there any other option to complete degree other than thesis-->
+<category>
+    <pattern>Is there any other option to complete degree other than thesis</pattern>
+    <template>Students can opt design project with 30 credit hours course work if approved by department.</template>
+</category>		
+	
+<!--How many credit hours are for thesis in MSc, MS, MPhil-->
+<category>
+    <pattern>How many credit hours are for thesis in MSc, MS, MPhil</pattern>
+    <template>30 credit hours are required for the award of MSc/MS/M. Phil degree with other conditions</template>
+</category>			
+	
+<!--How many credit hours are for thesis in PhD-->
+<category>
+    <pattern>How many credit hours are for thesis in PhD</pattern>
+    <template>60 credit hours are required for PhD degree, 42 credit hours for thesis and 18 credit hours for course work. Duration is minimum 3 years.</template>
+</category>		
+	
+<!--Do I have to register thesis on LMS-->
+<category>
+    <pattern>Do I have to register thesis on LMS</pattern>
+    <template>Department registers thesis on LMS.</template>
+</category>		
+	
+<!--How can I get postgraduate diploma if I have not cleared thesis-->
+<category>
+    <pattern>How can I get postgraduate diploma if I have not cleared thesis</pattern>
+    <template>If you have completed course work but thesis is not cleared, you can apply for Postgraduate diploma in examination branch.</template>
+</category>		
+	
+<!--What documents to attach with thesis Performa-->
+<category>
+    <pattern>What documents to attach with thesis Performa</pattern>
+    <template>Normally we attach copy of DMC, copy of proposal and a form with teacher comments about your research work. To get further information about it contact with their department.  </template>
+</category>			
+	
+<!--What extra documents are required for degree DMC for affiliated colleges students-->
+<category>
+    <pattern>What extra documents are required for degree DMC for affiliated colleges students</pattern>
+    <template>Degree/DMC covering letter is extra requirement with other documents for affiliated colleges students.</template>
+</category>			
+	
+<!--Who can sign degree completion form for affiliated colleges students-->
+<category>
+    <pattern>Who can sign degree completion form for affiliated colleges students</pattern>
+    <template>Controller/Principal/HOD can sign degree completion for affiliated colleges students.</template>
+</category>			
+	
+<!--Who will clear my dues from college-->
+<category>
+    <pattern>Who will clear my dues from college</pattern>
+    <template>Departmental LMS coordinator will clear dues from college. </template>
+</category>			
+	
+<!--Who will make my departmental LMS clearance from college-->
+<category>
+    <pattern>Who will make my departmental LMS clearance from college</pattern>
+    <template>Departmental LMS coordinator will make  LMS clearance from college.</template>
+</category>			
+	
+<!--Where is the admin block-->
+<category>
+    <pattern>Where is the admin block</pattern>
+    <template>Near HBL, UET Branch also it is near to VS office. </template>
+</category>	
+
+<!--Where is admin block-->
+<category>
+    <pattern>Where is admin block</pattern>
+    <template>Near HBL, UET Branch also it is near to VS office. </template>
+</category>	
+	
+<!--How can we use central library-->
+<category>
+    <pattern>How can we use central library</pattern>
+    <template>Library will issue library card then you can use</template>
+</category>			
+
+<!--Is University transportation facility available-->
+<category>
+    <pattern>Is University transportation facility available</pattern>
+    <template>Yes. University provide transportation facility. </template>
+</category>			
+	
+<!--Can we unregister to register subject-->
+<category>
+    <pattern>Can we unregister to register subject</pattern>
+    <template>Yes, you can.</template>
+</category>			
+	
+<!--Can we migrate from UET-->
+<category>
+    <pattern>Can we migrate from UET</pattern>
+    <template>Yes</template>
+</category>		
+	
+	
+<!--Can we freeze semester?-->
+<category>
+    <pattern>Can we freeze semester</pattern>
+    <template>yes, you can freeze your smester. </template>
+</category>			
+	
+<!--Can I choose my supervisor myself?-->
+<category>
+    <pattern>Can I choose my supervisor myself</pattern>
+    <template>Allocate by the department firstly, but you have option to change.</template>
+</category>		
+	
+	
+<!--Will we pay fee if we freeze to semester-->
+<category>
+    <pattern>Will we pay fee if we freeze to semester</pattern>
+    <template>Yes. You will pay fee even you freeze to semester. </template>
+</category>			
+	
+<!-- For how many times we can freeze semester-->
+<category>
+    <pattern> For how many times we can freeze semester</pattern>
+    <template>Contact to examination branch.</template>
+</category>		
+	
+	
+<!--Can we complete degree without thesis-->
+<category>
+    <pattern>Can we complete degree without thesis</pattern>
+    <template>No</template>
+</category>			
+	
+<!--Can we take additional courses instead of thesis-->
+<category>
+    <pattern>Can we take additional courses instead of thesis</pattern>
+    <template>No</template>
+</category>		
+
+<!--How we can change our supervisor-->
+<category>
+    <pattern>How we can change our supervisor? </pattern>
+    <template>Write a handwritten application to HOD. </template>
+</category>			
+	
+<!--Why conduct to PGRC-->
+<category>
+    <pattern>Why conduct to PGRC</pattern>
+    <template>To evaluate and prove the post graduate cases. </template>
+</category>			
+	
+	
+<!--After how many days PGRC meeting is held-->
+<category>
+    <pattern>After how many days PGRC meeting is held</pattern>
+    <template>Approximately once time in a month  </template>
+</category>			
+	
+<!--Is PGRC meetings held separately for CS and CE-->
+<category>
+    <pattern>Is PGRC meetings held separately for CS and CE</pattern>
+    <template>Yes</template>
+</category>		
+
+	
+<!--What is stands for PGRC-->
+<category>
+    <pattern>What is stands for PGRC</pattern>
+    <template>Post Graduate Research Committee</template>
+</category>			
+	
+<!--Who is chairperson of CS department-->
+<category>
+    <pattern>Who is chairperson of CS department</pattern>
+    <template>At present (2019) the chairperson of CS department is Prof. Dr. Shazia Arshad </template>
+</category>		
+
+
+	
+<!--Is CS and CE separate departments-->
+<category>
+    <pattern>Is CS and CE separate departments</pattern>
+    <template>Yes</template>
+</category>			
+	
+<!--Who is chairperson of CE department-->
+<category>
+    <pattern>Who is chairperson of CE department</pattern>
+    <template>At present (2019) the chairperson of CE department is Prof. Dr Irfan-Ullah CH.</template>
+</category>		
+
+
+	
+<!--How many times a PGRC conducted in a month-->
+<category>
+    <pattern>How many times a PGRC conducted in a month</pattern>
+    <template>Only once time. </template>
+</category>			
+	
+<!--Who leads to PGRC-->
+<category>
+    <pattern>Who leads to PGRC</pattern>
+    <template>Dean, HOD and department faculty. </template>
+</category>		
+
+
+<!--Can I use UET transport without paying-->
+<category>
+    <pattern>Can I use UET transport without paying</pattern>
+    <template>NO</template>
+</category>		
+
+
+	
+<!--Can clearance process do any other person-->
+<category>
+    <pattern>Can clearance process do any other person</pattern>
+    <template>APROXIMATELHY NOT</template>
+</category>			
+	
+<!--Can my degree receive any person without me-->
+<category>
+    <pattern>Can my degree receive any person without me</pattern>
+    <template>Yes, but with authority latter</template>
+</category>		
+
+
+<!--Where is the girls common room in CS department-->
+<category>
+    <pattern>Where is the girls common room in CS department</pattern>
+    <template>In CS building, ground floor.</template>
+</category>		
+
+
+<!--Where is the boys common room in CS department-->
+<category>
+    <pattern>Where is the boys common room in CS department</pattern>
+    <template>In CS building ground floor.</template>
+</category>			
+	
+<!--Where is the research lab in CS department-->
+<category>
+    <pattern>Where is the research lab in CS department</pattern>
+    <template>In CS building near faculty Room on first floor</template>
+</category>		
+
+
+<!--Does anyone can use research lab-->
+<category>
+    <pattern>Does anyone can use research lab</pattern>
+    <template>Just Ph.D. and MS Researchers </template>
+</category>			
+	
+<!--Is there any research lab in CS department?-->
+<category>
+    <pattern>Is there any research lab in CS department</pattern>
+    <template>Yes! In CS building near faculty Room on first floor</template>
+</category>	
+
+
+<!--Where is auditorium buildings?-->
+<category>
+    <pattern>Where is auditorium buildings</pattern>
+    <template>Near to CE buildings</template>
+</category>			
+	
+<!--Where is the lecture theatre-->
+<category>
+    <pattern>Where is the lecture theatre</pattern>
+    <template>Near to CS building</template>
+</category>	
+
+
+<!--Is IBM a Govt institution-->
+<category>
+    <pattern>Is IBM a Govt institution</pattern>
+    <template>No, IBM is private institute</template>
+</category>			
+	
+<!--What stands for IBM-->
+<category>
+    <pattern>What stands for IBM</pattern>
+    <template>Information Business Management</template>
+</category>	
+
+	
+<!--Where we can complain in UET against any violation-->
+<category>
+    <pattern>Where we can complain in UET against any violation</pattern>
+    <template>In Security Office or in DSA office. </template>
+</category>	
+
+
+<!-- Can we complain against food rules-->
+<category>
+    <pattern> Can we complain against food rules</pattern>
+    <template>Yes,  you can complain to concerned authorities to improve food quality. </template>
+</category>			
+	
+<!--Do there exists any disciplines against food quality-->
+<category>
+    <pattern>Do there exists any disciplines against food quality</pattern>
+    <template>Yes</template>
+</category>	
+	
+<!--Where we can contact to resolve LMS problems-->
+<category>
+    <pattern>Where we can contact to resolve LMS problems</pattern>
+    <template>Department LMS coordinator or Visit to Examination branch. </template>
+</category>	
+
+
+<!--What stands for LMS-->
+<category>
+    <pattern>What stands for LMS</pattern>
+    <template>Learning Management Systems</template>
+</category>			
+	
+<!--what is lms-->
+<category>
+    <pattern>what is lms</pattern>
+    <template>Learning Management Systems</template>
+</category>	
+
+<!--what is the lms-->
+<category>
+    <pattern>what is the lms</pattern>
+    <template>Learning Management Systems</template>
+</category>	
+
+
+<!--How can we register maximum subjects in MS-->
+<category>
+    <pattern>How can we register maximum subjects in MS</pattern>
+    <template>You can register only 3 subjects of 9 credits hours.</template>
+</category>			
+	
+<!--How we can generate online transcript-->
+<category>
+    <pattern>How we can generate online transcript</pattern>
+    <template>You can generate online transcript using their LMS account.</template>
+</category>	
+
+<!--Where is the security office-->
+<category>
+    <pattern>Where is the security office</pattern>
+    <template>Near to Junaid Jamshed stadium/ Bhola Canteen</template>
+</category>	
+
+
+<!--How many minimum subjects can we register in MS-->
+<category>
+    <pattern>How many minimum subjects can we register in MS</pattern>
+    <template>You can register minimum ONE subject</template>
+</category>			
+	
+<!--Where is ATM in UET-->
+<category>
+    <pattern>Where is ATM in UET</pattern>
+    <template>After issuing Library Card</template>
+</category>	
+
+<!--How our registration number and sections are allocated-->
+<category>
+    <pattern>How our registration number and sections are allocated</pattern>
+    <template>According the policy of dept.</template>
+</category>	
+
+
+<!--Can we take back our original documents if needed-->
+<category>
+    <pattern>Can we take back our original documents if needed</pattern>
+    <template>Yes, but on showing of documents submission slip</template>
+</category>			
+	
+<!--Is it compulsory to submit original documents during admission-->
+<category>
+    <pattern>Is it compulsory to submit original documents during admission</pattern>
+    <template>Yes</template>
+</category>	
+
+
+<!--Can we avail any help from UET dispensary-->
+<category>
+    <pattern>Can we avail any help from UET dispensary</pattern>
+    <template>Yes</template>
+</category>	
+
+
+<!--Where is the N1 classroom-->
+<category>
+    <pattern>Where is the N1 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>			
+
+<!--Where is the N2 classroom-->
+<category>
+    <pattern>Where is the N2 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is the N3 classroom-->
+<category>
+    <pattern>Where is the N3 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is the N4 classroom-->
+<category>
+    <pattern>Where is the N4 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is the N5 classroom-->
+<category>
+    <pattern>Where is the N5 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is the N6 classroom-->
+<category>
+    <pattern>Where is the N6 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is the N7 classroom-->
+<category>
+    <pattern>Where is the N7 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is the N8 classroom-->
+<category>
+    <pattern>Where is the N8 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is the N9 classroom-->
+<category>
+    <pattern>Where is the N9 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is the N10 classroom-->
+<category>
+    <pattern>Where is the N10 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is the N11 classroom-->
+<category>
+    <pattern>Where is the N11 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is the N12 classroom-->
+<category>
+    <pattern>Where is the N12 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+
+
+
+<!--Where is N1 classroom-->
+<category>
+    <pattern>Where is  N1 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>			
+
+<!--Where is  N2 classroom-->
+<category>
+    <pattern>Where is  N2 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is  N3 classroom-->
+<category>
+    <pattern>Where is  N3 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is  N4 classroom-->
+<category>
+    <pattern>Where is  N4 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is  N5 classroom-->
+<category>
+    <pattern>Where is  N5 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is  N6 classroom-->
+<category>
+    <pattern>Where is  N6 classroom</pattern>
+    <template>In lecture theater on ground floor. </template>
+</category>		
+
+<!--Where is  N7 classroom-->
+<category>
+    <pattern>Where is  N7 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is  N8 classroom-->
+<category>
+    <pattern>Where is  N8 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is  N9 classroom-->
+<category>
+    <pattern>Where is  N9 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is  N10 classroom-->
+<category>
+    <pattern>Where is  N10 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is  N11 classroom-->
+<category>
+    <pattern>Where is  N11 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--Where is  N12 classroom-->
+<category>
+    <pattern>Where is  N12 classroom</pattern>
+    <template>In lecture theater on first floor. </template>
+</category>	
+
+<!--How many campuses of UET-->
+<category>
+    <pattern>How many campuses of UET</pattern>
+    <template>
+        I.Faisalabad Campus.<br/>
+        II.Kala Shah Kaku (KSK) Campus./ New Campus.<br/>
+        III.Rachna College of Engineering and Technology, Gujranwala.<br/>
+        IV.Narowal Campus.
+    </template>
+</category>	
+<category>
+    <pattern># campuses ^ UET ^</pattern>
+    <template>
+        I.Faisalabad Campus.<br/>
+        II.Kala Shah Kaku (KSK) Campus./ New Campus.<br/>
+        III.Rachna College of Engineering and Technology, Gujranwala.<br/>
+        IV.Narowal Campus.
+    </template>
+</category>	
+<category>
+    <pattern># UET ^ campuses ^</pattern>
+    <template>
+        I.Faisalabad Campus.<br/>
+        II.Kala Shah Kaku (KSK) Campus./ New Campus.<br/>
+        III.Rachna College of Engineering and Technology, Gujranwala.<br/>
+        IV.Narowal Campus.
+    </template>
+</category>	
+
+
+<category>
+    <pattern>DPTUET</pattern>
+    <template>
+        <delay>3</delay>
+
+        which one campus, <split/>
+        <button>
+            <text>UET Lahore(Main) Campus</text>
+            <postback>LACAMP</postback>
+        </button>
+        <button>
+            <text>UET KSK/New Campus</text>
+            <postback>KSKCAMP</postback>
+        </button>
+        <button>
+            <text>UET Narowal Campus</text>
+            <postback>NAROACAMP</postback>
+        </button>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># departments ^ UET ^</pattern>
+    <template>
+       <srai>LACAMP</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern># department ^ UET ^</pattern>
+    <template>
+       <srai>LACAMP</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># department ^ UET ^</pattern>
+    <template>
+       <srai>LACAMP</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern># UET ^ department ^</pattern>
+    <template>
+       <srai>LACAMP</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern># UET ^ departments ^</pattern>
+    <template>
+       <srai>LACAMP</srai>
+    </template>
+</category>
+
+
+
+<!--How many departments at UET Lahore Campus-->
+
+
+<!--How many departments at UET KSK Campus-->
+<category>
+    <pattern>KSKCAMP</pattern>
+    <template>
+
+
+        <ol>
+            <li>Department of Electrical, Electronics and Telecommunication Engineering.</li>
+            <li>Department of Bio-Medical Engineering</li>
+            <li>Department of Mechanical, Mechatronics and Manufacturing Engineering.</li>
+            <li>Department of Chemical, Polymer and Composite Material Engineering.</li>
+            <li>Department of Basic Science and Humanities.</li>
+        </ol>
+    </template>
+</category>	
+
+<category>
+    <pattern># departments ^ UET KSK ^</pattern>
+    <template>
+1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. </template>
+</category>	
+
+
+<category>
+    <pattern># departments ^ UET NEW ^</pattern>
+    <template>
+1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. </template>
+</category>	
+
+
+<!--Which degrees are being offered by UET KSK campus-->
+<category>
+    <pattern>Which degrees are being offered by UET KSK campus</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offered ^ UET KSK ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offer ^ UET KSK ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offers ^ UET KSK ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offered ^ UET new ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offer ^ UET new ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offers ^ UET new ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+
+<category>
+    <pattern># degrees ^ offered ^ UET KSK ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+<category>
+    <pattern># degrees ^ offered ^ UET new ^</pattern>
+    <template>
+        1.Department of Electrical, Electronics and Telecommunication Engineering.<br/>
+2.Department of Bio-Medical Engineering<br/>
+3.Department of Mechanical, Mechatronics and Manufacturing Engineering.<br/>
+4.Department of Chemical, Polymer and Composite Material Engineering.<br/>
+5.Department of Basic Science and Humanities. <br/>
+    </template>
+</category>	
+	
+<!--How many departments at UET Narowal Campus-->
+<category>
+    <pattern>NAROACAMP</pattern>
+    <template>
+        <ol>
+            <li>Department of Electrical Engineering.</li>
+            <li>Department of Computer Science and Engineering.</li>
+            <li>Department of Mechanical Engineering.</li>
+            <li>Department of Civil Engineering.</li>
+            <li>Department of Bio-Medical Engineering.</li>
+        </ol>
+    </template>
+</category>	
+
+<category>
+    <pattern># departments ^ UET Narowal ^</pattern>
+    <template>
+        1.Department of Electrical Engineering.<br/>
+2.Department of Computer Science and Engineering.<br/>
+3.Department of Mechanical Engineering<br/>
+4.Department of Civil Engineering.<br/>
+5.Department of Bio-Medical Engineering.
+    </template>
+</category>	
+
+	
+<!--Which degrees are being offered by UET Narowal campus-->
+<category>
+    <pattern>Which degrees are being offered by UET Narowal campus</pattern>
+    <template>
+1.Department of Electrical Engineering.<br/>
+2.Department of Computer Science and Engineering.<br/>
+3.Department of Mechanical Engineering<br/>
+4.Department of Civil Engineering.<br/>
+5.Department of Bio-Medical Engineering.</template>
+</category>	
+<category>
+    <pattern># degrees ^ offered ^ UET Narowal ^</pattern>
+    <template>
+1.Department of Electrical Engineering.<br/>
+2.Department of Computer Science and Engineering.<br/>
+3.Department of Mechanical Engineering<br/>
+4.Department of Civil Engineering.<br/>
+5.Department of Bio-Medical Engineering.</template>
+</category>	
+
+
+<!--How many total seats for undergraduate programs-->
+<category>
+    <pattern>How many total seats for undergraduate programs</pattern>
+    <template>Number of available seats for undergraduate students are almost 3000. Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for BSc Electrical Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Electrical Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Electrical Engineering Department are almost 201 Which can be changed with respect to time.</template>
+</category>			
+	
+<!--How many open merit seats at UET Lahore campus or any other campus-->
+<category>
+    <pattern>How many open merit seats at UET Lahore campus or any other campus</pattern>
+    <template>Kindly visit to Prospectus. https://uet.edu.pk/admission/admissioninfo/images/uet_prospectus_2017.pdf
+Note: Must replace year in URL with current year  will replace 2017 with current year if you want to updated prospects.</template>
+</category>	
+
+
+<!--How many reserved Seats at UET Lahore-->
+<category>
+    <pattern>How many reserved Seats at UET Lahore</pattern>
+    <template>Kindly visit to Prospectus. https://uet.edu.pk/admission/admissioninfo/images/uet_prospectus_2017.pdf
+Note: Must replace year in URL with current year i.e will replace 2017 with current year if you want to updated prospects.</template>
+</category>	
+
+
+<!--What are reserved Categories at UET Lahore-->
+<category>
+    <pattern>What are reserved Categories at UET Lahore</pattern>
+    <template>Kindly visit to Prospectus. https://uet.edu.pk/admission/admissioninfo/images/uet_prospectus_2017.pdf
+Note: Must replace year in URL with current year i.e will replace 2017 with current year if you want to updated prospects.</template>
+</category>			
+	
+<!--How many total seats for B.Sc Computer Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Computer Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Computer Engineering Department are almost 40 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for BSc Computer Science Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Computer Science Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Computer Science Department are almost 157 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for Bsc Machinal Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Machinal Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Machinal Engineering Department are almost 196 Which can be changed with respect to time.</template>
+</category>			
+	
+<!--How many total seats for BSc Mechatronics Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Mechatronics Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for B.Sc Mechatronics Engineering Department are almost 80 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for Bsc Electrical Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Electrical Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Electrical Engineering Department are almost 201 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for BSc Industrial and Manufacturing Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Industrial and Manufacturing Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Industrial and Manufacturing Engineering Department are almost 49. Which can be changed with respect to time.</template>
+</category>			
+	
+<!--How many total seats for BSc Civil Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Civil Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Civil Engineering Department are almost 198 Which can be changed with respect to time.</template>
+</category>	
+
+
+
+<!--How many total seats for BSc Architectural Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Architectural Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Architectural Engineering Department are almost 51 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for BSc Transportation Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Transportation Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Transportation Engineering Department are almost 40 Which can be changed with respect to time.</template>
+</category>			
+	
+<!--How many total seats for BSc Environmental Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Environmental Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Environmental Engineering Department are almost 50 Which can be changed with respect to time.</template>
+</category>	
+
+
+
+<!--How many total seats for BSc Chemical Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for BSc Chemical Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Chemical Engineering Department are almost 91 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for Bsc Polymer Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Polymer Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Polymer Engineering Department are almost 50 Which can be changed with respect to time.</template>
+</category>			
+	
+<!--How many total seats for Bsc Petroleum Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Petroleum Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for BSc Petroleum Engineering Department are almost 45  Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for Bsc Mining Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Mining Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Mining Engineering Department are almost 45 Which can be changed with respect to time.</template>
+</category>	
+
+
+<!--How many total seats for Bsc Geological Engineering Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Geological Engineering Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Geological Engineering Department are almost 50 Which can be changed with respect to time.</template>
+</category>			
+	
+<!--How many total seats for Bsc Department of Architectural Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Department of Architectural Lahore campus</pattern>
+    <template>Number of available seats for Bsc Department of Architectural are almost 50 Which can be changed with respect to time.</template>
+</category>	
+	
+	
+<!--How many total seats for Bsc Product and Industrial Design Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc Product and Industrial Design Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc Product and Industrial Design Department are almost 52 Which can be changed with respect to time.</template>
+</category>		
+	
+	
+<!--How many total seats for Bsc City and regional Plaining Department Lahore campus-->
+<category>
+    <pattern>How many total seats for Bsc City and regional Plaining Department Lahore campus</pattern>
+    <template>Number of available seats for Bsc City and regional Plaining Department are almost 48. Which can be changed with respect to time.
+Not written about math physics etc.<br/>
+Also, must write about Narowal and KSK campuses degree seats same as for Lahore campus done.</template>
+</category>		
+	
+	
+<!--How many total seats for Bsc Electrical Engineering Department at UET faisalabad campus-->
+<category>
+    <pattern>How many total seats for Bsc Electrical Engineering Department at UET faisalabad campus</pattern>
+    <template>Number of available seats for Bsc electrical engineering department are almost 99. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Mechatronics Department at UET faisalabad campus-->
+<category>
+    <pattern>How many total seats for BSc Mechatronics Department at UET faisalabad campus</pattern>
+    <template>Number of available seats for Bsc mechatronics are almost 100. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Textile Department at UET faisalabad campus-->
+<category>
+    <pattern>How many total seats for BSc Textile Department at UET faisalabad campus</pattern>
+    <template>Number of available seats for Bsc textile are almost 50. Which can be changed with respect to time.</template>
+</category>	
+
+
+	
+<!--How many total seats for Bsc Chemical Engineering Department at UET faisalabad campus-->
+<category>
+    <pattern>How many total seats for Bsc Chemical Engineering Department at UET faisalabad campus</pattern>
+    <template>Number of available seats for Bsc chemical engineering are almost 51. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Electrical Engineering Department at UET KSK campus-->
+<category>
+    <pattern>How many total seats for BSc Electrical Engineering Department at UET KSK campus</pattern>
+    <template>Number of available seats for Bsc Electical engineering are almost 89. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Computer Science Department at UET KSK campus-->
+<category>
+    <pattern>How many total seats for BSc Computer Science Department at UET KSK campus</pattern>
+    <template>Number of available seats for Bsc Computer Science are almost 100. Which can be changed with respect to time</template>
+</category>	
+
+	
+<!--How many total seats for BSc Biomedical  Department at UET KSK campus-->
+<category>
+    <pattern>How many total seats for BSc Biomedical  Department at UET KSK campus</pattern>
+    <template>Number of available seats for Bsc Biomedical are almost 50. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Mechanical Engineering Department at UET KSK campus-->
+<category>
+    <pattern>How many total seats for BSc Mechanical Engineering Department at UET KSK campus</pattern>
+    <template>Number of available seats for Bsc Mechanical engineering are almost 93. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Chemical  Department at UET KSK campus-->
+<category>
+    <pattern>How many total seats for BSc Chemical  Department at UET KSK campus</pattern>
+    <template>Number of available seats for Bsc chemical engineering are almost 96. Which can be changed with respect to time.</template>
+</category>	
+	
+<!--How many total seats for BSc Electrical  Engineering Department at UET RACHNA campus-->
+<category>
+    <pattern>How many total seats for BSc Electrical  Engineering Department at UET RACHNA campus</pattern>
+    <template>Number of available seats for B.Sc Electrical engineering are almost 55. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Computer Scince  Department at UET RACHNA campus-->
+<category>
+    <pattern>How many total seats for BSc Computer Scince  Department at UET RACHNA campus</pattern>
+    <template>Number of available seats for Bsc Computer Science are almost 51. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Mechanical  Department at UET RACHNA campus-->
+<category>
+    <pattern>How many total seats for BSc Mechanical  Department at UET RACHNA campus</pattern>
+    <template>Number of available seats for Bsc Mechanical engineering are almost 51. Which can be changed with respect to time.</template>
+</category>	
+	
+<!--How many total seats for BSc iNdustrial and Manufactruing D at UET KSK campus-->
+<category>
+    <pattern>How many total seats for BSc iNdustrial and Manufactruing D at UET KSK campus</pattern>
+    <template>Number of available seats for B.Sc Industrial and Manufactruing engineering are almost 51. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for Bsc Electrical  engineering at UET Narowal campus-->
+<category>
+    <pattern>How many total seats for Bsc Electrical  engineering at UET Narowal campus</pattern>
+    <template>Number of available seats for Bsc Electrical engineering are almost 52. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Computer Science Department at UET Narowal campus-->
+<category>
+    <pattern>How many total seats for BSc Computer Science Department at UET Narowal campus</pattern>
+    <template>Number of available seats for Bsc Computer Science engineering are almost 50. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Biomedical  Enineering Department at UET Narowal campus-->
+<category>
+    <pattern>How many total seats for BSc Biomedical  Enineering Department at UET Narowal campus</pattern>
+    <template>Number of available seats for Bsc Biomedical Engineering are almost 51. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--How many total seats for BSc Mechanical  Department at UET Narowal campus-->
+<category>
+    <pattern>How many total seats for BSc Mechanical  Department at UET Narowal campus</pattern>
+    <template>Number of available seats for Bsc Mechanical engineering are almost 51. Which can be changed with respect to time.</template>
+</category>	
+
+	
+<!--What are the grading Criteria or rule of grading or how grading occur-->
+<category>
+    <pattern>What are the grading Criteria or rule of grading or how grading occur</pattern>
+    <template>Relative Grading</template>
+</category>	
+
+	
+<!--What are grade points GP for A+ grade-->
+<category>
+    <pattern>What are grade points GP for A grade</pattern>
+    <template>Grade Points (GP) for A+ is 4.0</template>
+</category>	
+
+	
+<!--What are grade points GP for A grade-->
+<category>
+    <pattern>What are grade points GP for A grade</pattern>
+    <template>Grade Points (GP) for A- is 3.7</template>
+</category>	
+
+	
+<!--What are grade points GP for B grade-->
+<category>
+    <pattern>What are grade points GP for B grade</pattern>
+    <template>Grade Points (GP) for B+ is 3.3</template>
+</category>	
+
+	
+<!--What are grade points GP for B grade-->
+<category>
+    <pattern>What are grade points GP for B grade</pattern>
+    <template>Grade Points (GP) for B is 3.0</template>
+</category>	
+
+	
+<!--What are grade points GP for B grade-->
+<category>
+    <pattern>What are grade points GP for B grade</pattern>
+    <template>Grade Points (GP) for B- is 2.7</template>
+</category>	
+
+	
+<!--What are grade points GP for B grade-->
+<category>
+    <pattern>What are grade points GP for B grade</pattern>
+    <template>Grade Points (GP) for B- is 2.7</template>
+</category>	
+
+	
+<!-- What are grade points GP for C grade-->
+<category>
+    <pattern> What are grade points GP for C grade</pattern>
+    <template> Grade Points (GP) for  C+ is 2.3</template>
+</category>	
+
+	
+<!--What are grade points GP for C grade-->
+<category>
+    <pattern>What are grade points GP for C grade</pattern>
+    <template>Grade Points (GP) for C is 2.0</template>
+</category>	
+
+	
+<!--What are grade points GP for C grade-->
+<category>
+    <pattern>What are grade points GP for C grade</pattern>
+    <template>Grade Points (GP) for C- is 1.7</template>
+</category>	
+
+	
+<!--  What are grade points GP for D grade-->
+<category>
+    <pattern> What are grade points GP for D grade</pattern>
+    <template>Grade Points (GP) for A+ is 1.3</template>
+</category>	
+
+	
+<!-- What are grade points GP for D grade-->
+<category>
+    <pattern>What are grade points GP for D grade</pattern>
+    <template>Grade Points (GP) for A+ is 1.0</template>
+</category>	
+
+	
+<!--What are grade points GP for F grade-->
+<category>
+    <pattern>What are grade points GP for F grade</pattern>
+    <template>Grade Points (GP) for A+ is 0.0</template>
+</category>	
+
+	
+<!--What are grade points GP scheme or grading rule-->
+<category>
+    <pattern>What are grade points GP scheme or grading rule</pattern>
+    <template>A+ AA-B+BB-C+CC-D+DF
+4.0 4.0 3.73.33.02.72.32.01.71.31.00.0</template>
+</category>	
+
+	
+<!--What is grade points GP scheme or grading rule-->
+<category>
+    <pattern>What is grade points GP scheme or grading rule</pattern>
+    <template>A+ AA-B+BB-C+CC-D+DF
+4.0       4.0 3.73.33.02.72.32.01.71.31.00.0</template>
+</category>	
+
+	
+<!--What is the grade points GP scheme or grading rule-->
+<category>
+    <pattern>What is the grade points GP scheme or grading rule</pattern>
+    <template>A+ AA-B+BB-C+CC-D+DF
+4.0       4.0 3.73.33.02.72.32.01.71.31.00.0</template>
+</category>
+
+<!--How to pay fee for Degree-->
+
+<category>
+    <pattern>How to pay fee for Degree</pattern>
+    <template>
+        Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR),
+    </template>
+</category>
+
+
+<category>
+    <pattern>How much to pay fee for Degree</pattern>
+    <template>
+        Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR),
+    </template>
+</category>
+
+
+<!--What is account number to pay Degree fee-->
+
+<category>
+    <pattern>What is account number to pay Degree fee</pattern>
+    <template>(Account No: 01287901582203, Title: Student Dues UET, LHR)</template>
+</category>
+
+
+<category>
+    <pattern>What is the account number to pay Degree fee</pattern>
+    <template>(Account No: 01287901582203, Title: Student Dues UET, LHR)</template>
+</category>
+
+
+<!--Where to submit Degree form?-->
+
+<category>
+    <pattern>Where to submit Degree form</pattern>
+    <template>Submit degree form in window number 1 of Examinations Branch.</template>
+</category>
+
+
+<!--Is there anyway how to get Degree right now OR I can get degree urgent-->
+
+<category>
+    <pattern>Is there anyway how to get Degree right now OR I can get degree urgent</pattern>
+    <template>Degree is issued in 40 days, urgent degree is not issued.</template>
+</category>
+
+</aiml>

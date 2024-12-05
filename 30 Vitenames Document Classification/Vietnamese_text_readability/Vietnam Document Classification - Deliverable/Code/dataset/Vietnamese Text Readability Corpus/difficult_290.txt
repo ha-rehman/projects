@@ -1,0 +1,168 @@
+Tìm hiểu thao tác lập luận so sánh trong văn bản nghị luận
+1 .
+Mở đầu
+Chương trình Ngữ văn hiện nay có nhiều đổi mới so với trước đây .
+Không là ngoại lệ , Làm Văn cũng được triển khai với nhiều thay đổi .
+Nếu như trước đây , Làm văn là phân môn đảm nhiệm việc hướng dẫn học sinh ( HS ) biết cách tạo lập các kiểu văn bản thì trong chương trình hiện hành , Làm văn là phân môn được triển khai với nhiều mục đích .
+Theo quan điểm định hướng biên soạn chương trình , Làm văn vừa đảm nhiệm việc trang bị cho HS những tri thức về các kiểu văn bản để các em có những hiểu biết và kỹ năng cơ bản tạo lập văn bản - phục vụ nhu cầu cuộc sống của các em .
+Mặt khác , với tư cách là một trong tam vị nhất thể , là một bộ phận thuộc khoa học xã hội , Làm văn còn là đầu mối giúp HS biết vận dụng tạo ra sự gắn bó , hòa nhập giữa các tri thức khoa học với cuộc sống , nhằm tạo ra những phương pháp hữu hiệu giải quyết " bài toán cuộc đời " .
+Để đạt được mục đích ấy , Làm văn phải thực sự đáp ứng được nhiều yêu cầu , trong đó có nhiệm vụ rèn luyện và nâng cao năng lực tư duy , năng lực biểu đạt cho HS để từ đó , khi ra cuộc sống , các em biết cách trình bày vấn đề rõ ràng , tạo sự thuyết phục đối với độc giả .
+Hệ thống tri thức về phương pháp biểu đạt , thao tác lập luận ... , trong đó có thao tác lập luận so sánh được triển khai trong chương trình chính là sự cụ thể hóa mục tiêu ấy .
+Tuy nhiên , khi khảo sát các công trình Làm văn hiện có , chúng tôi nhận thấy đây là vấn đề còn khá mới mẻ , chưa được nhiều tác giả nghiên cứu .
+Bài viết sẽ tập trung tìm hiểu những vấn đề cơ bản nhất về thao tác lập luận này .
+2 .
+Nội dung
+2.1 .
+Lịch sử nghiên cứu về thao tác lập luận so sánh
+Trình bày về thao tác lập luận này , có thể nhắc đến một số công trình như : SGK Làm văn 12 do các tác giả Trần Đình Sử ( chủ biên ) , Phan Trọng Luận , Nguyễn Minh Thuyết ( NXB Giáo dục , 1994 ) , hoặc nhóm tác giả Nguyễn Đăng Mạnh , Đỗ Ngọc Thống , Lưu Đức Hạnh với cuốn " Muốn viết được bài văn hay " , ( NXB Giáo dục , 1993 ) .
+Trong hai cuốn sách này , hai nhóm tác giả đã nhắc đến vai trò của so sánh trong văn bản .
+Tuy nhiên , trong cuốn SGK Làm văn 12 ( sđd , NXB Giáo dục , 1994 ) , các tác giả mới chỉ dừng lại ở việc coi so sánh như một cách luận chứng và các hình thức so sánh .
+Còn trong cuốn " Muốn viết được bài văn hay " , nhóm tác giả Nguyễn Đăng Mạnh , Đỗ Ngọc Thống , Lưu Đức Hạnh ( sđd , 1993 ) lại tập trung phân biệt sự khác nhau giữa so sánh - một biện pháp tu từ với so sánh - một phương pháp , một cách thức trình bày khi viết bài văn nghị luận .
+Như vậy , mặc dù có đề cập tới so sánh song hai cuốn sách mới chỉ sơ lược giới thiệu chứ chưa tập trung làm rõ đặc điểm , cách thức cũng như giá trị của thao tác lập luận này .
+Bên cạnh hai cuốn sách trên , có thể kể thêm cuốn " Rèn kỹ năng làm văn nghị luận " của tác giả Bảo Quyến ( NXB Giáo dục , 2004 ) .
+Trong cuốn sách này , tác giả đã khẳng định so sánh như một thao tác tổ chức nên bài văn nghị luận .
+Nhờ có thao tác này mà người viết mới có thể tìm ra cái chung , cái khác biệt giữa các đối tượng , các vấn đề và qua đó tạo ra sự độc đáo , đặc sắc trong khi tổ chức lời văn của bản thân .
+Gần đây , nhóm tác giả Đỗ Ngọc Thống trong cuốn " Làm văn " , ( NXB Đại học Sư phạm , 2008 ) cũng điểm qua về thao tác lập luận này khi ông tập trung làm rõ vai trò và cách thức tổ chức lập luận trong làm văn nghị luận .
+Tuy nhiên , trong cuốn sách này , các tác giả cũng chưa tập trung giới thiệu một cách cụ thể về thao tác so sánh .
+Như vậy các công trình nghiên cứu Làm văn hiện nay chưa thực sự quan tâm tới thao tác lập luận này và điều đó gây khó khăn cho cả giáo viên và học sinh khi dạy học nội dung này trong SGK Ngữ văn .
+2.2 .
+So sánh và thao tác lập luận so sánh
+2.2.1 .
+So sánh là một hoạt động được con người sử dụng thường xuyên trong cuộc sống hàng ngày .
+Về bản chất , so sánh là sự đối chiếu hai hay nhiều đối tượng , nhiều sự kiện , nhiều hiện tượng với nhau dựa trên một mối liên hệ nào đó , nhằm tìm hiểu sự khác biệt giữa các đối tượng được đem so sánh , đồng thời làm nổi bật được đối tượng đang được xem xét , đánh giá .
+Ta có thể gặp hoạt động này trong ngữ liệu sau
+Ví dụ 1 : Lan hát hay như một chú chim họa mi .
+Ở ví dụ trên , người nói đã sử dụng hoạt động là so sánh để nhấn mạnh vào giọng hát của đối tượng Lan .
+Cơ sở để người nói tạo ra câu nói đó chính là vẻ đẹp tự nhiên , hấp dẫn trong giọng hót loài chim họa mi .
+Và chính từ thực tế ấy , con người đã chọn vẻ đẹp trong chất giọng của loài chim này làm thước đo đánh giá sự hấp dẫn trong giọng hát của con người .
+Như vậy , rõ ràng so sánh là hoạt động được con người thực hiện bởi sự đối chiếu sự vật này với sự vật khác dựa trên một cơ sơ tương đồng nào đó , và qua sự so sánh ấy , con người có thể nêu ra đặc trưng cơ bản cho đối tượng được nói tới .
+Đó là hoạt động của tư duy , lôgic giúp cho con người vừa thể hiện rõ sự hiểu biết của bản thân về thế giới khách quan , vừa tạo ra được những hình thức diễn đạt vấn đề sinh động , hấp dẫn gợi hình , gợi cảm .
+Cũng từ giá trị của so sánh , các nghệ sỹ đã sử dụng hoạt động này tạo ra một biện pháp tu từ - biện pháp so sánh tu từ .
+Cũng giống như so sánh trong tư duy lôgic , so sánh tu từ được thực hiện theo cơ chế các sự vật , hiện tượng được xem xét đối chiếu dựa trên những mối liên hệ tương đồng nhất định nhằm hướng tới mục đích chính là tạo ra những hình tượng nghệ thuật .
+Trong tu từ , so sánh được thể hiện rất rõ theo cấu trúc A như , bằng , tựa như B ... của đối chiếu .
+Chẳng hạn :
+Ví dụ 2 : Miệng cười như thể hoa ngâu
+Cái khăn đội đầu như thể hoa sen .
+( Ca dao )
+Hay trong ngữ liệu sau :
+Ví dụ 3 : Con yêu mẹ bằng con dế .
+( Xuân Quỳnh )
+Trong hai ví dụ trên , biện pháp tu từ nổi bật chính là so sánh .
+Nó được thể hiện rất rõ qua các từ so sánh là như và bằng .
+Ở ví dụ , người nghệ sỹ dân gian đã sử dụng so sánh để làm toát lên vẻ đẹp của người con gái xưa .
+Về cơ bản , cấu trúc của so sánh tu từ trong hai ngữ liệu đó là :
+Miệng cười như thể hoa ngâu
+A như ( thể ) B
+Cái khăn đội đầu như thể hoa sen .
+A như ( thể ) B
+Không miêu tả một cách cụ thể nhưng bằng so sánh , tác giả dân gian đã gợi ra được hình ảnh một người con gái với vẻ đẹp tươi tắn , thuần khiết , hấp dẫn .
+Để tạo ra những hình ảnh dung dị mà hấp dẫn đến vậy , người nghệ sỹ đã sử dụng triệt để giá trị của so sánh tu từ .
+Trong khi đó , ở ngữ liệu 3 , nữ sĩ Xuân Quỳnh lại sử dụng cấu trúc so sánh A bằng B , nhằm thực hiện dụng ý nghệ thuật của bản thân .
+Ta thấy rất rõ cấu trúc của so sánh trong câu thơ này :
+Con yêu mẹ bằng con dế .
+A bằng B
+Câu thơ trong ngữ liệu 3 được trích từ bài thơ " Con yêu mẹ bằng con dế " của nữ sĩ Xuân Quỳnh .
+Cả bài thơ là lời đối thoại giữa người mẹ và đứa con thơ bé , mà ở đó người con nêu lên những tình cảm của mình dành cho người mẹ .
+Tình yêu đó được người con khắc họa qua các cung bậc như trường học , mặt trời , Hà Nội ... nhưng có thể nói , ấn tượng sâu sắc nhất của bài thơ được tập trung rõ nét ở câu thơ cuối trong bài .
+Nhờ biện pháp này , Xuân Quỳnh đã tạo ra một kết thúc đầy bất ngờ với một lối diễn đạt vừa dí dỏm , ngộ nghĩnh tạo ra sự phù hợp với đặc điểm tâm lý trẻ thơ .
+Như vậy , giống như so sánh thông thường , so sánh tu từ cũng được thực hiện theo đúng bản chất của hoạt động so sánh , nó là sự đối chiếu giữa hai hay nhiều hiện tượng , sự vật có những mối liên hệ gần gũi với nhau , nhưng qua hoạt động so sánh , người nghệ sỹ hướng tới một mục đích là xây dựng , khắc họa những hình tượng nghệ thuật .
+2.2.2 .
+Là kiểu văn bản được hình thành từ nhu cầu của cuộc sống , văn nghị luận thể hiện rõ những đặc trưng của hoạt động tư duy trong quá trình tiếp cận và khám phá thế giới khách quan .
+Để thực hiện những mục đích bàn luận khác nhau , nghị luận sử dụng khá nhiều các thao tác của tư duy lôgic , trong đó có so sánh .
+Trong văn bản nghị luận , so sánh là thao tác lập luận giúp con người có cơ sở xác định sự tương đồng , khác biệt giữa các đối tượng được nghị luận và qua đó chỉ ra được chân giá trị của vấn đề .
+Đặc điểm này được thể hiện trong các ngữ liệu dưới đây :
+Ví dụ 4 : Thần Hê-ra-clet của Hi Lạp , chủ yếu là bắp thịt rắn chắc , có tài chiến đấu , nhưng mục tiêu chiến đấu là gì thì bất cần , tâm địa thần tầm thường .
+Trong truyện Thánh Gióng Việt Nam không thấy nói đến bắp thịt rắn chắc mà nói đến đức tính trước hết .
+Đức tính nào cũng cao cả , hình tượng nào cũng phơi phới .
+Thần anh hùng của ta trí dũng kiêm toàn , đạo đức không gợi một hạt bụi , mọi ý nghĩ và hành động đều tập trung vào một việc , mà việc ấy là việc cứu nước .
+( Truyện Thánh Gióng - Nguyễn Đổng Chi )
+Đoạn trích trên được trích lược từ bài đánh giá về vẻ đẹp của Thánh Gióng - một vị thần anh hùng , bất tử trong truyện cổ dân gian Việt Nam .
+Để làm nổi bật lên vẻ đẹp của Phù Đổng Thiên Vương và hướng tới mục đích là chứng minh tư tưởng thương nòi yêu nước của nhân dân ta , tác giả Nguyễn Đổng Chi đã sử dụng triệt để phép so sánh .
+Cũng giống như các hình thức so sánh khác , so sánh trong lập luận ở đoạn trích trên được tác giả thực hiện bởi sự đối chiếu giữa hai hình ảnh có sự tương đồng với nhau - hình ảnh hai vị thần trong truyện dân gian Việt Nam và trong thần thoại Hy Lạp .
+Chọn đối tượng so sánh là thần Hê-ra-clét của Hi lạp , tác giả đã lần lượt chỉ ra những nét khác biệt giữa hai vị thần trong các tác phẩm thần thoại , sự so sánh được trình bày lần lượt theo các cấp độ khác nhau .
+Trong thần thoại Hy lạp , Hê-ra-clét là vị thần có vẻ đẹp .
+Vẻ đẹp ấy được thể hiện ở bắp thịt rắn chắc nhưng vị thần của ta không được tập trung miêu tả về mặt hình thể .
+Thần Hê-ra-clét có tài chiến đấu , Thánh Gióng của ta cũng một mình đánh đuổi lũ giặc Ân xâm lược .
+Thế nhưng cái tài chiến đấu của Hê-ra-clét lại không phân định rõ mục tiêu , tâm địa tầm thường .
+Còn trong truyện Thánh Gióng , đức Phù Đổng Thiên Vương của ta đẹp không phải ở hình thể mà đẹp bởi đức tính .
+Đấy là một vị thần trí dũng kiêm toàn , đạo đức không gợn một hạt bụi , mọi ý nghĩ và hành động đều tập trung vào việc cứu dân cứu nước .
+Như vậy từ việc so sánh hình ảnh hai vị thần trong truyện thần thần thoại , tác giả Nguyễn Đổng Chi đã nêu ra những nét đối lập trong vẻ đẹp của hai nhân vật để rồi chứng minh cho vẻ đẹp bất diệt của đức Phù Đổng Thiên Vương - vẻ đẹp ấy tỏa sáng lung linh , huyền ảo với nhiều ý nghĩa mới mẻ sâu xa .
+Thánh Gióng - hình ảnh một vị thần đẹp người , đẹp nết , trí dũng kiêm toàn , sống và làm việc vì nghĩa lớn nhưng lại rất bình dị , khiêm nhường .
+Câu kết của đoạn trích chính là kết quả được rút ra từ hoạt động so sánh trước đó .
+Nhờ có so sánh , ta có thể hiểu đúng hơn vẻ đẹp của Thánh Gióng - đó là vẻ đẹp được nhận thấy từ chiều sâu tâm hồn , từ những hành động , việc làm cũng như tinh thần của ngài .
+Vẻ đẹp ấy không toát ra từ cơ bắp , thân hình mà đó là cái đẹp hài hòa trong nhân cách , trong đạo đức của con người .
+Không chỉ có vậy , khi đánh giá vẻ đẹp của Thánh Gióng , nhờ có so sánh mà lời lẽ đánh giá của tác giả không bị rơi vào sự đề cao quá mức mà nó vẫn thể hiện sự hài hòa , dung dị nhưng cũng rất khách quan , thuyết phục .
+Như vậy , so sánh đã thực sự giúp cho người viết triệt để làm nổi bật vấn đề đang được bàn định , và qua đó , còn giúp cho người đọc hiểu sâu hơn về đặc điểm cũng như giá trị của vấn đề .
+Cũng thông qua sự so sánh ấy , người viết có điều kiện bộc lộ tâm trạng , tình cảm cũng như thái độ của bản thân đối với vấn đề được nghị bàn .
+Như vậy , trong tư duy , trong tu từ hay trong lập luận , so sánh là hoạt động được con người thực hiện theo cơ chế xác lập được hai hoặc nhiều yếu tố , nhiều đối tượng có sự tương đồng về giá trị , đặc điểm để có cơ sở đối chiếu một cách phù hợp , tương xứng và qua sự đối chiếu đó , con người có thể hiểu và nắm chắc đối tượng .
+Khi thực hiện so sánh , dù ở các hoạt động khác nhau song cả ba hình thức đều có sự tương đồng với nhau ở chỗ chúng đều được thực hiện giữa cái so sánh và cái được so sánh , và qua sự đối chiếu mà dẫn dắt người tiếp nhận nhận ra đặc trưng cơ bản của cái so sánh , giúp người tiếp nhận có thể nhận thức một cách đầy đủ , rõ ràng về cái cần nhận thức .
+Để tạo ra cơ chế so sánh , một trong những yêu cầu bắt buộc chính là cái so sánh và cái được so sánh phải có sự tương đồng với nhau về một mặt , một phương diện nào đó .
+Tuy nhiên , ở các mục đích khác nhau , so sánh trên ba phương diện lại có sự khác nhau .
+Nếu như so sánh tư duy là cách đối chiếu hai sự vật tương đồng nhằm nêu ra một đặc trưng nào đó của đối tượng được xem xét , so sánh trong tu từ hướng tới mục đích là tạo dựng những hình tượng nghệ thuật , giúp cho người đọc có thể thì so sánh với tư cách là một thao tác lập luận lại là con đường dẫn dắt người đọc đến với một nhận định , một chân lý nào đó .
+Tóm lại , trong văn nghị luận , so sánh là một thao tác lập luận được dùng để tìm ra sự giống nhau hoặc khác nhau giữa các đối tượng , và qua sự so sánh ấy mà giúp con người làm rõ đặc điểm , vai trò và giá trị của vấn đề được bàn luận .
+2.3 .
+Đặc trưng và giá trị của thao tác lập luận so sánh
+Trong bài văn nghị luận , so sánh là một thao tác lập luận giúp cho người viết có điều kiện dẫn dắt người tiếp nhận đến với một chân lý một kết luận nào đấy về vấn đề được bàn luận .
+Cũng bởi thế , so sánh thể hiện rõ mục đích cũng như tính lập luận trong văn nghị luận .
+Tính lập luận của so sánh có thể được thực hiện bằng một câu , nhưng cũng có thể được người viết trình bày trong một đoạn văn hoặc cả bài văn .
+Việc sử dụng thao tác này trong một câu , một đoạn hay thậm chí cả bài đều gắn với mục đích và dụng ý của người viết .
+Khi sử dụng thao tác này , người viết không chú trọng tới độ dài ngắn của lập luận mà đặc biệt quan tâm tới việc sử dụng các yếu tố so sánh và làm như thế nào đó để hướng người đọc tới nhận thức , chân lý hay kết luận cuối cùng cần nêu ra .
+Chính đặc trưng này khiến cho lập luận so sánh có sự khác biệt so với so sánh tu từ .
+So sánh tu từ thường giúp cho người nghệ sỹ tạo ra , khắc họa hình tượng nghệ thuật một cách sinh động , hấp dẫn , còn so sánh trong lập luận lại là một con đường để dẫn người đọc đi đến với một chân lý , một kêt luận khách quan nào đấy .
+Chẳng hạn : khi nêu ra những nhận xét về cách viết văn của một số nhà văn hiện thực , Nguyễn Tuân có viết :
+Ví dụ 5 : Làm sao trong đêm tối ngày xưa đó , Ngô Tất Tố đã mò ra được những thực tế đó và trong đêm tối , ông lụi hụi thắp được bó hương mà tự mình soi đường cho nhân vật mình đi ?
+Lúc đó , không phải là không ai nói về làng xóm dân cày , nhưng người ta nói năng khác ông , người ta bàn cải lương hương ẩm , người ta xoa xoa mà ngư ngư tiều tiều canh canh mục mục .
+Còn Ngô Tất Tố thì xui người nông dân nổi loạn .
+Cái cách viết như thế , cái cách dựng truyện như thế , không là phát động quần chúng nông dân chống quan Tây , chống vua ta thì còn là cái gì nữa !
+( Theo SGK Ngữ Văn 11 , Tập 1 , Tr. 80 , NXB Giáo dục 2007 )
+Bằng so sánh trong cách viết , cách dựng truyện , Nguyễn Tuân đã chỉ ra ý nghĩa ẩn đằng sau những mảnh đời đi vào mỗi trang viết của Ngô Tất Tố .
+Trong xã hội cũ , dưới sự kiểm soát gắt gay của thực dân và phong kiến , Ngô Tất Tố đã tìm ra cho mình một hướng đi riêng , và ta chỉ có thể nhận thấy hướng riêng ấy khi đặt nó trong mối tương quan với những người khác .
+Và cũng nhờ đặt vấn đề xã hội trong cách nói của những người khác , Nguyễn Tuân đã chỉ ra sự khác biết của Ngô Tất Tố : người ta bàn cải lương hương ẩm , người ta xoa xoa mà ngư ngư tiều tiều canh canh mục mục .
+Còn Ngô Tất Tố thì xui người nông dân nổi loạn .
+Và chính sự khác nhau ấy tạo ra dấu ấn riêng , nét riêng trong cách nói , cách viết của Ngô Tất Tố .
+Trên thực tế , khi sử dụng so sánh để tổ chức lập luận , người viết thường được thực hiện theo hai hướng : so sánh tương đồng và so sánh tương phản .
+So sánh tương đồng là so sánh nhờ các yếu tố ngôn ngữ , các hiện tượng , các hình ảnh , hiện tượng , sự việc có những đặc điểm , ý nghĩa , hay bình diện tương đồng với nhau , và qua đó đưa ra những nhận định , những đánh giá về sự giống nhau cũng như giá trị của chúng trong đời sống , trong thực tế hay trong văn học .
+Thông thường , người viết sử dụng hình thức so sánh này để chỉ ra sự những điểm chung của các yếu tố và qua đó đưa ra những nhận định có tính chất khái quát cho hiện tượng hoặc vấn đề được nghị luận .
+Với so sánh tương đồng , ta có thể nhận thấy trong ngữ liệu sau :
+Ví dụ 6 : Trên trời có những vì sao có ánh sáng khác thường , nhưng con mắt của chúng ta phải chăm chú nhìn thì mới thấy , và càng nhìn thì càng thấy sáng .
+Văn thơ của Nguyễn Đình Chiểu cũng vậy .
+( Trích Nguyễn Đình Chiểu , ngôi sao sáng trong văn nghệ của dân tộc - Phạm Văn Đồng , theo SGK Ngữ Văn 12 , Tập 1 , NXB Giáo dục )
+Để rút ra nhận định về giá trị của thơ văn Nguyễn Đình Chiểu , Thủ tướng Phạm Văn Đồng đã mượn hình ảnh các vì sao trên bầu trời để so sánh .
+Không chọn hình dáng hay độ đậm nhạt của ngôi sao khi được nhìn thấy trong thực tế mà tác giả đã chọn ánh sáng của những ngôi sao ấy để làm yếu tố so sánh .
+Đó là thứ ánh sáng được tác giả xác định ở các đặc trưng : khác thường , phải chăm chú nhìn thì mới thấy , và càng nhìn thì càng thấy sáng .
+Và chính những đặc trưng ấy cũng có những nét tương đồng có những điểm tương đồng với những biểu hiện của thơ văn Nguyễn Đình Chiểu trong nền văn học dân tộc .
+Và từ đó , tác giả Phạm Văn Đồng đã rút ra một nhận định , một kết luận về giá trị thơ văn Nguyễn Đình Chiểu .
+Cách lập luận đó là lập luận so sánh tương đồng .
+Không giống với so sánh tương đồng , so sánh tương phản lại bắt đầu từ việc người viết chọn những yếu tố , những chi tiết , những hình ảnh có sự đối lập nhau về hình thức hay nội dung , ý nghĩa để từ đó chỉ ra những nét riêng , khác biệt của vấn đề được bàn luận .
+Ví dụ :
+Ví dụ 7 : Yêu người , đó là một truyền thống cũ .
+" Chinh phụ ngâm " , " Cung oán ngâm khúc " , đã nói đến con người .
+Nhưng dù sao cũng là mới bàn đến một hạng người .
+Với " Kiều " , Nguyễn Du đã nói đến cả xã hội người .
+Với " Chiêu hồn " thì cả loài người được bàn đến .
+" Chiêu hồn " , con người trong cái chết .
+" Chiêu hồn " , con người trong từng giới , từng loài , " mười loài là những loài nào " với những nét cộng đồng phổ biến , điển hình của từng loài một .
+Tôi muốn nói đến bài văn " Chiêu hồn " , một tác phẩm có một không hai trong nền văn học chúng ta
+Nghĩ mà xem , trước " Chiêu hồn " chưa hề có bài văn nào đem cái " run rẩy mới " ấy vào văn học .
+Sau " Chiêu hồn " , lại càng không
+Nếu " Truyện Kiều " nâng cao lịch sử thơ ca , thì " Chiêu hồn " đã mở rộng địa dư của nó qua một vùng xưa nay ít ai động tới : cõi chết ( Theo SGK Ngữ Văn 11 , Tập 1 , Tr. 79 , NXB Giáo dục 2007 ) .
+Trong ngữ liệu trên , người viết xuất phát từ một điểm : yêu người - một truyền thống trong văn thơ dân tộc .
+Tuy nhiên , để đánh giá biểu hiện và giá trị của truyền thống ấy trong các tác phẩm cụ thể , người viết đã đi sâu xem xét cách biểu hiện của lòng yêu người trong một số tác phẩm .
+Và cũng từ việc so sánh ấy , tác giả Chế Lan Viên đã đúc rút ra nhận định về giá trị rất riêng của tác phẩm " Văn chiêu hồn " : Nếu " Truyện Kiều " nâng cao lịch sử thơ ca , thì " Chiêu hồn " đã mở rộng địa dư của nó qua một vùng xưa nay ít ai động tới : cõi chết .
+Chắc chắn nhận định trên được nêu ra sẽ thực sự mang lại một nhận thức mới , hiểu biết mới về tác phẩm này .
+Như vậy trong văn nghị luận , người viết không chỉ dùng so sánh để dẫn dắt người nhận đến với những kết luận có ý nghĩa tương đồng với nhau , mà nhờ có nó , người viết còn có thể dẫn giải những dấu hiệu , những đặc trưng khác biệt để từ đó làm nổi bật những kết luận mới , tạo sức thuyết phục cho người đọc .
+So sánh như vậy là so sánh tương phản .
+Trong văn bản nghị luận , thông thường người viết thường sử dụng so sánh kết hợp với các thao tác lập luận khác như phân tích và bình luận .
+So sánh khi kết hợp với phân tích giúp người viết có điều kiện so sánh và chỉ ra sự giống hay khác nhau giữa các đối tượng theo cấp độ từ ngoài vào trong , từ nhỏ đến lớn và như thế , lời văn lập luận được trình bày một cách có hệ thống , mạch lạc .
+Còn so sánh khi kết hợp với bình luận sẽ giúp cho người viết có thể đánh giá nhận xét ý nghĩa , giá trị của vấn đề được bàn luận .
+3 .
+Kết luận
+So sánh là một dạng thức chiếm lĩnh tri thức của con người .
+Nó nảy sinh từ nhu cầu nhận thức thế giới của con người , từ nhu cầu tìm những sự tương đồng và khác biệt giữa các hiện tượng , các vấn đề của thế giới khách quan .
+Muốn làm được điều đó , con người đã đem so sánh , đối chiếu các yếu tố với nhau để từ đó đưa ra những nhận xét , đánh giá chính xác về chúng .
+Khi bàn định về các vấn đề của thực tế khách quan , người viết cũng sử dụng hoạt động này lập luận để làm rõ những nét chung , nét riêng hay đánh giá giá trị của chúng .
+Thao tác lập luận đó được gọi là thao tác lập luận so sánh .
+Trong văn bản nghị luận , so sánh là thao tác người viết sử dụng nhằm làm rõ ý nghĩa , giá trị của đối tượng được bàn luận .
+Muốn thuyết phục được người đọc tin và nghe theo những điều đã trình bày trong văn bản , người viết đã tìm các yếu tố , hiện tượng có hình thức hoặc đặc điểm tương xứng với nhau và từ việc nêu ra những đặc trưng , ý nghĩa hay giá trị của từng yếu tố mà người viết nêu ra được những nhận định , những đánh giá , những chân lý mang tính phổ quát .
+Sử dụng thao tác lập luận này , người viết không chỉ dẫn dắt người đọc đến với những kết luận khoa học , chính xác mà còn giúp cho lời văn trong văn bản sinh động , hấp dẫn , nhiều hình ảnh .
+Đó cũng là cách mà người viết tạo sức thuyết phục đối với độc giả .

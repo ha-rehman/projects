@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+<category>
+    <pattern># Support staff ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Shahzad-ul- Hassan</item>
+            <item>Mr. Sikander Ali</item>
+            <item>Mr. Sufyan Younas</item>
+            <item>Mr. Faisal Ali</item>
+            <item>Mr. Muhammad Qasim</item>
+            <item>Mr. Zeeshan Umar</item>
+            <item>Mr. Muhammad Qasim</item>
+            <item>Mr. Nazar Hussain</item>
+            <item>Mr. Jabran Ali Shah</item>
+            <item>Mr. Khalid Mahmood</item>
+            <item>Mr. Mustansar Ali</item>
+            <item>Mr. Azhar Iqbal</item>
+            <item>Mr. Ghulam Hussain</item>
+            <item>Mr. Hafiz Farhan Aslam</item>
+            <item>Mr. Imran Amir</item>
+            <item>Mr. Javed Iqbal</item>
+            <item>Mr. Khurram Shahzad</item>
+            <item>Mr. Liaquat Ali</item>
+            <item>Mr. Muhammad Yaseen</item>
+            <item>Mr. Muhammad Asif</item>
+            <item>Mr. Sadam Hussain</item>
+            <item>Mr. Shahzad Ali Khan</item>
+            <item>Mr. Majeed Husain</item>
+            <item>Mr. Naveed Hussain</item>
+            <item>Mr. Majeed Husain</item>
+            <item>Mr. Naveed Hussain</item>
+        </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+    </template>
+</category>	
+	
+	
+	
+	
+	<category>
+    <pattern>_ Support staff *</pattern>
+    <template><srai>Support staff</srai></template>
+</category>
+<category>
+    <pattern>^ Support staffs ^</pattern>
+    <template><srai>Support staff</srai></template>
+</category>
+<category>
+    <pattern>Support staff * kics</pattern>
+    <template><srai>Support staff</srai></template>
+</category>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<category>
+    <pattern># Lab Assistant ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Shahzad-ul- Hassan</item>
+            <item>Mr. Sikander Ali</item>
+            <item>Mr. Sufyan Younas</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># Lab Assistants ^</pattern>
+    <template><srai>Lab Assistant</srai></template>
+</category>
+<category>
+    <pattern>_ Lab Assistant of kics *</pattern>
+    <template><srai>Lab Assistant</srai></template>
+</category>
+<category>
+    <pattern>Lab Assistant * kics</pattern>
+    <template><srai>Lab Assistant</srai></template>
+</category>
+
+<category>
+    <pattern># Lab Technician ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Faisal Ali</item>
+            <item>Mr. Muhammad Qasim</item>
+            <item>Mr. Zeeshan Umar</item>
+            <item>Mr. Muhammad Qasim</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern># Lab Technicians ^</pattern>
+    <template><srai>Lab Technician</srai></template>
+</category>
+<category>
+    <pattern>_ Lab Technician of kics *</pattern>
+    <template><srai>Lab Technician</srai></template>
+</category>
+<category>
+    <pattern>Lab Technician * kics</pattern>
+    <template><srai>Lab Technician</srai></template>
+</category>
+
+<category>
+    <pattern># Driver ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Nazar Hussain</item>
+            <item>Mr. Jabran Ali Shah</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>^ Drivers ^</pattern>
+    <template><srai>Driver</srai></template>
+</category>
+<category>
+    <pattern>_ Driver *</pattern>
+    <template><srai>Driver</srai></template>
+</category>
+<category>
+    <pattern>Driver * kics</pattern>
+    <template><srai>Driver</srai></template>
+</category>
+
+
+<category>
+    <pattern># Electrician ^</pattern>
+    <template>
+   <ul>
+       <li>Mr. Khalid Mahmood</li>
+       <li>Mr. Mustansar Ali</li>
+   </ul>
+    </template>
+</category>
+<category>
+    <pattern>^ Electricians ^</pattern>
+    <template><srai>Electrician</srai></template>
+</category>
+<category>
+    <pattern>_ Electrician *</pattern>
+    <template><srai>Electrician</srai></template>
+</category>
+<category>
+    <pattern>Electrician * kics</pattern>
+    <template><srai>Electrician</srai></template>
+</category>
+
+<category>
+    <pattern># Naib Qasid ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Azhar Iqbal</item>
+            <item>Mr. Ghulam Hussain</item>
+            <item>Mr. Hafiz Farhan Aslam</item>
+            <item>Mr. Imran Amir</item>
+            <item>Mr. Javed Iqbal</item>
+            <item>Mr. Khurram Shahzad</item>
+            <item>Mr. Liaquat Ali</item>
+            <item>Mr. Muhammad Yaseen</item>
+            <item>Mr. Muhammad Asif</item>
+            <item>Mr. Sadam Hussain</item>
+            <item>Mr. Shahzad Ali Khan</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>_ Naib Qasid *</pattern>
+    <template><srai>Naib Qasid</srai></template>
+</category>
+<category>
+    <pattern>_ Naib Qasid *</pattern>
+    <template><srai>Naib Qasid</srai></template>
+</category>
+<category>
+    <pattern>Naib Qasid * kics</pattern>
+    <template><srai>Naib Qasid</srai></template>
+</category>
+
+
+<category>
+    <pattern># Security Guard ^</pattern>
+    <template>
+   <ul>
+       <li>Mr. Majeed Husain</li>
+       <li>Mr. Naveed Hussain</li>
+   </ul>
+    </template>
+</category>
+<category>
+    <pattern>^ Security Guards ^</pattern>
+    <template><srai>Security Guard</srai></template>
+</category>
+<category>
+    <pattern>_ Security Guard *</pattern>
+    <template><srai>Security Guard</srai></template>
+</category>
+<category>
+    <pattern>Security Guard * kics</pattern>
+    <template><srai>Security Guard</srai></template>
+</category>
+
+<category>
+    <pattern># Sweeper ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Adil Nazir</item>
+            <item>Mr. Adil Yousaf</item>
+            <item>Mr. Nabeel Jameel</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>^ Sweepers ^</pattern>
+    <template><srai>Sweeper</srai></template>
+</category>
+<category>
+    <pattern>_ Sweeper *</pattern>
+    <template><srai>Sweeper</srai></template>
+</category>
+<category>
+    <pattern>Sweeper * kics</pattern>
+    <template><srai>Sweeper</srai></template>
+</category>
+</aiml>

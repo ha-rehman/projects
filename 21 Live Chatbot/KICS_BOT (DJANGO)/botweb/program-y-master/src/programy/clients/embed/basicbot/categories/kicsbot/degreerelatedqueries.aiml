@@ -1,0 +1,3290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	 <category>
+        <pattern># get ^ degree ^</pattern>
+        <template>
+              1)	Attach DMC/degree form, get it signed from students' section
+              2)	Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR), 
+              3)	Attach 1 passport size picture
+              4)	Attach copy of provisional Certificate
+              5)	Attach matric/O level certificate copy
+              6)	Attach copy of Thesis notification (for postgraduate students only)
+              7)	Apply in Examinations Branch window number 1, degree is prepared in 40 days,
+            Note:-  students of affiliated colleges  need to attach covering letter  issued by their college. 
+                    What documents are required to attach with Degree.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># documents ^ Degree ^</pattern>
+        <template>
+            <srai>get degree </srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># document ^ Degree ^</pattern>
+        <template>
+            <srai>get degree </srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ Degree ^</pattern>
+        <template>
+            Degree is issued in 40 days
+        </template>
+    </category>
+    
+    <category>
+        <pattern># fee ^ Degree ^</pattern>
+        <template>
+            Fee for degree is Rs. 1000/-.
+        </template>
+    </category>
+	
+	<category>
+	    <pattern># fee ^ urgent Degree ^</pattern>
+	    <template>
+	        Degree is issued in 40 days, urgent degree is not issued.
+	    </template>
+    </category>
+    
+    <category>
+        <pattern># pay ^ Degree ^</pattern>
+        <template>
+            Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR).
+        </template>
+    </category>
+    
+    <category>
+        <pattern># account number ^ Degree ^</pattern>
+        <template>
+            (Account No: 01287901582203, Title: Student Dues UET, LHR).
+        </template>
+    </category>
+    
+    <category>
+        <pattern># submit ^ Degree form ^</pattern>
+        <template>
+            Submit degree form in window number 1 of Examinations Branch.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Degree ^ right now ^</pattern>
+        <template>
+            Degree is issued in 40 days, urgent degree is not issued.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># degree ^ urgent ^</pattern>
+        <template>
+            Degree is issued in 40 days, urgent degree is not issued.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># somebody else ^ receive ^ Degree ^</pattern>
+        <template>
+            "It is advised to receive degree by student himself, however, in case student is not available in country, he can authorize his parents/siblings to receive his degree by following procedure below:
+        1)	write an authority letter on stamp paper of Rs 50/- with registration number, name, father name, signatures and names of student and authorized person to collect degree.
+        2)	Attested ID card copies of student and authorized person.
+        3)	Show original ID card of authorized person"
+        </template>
+    </category>
+    
+     <category>
+        <pattern># somebone else ^ receive ^ Degree ^</pattern>
+        <template>
+            <srai>somebody else receive degree</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># authority letter ^ received ^ degree ^</pattern>
+        <template>
+            "It is advised to receive degree by student himself, however, in case student is not available in country, he can authorize his parents/siblings to receive his degree by following procedure below:
+        1)	write an authority letter on stamp paper of Rs 50/- with registration number, name, father name, signatures and names of student and authorized person to collect degree.
+        2)	Attested ID card copies of student and authorized person.
+        3)	Show original ID card of authorized person"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># authority letter ^ degree ^</pattern>
+        <template>
+             <srai>authority letter received degree</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>How to write authority letter to received degree ^</pattern>
+        <template>
+            <srai>authority letter received degree</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># documents ^ authority letter ^ degree ^</pattern>
+        <template>
+            "1)	Attested ID card copies of student and authorized person.<br/>
+             2)	Show original ID card of authorized person"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># challan ^ attach ^ Degree ^</pattern>
+        <template>
+            Attach challan number 1 for degree.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ Degree ^ post ^</pattern>
+        <template>
+            No, degree is issued by hand only.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># stamp paper ^ authority letter ^</pattern>
+        <template>
+            Challan Rs. 50 is used for authority letter for degree.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ duplicate degree ^</pattern>
+        <template>
+            In case the original degree is lost, duplicate degree can be issued.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># apply ^ duplicate degree ^</pattern>
+        <template>
+            Apply in Examinations Branch window number 1, duplicate degree is issue within 10 days.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^  duplicate degree ^</pattern>
+        <template>
+            Duplicate degree is issue within 10 days.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># procedure ^ duplicate degree ^</pattern>
+        <template>
+            "In case the original degree is lost, duplicate degree can be issued, procedure is given below:
+            1)	Attach DMC/degree form, get it signed from students' section
+            2)	Attach challan of Rs. 1000/- online Challan from LMS account can be generated or bank deposit slip can be used. (Account No: 01287901582203, Title: Student Dues UET, LHR), 
+            3)	Attach 1 passport size picture.
+            4)	Attach copy of provisional Certificate.
+            5)	Attach matric/O level certificate copy.
+            6)	Attach original report of police station for the loss of degree, report must contain your name,  father name and registration number.
+            7)	Attach stamp paper of Rs. 50 and write on it your name, father name, registration number, and statement  that if original degree is found at any stage you will return original degree to examinations branch of university.
+            8)	 Attach ad in any reputable newspaper for the loss of your degree, ad must contain your name,  father name and registration number
+            9)	Attach copy of Thesis notification (for postgraduate students only)
+             Apply in Examinations Branch window number 1, duplicate degree is issue within 10 days"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># documents ^ duplicate degree ^</pattern>
+        <template>
+            <srai>procedure duplicate degree</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># document ^ duplicate degree ^</pattern>
+        <template>
+            <srai>procedure duplicate degree</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># written ^ police report ^ duplicate degree ^</pattern>
+        <template>
+            Attach original report of police station for the loss of degree, report must contain your name,  father name and registration number.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># written ^ newspaper ^ duplicate degree ^</pattern>
+        <template>
+            <srai>written police report duplicate degree</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ duplicate degree ^</pattern>
+        <template>
+            Duplicate degree is issue within 10 days.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ duration ^ undergraduate ^</pattern>
+        <template>
+            Minimum degree duration for undergraduate program/B.Sc program is 4 years.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ duration ^ postgraduate ^</pattern>
+        <template>
+            Chart is given on prospectus.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ duration ^ Ph ^ D ^</pattern>
+        <template>
+            Minimum degree duration for Ph.D. program is 3 years.
+        </template>
+    </category>
+     <category>
+        <pattern># minimum ^ duration ^ Ph.D. ^</pattern>
+        <template>
+            Minimum degree duration for Ph.D. program is 3 years.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ duration ^ MBA ^</pattern>
+        <template>
+            Chart is given on prospectus.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Maximum ^ duration ^ undergraduate ^</pattern>
+        <template>
+            Maximum degree duration for undergraduate program/B.Sc programs is 6 years.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Maximum ^ duration ^ postgraduate ^</pattern>
+        <template>
+            Chart is given on prospectus. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Maximum ^ duration ^ Ph.D. ^</pattern>
+        <template>
+            Maximum degree duration for Ph.D. programs is 5 years. 
+        </template>
+    </category>
+    <category>
+        <pattern># Maximum ^ duration ^ PhD ^</pattern>
+        <template>
+            Maximum degree duration for Ph.D. programs is 5 years. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Maximum ^ duration ^ MBA ^</pattern>
+        <template>
+            Chart is given on prospectus. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>Can I get degree without paying all outstanding dues?</pattern>
+        <template>No.</template>
+    </category>
+    
+    <category>
+        <pattern># confirm ^ result ^</pattern>
+        <template>
+            Your result will be confirmed upon submission of result by your teachers via online and in hard form in Examinations Branch. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># result status ^ confirm ^</pattern>
+        <template>
+            Your result will be confirmed upon submission of result by your teachers via online and in hard form in Examinations Branch.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># mistake ^ CGPA ^</pattern>
+        <template>
+            In case of any issue regarding computation of GPA/CGPA, contact Examinations Branch 2nd floor Admin Block 04299029235. 
+        </template>
+    </category>
+      <category>
+        <pattern># mistake ^ GPA ^</pattern>
+        <template>
+            In case of any issue regarding computation of GPA/CGPA, contact Examinations Branch 2nd floor Admin Block 04299029235. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># mistake ^ credit hours ^</pattern>
+        <template>
+            In case of any issue regarding credit hours, contact Examinations Branch 2nd floor Admin Block 04299029235
+        </template>
+    </category>
+       <category>
+        <pattern># mistake ^ credit hour ^</pattern>
+        <template>
+            In case of any issue regarding credit hours, contact Examinations Branch 2nd floor Admin Block 04299029235
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ comprehensive result ^</pattern>
+        <template>
+            It usually takes 3 to 4 days for comprehensive result to reach from Exams branch to students section after completing formalities.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># comprehensive result ^ register with PEC ^</pattern>
+        <template>
+            In case your comprehensive result notification/result gazette  is not received by PEC, then you can email at examination@uet.edu.pk with your registration number or contact 04299029235.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># lower grade ^ previous grade ^</pattern>
+        <template>
+            In case a student gets lower grade than previous grade, then latest grade will be counted. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ CGPA ^ continue ^ studies ^</pattern>
+        <template>
+            A student needs to maintain at least 2.000 CGPA to continue studies/to avoid from separation from university. (rules here).
+        </template>
+    </category>
+    <category>
+        <pattern># minimum ^ GPA ^ continue ^ studies ^</pattern>
+        <template>
+            A student needs to maintain at least 2.000 CGPA to continue studies/to avoid from separation from university. (rules here).
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ CGPA ^ undergraduate ^</pattern>
+        <template>
+            Minimum 2.000 CGPA is required to pass undergraduate/B.Sc degree. 
+        </template>
+    </category>
+    <category>
+        <pattern># minimum ^ GPA ^ undergraduate ^</pattern>
+        <template>
+            Minimum 2.000 CGPA is required to pass undergraduate/B.Sc degree. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ CGPA ^ postgraduate ^</pattern>
+        <template>
+            Minimum 2.500 CGPA is required to pass postgraduate/M.Sc./MS/M.Phil. degree. 
+        </template>
+    </category>
+     <category>
+        <pattern># minimum ^ GPA ^ postgraduate ^</pattern>
+        <template>
+            Minimum 2.500 CGPA is required to pass postgraduate/M.Sc./MS/M.Phil. degree. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ CGPA ^ Ph ^ D ^</pattern>
+        <template>
+            Minimum 3.300 CGPA is required to pass Ph.D. degree. 
+        </template>
+    </category>
+     <category>
+        <pattern># minimum ^ GPA ^ Ph ^ D ^</pattern>
+        <template>
+            Minimum 3.300 CGPA is required to pass Ph.D. degree. 
+        </template>
+    </category>
+     <category>
+        <pattern># minimum ^ CGPA ^ PhD ^</pattern>
+        <template>
+            Minimum 3.300 CGPA is required to pass Ph.D. degree. 
+        </template>
+    </category>
+     <category>
+        <pattern># minimum ^ GPA ^ PhD ^</pattern>
+        <template>
+            Minimum 3.300 CGPA is required to pass Ph.D. degree. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># WF grade ^ CGPA ^</pattern>
+        <template>
+            WF grade is not counted towards CGPA. 
+        </template>
+    </category>
+      <category>
+        <pattern># WF grade ^ GPA ^</pattern>
+        <template>
+            WF grade is not counted towards CGPA. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># W grade ^ CGPA ^</pattern>
+        <template>
+            W grade is not counted towards CGPA. 
+        </template>
+    </category>
+     <category>
+        <pattern># W grade ^ GPA ^</pattern>
+        <template>
+            W grade is not counted towards CGPA. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># I grade ^ CGPA ^</pattern>
+        <template>
+            I' grade is not counted towards CGPA. 
+        </template>
+    </category>
+    <category>
+        <pattern># I grade ^ GPA ^</pattern>
+        <template>
+            I' grade is not counted towards CGPA. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># IP grade ^ CGPA ^</pattern>
+        <template>
+            IP grade is not counted towards CGPA. 
+        </template>
+    </category>
+     <category>
+        <pattern># IP grade ^ GPA ^</pattern>
+        <template>
+            IP grade is not counted towards CGPA. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum attendance ^</pattern>
+        <template>
+            Minimum 75% attendance is required in a subject to pass.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># approved leave ^ attendance ^</pattern>
+        <template>
+            Approved leave is not counted towards shortage of attendance. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum attendance ^ I grade ^</pattern>
+        <template>
+            Minimum 50% attendance is required for the award of I grade.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># I improve only theory part ^</pattern>
+        <template>
+            Student can improve/repeat only theory or only lab part depending upon his choice.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># subject registration will open ^</pattern>
+        <template>
+            Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.
+        </template>
+    </category>
+    <category>
+        <pattern># subjects registration will open ^</pattern>
+        <template>
+            Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.
+        </template>
+    </category>
+     <category>
+        <pattern># registration ^ subject will open ^</pattern>
+        <template>
+            Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.
+        </template>
+    </category>
+    <category>
+        <pattern># registration ^ subjects will open ^</pattern>
+        <template>
+            Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># maximum ^ credit hours ^ register ^ undergraduate level ^</pattern>
+        <template>
+            "At undergraduate level, a 1st or 2nd student can register maximum of 18 credit hours, from 3rd year onward, student can register maximum of 21 credit hours on LMS. 
+            At postgraduate level, student can register maximum of 12 credit hours during a semester."
+        </template>
+    </category>
+    
+    <category>
+        <pattern># maximum ^ credit hours ^ register ^ postgraduate level ^</pattern>
+        <template>
+            "At undergraduate level, a 1st or 2nd student can register maximum of 18 credit hours, from 3rd year onward, student can register maximum of 21 credit hours on LMS. 
+            At postgraduate level, student can register maximum of 12 credit hours during a semester."
+        </template>
+    </category>
+    
+    <category>
+        <pattern># maximum ^ credit hours ^ register ^ regular ^</pattern>
+        <template>
+            "At undergraduate level, a 1st or 2nd student can register maximum of 18 credit hours, from 3rd year onward, student can register maximum of 21 credit hours on LMS. 
+            At postgraduate level, student can register maximum of 12 credit hours during a semester."
+        </template>
+    </category>
+    
+    <category>
+        <pattern># maximum ^ credit hours ^ register ^ summer ^</pattern>
+        <template>
+            Maximum of 8 credit hours can be registered in summer.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># registered ^ subject ^ LMS ^ registered subjects list ^</pattern>
+        <template>
+            In case of any subject registration problem contact your departmental LMS coordinator, if problem is not resolved then contact Examinations Branch, 2nd floor Admin block 04299029235.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># not register ^ subject ^ registered ^</pattern>
+        <template>
+            In case of any subject registration problem contact your departmental LMS coordinator, if problem is not resolved then contact Examinations Branch, 2nd floor Admin block 04299029235.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># registered subjects ^ LMS ^ nonpayment ^ payment of dues ^</pattern>
+        <template>
+            In case your subjects have removed due to nonpayment of dues, contact Examinations Branch, 2nd floor Admin block 04299029235.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># timetable clash ^</pattern>
+        <template>
+            You cannot register two subjects in case of timetable clash.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># cleared ^ subject ^ advanced subject ^</pattern>
+        <template>
+            In case a student has passed pre-requisite, then he can register in advanced subject.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ students required ^ summer ^</pattern>
+        <template>
+            Minimum 5 students should be registered in a subject in summer to continue, otherwise subject will be withdrawn.
+        </template>
+    </category>
+    <category>
+        <pattern># minimum ^ not register ^ summer ^</pattern>
+        <template>
+            Minimum 5 students should be registered in a subject in summer to continue, otherwise subject will be withdrawn.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># rule ^ drop ^ subject ^</pattern>
+        <template>
+            Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.
+        </template>
+    </category>
+    <category>
+        <pattern># drop ^ registered ^ subject ^</pattern>
+        <template>
+            Subject registration is usually opened on the 1st day of semester start and continues for 2 weeks, students can add/drop courses during this period.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ percentage equivalence certificate ^</pattern>
+        <template>
+            "To apply for percentage equivalence certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare percentage equivalence certificate."
+        </template>
+    </category>
+    <category>
+        <pattern># documents ^ percentage equivalence certificate ^</pattern>
+        <template>
+            <srai>get percentage equivalence certificate</srai>
+        </template>
+    </category>
+     <category>
+        <pattern># document ^ percentage equivalence certificate ^</pattern>
+        <template>
+            <srai>get percentage equivalence certificate</srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># fee ^ percentage equivalence certificate ^</pattern>
+        <template>
+            Fee for percentage certificate is Rs. 500/-
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ percentage equivalence certificate ^</pattern>
+        <template>
+            It takes 3 working days to prepare percentage equivalence certificate. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ regular Bonafide certificate ^</pattern>
+        <template>
+            To apply for regular bonafide certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare regular bonafide certificate.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># documents ^ regular bonafide certificate ^</pattern>
+        <template>
+            To apply for regular bonafide certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare regular bonafide certificate.
+        </template>
+    </category>
+     <category>
+        <pattern># document ^ regular bonafide certificate ^</pattern>
+        <template>
+            To apply for regular bonafide certificate, get DMC form, attach DMC copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare regular bonafide certificate.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># fee ^ regular bonafide certificate ^</pattern>
+        <template>
+            Fee for regular bonafide certificate is Rs. 500/-
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ regular bonafide certificate ^</pattern>
+        <template>
+            It takes 3 working days to prepare regular bonafide certificate.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ embassy bonafide certificate ^</pattern>
+        <template>
+            To apply for embassy bonafide certificate, get DMC form, attach DMC and degree copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare embassy bonafide certificate.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># documents ^ embassy bonafide certificate ^</pattern>
+        <template>
+            To apply for embassy bonafide certificate, get DMC form, attach DMC and degree copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare embassy bonafide certificate.
+        </template>
+    </category>
+    <category>
+        <pattern># document ^ embassy bonafide certificate ^</pattern>
+        <template>
+            To apply for embassy bonafide certificate, get DMC form, attach DMC and degree copy and  original challan of Rs. 500/- and apply in Examinations Branch, 2nd floor Admin block 04299029235, it takes 3 working days to prepare embassy bonafide certificate.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># fee ^ embassy Bonafide certificate ^</pattern>
+        <template>
+            Fee for embassy bonafide certificate is Rs. 500/-
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ embassy Bonafied certificate ^</pattern>
+        <template>
+            It takes 3 working days to prepare embassy bonafide certificate.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># new LMS ^</pattern>
+        <template>
+            After re-admission, get your new username and password from Examinations Branch 2nd floor Admin block 04299029235 by showing your re-admission letter.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># register ^ subjects ^ re ^ admission ^</pattern>
+        <template>
+            After re-admission, register your subjects by login in to LMS, in case of any issue, contact Examinations Branch 2nd floor Admin block 04299029235.
+        </template>
+    </category>
+     <category>
+        <pattern># register ^ subjects ^ readmission ^</pattern>
+        <template>
+            After re-admission, register your subjects by login in to LMS, in case of any issue, contact Examinations Branch 2nd floor Admin block 04299029235.
+        </template>
+    </category>
+     <category>
+        <pattern># register ^ subjects ^ re admission ^</pattern>
+        <template>
+            After re-admission, register your subjects by login in to LMS, in case of any issue, contact Examinations Branch 2nd floor Admin block 04299029235.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grades ^ new DMC after re ^ admission ^</pattern>
+        <template>
+            C grade or above will be transferred in new DMC after re-admission.
+        </template>
+    </category>
+    <category>
+        <pattern># grades ^ new DMC after re-admission ^</pattern>
+        <template>
+            C grade or above will be transferred in new DMC after re-admission.
+        </template>
+    </category>
+    <category>
+        <pattern># grades ^ new DMC after re admission ^</pattern>
+        <template>
+            C grade or above will be transferred in new DMC after re-admission.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ second time re ^ admission ^</pattern>
+        <template>
+            Second time re-admission is not allowed.
+        </template>
+    </category>
+     <category>
+        <pattern># get ^ second time readmission ^</pattern>
+        <template>
+            Second time re-admission is not allowed.
+        </template>
+    </category>
+     <category>
+        <pattern># get ^ second time re admission ^</pattern>
+        <template>
+            Second time re-admission is not allowed.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># rule ^ discipline change ^</pattern>
+        <template>
+            Contact convener office for discipline change (contact number here).
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ extension ^</pattern>
+        <template>
+            For extension apply to the Convener Admission Committee office by writing a simple application duly signed and forwarded by your HOD.
+        </template>
+    </category>
+    <category>
+        <pattern># grant ^ extension ^</pattern>
+        <template>
+           Convener Admission Committee is the authority to grant extension.
+        </template>
+    </category>
+    <category>
+        <pattern># extension ^ get at ^ time ^</pattern>
+        <template>
+            You can get maximum 1-year extension at a time.
+        </template>
+    </category>
+    <category>
+        <pattern># admission ^ further ^ extension ^</pattern>
+        <template>
+            If you don’t get further extension, your admission will be cancelled. 
+        </template>
+    </category>
+      <category>
+        <pattern># further ^ extension ^ admission ^</pattern>
+        <template>
+            If you don’t get further extension, your admission will be cancelled. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># second time extension ^</pattern>
+        <template>
+            Second time extension may be granted if approved by concerned authorities.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># credit hours ^ requirements ^ undergraduate ^</pattern>
+        <template>
+            Minim of 130 and Maximum 136 credit hours are required for the award of undergraduate degree as prescribed for every degree program.
+        </template>
+    </category>
+    <category>
+        <pattern># credit hours ^ required ^ undergraduate ^</pattern>
+        <template>
+            Minim of 130 and Maximum 136 credit hours are required for the award of undergraduate degree as prescribed for every degree program.
+        </template>
+    </category>
+    <category>
+        <pattern># credit hours ^ require ^ undergraduate ^</pattern>
+        <template>
+            Minim of 130 and Maximum 136 credit hours are required for the award of undergraduate degree as prescribed for every degree program.
+        </template>
+    </category>
+    <category>
+        <pattern># credit hours ^ requirement ^ undergraduate ^</pattern>
+        <template>
+            Minim of 130 and Maximum 136 credit hours are required for the award of undergraduate degree as prescribed for every degree program.
+        </template>
+    </category>
+    <category>
+        <pattern># credit hours ^ requires ^ undergraduate ^</pattern>
+        <template>
+            Minim of 130 and Maximum 136 credit hours are required for the award of undergraduate degree as prescribed for every degree program.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># credit hours ^ requirements ^ postgraduate ^</pattern>
+        <template>
+            30 credit hours are required for the award  of /M.Sc./M. Phil degree programs, either 24 credit hours of course work with thesis of 6 credit hours or 30 credit hours of course work with design project of 0 credit hours. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ requirement ^ postgraduate ^</pattern>
+        <template>
+            30 credit hours are required for the award  of /M.Sc./M. Phil degree programs, either 24 credit hours of course work with thesis of 6 credit hours or 30 credit hours of course work with design project of 0 credit hours. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ require ^ postgraduate ^</pattern>
+        <template>
+            30 credit hours are required for the award  of /M.Sc./M. Phil degree programs, either 24 credit hours of course work with thesis of 6 credit hours or 30 credit hours of course work with design project of 0 credit hours. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ requires ^ postgraduate ^</pattern>
+        <template>
+            30 credit hours are required for the award  of /M.Sc./M. Phil degree programs, either 24 credit hours of course work with thesis of 6 credit hours or 30 credit hours of course work with design project of 0 credit hours. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ required ^ postgraduate ^</pattern>
+        <template>
+            30 credit hours are required for the award  of /M.Sc./M. Phil degree programs, either 24 credit hours of course work with thesis of 6 credit hours or 30 credit hours of course work with design project of 0 credit hours. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># credit hours ^ requirements ^ Ph ^ D ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ requirement ^ Ph ^ D ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ requires ^ Ph.D. ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ require ^ Ph.D. ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ required ^ Ph.D. ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+    <category>
+        <pattern># credit hours ^ requirements ^ PhD ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ requirement ^ PhD ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ requires ^ PhD ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ require ^ PhD ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ required ^ PhD ^</pattern>
+        <template>
+            60 credit hours are required for the award of PhD/Doctor of Philosophy degree program, 18 credit hours of course work and 42 credit hours for thesis. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ degree ^ verified ^</pattern>
+        <template>
+            "Student can apply for degree/DMC verification in Examinations Branch. 
+                a)	Attach DMC form
+                b)	Attach Challan for Rs. 500/- per document
+                c)	Attach copy of DMC"
+        </template>
+    </category>
+    <category>
+        <pattern># get ^ DMC ^ verified ^</pattern>
+        <template>
+            "Student can apply for degree/DMC verification in Examinations Branch. 
+                a)	Attach DMC form
+                b)	Attach Challan for Rs. 500/- per document
+                c)	Attach copy of DMC"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># fee ^ degree ^ verification ^</pattern>
+        <template>
+            Fee for degree/DMC verification is Rs. 500/-
+        </template>
+    </category>
+    <category>
+        <pattern># fee ^ DMC ^ verification ^</pattern>
+        <template>
+            Fee for degree/DMC verification is Rs. 500/-
+        </template>
+    </category>
+    
+    <category>
+        <pattern># pay ^ fee ^</pattern>
+        <template>
+            Print Challan from LMS account or use HBL deposit slip(account No. 01287901582203, Title: Student Dues UET, LHR).
+        </template>
+    </category>
+    
+    <category>
+        <pattern># change ^ get ^ revised ^ degree ^</pattern>
+        <template>
+            Before getting final DMC, you can get your name/father name corrected from Examinations Branch by showing original matric certificate, but after getting final DMC/degree, get your name/father name corrected on matric and intermediate and then from students section of UET, Lahore, in the end you can contact examinations branch.
+        </template>
+    </category>
+    <category>
+        <pattern># change ^ get ^ revised ^ DMC ^</pattern>
+        <template>
+            Before getting final DMC, you can get your name/father name corrected from Examinations Branch by showing original matric certificate, but after getting final DMC/degree, get your name/father name corrected on matric and intermediate and then from students section of UET, Lahore, in the end you can contact examinations branch.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ verify ^ degree ^</pattern>
+        <template>
+            Usually 3 days are required for degree/DMC verification.
+        </template>
+    </category>
+     <category>
+        <pattern># days ^ verify ^ DMC ^</pattern>
+        <template>
+            Usually 3 days are required for degree/DMC verification.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># company ^ degree/DMC ^ verification ^</pattern>
+        <template>
+            A company/Institution can get degree/DMC verified by sending a letter to the University on their letter head. They need to pay fee of Rs. 1000/- per document as verification fee.
+        </template>
+    </category>
+    <category>
+        <pattern># Institution ^ degree/DMC ^ verification ^</pattern>
+        <template>
+            A company/Institution can get degree/DMC verified by sending a letter to the University on their letter head. They need to pay fee of Rs. 1000/- per document as verification fee.
+        </template>
+    </category>
+    <category>
+        <pattern># company ^ degree ^ verification ^</pattern>
+        <template>
+            A company/Institution can get degree/DMC verified by sending a letter to the University on their letter head. They need to pay fee of Rs. 1000/- per document as verification fee.
+        </template>
+    </category>
+    <category>
+        <pattern># Institution ^ DMC ^ verification ^</pattern>
+        <template>
+            A company/Institution can get degree/DMC verified by sending a letter to the University on their letter head. They need to pay fee of Rs. 1000/- per document as verification fee.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ degree ^ verified ^ abroad ^</pattern>
+        <template>
+            "Degree/DMC copy can be verified from abroad by sending an email at examination@uet.edu.pk with fee of US $ 50 per document.
+            The documents will be verified after receiving fee acknowledgement.
+
+            Detail of University Bank Account is:
+
+            Name of Bank       :   Habib Bank Limited, Pakistan
+            Title                       :   Student Dues
+            Name of Branch   :   Engineering University
+            Branch Code         :  0128
+            Swift Code             :   HABBPKKA007
+            IBAN Code            :   PK23 HABB 0001 2879 0158 2203".
+        </template>
+    </category>
+    <category>
+        <pattern># get ^ DMC ^ verified ^ abroad ^</pattern>
+        <template>
+            "Degree/DMC copy can be verified from abroad by sending an email at examination@uet.edu.pk with fee of US $ 50 per document.
+            The documents will be verified after receiving fee acknowledgement.
+
+            Detail of University Bank Account is:
+
+            Name of Bank       :   Habib Bank Limited, Pakistan
+            Title                       :   Student Dues
+            Name of Branch   :   Engineering University
+            Branch Code         :  0128
+            Swift Code             :   HABBPKKA007
+            IBAN Code            :   PK23 HABB 0001 2879 0158 2203".
+        </template>
+    </category>
+    
+    <category>
+        <pattern># detail ^ bank account ^</pattern>
+        <template>
+            "Detail of University Bank Account is:
+
+            Name of Bank       :   Habib Bank Limited, Pakistan
+            Title                       :   Student Dues
+            Name of Branch   :   Engineering University
+            Branch Code         :  0128
+            Swift Code             :   HABBPKKA007
+            IBAN Code            :   PK23 HABB 0001 2879 0158 2203".
+        </template>
+    </category>
+     <category>
+        <pattern># details ^ bank account ^</pattern>
+        <template>
+            "Detail of University Bank Account is:
+
+            Name of Bank       :   Habib Bank Limited, Pakistan
+            Title                       :   Student Dues
+            Name of Branch   :   Engineering University
+            Branch Code         :  0128
+            Swift Code             :   HABBPKKA007
+            IBAN Code            :   PK23 HABB 0001 2879 0158 2203".
+        </template>
+    </category>
+    
+    <category>
+        <pattern>How they will pay fee and how will university send them my verification?</pattern>
+        <template>
+            "The documents will be verified after receiving fee acknowledgement.
+
+            Detail of University Bank Account is:
+
+
+            Name of Bank       :   Habib Bank Limited, Pakistan
+            Title                       :   Student Dues
+            Name of Branch   :   Engineering University
+            Branch Code         :  0128
+            Swift Code             :   HABBPKKA007
+            IBAN Code            :   PK23 HABB 0001 2879 0158 2203"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># verified ^ degree ^ university ^ abroad ^</pattern>
+        <template>
+            Apply in Examinations Branch and get your documents sealed in official envelop. 
+        </template>
+    </category>
+     <category>
+        <pattern># verified ^ DMC ^ university ^ abroad ^</pattern>
+        <template>
+            Apply in Examinations Branch and get your documents sealed in official envelop. 
+        </template>
+    </category>
+     <category>
+        <pattern># verified ^ degree ^ institution ^ abroad ^</pattern>
+        <template>
+            Apply in Examinations Branch and get your documents sealed in official envelop. 
+        </template>
+    </category>
+     <category>
+        <pattern># verified ^ DMC ^ institution ^ abroad ^</pattern>
+        <template>
+            Apply in Examinations Branch and get your documents sealed in official envelop. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># convocation ^ being held ^</pattern>
+        <template>
+            There is not fixed time for convocation ceremony. However, convocation is held usually at the end of each year.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># attend convocation ^</pattern>
+        <template>
+            Graduating students can attend convocation. The details are advertised before commencement of convocation.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># get ^ entry pass ^ convocation ^</pattern>
+        <template>
+            Entry pass can be obtained from concerned department one day before convocation.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># receive ^ degree ^ convocation ^</pattern>
+        <template>
+            Students can receive degree on convocation day.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># parents attend convocation ^</pattern>
+        <template>
+            Parents of Gold Medalists and Ph.D scholars can attend convocation.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># lost ^ LMS ^</pattern>
+        <template>
+            You can reset your password by visiting lms.uet.edu.pk , click on sign in and then click on reset password. Alternately, you can contact your department LMS coordinator to change/reset your password.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># provide ^ LMS ^</pattern>
+        <template>
+            You can contact your department LMS coordinator to change/reset your password.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># LMS account ^ not logging in ^</pattern>
+        <template>
+            You can contact your department LMS coordinator to change/reset your password.
+        </template>
+    </category>
+    <category>
+        <pattern># can not ^ login ^ LMS ^</pattern>
+        <template>
+            You can contact your department LMS coordinator to change/reset your password.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># LMS ^ blocked ^</pattern>
+        <template>
+            Contact examinations branch if your LMS account is blocked. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># days ^ notify ^ thesis ^</pattern>
+        <template>
+            After receiving thesis from ORIC, the examinations branch usually takes 2 to 3 days to notify thesis, however, the requirement for PhD thesis are different.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># complete degree ^ thesis ^</pattern>
+        <template>
+            Students can opt design project with 30 credit hours course work if approved by department.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># credit hours ^ thesis ^ MS ^</pattern>
+        <template>
+            30 credit hours are required for the award of MSc/MS/M. Phil degree with other conditions.
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ thesis ^ M ^ Sc ^</pattern>
+        <template>
+            30 credit hours are required for the award of MSc/MS/M. Phil degree with other conditions.
+        </template>
+    </category>
+     <category>
+        <pattern># credit hours ^ thesis ^ postgraduate ^</pattern>
+        <template>
+            30 credit hours are required for the award of MSc/MS/M. Phil degree with other conditions.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># credit hours ^ thesis ^ Ph ^ D ^</pattern>
+        <template>
+            60 credit hours are required for PhD degree, 42 credit hours for thesis and 18 credit hours for course work. Duration is minimum 3 years.
+        </template>
+    </category>
+    <category>
+        <pattern># credit hours ^ thesis ^ Ph.D. ^</pattern>
+        <template>
+            60 credit hours are required for PhD degree, 42 credit hours for thesis and 18 credit hours for course work. Duration is minimum 3 years.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># register ^ thesis ^ LMS ^</pattern>
+        <template>
+            Department registers thesis on LMS.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># postgraduate ^ not cleared thesis ^</pattern>
+        <template>
+            If you have completed course work but thesis is not cleared, you can apply for Postgraduate diploma in examination branch.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># documents ^ thesis ^ Performa ^</pattern>
+        <template>
+            Normally we attach copy of DMC, copy of proposal and a form with teacher comments about your research work. To get further information about it contact with their department.
+        </template>
+    </category>
+    <category>
+        <pattern># document ^ thesis ^ Performa ^</pattern>
+        <template>
+            Normally we attach copy of DMC, copy of proposal and a form with teacher comments about your research work. To get further information about it contact with their department.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># extra documents ^ affiliated colleges students ^</pattern>
+        <template>
+            Degree/DMC covering letter is extra requirement with other documents for affiliated colleges students.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># degree completion form ^ affiliated colleges students ^</pattern>
+        <template>
+            Controller/Principal/HOD can sign degree completion for affiliated colleges students.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># dues from college ^</pattern>
+        <template>
+            Departmental LMS coordinator will clear dues from college. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># LMS clearance ^ college ^</pattern>
+        <template>
+            Departmental LMS coordinator will make  LMS clearance from college.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># admin block ^</pattern>
+        <template>
+            Near HBL, UET Branch also it is near to VS office.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># use ^ central library ^</pattern>
+        <template>
+            Library will issue library card then you can use.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># University transportation facility ^</pattern>
+        <template>
+            Yes. University provide transportation facility.
+        </template>
+    </category>
+     <category>
+        <pattern># University transportation ^</pattern>
+        <template>
+            Yes. University provide transportation facility.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># unregister ^ register subject ^</pattern>
+        <template>
+            Yes, you can.
+        </template>
+    </category>
+    <category>
+        <pattern># unregister ^ registered subject ^</pattern>
+        <template>
+            Yes, you can.
+        </template>
+    </category>
+    <category>
+        <pattern># unregistered ^ register subject ^</pattern>
+        <template>
+            Yes, you can.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># migrate ^ UET ^</pattern>
+        <template>
+            Yes, you can.
+        </template>
+    </category>
+
+    <category>
+        <pattern># migration ^ UET ^</pattern>
+        <template>
+            Yes, you can.
+        </template>
+    </category>
+
+    <category>
+        <pattern># choose ^ supervisor ^</pattern>
+        <template>
+            Allocate by the department firstly, but you have option to change.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># pay ^ fee ^ freeze ^ semester ^</pattern>
+        <template>
+            Yes. You will pay fee even you freeze to semester. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># times ^ freeze ^ semester ^</pattern>
+        <template>
+            Contact to examination branch.  
+        </template>
+    </category>
+    
+    <category>
+        <pattern># complete ^  degree without thesis ^ </pattern>
+        <template>
+            No.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># additional courses instead ^ thesis ^</pattern>
+        <template>
+            No.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># change ^ supervisor ^</pattern>
+        <template>
+            Write a handwritten application to HOD.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># conduct ^ PGRC ^</pattern>
+        <template>
+            To evaluate and prove the post graduate cases.
+        </template>
+    </category>
+    <category>
+        <pattern># PGRC ^ conduct ^</pattern>
+        <template>
+            To evaluate and prove the post graduate cases.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># PGRC meeting ^ held ^</pattern>
+        <template>
+            Approximately once time in a month.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># PGRC meeting ^ CS ^ CE ^</pattern>
+        <template>
+            Yes.
+        </template>
+    </category>
+    <category>
+        <pattern># PGRC meetings ^ CS ^ CE ^</pattern>
+        <template>
+            Yes.
+        </template>
+    </category>
+    <category>
+        <pattern># PGRC meeting ^ CE ^ CS ^</pattern>
+        <template>
+            Yes.
+        </template>
+    </category>
+    <category>
+        <pattern># PGRC meetings ^ CE ^ CS ^</pattern>
+        <template>
+            Yes.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># stands ^ PGRC ^</pattern>
+        <template>
+            Post Graduate Research Committee. 
+        </template>
+    </category>
+     <category>
+        <pattern># stand ^ PGRC ^</pattern>
+        <template>
+            Post Graduate Research Committee. 
+        </template>
+    </category>
+    <category>
+        <pattern># PGRC ^ stands ^</pattern>
+        <template>
+            Post Graduate Research Committee. 
+        </template>
+    </category>
+    <category>
+        <pattern># PGRC ^ stand ^</pattern>
+        <template>
+            Post Graduate Research Committee. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># chairperson ^ CS department ^</pattern>
+        <template>
+            At present (2019) the chairperson of CS department is Prof. Dr. Shazia Arshad.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># CS ^ CE ^ separate departments ^</pattern>
+        <template>Yes</template>
+    </category>
+    <category>
+        <pattern># CS ^ CE ^ separate department ^</pattern>
+        <template>Yes</template>
+    </category>
+    <category>
+        <pattern># CE ^ CS ^ separate department ^</pattern>
+        <template>Yes</template>
+    </category>
+    <category>
+        <pattern># CE ^ CS ^ separate departments ^</pattern>
+        <template>Yes</template>
+    </category>
+    
+    <category>
+        <pattern># chairperson ^ CE department ^</pattern>
+        <template>
+            At present (2019) the chairperson of CE department is Prof. Dr Irfan-Ullah CH.
+        </template>
+    </category>
+    <category>
+        <pattern># chairman ^ CE department ^</pattern>
+        <template>
+            At present (2019) the chairperson of CE department is Prof. Dr Irfan-Ullah CH.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># times ^ PGRC conducted ^ month ^</pattern>
+        <template>
+            Only once time. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># leads ^ PGRC ^</pattern>
+        <template>
+            Dean, HOD and department faculty. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># transport without paying ^</pattern>
+        <template>
+            No.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># clearance process ^ person ^</pattern>
+        <template>
+            APROXIMATELHY NOT
+        </template>
+    </category>
+    
+    <category>
+        <pattern># degree receive any person without me ^</pattern>
+        <template>
+            Yes, but with authority letter.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># girls common room ^ CS department ^</pattern>
+        <template>
+            In CS building, ground floor.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># boys common room ^ CS department ^</pattern>
+        <template>
+            In CS building ground floor.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># lab ^ CS department ^</pattern>
+        <template>
+            In CS building near faculty Room on first floor.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># use ^ lab ^</pattern>
+        <template>
+            Just Ph.D. and MS Researchers.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># auditorium ^</pattern>
+        <template>
+            Near to CE building. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># lecture theatre ^</pattern>
+        <template>
+            Near to CS building. 
+        </template>
+    </category>
+    <category>
+        <pattern># lecture theater ^</pattern>
+        <template>
+            Near to CS building. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># IBM ^ institution ^</pattern>
+        <template>
+            No, IBM is private institute. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># stands ^ IBM ^</pattern>
+        <template>
+            Information Business Management
+        </template>
+    </category>
+    <category>
+        <pattern># stand ^ IBM ^</pattern>
+        <template>
+            Information Business Management
+        </template>
+    </category>
+    <category>
+        <pattern># IBM ^ stands ^</pattern>
+        <template>
+            Information Business Management
+        </template>
+    </category>
+    <category>
+        <pattern># IBM ^ stand ^</pattern>
+        <template>
+            Information Business Management
+        </template>
+    </category>
+    
+    <category>
+        <pattern># complain ^ violation ^</pattern>
+        <template>
+            In Security Office or in DSA office. 
+        </template>
+    </category>
+      <category>
+        <pattern># complain ^ UET ^</pattern>
+        <template>
+            In Security Office or in DSA office. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># complain ^ food ^</pattern>
+        <template>
+            Yes,  you can complain to concerned authorities to improve food quality.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># disciplines ^ food quality ^</pattern>
+        <template> YES! </template>
+    </category>
+    
+    <category>
+        <pattern># contact ^ resolve ^ LMS ^</pattern>
+        <template>
+            Department LMS coordinator or Visit to Examination branch. 
+        </template>
+    </category>
+    
+    <category>
+        <pattern># stands ^ LMS ^</pattern>
+        <template>Learning Management Systems</template>
+    </category>
+     <category>
+        <pattern># stand ^ LMS ^</pattern>
+        <template>Learning Management Systems</template>
+    </category>
+     <category>
+        <pattern># LMS ^ stands ^</pattern>
+        <template>Learning Management Systems</template>
+    </category>
+     <category>
+        <pattern># LMS ^ stand ^</pattern>
+        <template>Learning Management Systems</template>
+    </category>
+    
+    <category>
+        <pattern># register ^ maximum subjects ^ M ^ S ^</pattern>
+        <template>
+            You can register only 3 subjects of 9 credits hours.  
+        </template>
+    </category>
+    
+    <category>
+        <pattern># generate ^ online ^ transcript ^</pattern>
+        <template>
+            You can generate online transcript using their LMS account.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># security office ^</pattern>
+        <template>
+            Near to Junaid Jamshed stadium/ Bhola Canteen.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># minimum ^ subjects ^ register ^ M ^ S ^</pattern>
+        <template>
+            You can register minimum ONE subject.
+        </template>
+    </category>
+	
+	<category>
+	    <pattern># ATM ^ UET ^</pattern>
+	    <template>
+	        Near National Library and in Boys SSC.
+	    </template>
+    </category>
+
+    <category>
+	    <pattern>$where is ATM ^ UET ^</pattern>
+	    <template>
+	        Near National Library and in Boys SSC.
+	    </template>
+    </category>
+    <category>
+	    <pattern>$where is UET ^ atm ^</pattern>
+	    <template>
+	        Near National Library and in Boys SSC.
+	    </template>
+    </category>
+
+    <category>
+        <pattern># use ^ National Library ^</pattern>
+        <template>
+            After issuing Library Card.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># registration number and sections are allocated ^</pattern>
+        <template>
+            According the policy of dept.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># original documents ^ NEEDED ^</pattern>
+        <template>
+            Yes, but on showing of documents submission slip.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># compulsory to submit original documents during admission ^</pattern>
+        <template>
+            Yes
+        </template>
+    </category>
+    
+    <category>
+        <pattern># help ^ UET ^ dispensary ^</pattern>
+        <template>
+            Yes
+        </template>
+    </category>
+    
+    <category>
+        <pattern># N1 classroom ^</pattern>
+        <template>
+            In lecture theater on ground floor. 
+        </template>
+    </category>
+     <category>
+        <pattern># N2 classroom ^</pattern>
+        <template>
+            In lecture theater on ground floor. 
+        </template>
+    </category>
+     <category>
+        <pattern># N3 classroom ^</pattern>
+        <template>
+            In lecture theater on ground floor. 
+        </template>
+    </category>
+     <category>
+        <pattern># N4 classroom ^</pattern>
+        <template>
+            In lecture theater on ground floor. 
+        </template>
+    </category>
+     <category>
+        <pattern># N5 classroom ^</pattern>
+        <template>
+            In lecture theater on ground floor. 
+        </template>
+    </category>
+     <category>
+        <pattern># N6 classroom ^</pattern>
+        <template>
+            In lecture theater on ground floor. 
+        </template>
+    </category>
+    <category>
+        <pattern># N7 classroom ^</pattern>
+        <template>
+            In lecture theater on first floor. 
+        </template>
+    </category>
+    <category>
+        <pattern># N8 classroom ^</pattern>
+        <template>
+            In lecture theater on first floor. 
+        </template>
+    </category>
+    <category>
+        <pattern># N9 classroom ^</pattern>
+        <template>
+            In lecture theater on first floor. 
+        </template>
+    </category>
+	<category>
+        <pattern># N10 classroom ^</pattern>
+        <template>
+            In lecture theater on first floor. 
+        </template>
+    </category>
+    <category>
+        <pattern># N11 classroom ^</pattern>
+        <template>
+            In lecture theater on first floor. 
+        </template>
+    </category>
+    <category>
+        <pattern># N12 classroom ^</pattern>
+        <template>
+            In lecture theater on first floor. 
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># seats ^ undergraduate ^</pattern>
+        <template>
+            Number of available seats for undergraduate students are almost 3000. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Electrical Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Electrical Engineering Department are almost 201. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>
+            # open ^ seats ^ UET ^</pattern>
+        <template>
+            "Kindly visit to Prospectus. https://uet.edu.pk/admission/admissioninfo/images/uet_prospectus_2017.pdf
+             Note: Must replace year in URL with current year i.e will replace 2017 with current year if you want to updated prospects."
+        </template>
+    </category>
+    
+    <category>
+        <pattern># reserved ^ Seats ^ UET ^</pattern>
+        <template>
+            "Kindly visit to Prospectus. https://uet.edu.pk/admission/admissioninfo/images/uet_prospectus_2017.pdf
+             Note: Must replace year in URL with current year i.e will replace 2017 with current year if you want to updated prospects."
+        </template>
+    </category>
+    
+    <category>
+        <pattern>
+            # reserved ^ Categories ^ uet ^
+        </pattern>
+        <template>
+            "Kindly visit to Prospectus. https://uet.edu.pk/admission/admissioninfo/images/uet_prospectus_2017.pdf
+             Note: Must replace year in URL with current year i.e will replace 2017 with current year if you want to updated prospects."
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Computer Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Computer Engineering Department are almost 40. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Computer Science ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Computer Science Department are almost157. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Mechanical Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mechanical Engineering Department are almost196. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ MECHATRONICS ENGINEERING ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mechatronics Engineering Department are almost 80. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ B ^ Sc ^ Electrical Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Electrical Engineering Department are almost 201. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>
+            # seats ^ Industrial ^ Manufacturing Engineering ^ uet ^
+        </pattern>
+        <template>
+            Number of available seats for B.Sc Industrial and Manufacturing Engineering Department are almost 49. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Civil Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Civil Engineering Department are almost 198. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Architectural Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Architectural Engineering Department are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Transportation Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Transportation Engineering Department are almost 40. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Environmental Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Environmental Engineering Department are almost50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Chemical Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Chemical Engineering Department are almost 91. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Polymer Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Polymer Engineering Department are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Metallurgical ^ Materials Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Metallurgical and Materials Engineering Department are almost 47. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Petroleum Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Petroleum Engineering Department are almost 45. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Mining Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mining Engineering Department are almost 45. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Geological Engineering ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Geological Engineering Department are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Architectural ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Department of Architectural are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Product ^ Industrial Design ^ uet ^</pattern>
+        <template>
+            Number of available seats for B.Sc Product and Industrial Design Department are almost 52. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ City ^ Regional Planning ^ uet ^</pattern>
+        <template>
+            "Number of available seats for B.Sc City and regional Planning Department are almost 48. Which can be changed with respect to time.
+             Not written about math physics etc.
+             Also, must write about Narowal and KSK campuses degree seats same as for Lahore campus done."
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Electrical Engineering ^ UET faisalabad ^</pattern>
+        <template>
+            Number of available seats for B.Sc electrical engineering department are almost 99. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Mechatronics ^ UET faisalabad ^</pattern>
+        <template>
+            Number of available seats for B.Sc mechatronics are almost 100. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Textile ^ UET faisalabad ^</pattern>
+        <template>
+            Number of available seats for B.Sc textile are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Chemical Engineering ^ UET faisalabad ^</pattern>
+        <template>
+            Number of available seats for B.Sc chemical engineering are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Electrical Engineering ^ UET KSK ^</pattern>
+        <template>
+            Number of available seats for B.Sc Electical engineering are almost 89. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Computer Science ^ UET KSK ^</pattern>
+        <template>
+            Number of available seats for B.Sc Computer Science are almost 100. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># seats ^ Biomedical  ^ UET KSK ^</pattern>
+        <template>
+            Number of available seats for B.Sc Biomedical are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># seats ^ Mechanical Engineering ^ UET KSK ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mechanical engineering are almost 93. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Chemical ^ UET KSK ^</pattern>
+        <template>
+            Number of available seats for B.Sc chemical engineering are almost 96. Which can be changed with respect to time.
+        </template>
+    </category>
+    <category>
+        <pattern># seats ^ Electrical Engineering ^ UET NEW ^</pattern>
+        <template>
+            Number of available seats for B.Sc Electical engineering are almost 89. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Computer Science ^ UET NEW ^</pattern>
+        <template>
+            Number of available seats for B.Sc Computer Science are almost 100. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># seats ^ Biomedical  ^ UET NEW ^</pattern>
+        <template>
+            Number of available seats for B.Sc Biomedical are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># seats ^ Mechanical Engineering ^ UET NEW ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mechanical engineering are almost 93. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Chemical ^ UET NEW ^</pattern>
+        <template>
+            Number of available seats for B.Sc chemical engineering are almost 96. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Electrical Engineering ^ UET RACHNA ^</pattern>
+        <template>
+            Number of available seats for B.Sc Electrical engineering are almost 55. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Computer Scince ^ UET RACHNA ^</pattern>
+        <template>
+            Number of available seats for B.Sc Computer Science are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Mechanical ^ UET RACHNA ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mechanical engineering are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ industrial ^ manufacturing ^ UET KSK ^</pattern>
+        <template>
+            Number of available seats for B.Sc Industrial and Manufactruing engineering are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Electrical engineering ^ UET Narowal ^</pattern>
+        <template>
+            Number of available seats for B.Sc Electrical engineering are almost 52. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>
+            # seats ^ Computer Science ^ UET Narowal ^
+        </pattern>
+        <template>
+            Number of available seats for B.Sc Computer Science engineering are almost 50. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Biomedical Enineering ^ UET Narowal ^</pattern>
+        <template>
+            Number of available seats for B.Sc Biomedical Engineering are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># seats ^ Mechanical ^ UET Narowal ^</pattern>
+        <template>
+            Number of available seats for B.Sc Mechanical engineering are almost 51. Which can be changed with respect to time.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grading ^</pattern>
+        <template>
+            Relative Grading.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ A plus ^</pattern>
+        <template>
+            Grade Points (GP) for A+ is 4.0
+        </template>
+    </category>
+    
+    <category>
+        <pattern>What are grade points (GP) for A+ grade?</pattern>
+        <template>Grade Points (GP) for A+ is 4.0</template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ A ^</pattern>
+        <template>
+            Grade Points (GP) for A is 4.0
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ A minus ^</pattern>
+        <template>
+            Grade Points (GP) for A is 3.7
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ B plus ^</pattern>
+        <template>
+            Grade Points (GP) for B+ is 3.3
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ B minus ^</pattern>
+        <template>
+            Grade Points (GP) for B- is 2.7
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ C plus ^</pattern>
+        <template>
+            Grade Points (GP) for  C+ is 2.3
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ B ^</pattern>
+        <template>
+            Grade Points (GP) for B is 3.0
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ C ^</pattern>
+        <template>
+            Grade Points (GP) for C is 2.0
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ C minus ^</pattern>
+        <template>
+            Grade Points (GP) for C- is 1.7
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ D plus ^</pattern>
+        <template>
+            Grade Points (GP) for D+ is 1.3
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ D ^</pattern>
+        <template>
+            Grade Points (GP) for D is 1.0
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grade ^ F ^</pattern>
+        <template>
+            Grade Points (GP) for F is “0.0”
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grading ^ rule ^</pattern>
+        <template>
+            "A+     A   	A-  	B+  	B   	B-  	C+  	C   	C-  	D+  	D   	F <br/>
+            4.0   4.0    	3.7 	3.3 	3.0	    2.7 	2.3	    2.0 	1.7 	1.3	    1.0 	0.0"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># grading ^ scheme ^</pattern>
+         <template>
+            "A+     A   	A-  	B+  	B   	B-  	C+  	C   	C-  	D+  	D   	F <br/>
+            4.0   4.0    	3.7 	3.3 	3.0	    2.7 	2.3	    2.0 	1.7 	1.3	    1.0 	0.0"
+        </template>
+    </category>
+    
+    <category>
+        <pattern># programs ^ offered ^ Departments ^</pattern>
+        <template><srai>Degrees offered Departments</srai></template>
+    </category>
+    
+    <category>
+       <pattern># programs ^ offer ^ Departments ^</pattern>
+        <template><srai>Degrees offered Departments</srai></template>
+    </category>
+    
+    <category>
+        <pattern># programs ^ offers ^ Departments ^</pattern>
+        <template><srai>Degrees offered Departments</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># Degrees ^ offers ^ Departments ^</pattern>
+        <template><srai>Degrees offered Departments</srai></template>
+    </category>
+    
+    <category>
+        <pattern># Degrees ^ offer ^ Departments ^</pattern>
+        <template><srai>Degrees offered Departments</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># Degrees ^ offered ^ Departments ^</pattern>
+        <template>
+
+
+            There are 26 Departments are in UET Lahore (Main Campus) which offers degrees/programs in different areas: 
+            
+            <olist>
+                <item>Department of Electrical Engineering</item>
+                <item>Department of Computer Science</item>
+                <item>Department of Computer Engineering</item>
+                <item>Department of Mechanical Engineering</item>
+                <item>Department of Industrial and Manufacturing Engineering</item>
+                <item>Department of Mechatronics and Control Engineering</item>
+                <item>Centre of Excellence in Water Resources Engineering</item>
+                <item>Department of Civil Engineering</item>
+                <item>Department of Transportation Engineering and Management</item>
+                <item>Institute of Environmental Engineering and Research</item>
+                <item>Department of Architectural Engineering and Design</item>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+                <item>Department of Mining Engineering</item>
+                <item>Department of Geological Engineering</item>
+                <item>Department of Petroleum and Gas Engineering</item>
+                <item>Department of City And Regional Planning</item>
+                <item>Department of Architecture</item>
+                <item>Department of Product and Industrial Design</item>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+            
+            
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># LACAMP ^</pattern>
+         <template>
+
+
+            There are 26 Departments are in UET Lahore (Main Campus):
+            
+            <olist>
+                <item>Department of Electrical Engineering</item>
+                <item>Department of Computer Science</item>
+                <item>Department of Computer Engineering</item>
+                <item>Department of Mechanical Engineering</item>
+                <item>Department of Industrial and Manufacturing Engineering</item>
+                <item>Department of Mechatronics and Control Engineering</item>
+                <item>Centre of Excellence in Water Resources Engineering</item>
+                <item>Department of Civil Engineering</item>
+                <item>Department of Transportation Engineering and Management</item>
+                <item>Institute of Environmental Engineering and Research</item>
+                <item>Department of Architectural Engineering and Design</item>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+                <item>Department of Mining Engineering</item>
+                <item>Department of Geological Engineering</item>
+                <item>Department of Petroleum and Gas Engineering</item>
+                <item>Department of City And Regional Planning</item>
+                <item>Department of Architecture</item>
+                <item>Department of Product and Industrial Design</item>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+            
+        </template>
+    </category>
+    
+    
+     <category>
+        <pattern># Faculties ^</pattern>
+         <template>
+
+
+            There are 7 Faculties are in UET Lahore (Main Campus):
+            
+            <olist>
+                <item>Faculty of Electrical Engineering.</item>
+                <item>Faculty of Mechanical Engineering.</item>
+                <item>Faculty of Civil Engineering</item>
+                <item>Faculty of Chemical Metallurgical and Polymer Engineering.</item>
+                <item>Faculty of Earth Sciences and Engineering</item>
+                <item>Faculty of Architecture and Planning.</item>
+                <item>Faculty of Natural Sciences Humanities and Islamic Studies.</item>
+            </olist>
+           
+        </template>
+    </category>
+     <category>
+        <pattern># Faculty ^</pattern>
+         <template>
+
+
+            There are 7 Faculties are in UET Lahore (Main Campus):
+            
+            <olist>
+                <item>Faculty of Electrical Engineering.</item>
+                <item>Faculty of Mechanical Engineering.</item>
+                <item>Faculty of Civil Engineering</item>
+                <item>Faculty of Chemical Metallurgical and Polymer Engineering.</item>
+                <item>Faculty of Earth Sciences and Engineering</item>
+                <item>Faculty of Architecture and Planning.</item>
+                <item>Faculty of Natural Sciences Humanities and Islamic Studies.</item>
+            </olist>
+           
+        </template>
+    </category>
+     <category>
+        <pattern># Faculty ^</pattern>
+        <template>
+
+
+            There are 7 Faculties are in UET Lahore (Main Campus):
+            
+            <olist>
+                <item>Faculty of Electrical Engineering.</item>
+                <item>Faculty of Mechanical Engineering.</item>
+                <item>Faculty of Civil Engineering</item>
+                <item>Faculty of Chemical Metallurgical and Polymer Engineering.</item>
+                <item>Faculty of Earth Sciences and Engineering</item>
+                <item>Faculty of Architecture and Planning.</item>
+                <item>Faculty of Natural Sciences Humanities and Islamic Studies.</item>
+            </olist>
+           
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># faculty ^ electrical ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Electrical Engineering</item>
+                <item>Department of Computer Science</item>
+                <item>Department of Computer Engineering</item>
+            </olist>
+            
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># Faculty ^ Electrical Engineering ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Electrical Engineering</item>
+                <item>Department of Computer Science</item>
+                <item>Department of Computer Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># Electrical Engineering ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Electrical Engineering</item>
+                <item>Department of Computer Science</item>
+                <item>Department of Computer Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># computer science ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Electrical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># computer Engineering ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Electrical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Electrical Engineering ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Electrical Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># computer science ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Electrical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># computer Engineering ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Electrical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Electrical Engineering ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Electrical Engineering
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># faculty ^ mechanical ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Mechanical Engineering</item>
+                <item>Department of Industrial and Manufacturing Engineering</item>
+                <item>Department of Mechatronics and Control Engineering</item>
+            </olist>
+            
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># Faculty ^ Mechanical Engineering ^</pattern>
+        <template>
+            There are three departments under this faculty,
+           <olist>
+                <item>Department of Mechanical Engineering</item>
+                <item>Department of Industrial and Manufacturing Engineering</item>
+                <item>Department of Mechatronics and Control Engineering</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Mechanical Engineering ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Mechanical Engineering</item>
+                <item>Department of Industrial and Manufacturing Engineering</item>
+                <item>Department of Mechatronics and Control Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Mechanical ^ belongs ^ Faculty ^</pattern>
+        <template>
+        Faculty of Mechanical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Industrial ^ Manufacturing ^ belongs ^ Faculty ^</pattern>
+        <template>
+         Faculty of Mechanical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern>#  Mechatronics ^ Control ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Mechanical Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># Mechanical ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Mechanical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Industrial ^ Manufacturing ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Mechanical Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Mechatronics ^ Control ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Mechanical Engineering
+        </template>
+    </category>
+    
+    
+    
+     <category>
+        <pattern># faculty ^ civil ^</pattern>
+        <template>
+            There are five departments under this faculty,
+            
+           <olist>
+                <item>Centre of Excellence in Water Resources Engineering</item>
+                <item>Department of Civil Engineering</item>
+                <item>Department of Transportation Engineering and Management</item>
+                <item>Institute of Environmental Engineering and Research</item>
+                <item>Department of Architectural Engineering and Design</item>
+            </olist>
+            
+        </template>
+    </category>
+    
+    
+    
+     <category>
+        <pattern># Faculty ^ Civil Engineering ^</pattern>
+        <template>
+            There are five departments under this faculty,
+            <olist>
+                <item>Centre of Excellence in Water Resources Engineering</item>
+                <item>Department of Civil Engineering</item>
+                <item>Department of Transportation Engineering and Management</item>
+                <item>Institute of Environmental Engineering and Research</item>
+                <item>Department of Architectural Engineering and Design</item>
+            </olist>
+        </template>
+    </category>
+    
+    
+      <category>
+        <pattern># Civil Engineering ^ Faculty ^</pattern>
+        <template>
+            There are five departments under this faculty,
+           <olist>
+                <item>Centre of Excellence in Water Resources Engineering</item>
+                <item>Department of Civil Engineering</item>
+                <item>Department of Transportation Engineering and Management</item>
+                <item>Institute of Environmental Engineering and Research</item>
+                <item>Department of Architectural Engineering and Design</item>
+            </olist>
+        </template>
+    </category>
+     <category>
+        <pattern># Water Resources ^ belongs ^ Faculty ^</pattern>
+        <template>
+        Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Civil ^ belongs ^ Faculty ^</pattern>
+        <template>
+        Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Transportation ^ Management ^ belongs ^ Faculty ^</pattern>
+        <template>
+         Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Environmental ^ belongs ^ Faculty ^</pattern>
+        <template>
+        Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern>#  Architectural ^ belongs ^ Faculty ^</pattern>
+        <template>
+          Faculty of Civil Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># Water Resources ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Civil ^ falls ^ Faculty ^</pattern>
+        <template>
+          Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Transportation ^ Management ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Environmental ^ falls ^ Faculty ^</pattern>
+        <template>
+         Faculty of Civil Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Architectural ^ Control ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Civil Engineering
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># Faculty ^ Polymer ^</pattern>
+        <template>
+            <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># Faculty ^ Chemical ^</pattern>
+        <template>
+            There are three departments under this faculty,
+             <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Chemical ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+             <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    
+      <category>
+        <pattern># Chemical ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Metallurgical ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ belongs ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># Chemical ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Metallurgical ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+    
+    
+    
+     <category>
+        <pattern># Faculty ^ Metallurgical ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Metallurgical ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+             <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    
+      <category>
+        <pattern># Chemical ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Metallurgical ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ belongs ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># Chemical ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Metallurgical ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+    
+    
+    
+     <category>
+        <pattern># Faculty ^ Polymer ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Polymer ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Chemical Engineering</item>
+                <item>Department of Metallurgical and Materials Engineering</item>
+                <item>Department of Polymer and Process Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    
+      <category>
+        <pattern># Chemical ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Metallurgical ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ belongs ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># Chemical ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Metallurgical ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Polymer ^ falls ^ Faculty ^</pattern>
+        <template>
+           Faculty of Chemical, Metallurgical and Polymer Engineering
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+ 
+    
+    
+     <category>
+        <pattern># Faculty ^ Earth ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of Mining Engineering</item>
+                <item>Department of Geological Engineering</item>
+                <item>Department of Petroleum and Gas Engineering</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Earth ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+             <olist>
+                <item>Department of Mining Engineering</item>
+                <item>Department of Geological Engineering</item>
+                <item>Department of Petroleum and Gas Engineering</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Mining ^ belongs ^ Faculty ^</pattern>
+        <template>
+           Faculty of Earth Sciences and Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Geological ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Earth Sciences and Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Petroleum ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Earth Sciences and Engineering
+        </template>
+    </category>
+    
+        <category>
+        <pattern># Mining ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Earth Sciences and Engineering
+        </template>
+    </category>
+     <category>
+        <pattern># Geological ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Earth Sciences and Engineering
+        </template>
+    </category>
+     <category>
+        <pattern>#  Petroleum ^ falls ^ Faculty ^</pattern>
+        <template>
+          Faculty of Earth Sciences and Engineering
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+       <category>
+        <pattern># Faculty ^ Architecture ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of City And Regional Planning</item>
+                <item>Department of Architecture</item>
+                <item>Department of Product and Industrial Design</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Architecture ^ Faculty ^</pattern>
+        <template>
+            There are three departments under this faculty,
+            <olist>
+                <item>Department of City And Regional Planning</item>
+                <item>Department of Architecture</item>
+                <item>Department of Product and Industrial Design</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># City ^ Regional ^ belongs ^ Faculty ^</pattern>
+        <template>
+           Faculty of Architecture and Planning
+        </template>
+    </category>
+     <category>
+        <pattern># Architecture ^ belongs ^ Faculty ^</pattern>
+        <template>
+             Faculty of Architecture and Planning
+        </template>
+    </category>
+     <category>
+        <pattern># Industrial Design ^ belongs ^ Faculty ^</pattern>
+        <template>
+             Faculty of Architecture and Planning
+        </template>
+    </category>
+    
+        <category>
+        <pattern># City ^ Regional ^ falls ^ Faculty ^</pattern>
+        <template>
+             Faculty of Architecture and Planning
+        </template>
+    </category>
+     <category>
+        <pattern># Architecture ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Architecture and Planning
+        </template>
+    </category>
+     <category>
+        <pattern>#  Industrial Design ^ falls ^ Faculty ^</pattern>
+        <template>
+         Faculty of Architecture and Planning
+        </template>
+    </category>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <category>
+        <pattern># Faculty ^ Humanities ^</pattern>
+        <template>
+            There are six departments under this faculty,
+            <olist>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Humanities ^ Faculty ^</pattern>
+        <template>
+            There are six departments under this faculty,
+           <olist>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Faculty ^ Natural Sciences ^</pattern>
+        <template>
+            There are six departments under this faculty,
+           <olist>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Natural Sciences ^ Faculty ^</pattern>
+        <template>
+            There are six departments under this faculty,
+           <olist>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Faculty ^ Islamic Studies ^</pattern>
+        <template>
+            There are six departments under this faculty,
+            <olist>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+        </template>
+    </category>
+    <category>
+        <pattern># Islamic Studies ^ Faculty ^</pattern>
+        <template>
+            There are six departments under this faculty,
+            <olist>
+                <item>Department of Chemistry</item>
+                <item>Department of Mathematics</item>
+                <item>Department of Physics</item>
+                <item>Department of Humanities, Social Sciences and Modern Languages</item>
+                <item>Department of Islamic Studies</item>
+                <item>Institute of Business and Management</item>
+            </olist>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Chemistry ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Mathematics ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Physics ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Humanities ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Social Sciences ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Modern Languages ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Islamic Studies ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Business and Management ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+    <category>
+        <pattern># IBM ^ belongs ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+    
+     <category>
+        <pattern># Chemistry ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Mathematics ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Physics ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Humanities ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Social Sciences ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Modern Languages ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Islamic Studies ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+     <category>
+        <pattern># Business and Management ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+    <category>
+        <pattern># IBM ^ falls ^ Faculty ^</pattern>
+        <template>
+            Faculty of Natural Sciences, Humanities and Islamic Studies
+        </template>
+    </category>
+    
+    
+</aiml>

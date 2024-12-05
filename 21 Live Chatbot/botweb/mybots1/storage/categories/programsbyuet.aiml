@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+
+	
+	<category>
+	    <pattern># DEGREES ^ OFFERED ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># DEGREES ^ OFFER ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># DEGREES ^ OFFERS ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	
+
+	<category>
+	    <pattern># DEGREE ^ OFFERED ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># DEGREE ^ OFFER ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># DEGREE ^ OFFERS ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	
+	
+	
+	
+	<category>
+	    <pattern># PROGRAMS ^ OFFERED ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># PROGRAMS ^ OFFER ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+    <category>
+	    <pattern># PROGRAMS ^ OFFERS ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># PROGRAM ^ OFFERED ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+	<category>
+	    <pattern># PROGRAM ^ OFFER ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+    <category>
+	    <pattern># PROGRAM ^ OFFERS ^ UET ^</pattern>
+	    <template>
+	        <srai>UNDERPRO</srai>
+	        <srai>POSTPRO</srai>
+	    </template>
+    </category>
+
+
+    
+    <category>
+        <pattern># Undergraduate ^ Programs ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># Undergraduate ^ Program ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># B ^ SC ^ Programs ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ SC ^ Program ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ S ^ C ^ Programs ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ S ^ C ^ Program ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># BSC ^ Programs ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># BSC ^ Program ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># 4 ^ Programs ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># 4 ^ Program ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># four ^ Programs ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># four ^ Program ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># Undergraduate ^ degrees ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># Undergraduate ^ degree ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ S ^ C ^ degrees ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ S ^ C ^ degree ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ SC ^ degrees ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># B ^ SC ^ degree ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># BSC ^ degrees ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># BSC ^ degree ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># 4 ^ degrees ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># 4 ^ degree ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># four ^ degrees ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># four ^ degree ^</pattern>
+        <template><srai>UNDERPRO</srai></template>
+    </category>
+
+
+
+    <category>
+        <pattern>$UNDERPRO</pattern>
+        <template>
+
+            There are 29 Undergraduate Programs/Degrees Offered by the University:
+            
+            <button>
+                <text>Bsc. Architectural Engineering</text>
+                <url>https://aed.uet.edu.pk/Academics/Index/DP</url>
+            </button>
+            
+            <button>
+                <text>B. Architecture</text>
+                <url>https://architecture.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Chemical Engineering</text>
+                <url>https://chemical.uet.edu.pk/undergraduate-program/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Civil Engineering</text>
+                <url>https://civil.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>BSc. City and Regional Planning</text>
+                <url>https://crp.uet.edu.pk/undergraduate-program/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Computer Science</text>
+                <url>https://cs.uet.edu.pk/bs-computer-science/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Electrical Engineering</text>
+                <url>https://ee.uet.edu.pk/curriculum-for-bsc-electrical-engineering/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Geological Engineering</text>
+                <url>https://geological.uet.edu.pk/undergraduates/</url>
+            </button>
+            
+            <button>
+                <text>BBA</text>
+                <url>https://ibm.uet.edu.pk/bba/</url>
+            </button>
+            
+            <button>
+                <text>BBIT</text>
+                <url>https://ibm.uet.edu.pk/bbit/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc Environmental Engineering</text>
+                <url>https://ieer.uet.edu.pk/under-graduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Industrial and Manufacturing Engineering</text>
+                <url>https://ime.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Mechanical Engineering</text>
+                <url>https://mechanical.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Mechatronics and Control Engineering</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=undergraduate_programid=18</url>
+            </button>
+            
+            <button>
+                <text>BSc. Mining Engineering</text>
+                <url>https://mining.uet.edu.pk/Prospective_Students/UG_information</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Metallurgical and Materials Engineering</text>
+                <url>https://mme.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Petroleum and Gas Engineering</text>
+                <url>https://pge.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Product and Industrial Design</text>
+                <url>https://pid.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Polymer Engineering</text>
+                <url>https://polymer.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Transportation Engineering</text>
+                <url>https://tem.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Chemical Engineering</text>
+                <url>https://chemksk.uet.edu.pk/programs/undergraduate-programs/bsc-chemical-engineering-2/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Electrical Engineering</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=undergraduate_programid=27</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Chemical Technology</text>
+                <url>https://chemksk.uet.edu.pk/programs/undergraduate-programs/bsc-chemical-engineering/</url>
+            </button>
+            
+            <button>
+                <text>B.Sc. Mechanical Engineering</text>
+                <url>https://medksk.uet.edu.pk/undergraduate-programs/</url>
+            </button>
+            
+            <button>
+                <text>BSc Computer Science</text>
+                <url>https://cs.uet.edu.pk/bs-computer-science/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Electrical Engineering</text>
+                <url>https://rcet.uet.edu.pk/department/ee</url>
+            </button>
+            
+            <button>
+                <text>BSc. Electrical Engineering</text>
+                <url>https://nwl.uet.edu.pk/undergraduate-program-details/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Mechanical Engineering</text>
+                <url>https://nwl.uet.edu.pk/b-sc-computer-science/</url>
+            </button>
+            
+            <button>
+                <text>BSc. Computer Engineering</text>
+                <url>https://ce.uet.edu.pk/index.php/computer-engineering/</url>
+            </button>
+           
+        </template>
+    </category>
+    
+    
+    
+    
+    <category>
+        <pattern># Postgraduate ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># Postgraduate ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># PHD ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># PHD ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># PH ^ D ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># PH ^ D ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+     <category>
+        <pattern># M ^ S ^ C ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># M ^ S ^ C ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># MSC ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># MSC ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># MASTER ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># MASTER ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># MASTERS ^ Programs ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># MASTERS ^ Program ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># Postgraduate ^ degrees ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># Postgraduate ^ degree ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># PHD ^ degrees ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+    <category>
+        <pattern># PHD ^ degree ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+     <category>
+        <pattern># M ^ S ^ C ^ degrees ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># M ^ S ^ C ^ degree ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># MSC ^ degrees ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+
+     <category>
+        <pattern># MSC ^ degree ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+     <category>
+        <pattern># MASTER ^ degrees ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># MASTER ^ degree ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># MASTERS ^ degrees ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    <category>
+        <pattern># MASTERS ^ degree ^</pattern>
+        <template><srai>POSTPRO</srai></template>
+    </category>
+
+    
+    
+    <category>
+        <pattern>$POSTPRO</pattern>
+        <template>
+            
+            There are 69 Postgraduate Programs/Degrees Offered by the University:
+            
+            <button>
+                <text>Msc Building and Architectural</text>
+                <url>https://aed.uet.edu.pk/Academics/Index/DP</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Integrated Building Design</text>
+                <url>https://aed.uet.edu.pk/Academics/Index/DP</url>
+            </button>
+            
+            
+            <button>
+                <text>M. Architecture</text>
+                <url>https://architecture.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Water Resources Engineering</text>
+                <url>http://cewre.edu.pk/web/water-resources-engineering/</url>
+            </button>
+            
+            
+            <button>
+                <text>Mphil Water Resources Engineering</text>
+                <url>http://cewre.edu.pk/web/water-resources-engineering/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc./M.phil Engineering Hydrology</text>
+                <url>http://cewre.edu.pk/web/engineering-hydrology-ehy/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Hydropower Engineering</text>
+                <url>http://cewre.edu.pk/web/hydropower-engineering-hpe/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Chemical Engineering</text>
+                <url>https://chemical.uet.edu.pk/postgraduate-program/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Phil Applied Chemistry</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=graduate_programid=5</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Structural Engineering.</text>
+                <url>https://civil.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Geo Technical Engineering</text>
+                <url>https://civil.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Hydraulics Engineering</text>
+                <url>https://civil.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>MSc. Disaster Management</text>
+                <url>https://crp.uet.edu.pk/post-graduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. City and Regional Planning</text>
+                <url>https://crp.uet.edu.pk/post-graduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Community Development and Environmental Management</text>
+                <url>https://crp.uet.edu.pk/post-graduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>MS Computer Science</text>
+                <url>https://cs.uet.edu.pk/ms-computer-science/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Electrical Engineering</text>
+                <url>https://ee.uet.edu.pk/curriculum-for-m-sc-ph-d/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Telecomunication and Networks</text>
+                <url>https://ee.uet.edu.pk/curriculum-for-m-sc-ph-d/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Geological Engineering</text>
+                <url>https://geological.uet.edu.pk/postgraduates-program/</url>
+            </button>
+            
+            
+            <button>
+                <text>MBA (30 Credit Hours)</text>
+                <url>https://ibm.uet.edu.pk/mba-30-credit-hours/</url>
+            </button>
+            
+            
+            <button>
+                <text>MBA (60 Credit Hours)</text>
+                <url>https://ibm.uet.edu.pk/mba-60-credit-hours/</url>
+            </button>
+            
+            
+            <button>
+                <text>MBA Executive</text>
+                <url>https://ibm.uet.edu.pk/executive-mba/</url>
+            </button>
+            
+            
+            <button>
+                <text>MS Management</text>
+                <url>https://ibm.uet.edu.pk/ms-management/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc Environmental Engineering</text>
+                <url>https://ieer.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc Engineering Management</text>
+                <url>https://ime.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Manufacturing Engineering</text>
+                <url>https://ime.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Phil. Applied Mathematics</text>
+                <url>https://mathematics.uet.edu.pk/post-graduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Mechanical Design Engineering</text>
+                <url>https://mechanical.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Thermal Power Engineering</text>
+                <url>https://mechanical.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Automotive Engineering</text>
+                <url>https://mechanical.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc Mechatronics and Control Engineering</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=graduate_program</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Mining Engineering</text>
+                <url>https://mining.uet.edu.pk/Prospective_Students/POST_information</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Metallurgical and Materials Engineering</text>
+                <url>https://mme.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Petroleum and Gas Engineering</text>
+                <url>https://pge.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M. Phil Applied Physics</text>
+                <url>https://physics.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Polymer and Process Engineering</text>
+                <url>https://polymer.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Transportation Engineering</text>
+                <url>https://tem.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc Electrical Engineering</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=graduate_program</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Thermo-Fluid Engineering</text>
+                <url>https://medksk.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Electrical Engineering</text>
+                <url>https://rcet.uet.edu.pk/</url>
+            </button>
+            
+            
+            <button>
+                <text>M.Sc. Computer Engineering</text>
+                <url>https://ce.uet.edu.pk/index.php/msc-software-engineering/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Building and Architecture Engineering</text>
+                <url>https://aed.uet.edu.pk/Academics/Index/DP</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Architecture</text>
+                <url>https://aed.uet.edu.pk/Academics/Index/DP</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph. D Water Resources Engineering</text>
+                <url>http://cewre.edu.pk/web/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Water Resources Management</text>
+                <url>http://cewre.edu.pk/web/</url>
+            </button>
+            
+            
+            <button>
+                <text>PhD .Engineering Hydrology</text>
+                <url>http://cewre.edu.pk/web/engineering-hydrology-ehy/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Chemical Engineering</text>
+                <url>https://chemical.uet.edu.pk/postgraduate-program/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. in Chemistry</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=graduate_program</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Civil Engineering</text>
+                <url>https://civil.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D City and Regional Planning</text>
+                <url>https://crp.uet.edu.pk/post-graduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Computer Science</text>
+                <url>https://cs.uet.edu.pk/ph-d-computer-science/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Electrical Engineering</text>
+                <url>https://ee.uet.edu.pk/curriculum-for-m-sc-ph-d/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Geological Engineering</text>
+                <url>https://geological.uet.edu.pk/postgraduates-program/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Environmental Engineering</text>
+                <url>https://ieer.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Engineering Management</text>
+                <url>https://ime.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Manufacturing Engineering</text>
+                <url>https://ime.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Islamic Studies</text>
+                <url>https://isl.uet.edu.pk/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Mathematics</text>
+                <url>https://mathematics.uet.edu.pk/post-graduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>PhD Mechanical Engineering</text>
+                <url>https://mechanical.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Mechatronics and Control Engineering</text>
+                <url>https://uet.edu.pk/faculties/facultiesinfo/department?RID=graduate_programid=18</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Mining Engineering</text>
+                <url>https://mining.uet.edu.pk/Prospective_Students/Phd_information</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Metallurgical and Materials Engineering</text>
+                <url>https://mme.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Petroleum and Gas Engineering</text>
+                <url>https://pge.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. in Physics</text>
+                <url>https://physics.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D Polymer Engineering</text>
+                <url>https://polymer.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>Ph.D. Transportation Engineering</text>
+                <url>https://tem.uet.edu.pk/postgraduate-programs/</url>
+            </button>
+            
+            
+            <button>
+                <text>	Ph.D Computer Engineering</text>
+                <url>https://ce.uet.edu.pk/index.php/phd-software-engineering/</url>
+            </button>
+            
+
+        </template>
+    </category>
+	
+	
+	
+</aiml>

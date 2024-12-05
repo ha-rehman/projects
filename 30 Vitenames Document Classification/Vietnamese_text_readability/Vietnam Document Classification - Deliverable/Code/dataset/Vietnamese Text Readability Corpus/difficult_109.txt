@@ -1,0 +1,58 @@
+Xác định bản quyền tác phẩm văn học bằng khoa học chính xác
+Những thành tựu của các phương pháp chính xác trong việc xác định bản quyền tác phẩm văn học là điều không còn nghi ngờ gì nữa .
+Tuy nhiên , so với các nhà khoa học , các nhà ngữ văn chuyên nghiệp có nhiều kinh nghiệm hơn trong lĩnh vực này , đặc biệt là các nhà ngữ văn Nga .
+Trước hết , chúng ta hãy tìm hiểu tóm tắt lịch sử hình thành các phương pháp chính xác trong các khoa học nhân văn .
+Không phải ngẫu nhiên mà nước Nga được coi là tổ quốc của chúng .
+Người đầu tiên nghĩ tới việc áp dụng toán học vào văn học không phải là nhà toán học , mà là một nhà thơ - Andrey Belyi - một trong những nhà hoạt động lớn nhất của Thế kỷ bạc Nga .
+Ông lấy thơ của các nhà thơ thế kỷ XVIII và XIX , được viết bằng thể yambơ bốn âm tiết , và xét xem trọng âm thường rơi vào âm tiết nào trong câu thơ .
+Kết quả thu được khiến ông rất ngạc nhiên : sự khác nhau giữa hai thế kỷ thơ ca Nga hóa ra rất lớn .
+Ở Pushkin và Lermontov trọng âm thường rơi vào âm tiết thứ tư tính từ đầu câu thơ , hầu như bao giờ cũng vậy , còn ở Lomonosov và Derzhavin thì ít hơn .
+Như vậy , ở thế kỷ XIX , trong câu thơ yambơ 4 âm tiết trọng âm thường rơi vào âm tiết thứ tư .
+Ở thế kỷ XVIII thì ngược lại - âm tiết thứ hai " trọng âm " hơn âm tiết thứ tư ; sự khác biệt này trở nên đặc biệt rõ nét khi được thể hiện trên biểu đồ .
+Phát hiện của Belyi được sự hưởng ứng rộng rãi : năm 1910 sau khi ông xuất bản cuốn " Chủ nghĩa tượng trưng " , nhiều nhà khoa học bắt đầu nghiên cứu tiết điệu câu thơ bằng các phương pháp thống kê .
+Một bộ môn mới của khoa học nhân văn ra đời - Nghiên cứu thơ .
+Trong số các môn đồ của nó có cả những nhà toán học chuyên nghiệp : tiếp theo Belyi có Boris Tomashevsky , về sau trở thành nhà Pushkin học tầm cỡ .
+Vào nửa sau thế kỷ XIX , nhà toán học cổ điển Andrey Kolmogorov cũng bắt tay vào nghiên cứu thơ ; khi nói về các phương pháp chính xác trong các khoa học nhân văn , người ta thường nhắc tới tên ông .
+Từ những năm 1960 nhà ngữ văn vĩ đại Mikhail Gasparov trở thành nhà nghiên cứu thơ quan trọng nhất : đóng góp của ông trong lĩnh vực này lớn đến mức một mình ông trở thành biểu tượng của bộ môn này .
+Thậm chí một số người cho rằng bằng những công trình của mình Gasparov đã " khép lại " bộ môn nghiên cứu thơ , và không còn gì để nghiên cứu nữa .
+Tuy nhiên , sự thực không phải như vậy .
+Dường như , nghiên cứu thơ là bộ môn khoa học nhân văn duy nhất , trong đó các chuyên gia Nga giữ vị trí hàng đầu trong suốt thế kỷ XX .
+Đối với bạn đọc phương Tây những cách tân của Belyi - Gasparov trở nên rõ nét đến mức nhà Slavơ học người Mỹ James Bailey thậm chí đề nghị gọi phương pháp nghiên cứu thơ bằng thống kê là " phương pháp Nga " .
+Sau khi Gasparov và Shapir qua đời , ngành nghiên cứu thơ Nga rơi vào khủng hoảng .
+Công trình nghiên cứu của Belyi được thực hiện trong giai đoạn cao trào của chủ nghĩa thực chứng trong khoa học , và nghiên cứu thơ không phải là lĩnh vực duy nhất của bộ môn nghiên cứu văn học , nơi người ta bắt đầu áp dụng các phương pháp toán học .
+Nhà tư tưởng chính của khoa học chính xác trong lĩnh vực nhân văn là Boris Yarkho ( Gasparov tôn ông là bậc thầy của mình ) .
+Ông đề nghị cải cách triệt để khoa học về văn học , sau khi đưa nó tiến sát các khoa học tự nhiên : để làm điều đó , theo Yarkho , cần áp dụng thật nhiều các phương pháp thống kê .
+Yarkho mất vì bệnh lao trong khi đi tản cư năm 1942 , không để lại những người kế tục .
+Công trình đồ sộ của ông " Phương pháp luận nghiên cứu văn học chính xác " mới chỉ được xuất bản năm 2006 .
+Trở lại vấn đề xác định bản quyền tác phẩm văn học , cần phải nói ngay rằng trong tay các nhà ngữ văn có nhiều phương tiện , nhưng không phải tất cả đều liên quan tới ngôn ngữ và phong cách : ví dụ , khi được tiếp cận các bản thảo thì việc nghiên cứu nét chữ , loại mực , dấu chìm trên giấy , ... mang lại kết quả khả quan .
+Tiếp theo , lịch sử văn học thực chất cũng có tác dụng : các nhà ngữ văn tìm hiểu điều kiện sáng tác và công bố tác phẩm , tiểu sử và tác phẩm của các nhà văn , và trên cơ sở đó " ướm thử " tác phẩm vào tác giả có thể của nó .
+Cuối cùng , bản thân các thông số ngôn ngữ , lịch sử ngôn ngữ cũng hết sức quan trọng .
+Nói một cách nôm na , ai cũng biết rằng , nếu trong văn bản ta bắt gặp từ " iPhone " , thì tác giả của tác phẩm không thể là Gogol , mà là Pelevin .
+Những thí nghiệm đầu tiên áp dụng khoa học thống kê vào việc xác định bản quyền tác phẩm được tiến hành hầu như ngay sau phát minh của Belyi .
+Năm 1916 , Nikolai Morozov công bố cuốn sách có tên gọi : Phương pháp phân biệt tác phẩm đạo văn với tác phẩm đích thực của một tác giả nào đó .
+Trong đó ông đề nghị lấy những từ phổ thông nhất của ngôn ngữ - trợ từ - và tính tần số sử dụng chúng ở những tác giả khác nhau .
+Hãy lấy trợ từ không và đếm , bạn sẽ thấy rằng ở Tolstoy cứ 1000 từ bạn sẽ gặp nó dưới 20 lần , ở Pushkin và Gogol - gần 20 lần , còn ở Turgenev thì nhiều hơn , đôi khi lên tới 30 lần ...
+Điều đó chứng minh rằng trợ từ " không " phần nhiều thể hiện sự dao động của cá nhân , nghĩa là nó xác định phong cách ngôn ngữ của tác giả " .
+Nếu vậy thì " liệu có thể qua tần số của những trợ từ đó chúng ta nhận ra các tác giả , tựa như qua những nét chân dung của họ ? " - Morozov đặt câu hỏi .
+Vào cuối thế kỷ XIX , có một người tên là Zuev đã viết nốt tác phẩm dở dang " Rusalka " của Pushkin , sau đó ông ta công bố và mạo nhận thơ mình là sáng tác của Pushkin .
+Các nhà ngữ văn thời bấy giờ không tin Zuev lắm , nhưng không tìm thấy trong văn bản bất cứ " iPhone " nào có thể chứng minh một cách rõ ràng rằng Pushkin không viết điều đó .
+Sau này , bằng việc sử dụng phương pháp nghiên cứu thơ , Tomashevsky đã chứng minh rằng Zuev không biết giả mạo tiết điệu thơ của Pushkin .
+Thành công tiếp theo của bộ môn nghiên cứu thơ thuộc về Kirill Taranovsky , nhà khoa học Nga sống là làm việc ở Nam Tư và Mỹ .
+Ông đã bác bỏ ý kiến cho rằng tác giả trường ca " Luka Mudishchev " là Ivan Barkov - một đại biểu của trường phái thơ dung tục giữa thế kỷ XVIII .
+Vận dụng quy luật về sự khác nhau giữa câu thơ yambơ 4 âm tiết thế kỷ XVIII và XIX , Taranovsky xác nhận rằng trường ca bất nhã " Luka " được sáng tác không thể trước năm 1820 .
+Về sau Shapir đã làm rõ thời điểm ra đời của tác phẩm này : không sớm hơn năm 1850 .
+Toan tính gán tác phẩm của người khác cho tác giả nào đó , hay ngược lại , " tước mất " của anh ta tác phẩm đích thực của mình diễn ra khá thường xuyên trong lịch sử văn học .
+Điển hình là những nghi vấn về bản quyền tác phẩm của Shakespeare .
+Khối lượng tác phẩm đồ sộ của nhà viết kịch Anh vĩ đại ẩn chứa nhiều bí mật đối với các nhà ngữ văn , khi thì chúng được tăng lên , khi thì giảm đi .
+Vấn đề trở nên phức tạp vì có những tác phẩm của Shakespeare được viết chung .
+Ở đây khoa học thống kê và nghiên cứu thơ đóng vai trò quan trọng .
+Chẳng hạn , một đồng nghiệp của Gasparov , Marina Tarlinskaya , hiện sống và làm việc ở Mỹ , đã rút ra kết luận rằng vở kịch " Edward III " bao gồm hai loại văn bản : văn bản sau của Shakespeare , văn bản trước của nhà thơ Christopher Marlowe sống và sáng tác trong thời đại Elizabeth ; rõ ràng , người sau viết tiếp văn bản của người trước .
+Nhân tiện nói thêm , năm ngoái đã xuất hiện một công trình nghiên cứu vở kịch này của nhà khoa học Anh Brian Vickers .
+Ông khẳng định rằng một trong những tác giả của " Edward III " là Shakespeare , còn tác giả thứ hai không phải là Marlowe , mà là người cùng thời của ông ta là Thomas Kyd .
+Cuối cùng , câu chuyện xác định bản quyền gần đây nhất lại gắn với tên tuổi của Maxim Shapir .
+Ông hoài nghi những bài thơ của thi sĩ tháng Chạp Gavriil Batenkov do nhà ngữ văn Aleksandr Ilyushin công bố hoàn toàn không phải được tìm thấy trong di cảo , mà là do Ilyushin tự sáng tác .
+Shapir đã nghiên cứu một cách kĩ lưỡng những bài thơ được gán cho Batenkov .
+Ông tìm hiểu niêm luật , tiết điệu , vần , cú pháp thơ , hình thái học , cách sử dụng từ và hình ảnh thơ .
+Về một số khía cạnh , giữa những văn bản đích thực của Batenkov và những văn bản bị nghi vấn có những điểm cực kỳ giống nhau .
+Kết luận của nhà khoa học không mấy khả quan : ngay cả một công trình nghiên cứu ngôn ngữ và thơ ca công phu nhất cũng không phải luôn luôn cho phép tin tưởng 100 % sự chính xác hay giả mạo của văn bản ; mỗi luận chứng đều có thể tìm thấy phản luận chứng .
+Điều đó đặc biệt thể hiện rõ nét trong các trường hợp , khi văn bản cần xác minh bản quyền có thể là kết quả của một sự mô phỏng phong cách có ý thức ( rõ ràng , Ilyushin có những kiến thức ngữ văn và năng khiếu thơ ca cần thiết để bắt chước phong cách của Batenkov ) .

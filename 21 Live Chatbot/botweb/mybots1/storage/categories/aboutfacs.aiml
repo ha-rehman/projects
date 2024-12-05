@@ -1,0 +1,2608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+    
+    
+    <!--Financial Aid and Career Services-->
+    
+    
+    
+    
+    <category>
+        <pattern># FACS ^ Admin ^ Officer ^</pattern>
+        <template>
+           Mr. Rana Manzoor Ahmad Khan, is the Admin Officer at Financial Aid and Career Services, UET Lahore. <br/>
+            <br/>
+            Phone: 042-99029218<br/>
+            Cell: 0308-4308807<br/>
+            Fax: 99250202<br/>
+            Email: ranamanzoor74@gmail.com
+     
+        </template>
+    </category>
+    
+
+    <category>
+        <pattern># FA ^ CS ^ Admin ^ Officer ^</pattern>
+        <template>
+           Mr. Rana Manzoor Ahmad Khan, is the Admin Officer at Financial Aid and Career Services, UET Lahore. <br/>
+            <br/>
+            Phone: 042-99029218<br/>
+            Cell: 0308-4308807<br/>
+            Fax: 99250202<br/>
+            Email: ranamanzoor74@gmail.com
+
+        </template>
+    </category>
+
+
+
+    <category>
+        <pattern># Admin ^ Officer ^ FACS ^</pattern>
+        <template>
+           Mr. Rana Manzoor Ahmad Khan, is the Admin Officer at Financial Aid and Career Services, UET Lahore. <br/>
+            <br/>
+            Phone: 042-99029218<br/>
+            Cell: 0308-4308807<br/>
+            Fax: 99250202<br/>
+            Email: ranamanzoor74@gmail.com
+
+        </template>
+    </category>
+
+
+    <category>
+        <pattern># Admin ^ Officer ^ FA ^ CS ^</pattern>
+        <template>
+           Mr. Rana Manzoor Ahmad Khan, is the Admin Officer at Financial Aid and Career Services, UET Lahore. <br/>
+            <br/>
+            Phone: 042-99029218<br/>
+            Cell: 0308-4308807<br/>
+            Fax: 99250202<br/>
+            Email: ranamanzoor74@gmail.com
+
+        </template>
+    </category>
+
+
+    <category>
+        <pattern># Rana Manzoor ^</pattern>
+        <template>
+           Mr. Rana Manzoor Ahmad Khan, is the Admin Officer at Financial Aid and Career Services, UET Lahore. <br/>
+            <br/>
+            Phone: 042-99029218<br/>
+            Cell: 0308-4308807<br/>
+            Fax: 99250202<br/>
+            Email: ranamanzoor74@gmail.com
+     
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Director ^ FACS ^</pattern>
+        <template>
+           Dr. Muhammad Usman Ghani, is the Director of Financial Aid and Career Services, UET Lahore.
+           <br/>
+           <button>
+               <text>for more info.</text>
+               <url>https://uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=142</url>
+           </button>
+        </template>
+    </category>
+
+    <category>
+        <pattern># Director ^ FA ^ CS ^</pattern>
+        <template>
+           Dr. Muhammad Usman Ghani, is the Director of Financial Aid and Career Services, UET Lahore.
+           <br/>
+           <button>
+               <text>for more info.</text>
+               <url>https://uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=142</url>
+           </button>
+        </template>
+    </category>
+
+    <category>
+        <pattern># Usman ^</pattern>
+        <template>
+           Dr. Muhammad Usman Ghani, is the Director of Financial Aid and Career Services, UET Lahore.
+           <br/>
+           <button>
+               <text>for more info.</text>
+               <url>https://uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=142</url>
+           </button>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># FA ^ CS ^</pattern>
+        <template><srai>ABOUUS</srai></template>
+    </category>
+
+    <category>
+        <pattern># FACS ^</pattern>
+        <template><srai>ABOUUS</srai></template>
+    </category>
+
+    
+    <category>
+        <pattern># SCHOLARSHIP ^ queries ^</pattern>
+        <template>
+            You can contact to, <br/>
+            <srai>ADMINOFI</srai>
+        </template>
+    </category>
+     <category>
+        <pattern># queries ^ SCHOLARSHIP ^</pattern>
+        <template>
+            You can contact to, <br/>
+            <srai>ADMINOFI</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern># CARRER ^ queries ^</pattern>
+        <template>
+            You can contact to, <br/>
+            <srai>ADMINOFI</srai>
+        </template>
+    </category>
+      <category>
+        <pattern># queries ^ CARRER ^</pattern>
+        <template>
+            You can contact to, <br/>
+            <srai>ADMINOFI</srai>
+        </template>
+    </category>
+
+    
+    <category>
+        <pattern># Email ^  Financial Aid and Career Services ^</pattern>
+        <template>
+            facs@uet.edu.pk
+        </template>
+    </category>
+	
+    
+    <category>
+        <pattern># Financial Aid and Career Services ^ Email ^</pattern>
+        <template>
+            facs@uet.edu.pk
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># Email ^ FA ^ CS ^</pattern>
+        <template>
+            facs@uet.edu.pk
+        </template>
+    </category>
+
+    <category>
+        <pattern># Email ^ FACS ^</pattern>
+        <template>
+            facs@uet.edu.pk
+        </template>
+    </category>
+
+    
+    <category>
+        <pattern># FA ^ CS ^ Email ^</pattern>
+        <template>
+            facs@uet.edu.pk
+        </template>
+    </category>
+
+    <category>
+        <pattern># FACS ^ Email ^</pattern>
+        <template>
+            facs@uet.edu.pk
+        </template>
+    </category>
+
+    
+    
+    <category>
+        <pattern># WEBSITE ^ Financial Aid and Career Services ^</pattern>
+        <template>
+            <button>
+                <text>Website of Financial Aid and Career Services</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+            </button>
+        </template>
+    </category>
+	
+    
+    
+    <category>
+        <pattern># Financial Aid and Career Services ^ WEBSITE ^</pattern>
+         <template>
+            <button>
+                <text>Website of Financial Aid and Career Services</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+            </button>
+        </template>
+    </category>
+	
+    
+    <category>
+        <pattern># WEBSITE ^ FA ^ CS ^</pattern>
+          <template>
+            <button>
+                <text>Website of Financial Aid and Career Services</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+            </button>
+        </template>
+    </category>
+
+    <category>
+        <pattern># WEBSITE ^ FACS ^</pattern>
+          <template>
+            <button>
+                <text>Website of Financial Aid and Career Services</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+            </button>
+        </template>
+    </category>
+
+    
+    
+    <category>
+        <pattern># FA ^ CS ^ WEBSITE ^</pattern>
+         <template>
+            <button>
+                <text>Website of Financial Aid and Career Services</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+            </button>
+        </template>
+    </category>
+    
+
+    <category>
+        <pattern># FACS ^ WEBSITE ^</pattern>
+         <template>
+            <button>
+                <text>Website of Financial Aid and Career Services</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+            </button>
+        </template>
+    </category>
+
+
+   
+   <category>
+       <pattern># detail ^ scholarships ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+    
+
+   <category>
+       <pattern># UET ^ scholarships ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+
+   <category>
+       <pattern># scholarships ^ UET ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+
+   <category>
+       <pattern># UET ^ scholarship ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+
+   <category>
+       <pattern># scholarship ^ UET ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+
+
+   <category>
+       <pattern># details ^ scholarships ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+   <category>
+       <pattern># scholarships ^ detail ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+    
+   
+   <category>
+       <pattern># scholarships ^ details ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+    
+   <category>
+       <pattern># type ^ scholarships ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+    
+    
+   <category>
+       <pattern># types ^ scholarships ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+    
+    
+    
+   <category>
+       <pattern># type ^ scholarship ^</pattern>
+       <template><srai>Types Scholarships</srai></template>
+   </category>
+    
+    
+    
+    <category>
+        <pattern># types ^ Scholarship ^</pattern>
+        <template>
+            There are different Scholarships offered in UET, some of them are below:
+            <br/>
+            INSTITUTIONAL SCHOLARSHIPS
+              <olist>
+                    <item>100% TUITION FEE CONCESSION FOR ORPHANS. </item>
+                    <item>50% TUITION FEE CONCESSION FOR NON-ORPHANS. </item>
+                </olist>
+                <br/>
+                HEC/GOVT. FUNDED SCHOLARSHIPS
+                <olist>
+                    <item>PM Scholarship (Islamabad Domicile Holders)</item>
+                    <item>PEEF SCHOLARSHIP (merit and need based)</item>
+                    <item>PEEF MASTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                    <item>USAID B.Sc. SCHOLARSHIP (merit and need based)</item>
+                    <item>USAID MSTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC-OGDCL SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC B.Sc. SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC MSTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                </olist>
+               <br/>
+               PRIVATE DONOR SCHOLARSHIPS
+               <olist>
+                   <item>ASHRAF SIDDIQUI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>BARI KHALIL SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>COCA COLA SCHOLARSHIP (Gives Stipend only) </item>
+                   <item>DATTO MUHAMMAD SAIED and DATIN SARDAR AKHTAR SAIED SCHOLARSHIP (Gives Stipend only) </item>
+                   <item>FATIMA GROUP SCHOLARSHIP (Gives Stipend and Fee) </item>
+                   <item>FAUJI FOUNDATION (Gives Stipend only)</item>
+                   <item>GURMANI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>ICE QUEST SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>IEP SAC SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>I Khan SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>IU DURRANI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>KAKAYZAI ASSOCIATION PAKISTAN M.Sc. (Gives Stipend only)</item>
+                   <item>LCCI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>MUHAMMAD NASIR USMAN (Gives Stipend only)</item>
+                   <item>PAKISTAN ENGINEERING CONGRESS (Gives Stipend only)</item>
+                   <item>PEF SCHOLARSHIP (Gives Fee only)</item>
+                   <item>PROGRESSIVE INTERNATIONAL-TEM (Gives Stipend only)</item>
+                   <item>PROGRESSIVE INTERNATIONAL (Gives Stipend only) </item>
+                   <item>PLACEMENT BUREAU SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>DR. FFAIZ SCHOLARSHIP (School Going kids) (Gives Stipend only)</item>
+                   <item>DR. FFAIZ SCHOLARSHIP (only one year) (Gives Stipend only)</item>
+                   <item>SENS SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>THE SCHEME (Fee) SCHOLARSHIP M.Sc. (Gives Stipend and Fee)</item>
+                   <item>THE 66-SCHOLARSHIP FOUNDATION (Gives Fee only) </item>
+                   <item>UMAR AFTAB MEMORIAL TRUST (Gives Fee only)</item>
+                   <item>ZANIB BASHIR SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>DR. HAMAYUN MUSHTAQ MIAN MEMORIAL SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>CLASS 49-GOLDEN JUBLEE SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>83-EE-ALUMNI SCHOLARSHIP (Gives Stipend only)</item>
+               </olist>
+               <br />
+               <button>
+                <text>for more info.</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># types ^ Scholarships ^</pattern>
+        <template>
+            There are different Scholarships offered in UET, some of them are below:
+            <br/>
+            INSTITUTIONAL SCHOLARSHIPS
+              <olist>
+                    <item>100% TUITION FEE CONCESSION FOR ORPHANS. </item>
+                    <item>50% TUITION FEE CONCESSION FOR NON-ORPHANS. </item>
+                </olist>
+                <br/>
+                HEC/GOVT. FUNDED SCHOLARSHIPS
+                <olist>
+                    <item>PM Scholarship (Islamabad Domicile Holders)</item>
+                    <item>PEEF SCHOLARSHIP (merit and need based)</item>
+                    <item>PEEF MASTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                    <item>USAID B.Sc. SCHOLARSHIP (merit and need based)</item>
+                    <item>USAID MSTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC-OGDCL SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC B.Sc. SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC MSTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                </olist>
+               <br/>
+               PRIVATE DONOR SCHOLARSHIPS
+               <olist>
+                   <item>ASHRAF SIDDIQUI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>BARI KHALIL SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>COCA COLA SCHOLARSHIP (Gives Stipend only) </item>
+                   <item>DATTO MUHAMMAD SAIED and DATIN SARDAR AKHTAR SAIED SCHOLARSHIP (Gives Stipend only) </item>
+                   <item>FATIMA GROUP SCHOLARSHIP (Gives Stipend and Fee) </item>
+                   <item>FAUJI FOUNDATION (Gives Stipend only)</item>
+                   <item>GURMANI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>ICE QUEST SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>IEP SAC SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>I Khan SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>IU DURRANI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>KAKAYZAI ASSOCIATION PAKISTAN M.Sc. (Gives Stipend only)</item>
+                   <item>LCCI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>MUHAMMAD NASIR USMAN (Gives Stipend only)</item>
+                   <item>PAKISTAN ENGINEERING CONGRESS (Gives Stipend only)</item>
+                   <item>PEF SCHOLARSHIP (Gives Fee only)</item>
+                   <item>PROGRESSIVE INTERNATIONAL-TEM (Gives Stipend only)</item>
+                   <item>PROGRESSIVE INTERNATIONAL (Gives Stipend only) </item>
+                   <item>PLACEMENT BUREAU SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>DR. FFAIZ SCHOLARSHIP (School Going kids) (Gives Stipend only)</item>
+                   <item>DR. FFAIZ SCHOLARSHIP (only one year) (Gives Stipend only)</item>
+                   <item>SENS SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>THE SCHEME (Fee) SCHOLARSHIP M.Sc. (Gives Stipend and Fee)</item>
+                   <item>THE 66-SCHOLARSHIP FOUNDATION (Gives Fee only) </item>
+                   <item>UMAR AFTAB MEMORIAL TRUST (Gives Fee only)</item>
+                   <item>ZANIB BASHIR SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>DR. HAMAYUN MUSHTAQ MIAN MEMORIAL SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>CLASS 49-GOLDEN JUBLEE SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>83-EE-ALUMNI SCHOLARSHIP (Gives Stipend only)</item>
+               </olist>
+               <br/>
+               <button>
+                <text>for more info.</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern># INSTITUTIONAL ^</pattern>
+        <template><srai>ISXYZ</srai></template>
+    </category>
+        
+        <category>
+            <pattern># ISXYZ ^</pattern>
+            <template>
+                 <olist>
+                    <item>100% TUITION FEE CONCESSION FOR ORPHANS. </item>
+                    <item>50% TUITION FEE CONCESSION FOR NON-ORPHANS. </item>
+                </olist>
+                <br/>
+                <button>
+                    <text>for more info.</text>
+                    <url>https://facs.uet.edu.pk/site/index.php/category/scholarships/</url>
+                </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># FUNDED ^</pattern>
+            <template><srai>HECXYZ</srai></template>
+        </category>
+        
+        <category>
+            <pattern># HECXYZ ^</pattern>
+            <template>
+                <olist>
+                    <item>PM Scholarship (Islamabad Domicile Holders)</item>
+                    <item>PEEF SCHOLARSHIP (merit and need based)</item>
+                    <item>PEEF MASTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                    <item>USAID B.Sc. SCHOLARSHIP (merit and need based)</item>
+                    <item>USAID MSTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC-OGDCL SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC B.Sc. SCHOLARSHIP (merit and need based)</item>
+                    <item>HEC MSTER LEVEL SCHOLARSHIP (merit and need based)</item>
+                </olist>
+                <br/>
+                <button>
+                <text>for more info.</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># Private ^</pattern>
+            <template><srai>PRIXYZ</srai></template>
+        </category>
+        
+        <category>
+            <pattern># PRIXYZ ^</pattern>
+            <template>
+              <olist>
+                   <item>ASHRAF SIDDIQUI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>BARI KHALIL SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>COCA COLA SCHOLARSHIP (Gives Stipend only) </item>
+                   <item>DATTO MUHAMMAD SAIED and DATIN SARDAR AKHTAR SAIED SCHOLARSHIP (Gives Stipend only) </item>
+                   <item>FATIMA GROUP SCHOLARSHIP (Gives Stipend and Fee) </item>
+                   <item>FAUJI FOUNDATION (Gives Stipend only)</item>
+                   <item>GURMANI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>ICE QUEST SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>IEP SAC SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>I Khan SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>IU DURRANI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>KAKAYZAI ASSOCIATION PAKISTAN M.Sc. (Gives Stipend only)</item>
+                   <item>LCCI SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>MUHAMMAD NASIR USMAN (Gives Stipend only)</item>
+                   <item>PAKISTAN ENGINEERING CONGRESS (Gives Stipend only)</item>
+                   <item>PEF SCHOLARSHIP (Gives Fee only)</item>
+                   <item>PROGRESSIVE INTERNATIONAL-TEM (Gives Stipend only)</item>
+                   <item>PROGRESSIVE INTERNATIONAL (Gives Stipend only) </item>
+                   <item>PLACEMENT BUREAU SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>DR. FFAIZ SCHOLARSHIP (School Going kids) (Gives Stipend only)</item>
+                   <item>DR. FFAIZ SCHOLARSHIP (only one year) (Gives Stipend only)</item>
+                   <item>SENS SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>THE SCHEME (Fee) SCHOLARSHIP M.Sc. (Gives Stipend and Fee)</item>
+                   <item>THE 66-SCHOLARSHIP FOUNDATION (Gives Fee only) </item>
+                   <item>UMAR AFTAB MEMORIAL TRUST (Gives Fee only)</item>
+                   <item>ZANIB BASHIR SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>DR. HAMAYUN MUSHTAQ MIAN MEMORIAL SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>CLASS 49-GOLDEN JUBLEE SCHOLARSHIP (Gives Stipend only)</item>
+                   <item>83-EE-ALUMNI SCHOLARSHIP (Gives Stipend only)</item>
+               </olist>
+                <br/>
+                <button>
+                <text>for more info.</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># COMPANIES ^ JOBS ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern># JOBS ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB UET</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern># JOB ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB UET</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern># COMPANIES ^ internships ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB UET</srai></template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># COMPANIES ^ internship ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB UET</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern># internship ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB UET</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern># internships ^ UET ^</pattern>
+            <template><srai>COMPANIES JOB UET</srai></template>
+        </category>
+        
+        <category>
+            <pattern># COMPANIES ^ JOB ^ UET ^</pattern>
+            <template>
+                There are many companies that offers jobs/internships to UET students, few are below:
+                <olist>
+                    <item>Techlogix</item>
+                    <item>Rolustech</item>
+                    <item>Power Electronics Pakistan pvt. Limited</item>
+                    <item>Lotte Kolson (Pvt.) Limited</item>
+                    <item>American Rotation Inc</item>
+                    <item>Bank Alfalah</item>
+                    <item>Bilal Switchgear Engg Add</item>
+                    <item>PakWheels</item>
+                    <item>ABACUS-Your Transformation</item>
+                    <item>Infection Prevention and Control Foundation (IPAC)</item>
+                    <item>engro’s</item>
+                    <item>foodpanda</item>
+                    <item>US Apparel and Textile</item>
+                    <item>Pakistan Oil State</item>
+                    <item>K-Electric- Emerging Talent</item>
+                </olist>
+                <br/>
+               <button>
+                <text>for more info.</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># Contact ^ FA ^ CS ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+                <button>
+                    <text>Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+        <category>
+            <pattern># Contact ^ FACS ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+                <button>
+                    <text>Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+        
+        <category>
+            <pattern># talk ^ FA ^ CS ^</pattern>
+           <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+    
+
+
+        <category>
+            <pattern># talk ^ FACS ^</pattern>
+           <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+
+        <category>
+            <pattern># phone ^ FA ^ CS ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+        <category>
+            <pattern># phone ^ FACS ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+	
+        
+        <category>
+            <pattern># FA ^ CS ^ Contact ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+    
+
+
+        <category>
+            <pattern># FACS ^ Contact ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+
+        <category>
+            <pattern># FA ^ CS ^ talk ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+    
+
+        <category>
+            <pattern># FACS ^ talk ^</pattern>
+            <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+              <button>
+                  <text>Website</text>
+                  <url>https://facs.uet.edu.pk/site/</url>
+              </button>
+              <button>
+                  <text> Facebook</text>
+                  <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+
+        <category>
+            <pattern># FA ^ CS ^ phone ^</pattern>
+           <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+           <button>
+                    <text>Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </button>
+              <button>
+                  <text> Facebook</text>
+                    <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+        
+        
+
+        <category>
+            <pattern># FACS ^ phone ^</pattern>
+           <template>
+                Contact: +92-4299029218 <br/>
+                Email: facs@uet.edu.pk <br/>
+           <button>
+                    <text>Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </button>
+              <button>
+                  <text> Facebook</text>
+                    <url>https://m.facebook.com/FACSUET/</url>
+              </button>
+            </template>
+        </category>
+
+
+
+        
+        
+        
+        <category>
+            <pattern># Application Submission Process ^</pattern>
+            <template>
+                Applicant can directly apply through UET LMS account or
+                <link>
+                    <text>visit Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </link>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply ^ Scholarship ^</pattern>
+            <template>
+                Applicant can directly apply through UET LMS account or <link>
+                    <text>visit Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </link>
+            </template>
+        </category>
+    
+        
+        <category>
+            <pattern># apply ^ Scholarships ^</pattern>
+            <template>
+                Applicant can directly apply through UET LMS account or
+                <link>
+                    <text>visit Website</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+                </link>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># requirements ^ scholarship ^</pattern>
+            <template>
+                The admission should be on Open Merit in undergraduate program.
+            </template>
+        </category>
+    
+        
+        <category>
+            <pattern># requirement ^ scholarship ^</pattern>
+            <template>
+                The admission should be on Open Merit in undergraduate program.
+            </template>
+        </category>
+    
+        
+        <category>
+            <pattern># eligibility ^ scholarship ^</pattern>
+            <template>
+                The admission should be on Open Merit in undergraduate program.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># eligible for ^ scholarship ^</pattern>
+            <template>
+                The admission should be on Open Merit in undergraduate program.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># chances ^ scholarship ^</pattern>
+            <template>
+                Generally more than 60 percent students are availing scholarships.
+                <br/> 
+               <button>
+                <text>for more info.</text>
+                <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarships offered every year ^ </pattern>
+            <template>
+                <button>
+                    <text>Yes, Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># missed the scholarship application deadline Can I apply for the next time ^ </pattern>
+            <template>
+                <button>
+                    <text>Yes, Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern>If I missed the scholarship application deadline, Can I apply for the next time </pattern>
+            <template>
+                <button>
+                    <text>Yes, Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># know ^ get ^ scholarship ^</pattern>
+            <template>
+                Applicant will be informed by e-mail.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>When and how will I know if I get a scholarship</pattern>
+            <template>
+                Applicant will be informed by e-mail.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># documents ^ required ^ scholarship ^</pattern>
+            <template>
+                Required documents are written in ads or notices. Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>What documents are required to be submitted for scholarship process</pattern>
+            <template>
+                Required documents are written in ads or notices. Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># evening students ^ scholarship ^</pattern>
+            <template>
+                Students can apply in accordance with ads.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Are evening students are eligible to apply for scholarship applications</pattern>
+            <template>
+                Students can apply in accordance with ads.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># weekend students ^ scholarship ^</pattern>
+            <template>
+                Students can apply in accordance with ads.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Are weekend students are eligible to apply for scholarship applications</pattern>
+            <template>
+                Students can apply in accordance with ads.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># last date ^ scholarship ^</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>What is the last date to apply for scholarship</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarship ^ transferable ^</pattern>
+            <template>
+                No, Read ads/Notice carefully
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Is scholarship is transferable to any other university</pattern>
+            <template>
+                No, Read ads/Notice carefully
+            </template>
+        </category>
+        
+        <category>
+            <pattern># test ^ candidates ^ scholarship ^</pattern>
+            <template>
+                There will be an interview for the shortlisted candidates.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Will there be a test for those candidates who apply for scholarship</pattern>
+            <template>
+                There will be an interview for the shortlisted candidates.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarships ^ available ^ graduates students ^</pattern>
+            <template>
+                Graduate student can apply for Govt. funded scholarships. Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ available ^ graduate students ^</pattern>
+            <template>
+                Graduate student can apply for Govt. funded scholarships. Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ available ^ graduates student ^</pattern>
+            <template>
+                Graduate student can apply for Govt. funded scholarships. Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>What scholarships are available to graduates students</pattern>
+            <template>
+                Graduate student can apply for Govt. funded scholarships. Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># contact ^ scholarship administrator ^</pattern>
+            <template>
+                Contact FACS: +92-4299029218
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How do I contact a scholarship administrator</pattern>
+            <template>
+                Contact FACS: +92-4299029218
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply for more than one scholarship ^  same year ^</pattern>
+            <template>
+                Yes, you can apply for more than one scholarships but avails only one.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can I apply for more than one scholarship in the same year</pattern>
+            <template>
+                Yes, you can apply for more than one scholarships but avails only one.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># interviews ^ held ^</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>When are the interviews held</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarships ^ expire ^</pattern>
+            <template>
+                No, Contact FACS Office
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ taken away ^</pattern>
+            <template>
+                No, Contact FACS Office
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can scholarships expire or be taken away</pattern>
+            <template>
+                No, Contact FACS Office
+            </template>
+        </category>
+        
+        <category>
+            <pattern># Is ^ scholarship ^ re newable ^</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># Is ^ scholarship ^ renewable ^</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Is scholarship renewable</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># most ^ scholarships ^ available for students ^</pattern>
+            <template>
+                Scholarships are available on annual basis and semester wise. For further details,
+                <br/>  <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>When are the most of your scholarships available for students to apply</pattern>
+            <template>
+                Scholarships are available on annual basis and semester wise. For further details,
+               <br/>  <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarship ^ reviewed each semester ^</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Will my scholarship be reviewed each semester</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern>^ scholarship opportunities change throughout the year ^</pattern>
+            <template>
+                Yes, You can avail other favorable scholarship as well.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Do the scholarship opportunities change throughout the year</pattern>
+            <template>
+                Yes, You can avail other favorable scholarship as well.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># technical issues ^ online scholarship application ^</pattern>
+            <template>
+                Contact FA and CS: +92-4299029218
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply ^ scholarship ^ certificate ^ degree ^</pattern>
+            <template>
+                No, Contact FA and CS Office. For further details,
+                <br/>  <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can I apply for scholarship if I am working toward a certificate and not a degree</pattern>
+            <template>
+                No, Contact FA and CS Office. For further details,
+                <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># issues ^ online ^ application ^</pattern>
+            <template>
+                Contact FA and CS: +92-4299029218
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>I'm having technical issues with the online scholarship application form,what do I do</pattern>
+            <template>
+                Contact FA and CS: +92-4299029218
+            </template>
+        </category>
+        
+        <category>
+            <pattern># changes ^ application ^ submitted ^</pattern>
+            <template>
+                No, You can generate another one. 
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can I make changes to my application after I've submitted it</pattern>
+            <template>
+                No, You can generate another one. 
+            </template>
+        </category>
+        
+        <category>
+            <pattern># recipients receive ^ scholarship fund ^</pattern>
+            <template>
+                Stipend based scholarships are transferred to applicant’s bank account and fees are submitted to university account.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How do scholarship recipients receive their scholarship fund</pattern>
+            <template>
+                Stipend based scholarships are transferred to applicant’s bank account and fees are submitted to university account.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarship ^ transfer ^</pattern>
+            <template>
+                Yes, Keep visiting application portal.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can my scholarship transfer between campuses</pattern>
+            <template>
+                Yes, Keep visiting application portal.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarship each semester ^</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># scholarship each year ^</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Do I need to reapply for my scholarship each semester/year</pattern>
+            <template>
+                Yes, Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># graduate early ^ all ^ scholarship ^</pattern>
+            <template>
+                No, Contact FACS Office for further details
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>If I graduate early or do not use all semesters of my scholarship, So can I still receive that money</pattern>
+            <template>
+                No, Contact FACS Office for further details
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ available ^ orphan Students ^</pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ orphan ^</pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        
+        
+        <category>
+            <pattern># scholarship ^ orphan ^</pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ orphans ^</pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        
+        
+        <category>
+            <pattern># scholarship ^ orphans ^</pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># orphan ^ scholarships ^ </pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        
+        
+        <category>
+            <pattern># orphan ^ scholarship ^ </pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># orphans ^ scholarships ^ </pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        
+        
+        <category>
+            <pattern># orphans ^ scholarship ^ </pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Which scholarships are available to orphan Students</pattern>
+            <template>
+                Institutional Scholarships are available for Orphan Students with 100% tuition fee concession.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># scholarships ^ need ^ based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ need-based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># scholarships ^ need ^ base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ need-base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarship ^ need ^ based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarship ^ need-based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># scholarship ^ need ^ base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarship ^ need-base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        
+        <category>
+            <pattern># need ^ based ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># need-based ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># need ^ base ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># need-base ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># need ^ based ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># need-based ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># need ^ base ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># need-base ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <category>
+            <pattern># scholarships ^ merit ^ based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ merit-based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># scholarships ^ merit ^ base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ merit-base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># scholarship ^ merit ^ based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarship ^ merit-based ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># scholarship ^ merit ^ base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarship ^ merit-base ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        
+        <category>
+            <pattern># merit ^ based ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># merit-based ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># merit ^ base ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># merit-base ^ scholarships ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># merit ^ based ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># merit-based ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># merit ^ base ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># merit-base ^ scholarship ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        
+       
+        
+        <category>
+            <pattern># Scholarships ^ available ^</pattern>
+            <template>
+                <srai>Types scholarship</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># job for graduate student available ^</pattern>
+            <template>
+                <srai>jobs</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Is there any job for graduate student available</pattern>
+            <template>
+                <srai>jobs</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply ^ financial aid ^</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+                <br/>
+               Read Ads/Notices carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How can I apply for financial aid</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+                <br/>
+               Read Ads/Notices carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern>Is there any internship available these days</pattern>
+            <template>
+                <srai>internships</srai>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply ^ loan ^</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+                <br/>
+               Read instructions carefully.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How can I apply for loan</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+                <br/>
+               Read instructions carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># Scholarships provides ^ stipend ^</pattern>
+            <template><srai>PRIXYZ</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern># Scholarships provide ^ stipend ^</pattern>
+            <template><srai>PRIXYZ</srai></template>
+        </category>
+        
+        
+        <category>
+            <pattern>Which Scholarships provide amount as stipend</pattern>
+            <template><srai>PRIXYZ</srai></template>
+        </category>
+        
+        <category>
+            <pattern># scholarships ^ tuition fee concession ^</pattern>
+            <template>
+             <srai>Types Scholarships</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Which scholarships provide only tuition fee concession?</pattern>
+            <template>
+             <srai>Types Scholarships</srai>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># scholarships ^ given in previous years ^</pattern>
+            <template>
+                Following number of students avail scholarships from year 2015 to 2018. 1793 students avail scholarships in year 2015-16, 5448 students avail the opportunity in 2016-17. 5391 students get scholarship during year 2017-18. For further details, visit:
+                <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How many scholarships are given in previous years</pattern>
+            <template>
+                Following number of students avail scholarships from year 2015 to 2018. 1793 students avail scholarships in year 2015-16, 5448 students avail the opportunity in 2016-17. 5391 students get scholarship during year 2017-18. For further details, visit:
+                <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># application ^ rejected ^ eligible ^</pattern>
+            <template>
+                Apply in some other scholarship and good luck for next time.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern>What if my application get rejected and I am eligible</pattern>
+            <template>
+                Apply in some other scholarship and good luck for next time.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># get rejected ^</pattern>
+            <template>
+                Apply in some other scholarship and good luck for next time.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can i apply again if my application get rejected?</pattern>
+            <template>
+                Apply in some other scholarship and good luck for next time.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># most ^ scholarships are available ^</pattern>
+            <template>
+                Scholarships are available on annual basis and semester wise. For further details, visit
+                <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>At which time of year most scholarships are available</pattern>
+            <template>
+                Scholarships are available on annual basis and semester wise. For further details, visit
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># apply ^ multiple scholarships ^</pattern>
+            <template>
+                Yes, you can apply for more than one scholarships but avails only one.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can I apply for multiple scholarships</pattern>
+            <template>
+                Yes, you can apply for more than one scholarships but avails only one.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># record ^ previous scholarships ^</pattern>
+            <template>
+                Following number of students avail scholarships from year 2015 to 2018. 1793 students avail scholarships in year 2015-16, 5448 students avail the opportunity in 2016-17. 5391 students get scholarship during year 2017-18. For further details, visit:
+                <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Is there any record for previous scholarships</pattern>
+            <template>
+                Following number of students avail scholarships from year 2015 to 2018. 1793 students avail scholarships in year 2015-16, 5448 students avail the opportunity in 2016-17. 5391 students get scholarship during year 2017-18. For further details, visit:
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># requirements ^ HEC ^ need-based scholarship ^</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        <category>
+            <pattern># requirements ^ HEC ^ need ^ based ^ scholarship ^</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        <category>
+            <pattern># requirements ^ HEC ^ need base ^ scholarship ^</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        <category>
+            <pattern>What are requirements for HEC need-based scholarship</pattern>
+            <template>
+                Read ads/Notice carefully.
+            </template>
+        </category>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <!--Questions related Career-->
+        
+        
+        
+        
+        
+        <category>
+            <pattern># documents ^ need to apply ^</pattern>
+            <template>
+                  You will submitted an up-dated copy of your Curriculum Vitae (CV)/ resume and those documents which are required from company/organization  mentioned in advertisement.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern>What documents do I need to apply?</pattern>
+            <template>
+                 You will submitted an up-dated copy of your Curriculum Vitae (CV)/ resume and those documents which are required from company/organization  mentioned in advertisement.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># steps for hiring process ^</pattern>
+            <template>
+               The steps of hiring process is as per rule and regulations or policy of the company.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>What are the steps for hiring process?</pattern>
+            <template>
+                The steps of hiring process is as per rule and regulations or policy of the company.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># types ^ jobs ^</pattern>
+            <template>
+                There are several type of jobs are offered such as Internship and Recruitment drive jobs. For further details visit:
+                <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>What types of jobs are available?</pattern>
+            <template>
+                There are several type of jobs are offered such as Internship and Recruitment drive jobs. For further details visit:
+               <br/>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># contact ^ difficulty submitting ^</pattern>
+            <template>
+                If you have difficulty in submitting your resume/application then kindly visit application portal and  helping desk.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Who can I contact if I have difficulty submitting my resume/application?</pattern>
+            <template>
+                If you have difficulty in submitting your resume/application then kindly visit application portal and  helping desk.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply for position ^</pattern>
+            <template>
+                Kindly send you Curriculum Vitae (CV)/ resume on that email/address which are mentioned in the job advertisement and other procedure which company define in the advertisement.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How do I apply for position?</pattern>
+            <template>
+                Kindly send you Curriculum Vitae (CV)/ resume on that email/address which are mentioned in the job advertisement and other procedure which company define in the advertisement.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># apply ^ jobs simultaneously ^</pattern>
+            <template>
+                Yes, if you fulfill all the requirements which are mentioned in the advertisement then you can apply for several jobs simultaneously.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can I apply for several different jobs simultaneously</pattern>
+            <template>
+                Yes, if you fulfill all the requirements which are mentioned in the advertisement then you can apply for several jobs simultaneously.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># application process take ^</pattern>
+            <template>
+                It depends on the Company’s recruitment procedure.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How long does the application process take</pattern>
+            <template>
+                It depends on the Company’s recruitment procedure.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># hours ^ work ^ student ^</pattern>
+            <template>
+                According to company policy which are define in the job advertisement 
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How many hours can I work as a student</pattern>
+            <template>
+                According to company policy which are define in the job advertisement 
+            </template>
+        </category>
+        
+        <category>
+            <pattern># internships unpaid ^</pattern>
+            <template>
+                No, all internships are not unpaid. Some are paid, unpaid and job leading internship.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># flexible are internship ^</pattern>
+            <template>
+                It's totally depends on the company criteria.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>How flexible are internship sites with regard to work schedule and hours?</pattern>
+            <template>
+                It's totally depends on the company criteria.
+            </template>
+        </category>
+         
+        <category>
+            <pattern># stay and work ^ breaks ^</pattern>
+            <template>
+                As per rule and regulations company decide that the student stay or work during winter,spring and summer breaks or not.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can students stay and work during winter,spring and summer breaks?</pattern>
+            <template>
+                As per rule and regulations company decide that the student stay or work during winter,spring and summer breaks or not.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># jobs at the same time ^</pattern>
+            <template>
+                No, you can't have more than one job at the same time.  Its is against the company policy. 
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># job at the same time ^</pattern>
+            <template>
+                No, you can't have more than one job at the same time.  Its is against the company policy. 
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern>Can I have more than one job at the same time?</pattern>
+            <template>
+                No, you can't have more than one job at the same time.  Its is against the company policy. 
+            </template>
+        </category>
+        
+        <category>
+            <pattern># status ^ application ^</pattern>
+            <template>
+                If you want to check the status of your application then kindly check portal or visit helping desk. 
+            </template>
+        </category>
+        <category>
+            <pattern># application ^ status ^</pattern>
+            <template>
+                If you want to check the status of your application then kindly check portal or visit helping desk. 
+            </template>
+        </category>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <!--details about Scholarships-->
+        
+        
+        
+        
+        
+        <category>
+            <pattern># ORPHAN ^ TUITION FEE CONCESSION ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 30,000\- per semester and Rs 60,000\- per year.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># NON ORPHAN ^ TUITION FEE CONCESSION  ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PEEF SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 29,700\- per semester and Rs  59,400\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PEEF MASTER LEVEL SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 72,413\- per semester and Rs 144,826\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># USAID ^ SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 72,413\- per semester and Rs 144,826\- per year.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># USAID ^ MASTER LEVEL ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 48910\- per semester and Rs 97,820\- per year.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># HEC ^ OGDCL SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 70,049\- per semester and Rs 140,098\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># HEC ^ Scholarship ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 66,000\- per semester and Rs 132,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># HEC MASTER LEVEL ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 66,000\- per semester and Rs 132,000\- per year.
+            </template>
+        </category>
+    
+        
+        
+        <category>
+            <pattern># HEC ^ MASTER LEVEL ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 66,000\- per semester and Rs 132,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># ASHRAF SIDDIQUI SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># BARI KHALIL SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 18,000\- per semester and Rs 36,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># COCA COLA SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 9,000\- per semester and Rs 18,000\- per year.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># DATTO MUHAMMAD SAIED ^ DATIN SARDAR AKHTAR SAIED SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 30,000\- per semester and Rs 60,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># FATIMA GROUP SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 30,000\- per semester and Rs 60,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># FAUJI FOUNDATION ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 6,000\- per semester and Rs 12,000\- per year.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># GURMANI SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 30,000\- per semester and Rs 60,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># ICE QUEST SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 36,000\- per semester and Rs 72,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># IEP SAC SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 10,998\- per semester and Rs 21,996\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># I Khan SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 18,000\- per semester and Rs 36,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># IU DURRANI SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 9,000\- per semester and Rs 18,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># KAKAYZAI ASSOCIATION PAKISTAN ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># LCCI SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 9,000\- per semester and Rs 18,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># MUHAMMAD NASIR USMAN ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 30,000\- per semester and Rs 60,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PAKISTAN ENGINEERING CONGRESS ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 24,000\- per semester and Rs 48,000\- per year. 
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PEF SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PROGRESSIVE INTERNATIONAL TEM ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 12,000\- per semester and Rs 24,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PROGRESSIVE INTERNATIONAL ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 18,000\- per semester and Rs 36,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># PLACEMENT ^ BUREAU SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 12,000\- per semester and Rs 24,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># FFAIZ SCHOLARSHIP ^ School ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 3,000\- per semester and Rs 6,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># FFAIZ SCHOLARSHIP ^ year ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 6,000\- per semester and Rs 12,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># SENS SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># SWA SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 21,000\- per semester and Rs 42,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># THE SCHEME ^ SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># THE 66 ^ SCHOLARSHIP FOUNDATION ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># THE 66 SCHOLARSHIP FOUNDATION ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 15,000\- per semester and Rs 30,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># UMAR ^ AFTAB ^ MEMORIAL TRUST ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 21,000\- per semester and Rs 42,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># ZANIB ^ BASHIR SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 6,000\- per semester and Rs 12,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># HAMAYUN MUSHTAQ MIAN MEMORIAL SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 30,000\- per semester and Rs 60,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># CLASS 49 GOLDEN JUBLEE SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 6,000\- per semester and Rs 12,000\- per year.
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># CLASS 49 ^ GOLDEN JUBLEE SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 6,000\- per semester and Rs 12,000\- per year.
+            </template>
+        </category>
+        
+        <category>
+            <pattern># 3 EE ALUMNI SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 18,000\- per semester and Rs 36,000\- per year.
+            </template>
+        </category>
+        
+        
+        
+        <category>
+            <pattern># 3 ^ EE ^ ALUMNI SCHOLARSHIP ^</pattern>
+            <template>
+                Applicant gets the scholarship of Rs. 18,000\- per semester and Rs 36,000\- per year.
+            </template>
+        </category>
+        
+        
+        
+        
+        
+        <category>
+            <pattern># Career ^</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        <category>
+            <pattern># Financial Aid ^</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># Student Loan ^</pattern>
+            <template>
+                <button>
+                    <text>Keep visiting</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+        
+        
+        <category>
+            <pattern># Statistics ^</pattern>
+            <template>
+                <button>
+                    <text>visit</text>
+                    <url>https://facs.uet.edu.pk/site/</url>
+               </button>
+            </template>
+        </category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aiml>

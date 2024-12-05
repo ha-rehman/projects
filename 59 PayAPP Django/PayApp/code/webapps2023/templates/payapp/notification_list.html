@@ -1,0 +1,86 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block style %}
+    <style>
+        /* width */
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+            box-shadow: inset 0 0 5px grey;
+            border-radius: 10px;
+        }
+
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #57b846;
+            border-radius: 10px;
+        }
+
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+            background: #b30000;
+        }
+    </style>
+{% endblock %}
+
+
+{% block content %}
+    <div class="contact1">
+        <div class="container-contact1">
+            <h1 class="" style="font-family: Montserrat-Bold; margin: 0 auto 25px auto; text-align: center">Transaction
+                History</h1>
+
+            <div class="table-wrapper" style="width: 100%; overflow-y: scroll; height: 450px">
+                <table class="table table-hover table-striped">
+                    <thead>
+                    <tr>
+                        <th scope="col">Date</th>
+                        <th scope="col">Detail</th>
+                        <th scope="col">Accept/Reject</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% if request.user.is_authenticated %}
+                        {% for transaction in transactions_logs %}
+                            <tr>
+                                <th>{{ transaction.dated_at }}</th>
+                                <td>An amount of {{ transaction.amount }} {{ transaction.currency }} has been requested
+                                    by you on {{ transaction.dated_at }} from {{ transaction.sender }}</td>
+                                <td><a href="{% url 'payapp:request_decision_id' id=transaction.id %}">click here..</a></td>
+
+                            </tr>
+                        {% endfor %}
+                    {% endif %}
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="bg-dark text-center text-lg-start" style="color: #ffffff">
+        <div class="text-center p-3">
+            &copy; 2023 Pay APP. All rights reserved.
+        </div>
+    </footer>
+
+{% endblock %}
+
+
+{% block script %}
+
+    <script>
+        {% if messages %}
+            {% for message in messages %}
+                toastr.{{ message.tags }}('{{ message }}', '', {
+                    positionClass: 'toast-bottom-right'
+                });
+            {% endfor %}
+        {% endif %}
+    </script>
+
+{% endblock %}

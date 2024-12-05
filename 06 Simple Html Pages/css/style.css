@@ -1,0 +1,19 @@
+/** @format */
+
+.initial {
+  padding-top: 3rem !important;
+}
+
+.center {
+  text-align: center;
+}
+
+.sm-padding {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.md-padding {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}

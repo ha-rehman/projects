@@ -1,0 +1,6 @@
+0 bored
+1 frustrated
+2 drowsy
+3 engaged
+4 looking away
+5 confused

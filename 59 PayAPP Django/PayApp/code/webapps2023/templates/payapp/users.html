@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block style %}
+    <style>
+        /* width */
+        ::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+            box-shadow: inset 0 0 5px grey;
+            border-radius: 10px;
+        }
+
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #57b846;
+            border-radius: 10px;
+        }
+
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+            background: #b30000;
+        }
+    </style>
+{% endblock %}
+
+
+{% block content %}
+    <div class="contact1">
+        <div class="container-contact1">
+            <h1 class="" style="font-family: Montserrat-Bold; margin: 0 auto 25px auto; text-align: center">Transaction
+                History</h1>
+
+            <div class="table-wrapper" style="width: 100%; overflow-y: scroll; height: 450px">
+                <table class="table table-hover table-striped">
+                    <thead>
+                    <tr>
+                        <th scope="col">First Name</th>
+                        <th scope="col">Last Name</th>
+                        <th scope="col">Username</th>
+                        <th scope="col">Balance</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% if request.user.is_superuser %}
+                        {% for reg_user in reg_users %}
+                            <tr>
+                                <th>{{ reg_user.f_name }}</th>
+                                <th>{{ reg_user.l_name }}</th>
+                                <td>{{ reg_user.user.username }}</td>
+                                <td>{{ reg_user.balance }} {{ reg_user.currency }}</td>
+
+                            </tr>
+                        {% endfor %}
+                    {% endif %}
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="bg-dark text-center text-lg-start" style="color: #ffffff">
+        <div class="text-center p-3">
+            &copy; 2023 Pay APP. All rights reserved.
+        </div>
+    </footer>
+
+{% endblock %}

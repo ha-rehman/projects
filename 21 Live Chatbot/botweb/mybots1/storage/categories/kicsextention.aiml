@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- Kics Phone Extension Directory -->
+	
+<!--extention of Dr ghalib shah-->	
+<category>
+    <pattern># ghalib shah ^ extention ^</pattern>
+    <template>  Huawei<br/>
+        864
+  
+    </template>
+</category>
+<category>
+    <pattern># EXTENTION ^  ghalib shah ^</pattern>
+    <template>  Huawei<br/>
+        864
+  
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^  ghalib shah ^</pattern>
+    <template>  Huawei<br/>
+        864
+  
+    </template>
+</category>
+<category>
+    <pattern># TALK ^  ghalib shah ^</pattern>
+    <template>  Huawei<br/>
+        864
+  
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^  ghalib shah ^</pattern>
+    <template>  Huawei<br/>
+        864
+  
+    </template>
+</category>
+
+
+<category>
+    <pattern># extention ^  ghalib shah ^</pattern>
+    <template>  Huawei<br/>
+        864
+  
+    </template>
+</category>
+
+<!--IT Network of Extention-->
+<category>
+    <pattern># IT Network ^ Extention ^</pattern>
+    <template>  Huawei<br/>858
+  
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ IT NETWORK ^</pattern>
+    <template>  Huawei<br/>858
+  
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ IT NETWORK ^</pattern>
+    <template>  Huawei<br/>858
+  
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ IT NETWORK ^</pattern>
+    <template>  Huawei<br/>858
+  
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ IT NETWORK ^</pattern>
+    <template>  Huawei<br/>858
+  
+    </template>
+</category>
+<!--HUTIC of Extention-->
+<category>
+    <pattern># HUTIC ^  Extention ^</pattern>
+    <template>Huawei<br/> 847
+  
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ HUTIC ^</pattern>
+    <template>Huawei<br/> 847
+  
+    </template>
+</category>
+
+
+
+<!--ICRL of Extention-->
+<category>
+    <pattern># ICRL ^ Extention ^</pattern>
+    <template>  Huawei<br/>848
+  
+    </template>
+</category>
+<category>
+    <pattern># EXTENTION ^ ICRL ^</pattern>
+    <template>  Huawei<br/>848
+  
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ ICRL ^</pattern>
+    <template>  Huawei<br/>848
+  
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ ICRL ^</pattern>
+    <template>  Huawei<br/>848
+  
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ ICRL ^</pattern>
+    <template>  Huawei<br/>848
+  
+    </template>
+</category>
+
+<!--SMS of Extention-->
+<category>
+    <pattern># SMS ^ Extention ^</pattern>
+    <template>Huawei<br/>854
+    </template>
+</category>
+<category>
+    <pattern>$SMS ^ Extention ^</pattern>
+    <template>Huawei<br/>854
+    </template>
+</category>
+
+<category>
+    <pattern># Extention ^ SMS ^</pattern>
+    <template>Huawei<br/>854
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ SMS ^</pattern>
+    <template>Huawei<br/>854
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ SMS ^</pattern>
+    <template>Huawei<br/>854
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ SMS ^</pattern>
+    <template>Huawei<br/>854
+    </template>
+</category>
+
+<!--SMS (Mr Rehan Tariq) of Extention-->
+<category>
+    <pattern># Rehan Tariq ^ extention ^</pattern>
+    <template>Huawei<br/>843
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ Rehan Tariq ^</pattern>
+    <template>Huawei<br/>843
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Rehan Tariq ^</pattern>
+    <template>Huawei<br/>843
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Rehan Tariq  ^</pattern>
+    <template>Huawei<br/>843
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Rehan Tariq ^</pattern>
+    <template>Huawei<br/>843
+    </template>
+</category>
+
+
+<!--Pearson of Extention-->
+<category>
+    <pattern># Pearson ^ Extention ^</pattern>
+    <template>  Huawei<br/>846
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ PEARSON ^</pattern>
+    <template>  Huawei<br/>846
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ PEARSON ^</pattern>
+    <template>  Huawei<br/>846
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ PEARSON ^</pattern>
+    <template>  Huawei<br/>846
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ PEARSON ^</pattern>
+    <template>  Huawei<br/>846
+    </template>
+</category>
+
+
+<!--SQIT of Extention-->
+<category>
+    <pattern># SQIT ^ Extention ^</pattern>
+    <template>  Huawei<br/>867
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ SQIT ^</pattern>
+    <template>  Huawei<br/>867
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ SQIT ^</pattern>
+    <template>  Huawei<br/>867
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ SQIT ^</pattern>
+    <template>  Huawei<br/>867
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ SQIT ^</pattern>
+    <template>  Huawei<br/>867
+    </template>
+</category>
+
+<!--IOT of Extention-->
+<category>
+    <pattern># IOT ^ Extention ^</pattern>
+    <template>  Huawei<br/>839
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ IOT ^</pattern>
+    <template>  Huawei<br/>839
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ IOT ^</pattern>
+    <template>  Huawei<br/>839
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ IOT ^</pattern>
+    <template>  Huawei<br/>839
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ IOT ^</pattern>
+    <template>  Huawei<br/>839
+    </template>
+</category>
+
+
+<!--ESSL of Extention-->
+<category>
+    <pattern># ESSL ^ Extention ^</pattern>
+    <template>Huawei<br/>842
+    </template>
+</category>
+<category>
+    <pattern>$ESSL ^ Extention ^</pattern>
+    <template>Huawei<br/>842
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ ESSL ^</pattern>
+    <template>Huawei<br/>842
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ ESSL ^</pattern>
+    <template>Huawei<br/>842
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ ESSL ^</pattern>
+    <template>Huawei<br/>842
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ ESSL ^</pattern>
+    <template>Huawei<br/>842
+    </template>
+</category>
+
+<!--MCRL of Extention-->
+<category>
+    <pattern># MCRL ^ Extention ^</pattern>
+    <template>Huawei<br/>866
+    </template>
+</category>
+<category>
+    <pattern>$MCRL ^ Extention ^</pattern>
+    <template>Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ MCRL ^</pattern>
+    <template>Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ MCRL ^</pattern>
+    <template>Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ MCRL ^</pattern>
+    <template>Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ MCRL ^</pattern>
+    <template>Huawei<br/>866
+    </template>
+</category>
+
+
+<!--BRL of Extention-->
+<category>
+    <pattern># BRL ^ Extention ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ BRL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ BRL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+
+<category>
+    <pattern># TALK ^ BRL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+
+<category>
+    <pattern># PHONE ^ BRL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<!--DSL of Extention-->
+<category>
+    <pattern># DSL ^ Extention ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+<category>
+    <pattern>$DSL ^ Extention ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ DSL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ DSL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ DSL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ DSL ^</pattern>
+    <template>Huawei<br/>872
+    </template>
+</category>
+
+
+<!--AERIL of Extention-->
+<category>
+    <pattern># AERIL ^ Extention ^</pattern>
+    <template>Huawei<br/>845
+    </template>
+</category>
+
+<category>
+    <pattern>$AERIL ^ Extention ^</pattern>
+    <template>Huawei<br/>845
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ AERIL ^</pattern>
+    <template>Huawei<br/>845
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ AERIL ^</pattern>
+    <template>Huawei<br/>845
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ AERIL ^</pattern>
+    <template>Huawei<br/>845
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ AERIL ^</pattern>
+    <template>Huawei<br/>845
+    </template>
+</category>
+
+<!--AERIL (Mr Imran Ali Shah)of Extention-->
+<category>
+    <pattern># Imran Ali ShaH ^ Extention ^</pattern>
+    <template>Huawei<br/>816
+    </template>
+</category>
+<category>
+    <pattern># EXTENTION ^ Imran Ali ShaH ^</pattern>
+    <template>Huawei<br/>816
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Imran Ali ShaH ^</pattern>
+    <template>Huawei<br/>816
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Imran Ali ShaH ^</pattern>
+    <template>Huawei<br/>816
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Imran Ali ShaH ^</pattern>
+    <template>Huawei<br/>816
+    </template>
+</category>
+
+<!--AERIL (Ms Quratul Ain) of Extention-->
+<category>
+    <pattern># Quratul Ain ^ Extention ^</pattern>
+    <template>Huawei<br/>841
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ Quratul Ain ^</pattern>
+    <template>Huawei<br/>841
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Quratul Ain ^</pattern>
+    <template>Huawei<br/>841
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Quratul Ain ^</pattern>
+    <template>Huawei<br/>841
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Quratul Ain ^</pattern>
+    <template>Huawei<br/>841
+    </template>
+</category>
+
+<!--TICK (Mr Farhan Maqbool) of Extention-->
+<category>
+    <pattern># Farhan Maqbool ^ Extention ^</pattern>
+    <template>Huawei<br/>834
+    </template>
+</category>
+<category>
+    <pattern># EXTENTION ^ Farhan Maqbool ^</pattern>
+    <template>Huawei<br/>834
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Farhan Maqbool ^</pattern>
+    <template>Huawei<br/>834
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Farhan Maqbool ^</pattern>
+    <template>Huawei<br/>834
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Farhan Maqbool ^</pattern>
+    <template>Huawei<br/>834
+    </template>
+</category>
+
+<!--Support staff of Extention-->
+<category>
+    <pattern># Support staff ^ Extention ^</pattern>
+    <template>Huawei<br/>838
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ SUPPORT STAFF ^</pattern>
+    <template>Huawei<br/>838
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ SUPPORT STAFF ^</pattern>
+    <template>Huawei<br/>838
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ SUPPORT STAFF ^</pattern>
+    <template>Huawei<br/>838
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ SUPPORT STAFF ^</pattern>
+    <template>Huawei<br/>838
+    </template>
+</category>
+
+<!--supports staff of extention-->
+<category>
+    <pattern># Supports staff ^ Extention ^</pattern>
+    <template>
+        Huawei<br/>868
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ SUPPORTS STAFF ^</pattern>
+    <template>
+        Huawei<br/>868
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ SUPPORTS STAFF ^</pattern>
+    <template>
+        Huawei<br/>868
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ SUPPORTS STAFF ^</pattern>
+    <template>
+        Huawei<br/>868
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ SUPPORTS STAFF ^</pattern>
+    <template>
+        Huawei<br/>868
+    </template>
+</category>
+
+<!--MCRL of Extention-->
+<category>
+    <pattern># MCRL ^ Extention ^</pattern>
+    <template>
+           Huawei<br/>866
+    </template>
+</category>
+<category>
+    <pattern>$MCRL ^ Extention ^</pattern>
+    <template>
+           Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ MCRL ^</pattern>
+    <template>
+           Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ MCRL ^</pattern>
+    <template>
+           Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ MCRL ^</pattern>
+    <template>
+           Huawei<br/>866
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ MCRL ^</pattern>
+    <template>
+           Huawei<br/>866
+    </template>
+</category>
+
+<!--Computer cell-->
+<category>
+    <pattern># Computer cell ^ extention ^</pattern>
+    <template>
+          Huawei<br/>101
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ COMPUTER CELL ^</pattern>
+    <template>
+          Huawei<br/>101
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ COMPUTER CELL ^</pattern>
+    <template>
+          Huawei<br/>101
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ COMPUTER CELL ^</pattern>
+    <template>
+          Huawei<br/>101
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ COMPUTER CELL ^</pattern>
+    <template>
+          Huawei<br/>101
+    </template>
+</category>
+
+<!--ORIC of extention-->
+<category>
+    <pattern># ORIC ^ extention ^</pattern>
+    <template>
+        Huawei<br/>237
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ ORIC ^</pattern>
+    <template>
+        Huawei<br/>237
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ ORIC ^</pattern>
+    <template>
+        Huawei<br/>237
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ ORIC ^</pattern>
+    <template>
+        Huawei<br/>237
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ ORIC ^</pattern>
+    <template>
+        Huawei<br/>237
+    </template>
+</category>
+
+
+<!--SQIT (Mohsin Subhani)-->
+<category>
+    <pattern># Mohsin Subhani ^ extention ^</pattern>
+    <template>
+          Huawei<br/>166
+    </template>
+</category>
+
+<category>
+    <pattern># EXTENTION ^ Mohsin Subhani ^</pattern>
+    <template>
+          Huawei<br/>166
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Mohsin Subhani ^</pattern>
+    <template>
+          Huawei<br/>166
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Mohsin Subhani ^</pattern>
+    <template>
+          Huawei<br/>166
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Mohsin Subhani ^</pattern>
+    <template>
+          Huawei<br/>166
+    </template>
+</category>
+
+<!--(23) Dr Waqar Mehmood -->
+<category>
+    <pattern># Extention ^ Waqar Mehmood ^</pattern>
+    <template>
+        Main<br/>805
+    </template>
+</category>
+<category>
+    <pattern># Waqar Mehmood ^ Extention ^</pattern>
+    <template>
+        Main<br/>805
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Waqar Mehmood ^</pattern>
+    <template>
+        Main<br/>805
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Waqar Mehmood ^</pattern>
+    <template>
+        Main<br/>805
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Waqar Mehmood ^</pattern>
+    <template>
+        Main<br/>805
+    </template>
+</category>
+
+<!--(24) Dr Amir Mehmood-->
+<category>
+    <pattern># Extention ^ Amir Mehmood ^</pattern>
+    <template>
+          Main<br/>810
+    </template>
+</category>
+<category>
+    <pattern># Amir Mehmood ^ Extention ^</pattern>
+    <template>
+          Main<br/>810
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Amir Mehmood ^</pattern>
+    <template>
+          Main<br/>810
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Amir Mehmood ^</pattern>
+    <template>
+          Main<br/>810
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Amir Mehmood ^</pattern>
+    <template>
+          Main<br/>810
+    </template>
+</category>
+
+<!--(25)Hr Office-->
+<category>
+    <pattern># EXTENTION ^ HR Office ^</pattern>
+    <template>
+          Main<br/>850
+    </template>
+</category>
+<category>
+    <pattern># HR Office ^ EXTENTION ^</pattern>
+    <template>
+          Main<br/>850
+    </template>
+</category>
+
+
+<!--(26)Admin and Procure (Aqeel)-->
+<category>
+    <pattern># EXENTION ^ Aqeel ^</pattern>
+    <template>
+        Main<br/>814
+    </template>
+</category>
+<category>
+    <pattern># Aqeel ^ EXENTION ^</pattern>
+    <template>
+        Main<br/>814
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Aqeel ^</pattern>
+    <template>
+        Main<br/>814
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Aqeel ^</pattern>
+    <template>
+        Main<br/>814
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Aqeel ^</pattern>
+    <template>
+        Main<br/>814
+    </template>
+</category>
+
+<!--(27)Admin and Procure Dilshad-->
+<category>
+    <pattern># EXTENTION ^ Dilshad ^</pattern>
+    <template>
+        Main<br/>833
+    </template>
+</category>
+<category>
+    <pattern># Dilshad ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>833
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Dilshad ^</pattern>
+    <template>
+        Main<br/>833
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Dilshad ^</pattern>
+    <template>
+        Main<br/>833
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Dilshad ^</pattern>
+    <template>
+        Main<br/>833
+    </template>
+</category>
+
+<!--(28)Admin and Procure Amir-->
+<category>
+    <pattern># EXTENTION ^ Amir ^</pattern>
+    <template>
+        Main<br/>821
+    </template>
+</category>
+<category>
+    <pattern># Amir ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>821
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Amir ^</pattern>
+    <template>
+        Main<br/>821
+    </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ Amir ^</pattern>
+    <template>
+        Main<br/>821
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Amir ^</pattern>
+    <template>
+        Main<br/>821
+    </template>
+</category>
+
+<!--(29) Store-->
+<category>
+    <pattern># EXTENTION ^ Store ^</pattern>
+    <template>
+        Main<br/>815
+    </template>
+</category>
+<category>
+    <pattern># Store ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>815
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Store ^</pattern>
+    <template>
+        Main<br/>815
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Store ^</pattern>
+    <template>
+        Main<br/>815
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Store ^</pattern>
+    <template>
+        Main<br/>815
+    </template>
+</category>
+
+<!--(30)Accounts-->
+<category>
+    <pattern># EXTENTION ^ Accounts ^</pattern>
+    <template>
+        Main<br/>822
+    </template>
+</category>
+<category>
+    <pattern># Accounts ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>822
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Accounts ^</pattern>
+    <template>
+        Main<br/>822
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Accounts ^</pattern>
+    <template>
+        Main<br/>822
+    </template>
+</category>
+
+<category>
+    <pattern># TALK ^ Accounts ^</pattern>
+    <template>
+        Main<br/>822
+    </template>
+</category>
+
+<!--(31)IT Networks-->
+<category>
+    <pattern># EXTENTION ^ IT Networks ^</pattern>
+    <template>
+        Main<br/>818
+    </template>
+</category>
+<category>
+    <pattern># IT Networks ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>818
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ IT Networks ^</pattern>
+    <template>
+        Main<br/>818
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ IT Networks ^</pattern>
+    <template>
+        Main<br/>818
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ IT Networks ^</pattern>
+    <template>
+        Main<br/>818
+    </template>
+</category>
+
+<!--(32)Reception-->
+<category>
+    <pattern># EXTENTION ^ Reception ^</pattern>
+    <template>
+        Main<br/>800
+    </template>
+</category>
+<category>
+    <pattern># Reception ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>800
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Reception ^</pattern>
+    <template>
+        Main<br/>800
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Reception ^</pattern>
+    <template>
+        Main<br/>800
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Reception ^</pattern>
+    <template>
+        Main<br/>800
+    </template>
+</category>
+
+
+<!--(33)EECL (Mr Muhammad Ali)-->
+<category>
+    <pattern># EXTENTION ^ Muhammad Ali ^</pattern>
+    <template>
+        Main<br/>855
+    </template>
+</category>
+<category>
+    <pattern># Muhammad Ali ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>855
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Muhammad Ali ^</pattern>
+    <template>
+        Main<br/>855
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Muhammad Ali ^</pattern>
+    <template>
+        Main<br/>855
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Muhammad Ali ^</pattern>
+    <template>
+        Main<br/>855
+    </template>
+</category>
+
+
+<!--(34)PSL Mr Iqbal jamshed Janjua-->
+<category>
+    <pattern># EXTENTION ^ Iqbal jamshed ^</pattern>
+    <template>
+        Main<br/>826
+    </template>
+</category>
+<category>
+    <pattern># Iqbal jamshed ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>826
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Iqbal jamshed ^</pattern>
+    <template>
+        Main<br/>826
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Iqbal jamshed ^</pattern>
+    <template>
+        Main<br/>826
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Iqbal jamshed ^</pattern>
+    <template>
+        Main<br/>826
+    </template>
+</category>
+
+
+<!--(35)SSRL -->
+<category>
+    <pattern># EXTENTION ^ SSRL ^</pattern>
+    <template>
+        Main<br/>832
+    </template>
+</category>
+
+<category>
+    <pattern># SSRL ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>832
+    </template>
+</category>
+
+<category>
+    <pattern>$SSRL ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>832
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ SSRL ^</pattern>
+    <template>
+        Main<br/>832
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ SSRL ^</pattern>
+    <template>
+        Main<br/>832
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ SSRL ^</pattern>
+    <template>
+        Main<br/>832
+    </template>
+</category>
+
+
+<!--(36)SSRL 2 Mr Nauman Team -->
+<category>
+    <pattern># EXTENTION ^ Nauman ^</pattern>
+    <template>
+        Main<br/>837
+    </template>
+</category>
+<category>
+    <pattern># Nauman ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>837
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Nauman ^</pattern>
+    <template>
+        Main<br/>837
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Nauman ^</pattern>
+    <template>
+        Main<br/>837
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Nauman ^</pattern>
+    <template>
+        Main<br/>837
+    </template>
+</category>
+
+
+<!--(37)HPCNL-->
+<category>
+    <pattern># EXTENTION ^ HPCNL ^</pattern>
+    <template>
+        Main<br/>812
+    </template>
+</category>
+
+<category>
+    <pattern># HPCNL ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>812
+    </template>
+</category>
+
+<category>
+    <pattern>$HPCNL ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>812
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ HPCNL ^</pattern>
+    <template>
+        Main<br/>812
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ HPCNL ^</pattern>
+    <template>
+        Main<br/>812
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ HPCNL ^</pattern>
+    <template>
+        Main<br/>812
+    </template>
+</category>
+
+
+<!--(38)NWNL-->
+<category>
+    <pattern># EXTENTION ^ NWNL ^</pattern>
+    <template>
+        Main<br/>808
+    </template>
+</category>
+
+<category>
+    <pattern># NWNL ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>808
+    </template>
+</category>
+
+<category>
+    <pattern>$NWNL ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>808
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ NWNL ^</pattern>
+    <template>
+        Main<br/>808
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ NWNL ^</pattern>
+    <template>
+        Main<br/>808
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ NWNL ^</pattern>
+    <template>
+        Main<br/>808
+    </template>
+</category>
+
+
+<!--(39)Training Kashif Bashir-->
+<category>
+    <pattern># EXTENTION ^ Kashif Bashir ^</pattern>
+    <template>
+        Main<br/>825
+    </template>
+</category>
+<category>
+    <pattern># Kashif Bashir ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>825
+    </template>
+</category>
+
+
+
+<!--(40)Training-->
+<category>
+    <pattern># EXTENTION ^ Training ^</pattern>
+    <template>
+        Main<br/>869
+    </template>
+</category>
+<category>
+    <pattern># Training ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>869
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Training ^</pattern>
+    <template>
+        Main<br/>869
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Training ^</pattern>
+    <template>
+        Main<br/>869
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Training ^</pattern>
+    <template>
+        Main<br/>869
+    </template>
+</category>
+
+
+<!--(41)CVML-->
+
+<category>
+    <pattern># EXTENTION ^ USMAN ^</pattern>
+   <template>
+        Main<br/>802
+    </template>
+</category>
+<category>
+    <pattern># USMAN ^ EXTENTION ^</pattern>
+   <template>
+        Main<br/>802
+    </template>
+</category>
+
+
+<category>
+    <pattern># EXTENTION ^ CVML ^</pattern>
+    <template>
+        Main<br/>802
+    </template>
+</category>
+
+<category>
+    <pattern># CVML ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>802
+    </template>
+</category>
+
+<category>
+    <pattern>$CVML ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>802
+    </template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ CVML ^</pattern>
+    <template>
+        Main<br/>802
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ CVML ^</pattern>
+    <template>
+        Main<br/>802
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ CVML ^</pattern>
+    <template>
+        Main<br/>802
+    </template>
+</category>
+
+
+<!--(42)BRL 1-->
+<category>
+    <pattern># EXTENTION ^ BRL 1 ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category>
+<category>
+    <pattern># BRL 1 ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category><category>
+    <pattern># EXTENTION ^ BRL1 ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category>
+<category>
+    <pattern># BRL1 ^ EXTENTION ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ BRL 1 ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ BRL 1 ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ BRL 1 ^</pattern>
+    <template>
+        Main<br/>829
+    </template>
+</category>
+
+
+<!--(43)VC Office-->
+<category>
+    <pattern># EXTENTION ^ VC Office ^</pattern>
+    <template>
+        UET<br/>205
+    </template>
+</category>
+<category>
+    <pattern># VC Office ^ EXTENTION ^</pattern>
+    <template>
+        UET<br/>205
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ VC Office ^</pattern>
+    <template>
+        UET<br/>205
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ VC Office ^</pattern>
+    <template>
+        UET<br/>205
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ VC Office ^</pattern>
+    <template>
+        UET<br/>205
+    </template>
+</category>
+
+
+
+<!--(44)Registrar Office-->
+<category>
+    <pattern># EXTENTION ^ Registrar Office ^</pattern>
+    <template>
+         UET<br/>227
+    </template>
+</category>
+<category>
+    <pattern># Registrar Office ^ EXTENTION ^</pattern>
+    <template>
+         UET<br/>227
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Registrar Office ^</pattern>
+    <template>
+         UET<br/>227
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Registrar Office ^</pattern>
+    <template>
+         UET<br/>227
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Registrar Office ^</pattern>
+    <template>
+         UET<br/>227
+    </template>
+</category>
+
+
+<!--(45)Audit Office-->
+<category>
+    <pattern># EXTENTION ^ Audit Office ^</pattern>
+    <template>
+        UET<br/>238
+    </template>
+</category>
+<category>
+    <pattern># Audit Office ^ EXTENTION ^</pattern>
+    <template>
+        UET<br/>238
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Audit Office ^</pattern>
+    <template>
+        UET<br/>238
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Audit Office ^</pattern>
+    <template>
+        UET<br/>238
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Audit Office ^</pattern>
+    <template>
+        UET<br/>238
+    </template>
+</category>
+
+
+<!--(46)Pertolium Dept-->
+<category>
+    <pattern># EXTENTION ^ Pertolium ^</pattern>
+    <template>
+       UET<br/>809
+    </template>
+</category>
+<category>
+    <pattern># Pertolium ^ EXTENTION ^</pattern>
+    <template>
+       UET<br/>809
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Pertolium ^</pattern>
+    <template>
+       UET<br/>809
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Pertolium ^</pattern>
+    <template>
+       UET<br/>809
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Pertolium ^</pattern>
+    <template>
+       UET<br/>809
+    </template>
+</category>
+
+
+<!--(47)Dr asim  Loan EE Dept-->
+<category>
+    <pattern># EXTENTION ^ Asim ^</pattern>
+    <template>
+        UET<br/>130
+    </template>
+</category>
+<category>
+    <pattern># Asim ^ EXTENTION ^</pattern>
+    <template>
+        UET<br/>130
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ Asim ^</pattern>
+    <template>
+        UET<br/>130
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ Asim ^</pattern>
+    <template>
+        UET<br/>130
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ Asim ^</pattern>
+    <template>
+        UET<br/>130
+    </template>
+</category>
+
+
+<!--(48)UET Telephone directory Rashid-->
+<category>
+    <pattern># EXTENTION ^ Rashid ^</pattern>
+    <template>
+         UET<br/>600
+    </template>
+</category>
+<category>
+    <pattern># Rashid ^ EXTENTION ^</pattern>
+    <template>
+         UET<br/>600
+    </template>
+</category>
+<category>
+    <pattern># CONTACT ^ UET ^ Rashid ^</pattern>
+    <template>
+         UET<br/>600
+    </template>
+</category>
+<category>
+    <pattern># PHONE ^ UET ^ Rashid ^</pattern>
+    <template>
+         UET<br/>600
+    </template>
+</category>
+<category>
+    <pattern># TALK ^ UET ^ Rashid ^</pattern>
+    <template>
+         UET<br/>600
+    </template>
+</category>
+
+
+
+
+
+
+	
+</aiml>

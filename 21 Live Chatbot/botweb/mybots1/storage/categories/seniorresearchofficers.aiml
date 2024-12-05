@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+<pattern># Senior Research Officer ^ KICS ^</pattern>
+<template>
+    <olist>
+        <item>Mr. Muhammad Junaid(Senior SQA Engineer)</item>
+        <item>Mr. Asad Ali Khan(Business Development Manager).</item>
+        <item>Mr. Muhammad Noman Nasir(Business Development Manager)</item>
+        <item>Mr. Ahmad Ali(Senior Research Officer)</item>
+        <item>Mr. Ali Akbar(Senior Research Officer)</item>
+        <item>Mr. Faisal Hussain(Senior Research Officer)</item>
+        <item>Mr. M.Tahir Naeem(Senior Research Officer)</item>
+        <item>Mr. Mudassir Hassan(Senior Research Officer)</item>
+        <item>Mr. Muhammad Rizwan(Senior Research Officer)</item>
+        <item>Mr. Muhammad Husnain(Senior Research Officer)</item>
+        <item>Mr. Muhammad Ahmed Hassan(Senior Research Officer)</item>
+        <item>Mr. Muhammad Hussain Butt(Senior Research Officer)</item>
+        <item>Mr. Muhammad Shaharyar Yaqub(Senior Research Officer)</item>
+        <item>Mr. Muhammad Zeeshan Khan(Senior Research Officer)</item>
+        <item>Mr. Shahzaib Zahid(Senior Research Officer)</item>
+        <item>Mr. Shahzaib Zahid(Senior Research Officer)</item>
+        <item>Mr. Yasir Shahzad(Senior Research Officer)</item>
+        <item>Ms. Benazir Mumtaz(Senior Research Officer)</item>
+        <item>Ms. Fabiha Hashmat(Senior Research Officer)</item>
+        <item>Ms. Fabiha Hashmat(Senior Research Officer)</item>
+        <item>Ms. Javeria khan(Senior Research Officer)</item>
+        <item>Ms. Rabia Habiba(Senior Research Officer)</item>
+        <item>Ms. Saba Urooj(Senior Research Officer)</item>
+        <item>Ms. Summra Saleem(Senior Research Officer)</item>
+    </olist>
+    <br />
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/people/all_staff</url>
+    </button>
+
+</template>
+</category>
+
+
+<category>
+<pattern># Senior Research Officers ^ KICS ^</pattern>
+<template>
+    <olist>
+        <item>Mr. Muhammad Junaid(Senior SQA Engineer)</item>
+        <item>Mr. Asad Ali Khan(Business Development Manager).</item>
+        <item>Mr. Muhammad Noman Nasir(Business Development Manager)</item>
+        <item>Mr. Ahmad Ali(Senior Research Officer)</item>
+        <item>Mr. Ali Akbar(Senior Research Officer)</item>
+        <item>Mr. Faisal Hussain(Senior Research Officer)</item>
+        <item>Mr. M.Tahir Naeem(Senior Research Officer)</item>
+        <item>Mr. Mudassir Hassan(Senior Research Officer)</item>
+        <item>Mr. Muhammad Rizwan(Senior Research Officer)</item>
+        <item>Mr. Muhammad Husnain(Senior Research Officer)</item>
+        <item>Mr. Muhammad Ahmed Hassan(Senior Research Officer)</item>
+        <item>Mr. Muhammad Hussain Butt(Senior Research Officer)</item>
+        <item>Mr. Muhammad Shaharyar Yaqub(Senior Research Officer)</item>
+        <item>Mr. Muhammad Zeeshan Khan(Senior Research Officer)</item>
+        <item>Mr. Shahzaib Zahid(Senior Research Officer)</item>
+        <item>Mr. Shahzaib Zahid(Senior Research Officer)</item>
+        <item>Mr. Yasir Shahzad(Senior Research Officer)</item>
+        <item>Ms. Benazir Mumtaz(Senior Research Officer)</item>
+        <item>Ms. Fabiha Hashmat(Senior Research Officer)</item>
+        <item>Ms. Fabiha Hashmat(Senior Research Officer)</item>
+        <item>Ms. Javeria khan(Senior Research Officer)</item>
+        <item>Ms. Rabia Habiba(Senior Research Officer)</item>
+        <item>Ms. Saba Urooj(Senior Research Officer)</item>
+        <item>Ms. Summra Saleem(Senior Research Officer)</item>
+    </olist>
+    <br />
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/people/all_staff</url>
+    </button>
+
+</template>
+</category>
+
+
+
+<category>
+    <pattern># KICS ^ Senior Research Officers ^</pattern>
+    <template><srai>Senior Research Officer in kics</srai></template>
+</category>
+<category>
+    <pattern># KICS ^ Senior Research Officer ^</pattern>
+    <template><srai>Senior Research Officer in kics</srai></template>
+</category>
+<category>
+    <pattern>* Senior Research Officer *</pattern>
+    <template><srai>Senior Research Officer in kics</srai></template>
+</category>
+<category>
+    <pattern>^ SRO ^</pattern>
+    <template><srai>Senior Research Officer in kics</srai></template>
+</category>
+<category>
+    <pattern>_ SRO *</pattern>
+    <template><srai>Senior Research Officer in kics</srai></template>
+</category>
+
+</aiml>

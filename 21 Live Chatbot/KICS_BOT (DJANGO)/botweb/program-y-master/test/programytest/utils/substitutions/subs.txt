@@ -1,0 +1,4 @@
+$FIRSTNAME:Fred
+$SURNAME:West
+$WIFE:Mary
+$MULTIPLE:Two words

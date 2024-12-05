@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+<pattern># ASSISTANT MANAGER RESEARCH ^ KICS ^</pattern>
+<template>
+    <olist>
+        <item>Mr. Ali Muzaffar(Assistant Manager Research / Team Lead)</item>
+        <item>Mr. Muhammad Nabeel Asim(Assistant Manager Research / Team Lead)</item>
+        <item>Mr. Waqar Ali Shah(Assistant Manager Research / Team Lead)</item>
+        <item>Mr. Waqas Khalid(Assistant Manager Research / Team Lead)</item>
+        <item>Ms. Mehwish Nadeem(Assistant Manager Research / Team Lead)</item>
+        <item>Ms. Narmeen Irshad(Assistant Manager Research / Team Lead)</item>
+        <item>Ms. Quratul Ain Mehfooz(Assistant Manager Research / Team Lead)</item>
+    </olist>
+<button>
+    <text> for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+</template>
+</category>
+
+<category>
+    <pattern># Assistant Managers Research ^ KICS ^</pattern>
+    <template>
+        <srai>ASSISTANT MANAGER RESEARCH</srai>
+    </template>
+</category>
+
+<category>
+<pattern>Assistant Manager Research in kics</pattern>
+<template>
+  <srai>ASSISTANT MANAGER RESEARCH</srai>
+</template>
+</category>
+<category>
+<pattern>Assistant Manager Research *</pattern>
+<template>
+  <srai>ASSISTANT MANAGER RESEARCH</srai>
+</template>
+</category>
+<category>
+<pattern>* Assistant Manager Research</pattern>
+<template>
+  <srai>ASSISTANT MANAGER RESEARCH</srai>
+</template>
+</category>
+<category>
+<pattern>* Assistant Manager Research *</pattern>
+<template>
+  <srai>ASSISTANT MANAGER RESEARCH</srai>
+</template>
+</category>
+<category>
+<pattern># AMR ^ KICS ^</pattern>
+<template>
+  <srai>ASSISTANT MANAGER RESEARCH</srai>
+</template>
+</category>
+	
+</aiml>

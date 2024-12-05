@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	<category>
+	    <pattern>WelcomeMessage</pattern>
+	    <template>
+	         Hi👋, Welcome to KICS BOT😄 <split/>
+	        <delay>2</delay>
+	        I am here to help you out about your general queries related to University of Engineering and Technology (UET), Lahore.
+	        And also,<br/> Al-Khwarizmi Institute of Computer Science (KICS), UET Lahore. <br/>
+	        for more info. related to Institutes visit: <split/>
+	        <delay>2</delay>
+	        <button>
+	            <text>Learn About UET, Lahore.</text>
+	            <postback>infoUET</postback>
+            </button>
+            <button>
+                <text>Learn About Faculties and Departments (UET)</text>
+                <postback>DPTUET</postback>
+            </button>
+            <button>
+                <text>Learn About KICS UET, Lahore.</text>
+                <postback>infoKICS</postback>
+            </button>
+            
+            <button>
+                <text>Learn About Research Labs (KICS)</text>
+                <postback>RALABKICS</postback>
+            </button>
+            
+            <button>
+                <text>Learn About Research/Technology Centers (KICS)</text>
+                <postback>TECHCENKICS</postback>
+            </button>
+            
+            <delay>3</delay>
+
+            <split/>
+            
+            What would you like to do? <split/>
+            
+            <button>
+	            <text>Chat with Me!</text>
+	            <postback>selfintro</postback>
+            </button>
+            
+            <button>
+                <text>Talk to a Human</text>
+                <postback>HumanTalk</postback>
+            </button>
+            
+            <button>
+                <text>Send Feedbacks/Suggestions</text>
+                <postback>Feedbacksinfo</postback>
+            </button>
+            
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>infoUET</pattern>
+        <template>
+            <delay>2</delay>
+
+            The University of Engineering and Technology (main) located in the northern part of Lahore on the historical "Grand Trunk Road (G.T. Road)", near the magnificent Shalimar Gardens built during the great Mughal Empire.
+            <br/>
+            The institution started its career in 1921 as the ‘ Mughalpura Technical College ’. Later it became the ‘Maclagan Engineering College’, a name given to it in 1923 when Sir Edwards Maclagan, the then Governor of the Punjab who laid the foundation stone of the main building, now called the Main Block, which still retains its majesty despite the wear and tear of over eight decades. At that stage the institution offered courses of study in only two disciplines; Electrical Engineering and Mechanical Engineering.
+            <br/>
+            for more info. visit: <br/>
+            <button>
+                <text>Visit UET, Lahore Website!</text>
+                <url>https://uet.edu.pk/aboutuet/aboutinfo/index.html?RID=about_uet_history</url>
+            </button>
+
+        </template>
+    </category>
+    
+    <category>
+        <pattern>infoKICS</pattern>
+        <template>
+            <delay>2</delay>
+
+            
+            Al-Khwarizmi Institute of Computer Science (KICS) was established in August, 2002 at the University of Engineering and Technology Lahore (UET) for conducting research and development activities in the fields of Computer Science and Information Technology. It was envisioned as an institute for advanced and high quality applied research working in collaboration with industries and other academic institutions on national and international levels to bring about the IT revolution in Pakistan and help build a knowledge driven economy. We strive to gather capable and competent researchers at one platform and provide them with favorable and motivational environment for creating innovative technologies and products. <br/>
+            for more info. visit: <br/>
+            <button>
+                <text>Visit KICS UET, Lahore Website!</text>
+                <url>https://kics.edu.pk/web/what-we-are/about-us/</url>
+            </button>
+            
+        </template>
+    </category>
+    
+    <category>
+        <pattern>selfintro</pattern>
+        <template>
+            <delay>2</delay>
+
+            Tell me, how can I help you out?
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># talk ^ human ^</pattern>
+        <template><srai>HumanTalk</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># human ^ talk ^</pattern>
+        <template><srai>HumanTalk</srai></template>
+    </category>
+    
+    <category>
+        <pattern>HumanTalk</pattern>
+        <template>
+            <delay>2</delay>
+
+            
+            Please keep in mind that we are "Proudly Artificial," and there may not be any people available to help you right now, since our live chat function is not manned 24/7. 😅 <split/>
+            <delay>2</delay>
+            If nobody joins you after a few minutes, please either use the buttons below or contact us at: <br/>
+            <br/>
+            
+            
+
+            info@uet.edu.pk <br/> (for university related queries!) 
+            <br/><br/>
+            info@kics.edu.pk <br/> (for KICS related queries!) <split/>
+            
+            <button>
+                <text>UET, Lahore. Contacts info.</text>
+                <url>https://uet.edu.pk/contacts/contactsinfo/index.html?RID=about_uet_contacts</url>
+            </button>
+            <button>
+                <text>KICS UET, Lahore. Contacts info.</text>
+                <url>https://kics.edu.pk/web/contact-us/</url>
+            </button>
+        </template>
+    </category>
+    
+    
+     <category>
+        <pattern># feedback ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># feedbacks ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># suggestion ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># suggestions ^</pattern>
+        <template><srai>Feedbacksinfo</srai></template>
+    </category>
+    
+    
+    <category>
+        <pattern># Feedbacksinfo ^</pattern>
+        <template>
+
+
+            I originally Invented by Data Science Lab (DSL), KICS UET, Lahore.
+            <br /> If you want to give suggestions/feedbacks to my developers, simply find their contacts info. from the button below:
+
+            <button>
+                <text>Developer Contact info.</text>
+                <url>https://www.kics.edu.pk/labs/contacts/dsl</url>
+            </button>
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern>SEARCH FOR *</pattern>
+        <template>
+            <button>
+                <text>open on google!</text>
+                <url>https://www.google.com/</url>
+            </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ GOOGLE ^</pattern>
+        <template>
+            Google is a Search Engine.
+            <link>
+                <text>open google</text>
+                <url>https://www.google.com/</url>
+            </link>
+        </template>
+    </category>
+
+    <category>
+        <pattern>$what ^ s your name</pattern>
+        <template>
+           My name is KICS BOT.
+        </template>
+    </category>
+
+
+    <category>
+        <pattern>$what IS your name</pattern>
+        <template>
+           My name is KICS BOT.
+        </template>
+    </category>
+
+    <category>
+        <pattern>$TELL ME ^ your name ^</pattern>
+        <template>
+           My name is KICS BOT.
+        </template>
+    </category>
+
+    <category>
+        <pattern>$your name ^</pattern>
+        <template>
+           My name is KICS BOT.
+        </template>
+    </category>
+
+
+     <category>
+        <pattern>$who is your father ^</pattern>
+        <template>
+           I don't have father, I have botmaster named DSL.
+        </template>
+    </category>
+    <category>
+        <pattern>$who is your creator ^</pattern>
+        <template>
+           I originally created by DSL.
+        </template>
+    </category>
+    <category>
+        <pattern>$who is your inventor ^</pattern>
+        <template>
+           I originally Invented by DSL.
+        </template>
+    </category>
+    <category>
+        <pattern>$who is your master ^</pattern>
+        <template>
+           I originally Invented by DSL.
+        </template>
+    </category>
+    <category>
+        <pattern>$who is your botmaster ^</pattern>
+        <template>
+           I originally Invented by DSL.
+        </template>
+    </category>
+     <category>
+        <pattern># who is your father ^</pattern>
+        <template>
+           I don't have father, I have botmaster named DSL.
+        </template>
+    </category>
+    <category>
+        <pattern># who is your creator ^</pattern>
+        <template>
+           I originally created by DSL.
+        </template>
+    </category>
+    <category>
+        <pattern># who is your inventor ^</pattern>
+        <template>
+           I originally Invented by DSL.
+        </template>
+    </category>
+    <category>
+        <pattern># who is your master ^</pattern>
+        <template>
+           I originally Invented by DSL.
+        </template>
+    </category>
+    <category>
+        <pattern># who is your botmaster ^</pattern>
+        <template>
+           I originally Invented by DSL.
+        </template>
+    </category>
+
+
+</aiml>

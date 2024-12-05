@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	<category>
+    <pattern># IT staff ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Rashid Aslam</item>
+            <item>Mr. Ali Yaseen</item>
+            <item>Mr. Bilal Anwar</item>
+            <item>Mr. Kashif Ahmed</item>
+            <item>Mr. Zohaib Iqbal</item>
+        </olist>
+       <button>
+           <text>for more info.</text>
+           <url>https://www.kics.edu.pk/people/all_staff</url>
+       </button>
+       
+        </template>
+</category>
+	
+<category>
+    <pattern>_ it staff *</pattern>
+    <template><srai>it staff</srai></template>
+</category>
+<category>
+    <pattern>_ it staff *</pattern>
+    <template><srai>it staff</srai></template>
+</category>
+<category>
+    <pattern>it staff * kics</pattern>
+    <template><srai>it staff</srai></template>
+</category>	
+	
+	
+	
+	
+	
+	<!--Network Administrator-->
+<category>
+    <pattern># Network Administrator ^</pattern>
+    <template>Mr. Rashid Aslam</template>
+</category>
+<category>
+    <pattern>_ Network Administrator *</pattern>
+    <template><srai>Network Administrator</srai></template>
+</category>
+<category>
+    <pattern>_ Network Administrator *</pattern>
+    <template><srai>Network Administrator</srai></template>
+</category>
+<category>
+    <pattern>Network Administrator * kics</pattern>
+    <template><srai>Network Administrator</srai></template>
+</category>
+
+<category>
+    <pattern># Network Assistant ^</pattern>
+    <template>
+    
+            Mr. Ali Yaseen <br/>
+            Mr. Bilal Anwar
+        
+    </template>
+</category>
+<category>
+    <pattern>_ Network Assistant *</pattern>
+    <template><srai>Network Assistant</srai></template>
+</category>
+<category>
+    <pattern>Network Assistant * kics</pattern>
+    <template><srai>Network Assistant</srai></template>
+</category>
+
+<category>
+    <pattern># Network Technician ^</pattern>
+    <template>Mr. Kashif Ahmed</template>
+</category>
+<category>
+    <pattern>_ Network Technician *</pattern>
+    <template><srai>Network Technician</srai></template>
+</category>
+<category>
+    <pattern>_ Network Technician *</pattern>
+    <template><srai>Network Technician</srai></template>
+</category>
+<category>
+    <pattern>Network Technician * kics</pattern>
+    <template><srai>Network Technician</srai></template>
+</category>
+
+<category>
+    <pattern># Network Engineer ^</pattern>
+    <template>Mr. Zohaib Iqbal</template>
+</category>
+<category>
+    <pattern>_ Network Engineer *</pattern>
+    <template><srai>Network Engineer</srai></template>
+</category>
+<category>
+    <pattern>_ Network Engineer *</pattern>
+    <template><srai>Network Engineer</srai></template>
+</category>
+<category>
+    <pattern>Network Engineer * kics</pattern>
+    <template><srai>Network Engineer</srai></template>
+</category>
+
+</aiml>

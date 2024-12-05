@@ -1,0 +1,291 @@
+Về ký hiệu quyển
+Các hệ thống rạch ròi và đơn nghĩa về mặt chức năng không thể tồn tại tự nó , ở dạng biệt lập .
+Được tách ra riêng rẽ , không một hệ thống nào có khả năng hoạt động thực sự .
+Chỉ khi nào được bao bọc trong một màng lưới ký hiệu học đầy ắp những cấu trúc ký hiệu học thuộc những dạng khác nhau và tồn tại ở những cấp độ tổ chức khác nhau nào đó , chúng mới hoạt động .
+Màng lưới ấy là ký hiệu quyển , tương tự như khái niệm " sinh quyển " của V.I.Vernadski .
+Ký hiệu học hiện đại đang trải qua giai đoạn buộc phải xét lại một số khái niệm cơ bản .
+Ai cũng biết , ngay từ nguồn cội của nó , ký hiệu học đã có hai truyền thống khoa học .
+Truyền thống thứ nhất bắt nguồn từ Peirce - Morris , xuất phát từ quan niệm xem ký hiệu là yếu tố thứ nhất của mọi hệ thống ký hiệu học .
+Truyền thống thứ hai dựa vào các luận điểm của Saussure và Trường phái Prague , lấy cặp đối lập ngôn ngữ và lời nói ( của văn bản ) làm nền móng .
+Tuy có sự khác biệt trong hướng tiếp cận như thế , chúng vẫn có sự giống nhau hết sức cơ bản : chọn một nhân tố giản đơn nhất , nhỏ nhất không thể chia cắt làm nền tảng , tất cả những gì sau đó đều được xem xét như là sự tương đồng với nó .
+Chẳng hạn , với truyền thống thứ nhất , nền tảng phân tích là một ký hiệu cô lập , mọi yếu tố ký hiệu học tiếp theo đều được nghiên cứu như là trình tự của các ký hiệu .
+Truyền thống thứ hai , có thể thấy , lại chọn hành vi giao tiếp riêng lẻ - sự trao đổi thông tin giữa người gửi và người nhận - làm đối tượng nghiên cứu như là nhân tố thứ nhất và là mô hình mẫu của mọi hành vi ký hiệu học .
+Rốt cuộc , hoạt động giao tiếp ký hiệu của cá nhân được xem là mô hình ngôn ngữ tự nhiên , những mô hình của các ngôn ngữ tự nhiên thì được xem là mô hình ký hiệu học tổng hợp , còn bản thân ký hiệu học thì được diễn giải như là sự ứng dụng mở rộng các phương pháp ngôn ngữ học vào những đối tượng không thuộc phạm vi ngôn ngữ học truyền thống .
+Quan điểm này có nguồn cội từ Saussure , được thể hiện rõ nhất trong các công trình của nhà nghiên cứu đã quá cố I.I.Revzin , người từng đưa ra định nghĩa như sau trong những cuộc thảo luận tại Trường học mùa Hè lần thứ hai ở Kääriku : " Đối tượng của ký hiệu học là mọi khách thể có thể miêu tả bằng các phương tiện ngôn ngữ học " .
+Hướng tiếp cận nói trên phù hợp với nguyên tắc tư duy thông thường : đi từ cái giản đơn đến cái phức tạp , hiển nhiên là có thể chấp nhận trong giai đoạn đầu .
+Nhưng ở đó đã sẵn tiềm ẩn một nguy cơ : tiện ích phát hiện sự kiện ( sự thuận tiện của việc phân tích ) sẽ được xem là yếu tính bản thể của đối tượng mà cấu trúc xuất phát từ những nguyên tố toàn vẹn giản đơn , có thể phác họa rõ ràng đến sự phức tạp hóa tiệm tiến của chúng gán cho nó .
+Đối tượng phức tạp thế là bị quy về tổng số của những cái giản đơn .
+Chặng đường nghiên cứu ký hiệu học trong vòng hai mươi lăm năm trở lại đây cho phép chúng ta nhìn nhận nhiều chuyện hoàn toàn theo cách khác đi .
+Như bây giờ có thể nghĩ , trong hoạt động thực tế , các hệ thống rạch ròi và đơn nghĩa về mặt chức năng không thể tồn tại tự nó , ở dạng biệt lập .
+Việc chia tách chúng ra chỉ phục vụ cho nhu cầu khám phá .
+Được tách ra riêng rẽ , không một hệ thống nào có khả năng hoạt động thực sự .
+Chỉ khi nào được bao bọc trong một màng lưới ký hiệu học đầy ắp những cấu trúc ký hiệu học thuộc những dạng khác nhau và tồn tại ở những cấp độ tổ chức khác nhau nào đó , chúng mới hoạt động .
+Chúng tôi gọi màng lưới ấy là ký hiệu quyển , tương tự như khái niệm " sinh quyển " của V.I.Vernadski .
+Xin nhắc trước , không nên trộn lẫn thuật ngữ " trí quyển " được V.I.Vernadski sử dụng với khái niệm " ký hiệu quyển " do chúng tôi đề xướng .
+" Trí quyển " là một giai đoạn phát triển cụ thể của sinh quyển , giai đoạn gắn với hoạt động trí lực của con người .
+Sinh quyển của Vernadski là một cơ cấu vũ trụ có một vai trò cấu trúc nào đó trong thể thống nhất của hành tinh .
+Được phân bố trên bề mặt của hành tinh chúng ta và chứa đựng trong bản thân toàn bộ thế giới sinh thể , sinh quyển biến đổi năng lượng tia mặt trời thành năng lượng hóa học và vật lý nhằm tạo ra loại vật chất vô cơ " trơ " của hành tinh chúng ta , trong quá trình ấy , khi trí lực của con người trở thành nhân tố có ý nghĩa chủ đạo , trí quyển sẽ được tạo ra .
+Nếu trí quyển có sự tồn tại không gian - vật chất , bao trùm một phần hành tinh của chúng ta , thì không gian của ký hiệu quyển là có tính cách trừu tượng .
+Tuy nhiên , điều đó tuyệt nhiên không có nghĩa là khái niệm không gian ở đây chỉ được sử dụng theo nghĩa ẩn dụ .
+Chúng ta đang bàn về một phạm vi cụ thể với những dấu hiệu gắn với một không gian khép kín trong bản thân nó .
+Chỉ bên trong không gian ấy , các tiến trình giao tiếp và sự sản sinh ra những thông tin mới mới có khả năng hiện thực hóa .
+Quan niệm của Vernadski về bản chất của sinh quyển có thể sẽ rất hữu ích đối với việc xác định khái niệm do chúng tôi khởi xướng , do đó cần phải dừng lại ở đây để trình bày một cách chi tiết hơn .
+V.I.Vernadski xác định sinh quyển như một không gian đầy ắp sinh thể .
+Ông viết : " Sinh thể là tổng thể những cơ thể sống " .
+Định nghĩa ấy tựa như cung cấp cơ sở để cho rằng , hạt nhân thực tế được chọn làm nền tảng là cơ thể sống riêng lẻ mà sự cộng gộp của chúng sẽ làm thành sinh quyển .
+Nhưng thực ra , vấn đề lại không phải như vậy .
+Chỉ riêng chuyện sinh thể được xem là thể thống nhất hữu cơ - cái màng mỏng trên bề mặt hành tinh - và sự đa dạng ở tổ chức nội tại của nó được đẩy xuống bình diện thứ hai trước thể thống nhất của chức năng vũ trụ - trở thành cơ cấu điều chế năng lượng thu được từ mặt trời , biến thành năng lượng hóa học và vật lý của trái đất - đã đủ nói lên vai trò nền móng , trong nhận thức của Vernadski , của sinh quyển trong tương quan với từng cơ thể đơn lẻ .
+Toàn bộ lớp đời sống đặc quánh ấy được bện kết với nhau một cách khít khao nhất .
+Cái này không thể tồn tại thiếu cái kia .
+Mối liên hệ giữa các màng sống và các lớp cô đặc khác nhau cùng tính chất bất biến của chúng là đặc điểm có từ xa xưa của cơ cấu vỏ trái đất , làm hiển lộ trong đó dòng chảy của thời gian địa chất .
+Tư tưởng này được thể hiện hết sức rõ ràng trong công thức sau đây : Sinh quyển có một cấu trúc hoàn toàn xác định , chi phối mọi chuyện diễn ra trong đó , không có ngoại lệ ...
+Con người , như nó được nhìn thấy trong tự nhiên , như mọi cơ thể sống , mọi sinh thể , là một chức năng của sinh quyển trong không - thời gian của nó .
+Có thể chấp nhận cách tiếp cận tương tự như vậy trong các vấn đề ký hiệu học .
+Có thể nghiên cứu vũ trụ ký hiệu học như một tổng thể các văn bản riêng lẻ và những ngôn ngữ khép kín trong tương quan giữa chúng với nhau .
+Khi ấy , toàn bộ tòa nhà sẽ hiện ra giống như nó được kiến tạo từ những viên gạch riêng lẻ .
+Tuy nhiên , có một cách tiếp cận ngược lại , hiệu quả hơn : toàn bộ không gian ký hiệu học có thể xem là một cơ cấu thống nhất ( nếu không phải là một cơ thể ) .
+Khi ấy , cái cốt yếu sẽ không phải là viên gạch này hay viên gạch kia , mà là một " hệ thống rộng lớn " được gọi là ký hiệu quyển .
+Ký hiệu quyển là không gian ký hiệu học , bên ngoài đó không thể tồn tại quá trình diễn giải ký hiệu .
+Dán những tảng bít-tết lại với nhau , chúng ta không thể tạo ra con bê , nhưng chặt con bê ra từng miếng , ta sẽ có những tảng bít-tết , tương tự như vậy , đem các hoạt động ký hiệu học riêng lẻ cộng gộp lại với nhau , ta không thể có được vũ trụ ký hiệu học .
+Ngược lại , chỉ có sự tồn tại của một vũ trụ như vậy - sự tồn tại của ký hiệu quyển - mới khiến cho một hoạt động ký hiệu nào đó trở thành hiện thực .
+Ký hiệu quyển được xác định bằng hàng loạt dấu hiệu đặc trưng :
+Tính phân giới
+Khái niệm ký hiệu quyển gắn với tính thuần nhất ký hiệu học nào đó và tính cá thể .
+Cả hai khái niệm này ( tính thuần nhất và tính cá thể ) , như chúng ta thấy , đều rất khó xác định về mặt hình thức và lệ thuộc vào hệ thống miêu tả , nhưng điều đó không làm mất đi tính chất hiện hữu và khả năng chia tách rạch ròi của chúng ở cấp độ trực giác .
+Cả hai khái niệm cùng bao hàm sự phân định ranh giới của ký hiệu quyển với không gian ngoài ký hiệu học hoặc không gian ký hiệu học khác bao bọc quanh nó .
+Một trong những khái niệm nền tảng của sự phân định ranh giới là khái niệm ranh giới .
+Vì không gian ký hiệu học mang tính trừu tượng , nên phải tưởng tượng ranh giới của nó bằng các phương tiện hình dung cụ thể .
+Giống như trong toán học , người ta gọi ranh giới là tập hợp các điểm vừa thuộc không gian bên trong , vừa thuộc không gian bên ngoài , ranh giới ký hiệu học là tổng số các " màng lọc " phiên dịch song ngữ , sự chuyển dịch xuyên qua các " màng lọc " ấy sẽ phiên dịch văn bản sang một ngôn ngữ khác ( hoặc các ngôn ngữ khác ) nằm bên ngoài ký hiệu quyển này .
+Tính " khép kín " của ký hiệu quyển bộc lộ ở chỗ , nó không thể tiếp xúc với các văn bản thuộc loại ký hiệu học khác , hoặc loại phi văn bản .
+Các loại văn bản này muốn trở thành thực tại của ký hiệu quyển , ký hiệu quyển phải phiên dịch chúng sang một trong những ngôn ngữ thuộc không gian bên trong của nó , hoặc ký hiệu hóa các sự thật .
+Bởi vậy , các điểm của ranh giới ký hiệu quyển có thể ví với cơ quan cảm giác phiên dịch các tác nhân kích thích bên ngoài sang ngôn ngữ của hệ thần kinh chúng ta , hoặc là bộ phận phiên dịch làm cho thế giới bên ngoài phù hợp với một lĩnh vực ký hiệu học nào đó .
+Những gì vừa trình bày chứng tỏ , khái niệm ranh giới có quan hệ với khái niệm cá thể ký hiệu học .
+Với ý nghĩa như thế , có thể nói , ký hiệu quyển là " cá nhân ký hiệu học " và nó chia tách loại thuộc tính cá nhân ví như sự kết nối giữa tính hẳn nhiên của kinh nghiệm và tính hiển nhiên của trực giác với tính cực kỳ nan giản trong việc xác lập hình thức của nó .
+Ai cũng biết , ranh giới cá nhân như một hiện tượng ký hiệu học văn hóa - lịch sử hoàn toàn lệ thuộc vào phương thức mã hóa .
+Chẳng hạn , vợ , con , đầy tớ , người hầu , trong những hệ thống này có thể bị gộp với cá nhân người chống , ông chủ , ông bầu , tức là không có cá thể độc lập , nhưng trong những hệ thống khác , lại có thể xem họ là những cá nhân riêng lẻ .
+Điều này thể hiện rất rõ ở tính tương đối của ký hiệu học luật pháp .
+Khi trừng phạt một đại thần thất sủng , Ivan Groznyi không chỉ giết cả nhà , mà còn giết toàn bộ tôi tớ của vị đại thần ấy .
+Nhà vua làm như thế chẳng phải vì sợ bị trả thù , mà xuất phát từ quan niệm xem chủ nhà cùng những thành viên trong gia đình và toàn bộ tôi tớ , về mặt luật pháp , chỉ là một nhân vật , nên đương nhiên tất cả bọn họ đều bị hành quyết .
+Người Nga nhìn thấy " bão tố " - sự tàn ác của Sa hoàng - ở chỗ , nhà vua đã áp dụng hình phạt mở rộng cho người thân của họ , nhưng với họ , việc tất cả các thành viên một gia tộc bị gộp chung vào một đơn vị thất sủng lại là lẽ đương nhiên .
+Dân ngoại quốc rất phẫn nộ khi thấy người này bị đày ải vì tội lỗi của người khác .
+Vào năm 1732 , phu nhân đại sứ Anh , Quý bà Rondo ( hoàn toàn không thù địch gì với triều đình Nga và từng nhận xét trong sứ điệp của mình về sự nhân hậu , nhạy cảm của Anna Joannovna và sự quảng đại của Biron ) , khi thông báo cho nữ phóng viên châu Âu của mình về vụ đi đầy của gia tộc Dolgorukov , đã viết : " Có thể việc phát vãng những người phụ nữ và trẻ nhỏ sẽ khiến bà ngạc nhiên , nhưng ở đây , khi chủ gia tộc bị thất sủng , thì cả gia tộc cũng bị truy đuổi " .
+Khi toàn bộ gia tộc kẻ sát nhân được xem là nhân vật chịu trách nhiệm pháp lý , thì cơ sở của cuộc trả thù đẫm máu là ý niệm về cá nhân tập thể ( trong trường hợp này là toàn bộ gia tộc ) , chứ không phải cá nhân cá thể .
+S.M.Soloviёv đã chỉ ra đầy thuyết phục mối quan hệ giữa chế độ thế tập , lưu quan với quan niệm về cá nhân tập thể dòng tộc : Rõ ràng , trong sự gắn kết bền chặt như vậy của khối liên minh dòng tộc , với trách nhiệm như thế của tất cả các thành viên dòng tộc , người này vì người kia , ý nghĩa của mỗi cá nhân riêng lẻ tất yếu sẽ biến mất trước ý nghĩa của dòng tộc ; không có dòng tộc , một cá nhân trở thành vô nghĩa : không ai nghĩ Ivan Petrov lừng lẫy là chỉ riêng mỗi một Ivan Petrov , mà luôn nghĩ đó là Ivan Petrov với huynh đệ , tử tôn .
+Trong sự hòa lẫn của cá nhân với dòng tộc như vậy , một người thăng tiến trong chốn quan trường , thì đó cũng là sự thăng tiến của cả dòng họ ; một thành viên của dòng họ bị giáng quan , cả dòng họ cũng bị giáng xuống .
+Ranh giới không gian ký hiệu học là vị thế chức năng và vị thế cấu trúc quan trọng nhất quyết định bản chất cơ chế ký hiệu học của nó .
+Ranh giới là cơ chế song ngữ phiên dịch các thông tin bên ngoài ra ngôn ngữ bên trong của ký hiệu quyển và ngược lại .
+Bởi vậy , phải có sự trợ giúp của nó , ký hiệu quyển mới có thể tạo ra sự tiếp xúc với không gian phi ký hiệu học và ký hiệu học loại khác .
+Chỉ cần chuyển qua lĩnh vực ngữ nghĩa học , lập tức chúng ta phải đụng tới hiện thực ngoài ký hiệu học .
+Nhưng không được quên rằng , cái hiện thực dành cho ký hiệu quyển ngột ngạt ấy sẽ trở thành " hiện thực cho mình " tùy thuộc vào mức độ mà nó được phiên dịch sang ngôn ngữ của ký hiệu quyển ( cũng tựa như việc các chất hóa học bên ngoài được tế bào hấp thụ thế nào , nếu như chúng được chuyển vào cấu trúc sinh hóa đặc thù của nó : cả hai trường hợp - chỉ là những biểu hiện riêng của cùng một quy luật ) .
+Chức năng của mọi ranh giới và lớp màng - từ lớp màng của một tế bào sống cho đến sinh quyển giống như ( theo Vernadski ) lớp màng bao phủ hành tinh chúng ta - đều dẫn tới việc hạn chế sự thâm nhập , sàng lọc và chế biến , làm cho cái bên ngoài thích ứng với cái bên trong .
+Ở những cấp độ khác nhau , chức năng bất biến này được hiện thực hóa theo những cách khác nhau .
+Ở cấp độ ký hiệu quyển , nó có ý nghĩa chia tách cái của mình với cái khác lạ , sàng lọc các thông tin bên ngoài và phiên dịch chúng sang ngôn ngữ của mình , hệt như việc chuyển đổi những điều phi thông tin bên ngoài thành các thông tin , tức là ký hiệu hóa cái thâm nhập từ bên ngoài và biến nó thành thông tin .
+Từ giác độ như thế , toàn bộ cơ chế phiên dịch phục vụ cho các mạch tiếp xúc ngoại quan đều thuộc về cấu trúc của ký hiệu quyển .
+Trong những trường hợp , khi không gian văn hóa có thuộc tính lãnh thổ , ranh giới sẽ có ý nghĩa không gian hiểu theo nghĩa cơ bản của nó .
+Nhưng ngay cả trong trường hợp này , nó cũng chỉ giữ ý nghĩa của một cơ chế đệm chuyển đổi thông tin , một bộ phận phiên dịch độc đáo .
+Chẳng hạn , khi ký hiệu quyển được đồng nhất với một không gian " văn hóa " đã thuần phác , còn thế giới bên ngoài trong tương quan với nó lại được đồng nhất với vương quốc của những hiện tượng tự phát hỗn độn , rối loạn , thì sự phân bố không gian của các tổ chức ký hiệu học trong hàng loạt trường hợp sẽ có dạng như sau : các nhân vật nhờ có tài năng đặc biệt ( như phù thủy ) hoặc một loại nghề nghiệp ( thợ rèn , phó cối , đao phủ ) sẽ thuộc về hai thế giới và tựa như là những thông dịch viên , sống ở vùng lãnh thổ ngoại vi , vùng giáp ranh của không gian văn hóa và không gian huyền thoại , trong khi đó , tọa lạc ở trung tâm bao giờ cũng là chốn linh thiêng của các đấng thánh thần " văn hóa ' tổ chức ra thế giới .
+Có thể tìm thấy trong văn hóa thế kỷ XIX sự đối lập giữa trung tâm thành phố thể hiện cấu trúc xã hội chiếm thế thượng phong với nhân tố " phá hoại " của vùng ven ngoại ô , thêm vào đó , vùng ven thường hiện lên , ví như trong trường ca củaTzvetaeva ( Trường ca cửa ô ) , vừa như một phần của thành phố , lại vừa thuộc về thế giới phá hoại thành phố .
+Bản chất của nó là song ngữ .
+Tất cả các đế quốc lớn đều tiếp giáp với dân du mục , " rừng rú " , hoặc lũ " mọi rợ " , họ cho các tộc người du mục hoặc " mọi rợ " định cư ở vùng biên giới nước mình , họ thu phục , mua chuộc các bộ tộc ấy để bảo vệ biên cương .
+Bộ phận dân cư này tạo thành vùng song ngữ văn hóa đảm bảo cho sự tiếp xúc ký hiệu học giữa hai thế giới .
+Các vùng hỗn cư văn hóa đa dạng , như các thành phố , các tuyến đường giao thương và những khu vực khác của các tổ chức ngôn ngữ cộng đồng và cấu trúc ký hiệu học hỗn tạp , cũng thực hiện chức năng của các ranh giới ký hiệu quyển như vậy .
+Tình huống trong " tiểu thuyết biên thùy " kiểu như sử thi Byzantine về Digenes hoặc tình huống được ám chỉ trong Bài ca binh đoàn Igor chính là cơ chế điển hình của ranh giới .
+Nhìn chung , truyện kể thuộc loại Romeo và Juliet về quan hệ tình yêu hợp nhất hai không gian văn hóa thù địch bộc lộ rõ ràng bản chất của " cơ chế ranh giới " .
+Tuy nhiên , cần lưu ý , nếu từ giác độ cơ chế nội tại của nó , ranh giới kết nối hai phạm vi của quá trình diễn giải hiệu học , thì từ quan điểm tự nhận thức ký hiệu học ( tự miêu tả ở siêu cấp độ ) của một ký hiệu quyển nào đó , thì nó lại không chấp nhận hai phạm vi của quá trình diễn giải ấy .
+Nhận thức về bản thân trong quan hệ văn hóa - ký hiệu học cũng có nghĩa là nhận thức đặc trưng của mình , sự đối lập của mình với các phạm vi khác .
+Điều đó buộc phải nhấn mạnh tính tuyệt đối của đặc điểm tạo nên diện mạo của một phạm vi nào đó .
+Ở những thời điểm phát triển lịch sử khác nhau của ký hiệu quyển , phương diện này có thể làm lu mờ hay áp đảo hoàn toàn phương diện kia để nổi trội hẳn lên .
+Trong ký hiệu quyển , ranh giới còn có một chức năng khác : nó là lãnh địa của các quá tiến trình gia tốc ký hiệu học bao giờ cũng diễn ra ráo riết ở khu vực ngoại vi của những vùng văn hóa đông dân cư để dồn vào các cấu trúc hạt nhân và lấn lướt , thay thế thế chúng .
+Vì ranh giới là phần thiết yếu của ký hiệu quyển , nên ký hiệu quyển cần có một môi trường " vô tổ chức " ở bên ngoài và nếu không có một môi trường như thế thì nó tự tổ chức cho mình .
+Văn hóa không chỉ tạo ra tổ chức bên trong , mà tạo ra cho mình sự rối loạn ở bên ngoài .
+Thời cổ đại đã tạo ra cho mình lũ " mọi rợ " , còn " ý thức " thì tạo ra " tiềm thức " cho mình .
+Đồng thời , sẽ chẳng có gì hệ trọng , nếu như , thứ nhất , lũ " mọi rợ " ấy sở hữu nền văn hóa của vùng nông thôn rộng lớn hơn và , thứ hai , họ không phải là một chỉnh thể thống nhất , mà tạo thành một gam văn hóa kéo dài từ những nền văn minh cao nhất của thời cổ đại cho đến những bộ tộc đang dừng lại ở giai đoạn phát triển cực kỳ thô sơ .
+Tuy nhiên , ngay sau khi tổ chức xong xuôi cái thế giới " mọi rợ " gần như duy nhất mà dấu hiệu cơ bản là thiếu vắng một thứ ngôn ngữ chung với văn hóa cổ đại ấy , nền văn minh cổ đại đã có thể nhận thức về bản thân như một chỉnh thể văn hóa .
+Những cấu trúc bên ngoài , nằm ở phía bên kia đường ranh giới ký hiệu học đều hiện lên như những khu vực phi cấu trúc .
+Giá trị của không gian bên trong và bên ngoài không phải là phẩm chất được định trước .
+Cái có ý nghĩa quan trọng chính là bản thân sự hiện hữu có thật của ranh giới .
+Chẳng hạn , trong thể văn Robinson ở thế kỷ XVIII , thế giới của " người man rợ " bao giờ cũng cư ngụ phía bên ngoài khu vực ký hiệu học của xã hội văn minh ( người ta có thể đánh đồng nó với thế giới được tổ chức một cách giả tạo của trẻ con hoặc loài vật mà dấu hiệu cơ bản của nó là nằm ngoài những " ước lệ " văn hóa , tức là nằm ngoài những cơ chế ký hiệu học của nó ) và được đánh giá là tích cực .
+Tính không đồng đều ký hiệu học
+Từ những gì đã nói ở mục trên , rõ ràng , không gian " phi ký hiệu học " thực ra có thể là không gian của một loại ký hiệu học khác .
+Những gì nhìn từ giác độ bên trong của một nền văn hóa nào đó được xem là thế giới bên ngoài , phi ký hiệu học , trong mắt người quan sát đứng ở bên ngoài , nó lại được hình dung như khu vực ngoại vi ký hiệu học của nền văn hóa ấy .
+Cho nên , chuyện ranh giới của một nền văn hóa nào đó nằm ở đâu hoàn toàn phụ thuộc vào vị thế của người quan sát .
+Sự không đồng đều nội tại mang tính tất yếu như một quy luật tổ chức ký hiệu quyển sẽ khiến cho vấn đề trên trở nên phức tạp .
+Đặc điểm của không gian ký hiệu là sự hiện diện của các cấu trúc hạt nhân ( thường là một số cấu trúc ) với những tổ chức nổi bật và một thế giới bất định nghiêng về phía ngoại vi mà những cấu trúc hạt nhân bị nhấn chìm vào đó .
+Nếu một trong những cấu trúc hạt nhân không chỉ chiếm vị thế chủ đạo , mà còn vọt cao lên tới giai đoạn tự mô tả , do đó , chọn ra hệ thống các siêu ngữ , với sự hỗ trợ của các siêu ngữ ấy , nó không chỉ miêu tả bản thân , mà còn miêu tả không gian ngoại vi của một ký hiệu quyển nào đó , thì cấp độ thống nhất lý tưởng của nó sẽ được thiết lập ngay bên trên trạng thái không đồng đều của bức tranh ký hiệu học hiện thực .
+Sự tác động qua lại ráo riết giữa các cấp độ này sẽ là một trong những nguồn mạch của các tiến trình ký hiệu quyển ở bên trong .
+Sự pha trộn của các cấp độ càng làm tăng thêm tính không đồng đều ở một cấp độ cấu trúc .
+Trong thực tế tồn tại của ký hiệu quyển , cấp độ của các ngôn ngữ và các văn bản thường bị phá vỡ : chúng xô đẩy lẫn nhau như nằm trên cùng một cấp độ .
+Có vẻ như không phải các văn bản đang ngụp lặn trong những ngôn ngữ tương thích với chúng , mà ngay cả bộ mã dùng để đọc chúng cũng có thể hoàn toàn thiếu vắng .
+Hãy hình dung một gian bảo tàng , nơi có những tủ kính khác nhau trưng bày những hiện vật của nhiều thế kỷ khác nhau , các dòng chữ đề bằng những thứ ngôn ngữ được nhiều người biết và không ai biết , bảng hướng dẫn cách đọc , văn bản giải thích cho triển lãm do các nhà chuyên môn biên soạn , sơ đồ các tuyến tham quan và nội quy đòi hỏi khách tham quan phải tuân thủ .
+Nếu chúng ta mời thêm chính những người tham quan cùng với thế giới ký hiệu học của họ vào đó , chúng ta sẽ có được một cái gì đó tương tự như bức tranh ký hiệu quyển .
+Tính không thuần nhất về phương diện cấu trúc của không gian ký hiệu học sẽ tạo ra nguồn dự trữ cho các tiến trình năng động và là một trong những cơ chế tạo ra thông tin mới trong nội bộ vùng quyển .
+Ở những khu vực ngoại vi , khu vực kém tổ chức nhất và có những cấu trúc linh hoạt , " trơn tuột " , các tiến trình vận động vướng phải ít trở lực nhất , nên chúng phát triển nhanh hơn .
+Tạo ra các loại tự miêu tả siêu cấu trúc ( các cú pháp ) là nhân tố tăng cường mạnh mẽ sự chặt chẽ của cấu trúc và kìm hãm sự phát triển của nó .
+Trong khi đó , những khu vực không bị mô tả , hoặc được mô tả bằng những phạm trù cú pháp " lạ " , hoàn toàn không phù hợp với nó sẽ phát triển nhanh hơn .
+Điều này sẽ chuẩn bị cho sự di chuyển chức năng trong tương lai của hạt nhân cấu trúc ra khu vực ngoại vi của giai đoạn trước đó và sự di chuyển trung tâm cũ ra khu vực ngoại vi .
+Có thể nhìn thấy rất rõ quá trình này trong sự chuyển dịch địa lý của những trung tâm và khu vực " ngoài rìa " ở các nền văn minh thế giới .
+Sự chia tách thành trung tâm và ngoại vi là quy luật tổ chức nội tại của ký hiệu quyển .
+Các hệ thống ký hiệu học chiếm vị thế chủ đạo được phân bố ở vùng hạt nhân .
+Nhưng nếu nhân tố phân chia này mang tính tuyệt đối , thì các hình thức bao bọc nó chỉ mang tính tương đối về ký hiệu học , và đa phần chịu sự quy định của siêu ngữ được lựa chọn để miêu tả , tức là lệ thuộc vào việc chúng ta có liên quan tới sự tự miêu tả ( miêu tả từ quan điểm bên trong và bằng những thuật ngữ được tạo ra trong tiến trình tự phát triển của một ký hiệu quyển nào đó ) hay không , hay nó được tiến hành do người quan sát bên ngoài , bằng các phạm rù của một hệ thống khác .
+Các tổ chức ký hiệu học ngoại vi có thể không phải là những cấu trúc ( ngôn ngữ ) khép kín , mà là những mảnh , thậm chí là những văn bản riêng lẻ .
+Xuất hiện với tư cách là những cái " lạ " đối với một hệ thống nào đó , các văn bản này giữ vai trò của chất xúc tác trong cơ cấu chỉnh thể của ký hiệu quyển .
+Một mặt , ranh giới với văn bản lạ bao giờ cũng là khu vực tạo nghĩa tăng cường .
+Mặt khác , mọi mảnh cấu trúc ký hiệu học , hoặc văn bản riêng lẻ đều bảo tồn cơ chế tái tạo toàn bộ hệ thống .
+Chính sự phá vỡ chỉnh thể này sẽ gây ra quá trình " hồi tưởng " gấp gáp hơn - quá trình tái tạo chỉnh thể ký hiệu học theo bộ phận của nó .
+Việc tái tạo một ngôn ngữ đã mất như thế để trong hệ thống của nó một văn bản nào đó có thể hiểu thấu bao giờ cũng thực sự là sự sáng tạo một ngôn ngữ mới , chứ không phải là sự phục dựng cái cũ như điều đó được nhìn từ giác độ tự nhận thức của văn hóa .
+Sự hiện diện thường trực trong văn hóa một nguồn dự trữ nhất định các văn bản với những mã đã mất sẽ dẫn tới chỗ , quá trình sáng tạo ra các mã mới thường được tiếp nhận một cách chủ quan như là sự tái tạo ( " hồi tưởng " ) .
+Sự không đồng đều về mặt cấu trúc của tổ chức bên trong ký hiệu quyển сó nguyên nhân ở chỗ , ví như , do không thuần nhất từ trong bản chất , nên ở những bộ phận khác nhau , nó sẽ phát triển theo những tốc độ khác nhau .
+Các ngôn ngữ khác nhau cũng sẽ có thời gian khác nhau và quy mô khác nhau của các chu kỳ ; chẳng hạn , các ngôn ngữ tự nhiên sẽ phát triển chậm hơn rất nhiều so với các cấu trúc tinh thần - tư tưởng hệ .
+Cho nên , không có gì phải nói về sự đồng bộ của các tiến trình diễn ra trong đó .
+Do vậy , ký hiệu quyển bao giờ cũng bị chia cắt nhiều lần bởi những đường ranh giới nội tại làm cho các bộ phận của nó trở thành những bộ phận chuyên trách trong quan hệ ký hiệu học .
+Sự truyền dẫn thông tin qua các đường ranh giới ấy , trò chơi giữa các cấu trúc và tiểu cấu trúc khác nhau , sự " xâm lăng " ký hiệu học liên tục mang tính khuynh hướng đối với " lãnh thổ khác " sẽ tạo ra quá trình sinh nghĩa , làm xuất hiện thông tin mới .
+Sự đa dạng nội tại của ký hiệu quyển thể hiện tính toàn vẹn của nó .
+Các bộ phận gia nhập vào chỉnh thể không giống các chi tiết máy móc , mà là các cơ quan của một cơ thể .
+Đặc điểm cơ bản trong tổ chức cấu trúc ở các cơ chế hạt nhân của ký hiệu quyển là từng bộ phận của nó tự mình bao giờ cũng là một chỉnh thể khép kín độc lập về phương diện cấu trúc .
+Mối liên hệ giữa nó với các bộ phận khác rất phức tạp và có khả năng giải tự động hóa ở mức độ cao .
+Ngoài ra , ở những cấp độ cao nhất , chúng có phẩm chất của hành vi , tức là có khả năng lựa chọn độc lập cương lĩnh hoạt động .
+Trong tương quan với chỉnh thể , do nằm ở những cấp độ khác trong đẳng cấp cấu trúc , chúng có thuộc tính của cái đồng hình .
+Bởi vậy , chúng đồng thời vừa là một bộ phận của chỉnh thể , vừa là cái tương đồng với chỉnh thể .
+Để làm sáng tỏ tương quan này , có thể tìm tới lối nói hình ảnh từng được nhà văn người Séc Tomáš Štítný sử dụng trong một trường hợp khác ở cuối thế kỷ XIV .
+Tương tự như khi được phản chiếu nguyên vẹn trong gương , một khuôn mặt sẽ được phản ánh ở mọi mảnh vỡ của nó và như thế , mỗi mảnh vỡ này vừa là một phần , vừa là hình ảnh tương đồng ở toàn bộ tấm gương , trong chỉnh thể cơ cấu ký hiệu học , một văn bản riêng lẻ , trong những tương quan nào đó , cũng đồng hình với toàn bộ thế giới văn bản và vạch ra một đường song song rõ rệt giữa ý thức cá nhân , văn bản và văn hóa nói chung .
+Sự đồng hình theo trục dọc tồn tại giữa các cấu trúc phân bố ở những cấp độ đẳng cấp khác nhau sẽ tạo ra sự tăng trưởng số lượng thông tin .
+Giống như một vật được phản chiếu trong gương sẽ sinh ra hàng trăm hình ảnh ở những mảnh vỡ của nó , thông tin sau khi được nhập vào cấu trúc ký hiệu học toàn vẹn sẽ được nhân lên về số lượng ở những cấp độ thấp hơn .
+Hệ thống có khả năng biến văn bản thành một dòng thác văn bản .
+Nhưng việc tạo ra những văn bản hoàn toàn mới đòi hỏi phải có cơ chế khác .
+Ở đây dứt khoát phải có một kiểu tiếp xúc hoàn toàn khác .
+Cơ chế của sự đồng hình ở đây được xây dựng theo cách khác .
+Do ở đây không nói về hành vi truyền đạt giản đơn , mà là về sự trao đổi , nên giữa các tham thể không phải chỉ có một quan hệ tương đồng , mà còn phải có một sự khác biệt nào đó .
+Điều kiện giản đơn nhất của dạng diễn giải ký hiệu học này có thể được tổ chức theo cách sau : các chủ thể tham gia trong đó không được đồng hình với nhau , mà phải đồng hình một cách riêng rẽ với yếu tố thứ ba ở một cấp độ cao hơn mà chúng tham gia vào hệ thống của nó .
+Chẳng hạn ngôn ngữ bằng lời và ngôn ngữ hình họa của những bức ảnh vẽ không đồng hình với nhau .
+Nhưng trong những tương quan khác nhau , mỗi loại ngôn ngữ này lại đồng hình với thế giới hiện thực bên ngoài ký hiệu học mà chúng chính là sự phản ánh của nó vào một ngôn ngữ nào đó .
+Điều ấy tạo ra khả năng , một mặt , trao đổi thông tin giữa các hệ thống nói trên , mặt khác , biến đổi độc đáo các thông tin và các tiến trình di chuyển của chúng .
+Sự hiện diện của hai đối tác giao tiếp vừa giống nhau , lại vừa khác nhau là điều kiện , tuy không phải duy nhất , nhưng quan trọng nhất , để xuất hiện hệ thống đối thoại .
+Đối thoại chứa đựng trong bản thân sự tương liên và tính lưỡng hợp trong trao đổi thông tin .
+Nhưng muốn có được điều đó phải làm sao để thời gian truyền đạt được thay thế bằng thời gian tiếp nhận .
+Và điều này lại bao hàm sự tách bạch , ngắt quãng - khả năng tạo ra những chỗ gián đoạn trong truyền đạt thông tin .
+Khả năng phân bố thông tin thành nhiều phần là quy luật chung của các hệ thống đối thoại - từ việc bài tiết hợp chất bốc hương trong nước tiểu của cầy hương cho đến việc trao đổi các văn bản trong hoạt động giao tiếp của con người .
+Cần nhớ rằng , sự gián đoạn có thể xuất hiện ở cấp độ cấu trúc nơi mà sự thực hiện bằng vật liệu của nó có sự thay đổi mang tính chu kỳ giữa các giai đoạn hoạt động cao và các giai đoạn suy giảm tối đa .
+Thực tế có thể nói , sự gián đoạn trong các hệ thống thông tin xuất hiện khi miêu tả các quá trình mang tính chu kỳ bằng ngôn ngữ của cấu trúc gián đoạn .
+Chẳng hạn , có thể phân chia các thời kỳ trong lịch sử văn hóa , khi đang hoạt động ở đỉnh điểm , nền nghệ thuật này hay nền nghệ thuật kia chuyển các văn bản của mình vào những hệ thống ký hiệu khác .
+Nhưng những giai đoạn này sẽ được thay thế bằng các giai đoạn khác khi một loại nghệ thuật nào đó tựa như chuyển " thành thủ pháp " .
+Điều đó không có nghĩa , chúng ta sẽ bắt gặp sự gián đoạn khi mô tả lịch sử riêng biệt của một nghệ thuật nào đó : được nghiên cứu từ nội tại , nó sẽ giống như sự liên tục .
+Nhưng chỉ cần chúng ta đặt ra nhiệm vụ nghiên cứu cả quần thể các nghệ thuật trong khuôn khổ một thời đại nào đó , chúng ta sẽ thấy rõ ngay sự bành trướng của một loạt nghệ thuật này và một loại nghệ thuật khác thì " có vẻ như gián đoạn " trong lịch sử .
+Điều này có thể giải thích cho một hiện tượng mà các nhà lịch sử văn hóa đã biết từ lâu , nhưng về mặt lý luận lại chưa được nghiên cứu : theo đa số các lý thuyết văn hóa học , thì mọi biểu hiện nghệ thuật và , rộng hơn , tinh thần khác nhau thuộc phạm vi của những hiện tượng , ví như Phục hưng , baroque , chủ nghĩa cổ điển hay chủ nghĩa lãng mạn , vốn nẩy sinh từ các nhân tố tổng hợp của một nền văn hóa nào đó , cần được xem xét một cách đồng bộ .
+Nhưng thực tiễn lịch sử văn hóa lại cung cấp cho ta một bức tranh hoàn toàn khác : trong các loại hình nghệ thuật khác nhau , thời gian xuất hiện của những hiện tượng mang ý nghĩa thời đại tương tự như thế chỉ có thể cào bằng ở ngưỡng siêu cấp của sự tự nhận thức văn hóa mà sau này chuyển thành quan điểm nghiên cứu .
+Trong mạng lưới thực tế của văn hóa , sự thiếu đồng bộ không xuất hiện như là sự sai lệch ngẫu nhiên , mà vận hành như là quy luật điều chỉnh .
+Đồng thời , khi vận động lên tới đỉnh điểm , cơ chế chuyển tiếp sẽ làm hiển lộ những nét cách tân và sự năng động .
+Thông thường , phía tiếp nhận tỏ ra sống thọ hơn giai đoạn văn hóa diễn ra trước đó .
+Còn có cả những tương quan khác , phức tạp hơn , nhưng tính không đồng đều vẫn vẫn là đặc điểm mang tính quy luật phổ quát .
+Chính nhờ có quy luật ấy mà quá trình phát triển liên tục , nhìn từ giác độ nội tại , luôn hoạt động như những quá trình gián đoạn , nhìn từ quan điểm văn hóa phổ quát .
+Cũng có thể nhận ra điều đó trong quan hệ tiếp xúc giữa các không gian văn hóa rộng lớn : quá trình tác động văn hóa của phương Đông đối với phương Tây , phương Tây đối với phương Đông bao giờ cũng gắn với sự không đồng bộ của những đường phát triển văn hóa quanh co , khúc khuỷu của chúng và với người quan sát bên ngoài , nó hiện lên như là sự thay đổi mang tính gián đoạn của các hoạt động theo những hướng khác nhau .
+Cũng có thể nhận ra một hệ thống quan hệ như vậy trong những cuộc đối thoại đa dạng khác , ví như đối thoại giữa trung tâm và ngoại vi của văn hóa , giữa trên cao và dưới thấp của nó .
+Nếu biết rằng , ranh giới giữa các âm vị chỉ tồn tại ở cấp độ âm vị học , chứ tuyệt nhiên không phải ở cấp độ ngữ âm học và cũng không tồn tại ở cỗ máy ghi dao động âm thanh của lời nói , thì chúng ta sẽ chẳng lấy gì làm ngạc nhiên khi mạch xung động ở cấp độ cao nhất luôn hiện ra như là sự gián đoạn .
+Cũng có thể nói như thế về các ranh giới cấu trúc khác , ví như ranh giới giữa các từ .
+Cuối cùng , đối thoại cần phải có thêm một thuộc tính : vì văn bản được truyền đi và câu trả lời nhận được từ đó phải tạo thành một văn bản duy nhất từ một quan điểm thứ ba nào đấy , hơn nữa , từ quan điểm của mình , mỗi bên không chỉ đại diện cho một văn bản riêng lẻ , mà còn có xu hướng trở thành văn bản của một ngôn ngữ khác , nên văn bản được truyền đi , trong khi đón đợi câu trả lời , cần duy trì trong bản thân những yếu tố chuyển tiếp sang một ngôn ngữ khác .
+Nếu khác đi , đối thoại không thể thực hiện .
+Trong bài đựơc trích dẫn ở trên , John Newtonđã chỉ ra sự chuyển đổi qua lại củag ngôn ngữ biểu cảm trên nét mặt và các ký hiệu bằng lời đã diễn ra như thế nào trong cuộc đối thoại giữa bà mẹ cho con bú và đứa trẻ sơ sinh .
+Điều trên có quan hệ với việc , ví như , để tạo ra sự tác động mạnh mẽ tới hội họa , văn học thế kỷ XIX đã phải đưa vào ngôn ngữ của mình các yếu tố hộ họa .
+Những hiện tượng như vậy đã diễn ra trong những mối giao lưu văn hóa rộng lớn .
+Trao đổi đối thoại ( theo nghĩa rộng ) giữa các văn bản không phải là hiện tượng tùy thích của tiến trình ký hiệu học .
+Ảo tưởng của một Robinson bị cách ly do tư duy của thế kỷ XVIII tạo ra hoàn toàn mâu thuẫn với quan niệm hiện đại xem nhận thức là sự trao đổi thông tin - từ sự trao đổi giữa các bán cầu đại não của con người cho tới sự trao đổi giữa các nền văn hóa .
+Không có giao tiếp , không thể có nhận thức .
+Với ý nghĩa như thế có thể nói , đối thoại có trước ngôn ngữ và sinh ra ngôn ngữ .
+Chính đây là nền tảng của quan niệm về ký hiệu quyển : quần thể các tổ chức ký hiệu học có trước ( không phải có tính phát hiện sự kiện , mà về mặt chức năng ) các ngôn ngữ biệt lập riêng lẻ và là điều kiện tồn tại của ngôn ngữ biệt lập riêng lẻ ấy .
+Không có ký hiệu quyển , ngôn ngữ chẳng những không thể hoạt động , mà còn không thể tồn tại .
+Các chủ thể khác nhau của ký hiệu quyển gắn bó với nhau trong sự tác động tương hỗ và không thể hoạt động nếu không nương tựa vào nhau .
+Với ý nghĩa như thế , ký hiệu học của thế giới hiện đại từng không ngừng mở rộng trong không gian suốt nhiều thế kỷ , ngày nay đã mang tính toàn cầu , hiện đang dung nạp vào bản thân cả những tín hiệu phát ra từ các vệ tinh , những câu thơ của các thi sỹ , lẫn tiếng kêu của động vật .
+Mối liên kết của những yếu tố như thế trong không gian ký hiệu học không phải là ẩn dụ , mà là hiện thực .
+Ký hiệu quyển có chiều sâu lịch đại , vì nó có cả một bộ nhớ hết sức phức tạp , thiếu bộ nhớ , nó không thể hoạt động .
+Cỗ máy nhớ không chỉ tồn tại ở các cấu trúc ký hiệu học nòng cốt , mà còn có cả ở ký hiệu quyển như một chỉnh thể .
+Dẫu chúng ta vẫn được vây bọc trong bầu ký hiệu quyển , nhưng nó vẫn có thể cứ hiện ra như một đối tượng hỗn loạn bất thường , một tập hợp những yếu tố tự động , nên cần phải phỏng đoán rằng ở đó vẫn có một sự điều chỉnh nội tại và mối liên kết chức năng giữa các bộ phận mà quan hệ tương hỗ năng động giữa chúng sẽ tạo nên phẩm tính của ký hiệu quyển .
+Giả định ấy đáp ứng nguyên tắc kinh tế học , vì nếu không có sự giả định như vậy , thì sự thật hiển nhiên về các giao tiếp riêng lẻ sẽ rất khó giải thích .
+Sự phát triển năng động của các yếu tố ký hiệu quyển ( các cấu trúc nền móng ) đều nhằm chuyên môn hóa chúng và , theo đó , tăng cường sự đa dạng nội tại của ký hiệu quyển .
+Nhưng như thế , tính chỉnh thể của nó vẫn không bị phá vỡ , vì trong nền móng của tất cả các quá trình giao tiếp vẫn có một nguyên tắc bất biến khiến cho chúng trở thành từa tựa như nhau .
+Nguyên tắc ấy được xây dựng trên cơ sở kết hợp sự đối xứng - bất đối xứng ( ở cấp độ ngôn ngữ , đặc điểm cấu trúc này đã được Saussure xác định như là " cơ chế tương đồng và khác biệt " ) với sự thay đổi mang tính chu kỳ giữa các đỉnh điểm và suy giảm trong dòng chảy của tất cả quá trình sống ở mọi dạng thức của chúng .
+Thực chất , cả hai nguyên tắc này có thể quy về một mối thống nhất chung : sự đối xứng - bất đối xứng có thể xem như sự chia tách một khối thống nhất nào đó bởi một mặt bằng đối xứng , kết quả của sự phân chia ấy là sự xuất hiện của những cấu trúc được phản ánh theo kiểu soi gương - cơ sở làm tăng cường sự đa dạng sau đó và sự chuyên môn hóa về mặt chức năng .
+Cơ sở của tính chu kỳ là sự vận động hồi chuyển xung quanh một trục đối xứng .
+Có thể nhận ra sự kết hợp của hai nguyên tắc này ở những cấp độ hoàn toàn khác nhau - từ sự đối lập giữa tính chu kỳ ( đối xứng trục ) trong thế giới vũ trụ và hạt nhân nguyên tử với sự chuyển động một chiều thống trị trong thế giới sinh vật và là kết quả của đối xứng mặt phẳng , cho tới cặp đối lập giữa thời gian huyền thoại ( chu kỳ ) với thời gian lịch sử ( định hướng ) .
+Vì sự kết hợp của những nguyên tắc trên có thuộc tính cấu trúc vượt ra ngoài khuôn khổ không chỉ của xã hội con người , mà cả thế giới sinh vật , và cho phép xác lập sự tương đồng giữa những cấu trúc chung nhất , ví như tác phẩm thi ca , nên tất yếu sẽ phải đặt ra câu hỏi : liệu toàn bộ vũ trụ có phải là một thông tin thuộc một ký hiệu quyển chung hơn ?
+Liệu vũ trụ có thuộc về sự đọc không ?
+Chắc gì đến một lúc nào đó chúng ta sẽ có khả năng trả lời câu hỏi ấy .
+Khả năng đối thoại đã bao hàm đồng thời cả sự đa dạng , lẫn sự đơn nhất của các yếu tố .
+Sự đa dạng ký hiệu học bao hàm sự đa dạng về mặt cấu trúc .
+Về mặt này , sự đa dạng cấu trúc của ký hiệu quyển là nền tảng cơ cấu của nó .
+Có lẽ cần giải thích nguyên tắc mà V.I.Vernadski gọi là " nguyên tắc P.Curie - Pasteur " và xem đó là một " trong những nguyên tắc cơ bản của lô gíc nhận thức - khoa học về tự nhiên phù hợp với vấn đề mà chúng tôi đang quan tâm : " Chỉ có mỗi một nguyên nhân tao ra sự bất đối xứng , ấy là nguyên nhân mà bản thân nó cũng có sự bất đối xứng như vậy " .
+Trường hợp kết nối giản đơn nhất và đồng thời cũng phổ biến nhất giữa sự đồng nhất và sự khác biệt cấu trúc là đối hình , sự đối xứng gương soi , theo đó cả hai phần bằng nhau theo kiểu soi gương , nhưng không bằng nhau khi chồng lên nhau , tức là quan hệ với nhau như cái bên phải và cái bên trái .
+Một quan hệ như thế sẽ tạo nên sự khác biệt đối xứng , sự khác biệt này không giống với sự đồng nhất khiến cho đối thoại trở thành vô bổ và cũng không giống với sự khác biệt bất đối xứng khiến cho đối thoại không thể có được .
+Nếu giao tiếp đối thoại là cơ sở của sự tạo nghĩa , thì sự chia tách theo kiểu đối hình giữa cái độc nhất với sự tiếp cận của cái khác biệt là nền tảng của tương quan cấu trúc giữa các bộ phận trong cơ cấu tạo nghĩa .
+Đối xứng gương soi sẽ tạo ra quan hệ thiết yếu giữa sự đa dạng cấu trúc và sự đồng dạng cấu trúc , những thứ cho phép kiến tạo các quan hệ đối thoại .
+Một mặt , các hệ thống sẽ không bị đồng nhất với nhau và sản sinh ra các văn bản , mặt khác , chúng dễ dàng hoán đổi cho nhau , và điều đó mang lại cho các văn bản khả năng thông dịch qua lại .
+Nếu có thể nói : muốn có đối thoại , các bên tham gia đồng thời vừa phải khác nhau , vừa phải có trong cấu trúc của mình hình tượng ký hiệu học của một đối tác , thì đối hình chính là " cỗ máy " đối thoại sơ giản .
+Kiểu văn thơ thuận nghịch độc là bằng chứng chứng về sự đối xứng giản đơn theo kiểu gương soi có thể làm thay đổi tận gốc hoạt động của cơ chế ký hiệu học .
+Hiện tượng này vẫn còn ít được nghiên cứu , vì nó được xem như trò giải trí bằng thơ - một thứ hoa trái của " nghệ thuật trò chơi ngôn từ " , đôi khi bị gán cho nghĩa xấu một cách rõ rệt , giống như " trò xảo thuật bằng lời " .
+Trong khi đó , hiện tượng ấy chỉ cần xem xét bề ngoài đã có thể làm sáng tỏ nhiều vấn đề cực kỳ quan trọng .
+Ở trường hợp này , điều mà chúng tôi quan tâm không phải là khả năng duy trì nghĩa khi đọc xuôi , cũng như khi đọc ngược của lối văn thơ thuận nghịch độc , mà là cơ chế tạo văn bản và , bởi vậy , là cơ chế của ý thức khi đọc như thế .
+Xin nhắc lại sự phân tích của viện sỹ V.M.Alekseiev về thơ thuận nghịch độc của Trung Quốc .
+Sau khi vạch rõ , nếu tách riêng rẽ , chữ viết tượng hình Trung Hoa chỉ tạo ra ý niệm về một cụm nghĩa , còn các đặc điểm ngữ nghĩa cụ thể và cú pháp của nó lại chỉ bộc lộ trong tương quan với chuỗi văn bản và nếu bỏ đi trật tự của các từ - ký hiệu thì cả các phạm trù cú pháp , lẫn ý nghĩa thực tế của chúng đều không thể xác định được , V.M.Alekseiev chỉ ra những chuyển động tuyệt vời của cú pháp - ngữ nghĩa diễn ra trong thơ thuận nghịch độc Trung Hoa , tùy thuộc vào hướng đọc bài thơ ấy .
+Trong " văn thơ thuận nghịch độc Trung Hoa ( tức là trong trật tự ngược lại của các từ trong một câu thơ bình thường ) , khi được đặt một cách chính xác vào các vị trí của mình , toàn bộ các âm tiết - từ Trung Hoa phải giữ những vai trò khác , cả về mặt cú pháp , lẫn ngữ nghĩa " .
+Từ đó , V.M.Alekseiev rút ra kết luận thứ vị có ý nghĩa phương pháp luận : chính văn thơ thuận nghịch độc là chất liệu vô giá có thể sử dụng để nghiên cứu ngữ pháp ngôn ngữ Trung Quốc .
+Các kết luận rõ ràng :
+1 ) Văn thơ thuận nghịch độc là một trong những phương tiện có khả năng tốt nhất minh họa cho mối quan hệ ràng buộc lẫn nhau giữa các âm tiết - từ , mà không cần viện tới thí nghiệm về sự kết hợp và chuyển dịch vị trí một cách nhân tạo , không khéo léo , vụng về , mang tính giảng đường thô thiển dùng làm bài tập cho học trò trong giời học cú pháp Trung Hoa .
+2 ) Văn thơ thuận nghịch độc là vật liệu Trung Quốc tốt nhất dùng để xây dựng lý luận về đơn vị từ của trung Quốc ( cũng có thể , không riêng gì Trung Quốc ) và câu đơn giản .
+Các công trình khảo sát văn thơ thuận nghịch độc của Nga lại rút ra những kết luận khác .
+Trong một bài báo ngắn , S.Kirsanov đã thông báo những điều tự quan sát cực kỳ lý thú về vấn đề tâm lý của tác giả văn thơ thuận nghịch độc Nga .
+Ông kể , khi " còn là học sinh phổ thông " , một lần " tự nhiên đọc thầm " : " Тюлень не лют " , ông bỗng phát hiện rằng câu này có thể đọc theo trật tự ngược lại .
+Từ đó tôi thường bắt gặp mình hay đọc ngược các từ .
+" Về sau , tôi bắt đầu nhìn các từ một cách " nguyên khối " , rồi những từ tự ghép vận như thế và sự kết hợp của chúng bắt đầu nẩy ra một cách tự nhiên " .
+Như vậy , làm cho nhìn thấy được từ là cơ chế của lối viết thuận nghịch độc Nga .
+Điều này tạo điều kiện để sau đó đọc được tác phẩm theo chiều ngược lại .
+Có một điều rất đáng chú ý : trong tiếng Hán , nơi từ - tượng hình tựa như dấu đi cấu trúc hình thái - cú pháp của nó , việc đọc theo trật tự ngược lại sẽ giúp xác định cấu trúc bị dấu kín ấy nhờ hình dung ra cái chỉnh thể và cái thấy được như một tập hợp bí mật các yếu tố cấu trúc nối tiếp nhau .
+Trong tiếng Nga , nó lại đòi hỏi phải biết " nhìn thấy các từ một cách nguyên khối " , tức là tiếp nhận chúng như một bức vẽ toàn vẹn , kiểu như chữ tượng hình .
+Thơ thuận nghịch độc Trung Hoa chuyển cái nhìn thấy được và cái chỉnh thể thành cái rời rạc và cái khác biệt trong phân tích ; thuận nghịch độc Nga lại kích hoạt cái ngược lại hoàn toàn : tính hiển thị và tính toàn vẹn .
+Tức là việc đọc theo chiều ngược lại sẽ kích hoạt cơ chế ý thức thuộc bán cầu khác .
+Thực tế cơ bản ở sự chuyển vị đối hình của văn bản làm thay đổi kiểu ý thức tương ứng với nó .
+Bởi vậy , việc xem thơ thuận nghịch độc như một " trò ảo thuật " vô bổ , một ngón tiểu xảo vô nghĩa gợi nhớ tới ý kiến của chú gà trống trong ngụ ngôn của Krylov về hạt trân châu .
+Nhân đây , xin nhắc lại đạo lý của ngụ ngôn ấy :
+Mấy thằng ngu phán chắc nịch thế này :
+Nếu người ta chẳng hiểu nghĩa lý ở đâu
+Thì chuyện gì của họ cũng đều là nhảm nhí .
+Thơ thuận nghịch độc kích hoạt các vỉa ngầm của ý thức ngôn ngữ và là vật liệu cực kỳ có giá trị dùng để thí nghiệm về các vấn đề về đối xứng chức năng của não .
+Thơ thuận nghịch độc không vô nghĩa , mà có rất nhiều ý nghĩa .
+Ở những cấp độ cao hơn , chiều đọc ngược thường chứa đựng ý nghĩa huyền bí , thiêng liêng , bí mật .
+Theo cách đọc " bình thường " , văn bản được đồng nhất với phạm vi " mở " của văn hóa , đọc theo chiều ngược lại , văn bản lại đồng nhất với khu vực bí truyền của nó .
+Rất đáng lưu ý tới hiện tượng sử dụng lối thuận nghịch độc trong các thần chú , các công thức ma thuật , trong những dòng chữ viết trên cổng lớn hoặc lăng mộ , tức là ở những vị trí địa đầu và mang tính huyền bí của không gian văn hóa - các khu vực đụng độ giữa những sức mạnh dương gian ( bình thường ) và sức mạnh cõi âm ( ngược lại ) .
+Còn Apollinaris Sidonius , giáo chủ và nhà thơ , thì gán bản quyền của những câu thuận nghịch độc nổi tiếng bằng tiếng La Tinh cho chính ma quỷ bản :
+Signa te signa , temere me tangis et angis .
+Roma tibi subito motibus ibit amor
+Hãy làm dấu , hãy làm dấu , ngươi không biết ngươi làm thế là đụng chạm tới ta và dồn ép ta .
+Rome , bằng những điệu bộ - ký hiệu ấy người đột nhiên kêu cầu tình yêu cho mình .
+Trong tất cả các cấp độ sinh nghĩa , cơ chế gương soi tạo thành những cặp đối xứng - bất đối xứng là cơ chế phổ biến rộng rãi tới mức có thể gọi đó là cơ chế phổ quát , bao trùm cấp độ phân tử và các cấu trúc chung của vũ trụ , ở phía này , và của những tạo tác toàn cầu của tinh thần con người , ở phía kia .
+Với các hiện tượng được gói trong khái niệm " văn bản " , hiển nhiên là nó mang tính phổ quát .
+Đặc điểm của đường song hành gắn với cặp phản đề của cấu trúc thiên đình ( trực tuyến ) và âm phủ ( chiều ngược ) là tính chất đối kính không gian giữa Ngục Luyện lồi và Địa Ngục lõm , những thứ lặp lại cấu hình của nhau trong sáng tác của Dante như khuôn mẫu và sự lấp đầy khuôn mẫu .
+Kết cấu của Evgheni Oneghin , trong đó , theo vận động của tuyến này , " nàng " yêu " chàng " và thổ lộ tình yêu trong thư , nhưng nhận được sự cự tuyệt lạnh lùng ; còn theo chiều ngược lại , " chàng " yêu " nàng " , thổ lộ tình yêu trong thư và , đến lượt mình , cũng nhận được sự cự tuyệt , có thể xem là kiểu tổ chức thuận nghịch độc của truyện kể .
+Sự lặp lại của truyện kể theo kiểu như thế là nét điển hình trong sáng tác của Pushkin .
+Chẳng hạn , trong Người con gái viên đại uý , truyện kể được hình thành từ hai cuộc hành trình : Grinhev đến chỗ hoàng đế nông dân để cứu Masha đang gặp nạn , sau đó Masha lại đến chỗ nữ hoàng quý tộc để giải cứu Grinhev .
+Cặp song sinh thường gắn trực tiếp với chủ đề về gương soi và hình ảnh tràn ngập trong văn học lãng mạn và hậu lãng mạn thế kỷ XIX là những cơ chế tương tự như thế ở cấp độ nhân vật .
+Tất nhiên , giống như sự bất đối xứng song phương của não người chỉ xác định đặc tính của cơ chế tư duy , chứ không quyết định sẵn nội dung của nó , những kiểu đối xứng - bất đối xứng nói trên chỉ là các cơ chế tạo nghĩa và chúng chỉ quyết định tình huống ký hiệu học , chứ không quyết định nội dung của thông tin này hay thông tin kia .
+Xin dẫn thêm một ví dụ để thấy phép đối xứng gương soi làm thay đổi bản chất của văn bản như thế nào .
+N.Tarabukin đã phát hiện một quy luật của kết cấu hội họa , theo đó , trục đường chéo từ góc phải phía dưới sang góc trái phía trên tạo ra hiệu ứng thụ động , còn trục theo chiều ngược lại , từ góc trái phía dưới sang góc phải phía trên tao ra hiệu ứng tích cực và ráo riết .
+Từ quan điểm đang được xem xét , bức tranh nổi tiếng của Géricaull Chiếc bè của Méduse rất thú vị .
+Kết cấu của nó được xây dựng trên hai đường chéo đan xen nhau : thụ động và tích cực .
+Dòng chuyển động của chiếc bè do gió đẩy được vẽ từ phải qua trái tiến vào chiều sâu .
+Nó tượng trưng cho sức mạnh tự phát của thiên nhiên sẵn sàng cuốn đi một dúm người bất lực đang bị đắm tàu .
+Ở đường ngược lại , tích cực , họa sỹ sắp xếp mấy hình người đang dốc những nỗ lực cuối cùng để thoát khỏi tình thế bi thảm .
+Họ không ngừng đấu tranh .
+Họ nhấc bổng một người lên cao buộc anh ta vẫy tấm khăn để thu hút sự chú ý của chiếc tàu chạy qua ở phía xa cuối chân trời .
+Từ những gì vừa nói , có thể rút ra một thực tế được khẳng định bằng thực nghiệm : cũng chỉ là một bức tranh vậy thôi , thế mà khi được vẽ phóng lại trên phép đối xứng gương soi với vết tích chạm khắc , nó có thể làm cho sắc thái ý nghĩa - tình cảm thay đổi theo hướng ngược lại .
+Nguyên nhân của những hiện tượng nêu trên là ở chỗ , các đối tượng được phản ánh có những mặt bằng đối xứng và bất đối xứng trong cấu trúc nội tại của chúng .
+Khi chuyển vị đối hình , các mặt bằng đối xứng bị vô hiệu hóa và không biểu hiện bản thân bất cứ điều gì , còn các mặt bằng bất đối xứng lại trở thành dấu hiệu cấu trúc .
+Bởi vậy , tính song đôi đối xứng - gương soi là nền tảng cấu trúc sơ đẳng của quan hệ đối thoại .
+Quy luật đối xứng gương soi là một trong những nguyên tắc cấu trúc cơ bản của sự tổ chức nội tại cơ cấu tạo nghĩa .
+Ở cấp độ truyện kể nguyên tắc này bao gồm sự song hành của các nhân vật " cao cả " và hài hước , sự xuất hiện của cặp song sinh , các bước truyện kể song hành và những hiện tượng khác đã được nghiên cứu cặn kẽ về sự nhân đôi của các cấu trúc bên trong văn bản .
+Điều này còn gắn với chức năng ma thuật của gương soi và vai trò của mô típ mang tính gương soi trong văn học và hội họa .
+Cả hiện tượng " văn bản trong văn bản " cũng có bản chất như vậy .
+Có thể đối chiếu điều này với hiện tượng đã được chúng tôi khảo sát ở một chỗ khác , nó được nhận ra ở cấp độ các nền văn hóa dân tộc mang tính chỉnh thể : quá trình tìm hiểu lẫn nhau và nối mạch với một thế giới văn hóa chung nào đó không chỉ khiến cho các nền văn hóa riêng lẻ xích kại gần nhau , mà còn khiến cho chúng được chuyên môn hóa - gia nhập vào một cộng đồng văn hóa nào đó , văn hóa bắt đầu phát triển sự độc đáo của mình một cách ráo riết hơn .
+Đến lượt mình , chính các nền văn hóa khác sẽ mã hóa nó như là cái " đặc biệt " , " độc đáo " .
+" Với bản thân " , văn hóa bị cô lập bao giờ cũng " tự nhiên " , " bình thường " .
+Chỉ khi trở thành một bộ phận của chỉnh thể rộng lớn , nó mới có được điểm nhìn từ phía bên ngoài đối với bản thân như một hiện tượng đặc thù .
+Đồng thời , những cộng đồng văn hóa kiểu phương " Tây " và phương " Đông " sẽ hợp lại thành cặp đối hình với phép bất đối xứng " hoạt động " chức năng .
+Vì tất cả các cấp độ ký hiệu quyển - từ cá nhân con người hoặc các văn bản riêng lẻ cho tới khối thông nhất ký hiệu học toàn cầu - tựa như là những ký hiệu quyển lồng vào nhau , mỗi ký hiệu quyển trong đó đều đồng thời vừa là một bên tham gia đối thoại ( một phần của ký hiệu quyển ) , vừa là bên phải hoặc bên trái , vừa thâu nhận vào bản thân các cấu trúc bên phải hoặc bên trái ở cấp độ thấp hơn .
+Ở trên , chúng tôi đã xác định cơ sở xây dựng cấu trúc ký hiệu quyển như là sự giao nhau của phép đối xứng - bất đối xứng không gian và sự thay đổi cường độ theo hình sin cùng sự suy giảm của các tiến trình thời gian làm này sinh sự gián đoạn .
+Với những gì đã nói , chúng tôi có thể chập hai trục ấy thành một : sự biểu hiện của bên phải - bên trái , cái làm nền móng của đối thoại từ cấp độ di truyền - phân tử cho tới những quá trình thông tin phức tạp nhất - là cơ sở của tất cả các quá trình sinh nghĩa .

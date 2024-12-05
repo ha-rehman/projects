@@ -1,0 +1,16 @@
+Trời Sập
+Một trái đầu từ trên cây rơi xuống trúng đầu Thỏ .
+Thỏ vội chạy đến báo cho Cáo .
+" Trời sắp sập , " Thỏ la toáng .
+Cáo liền chạy đến báo cho Gấu .
+" Trời sắp sập , " Cáo nói .
+Gấu liền chạy đến báo cho Sóc .
+" Trời sắp sập , " Gấu nói .
+Sóc liền chạy đến báo cho Nai .
+" Trời sắp sập , " Sóc nói .
+Nai liền chạy đến báo cho Chuột .
+" Trời sắp sập , " Nai nói .
+Chuột liền chạy đến báo cho bác Cú già thông thái .
+" Trời sắp sập , " Chuột nói .
+" Không , không phải đâu , " bác Cú nói .
+Chỉ là một trái đầu từ trên cây rớt xuống trúng đầu Thỏ .

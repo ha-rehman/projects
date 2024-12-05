@@ -1,0 +1,3649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	
+	<category>
+	    <pattern>RALABKICS</pattern>
+	    <template>
+	        <delay>2</delay>
+
+	        There are 25 Research Labs working on different technologies in kics, details about these technologies are below:<split/>
+	        
+	        
+            <button>
+                <text>Mobile Application and Software Devlopment, Artificial Intelligence</text>
+                <postback>MASDAIK</postback>
+            </button>
+            
+            <button>
+                <text>Mobile Application and Software Development</text>
+                <postback>MASDK</postback>
+            </button>
+            
+            
+            <button>
+                <text>Renewable Energy Technologies</text>
+                <postback>RETK</postback>
+            </button>
+            
+            <button>
+                <text>Networking, Cloud and Virtualization Services</text>
+                <postback>NCVSK</postback>
+            </button>
+            
+            <button>
+                <text>Embedded System Development</text>
+                <postback>ESDK</postback>
+            </button>
+            
+            <button>
+                <text>IOT, Big Data, and WSN</text>
+                <postback>IBDSWK</postback>
+            </button>
+            
+	    </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern>MASDAIK</pattern>
+        <template>
+            <delay>2</delay>
+
+            There are 6 Labs working on this technology,
+            <button>
+	            <text>Artificial Intelligence Research Lab (AIRL)</text>
+	            <postback>RAAIRLK</postback>
+            </button>
+            
+            <button>
+                <text>Bioinformatics Research Lab (BRL)</text>
+                <postback>RBRLK</postback>
+            </button>
+            
+            <button>
+                <text>Computer Vision and Machine Learning Lab (CVML)</text>
+               <postback>RCVMLK</postback>
+            </button>
+            
+            <button>
+                <text>Data Science Lab (DSL)</text>
+                <postback>RDSLK</postback>
+            </button>
+            
+            <button>
+                <text>Human Centered Robotics Research Lab (HCRL)</text>
+                <postback>RHCRLK</postback>
+            </button>
+            
+            <button>
+                <text>Intelligent Criminology Research lab (ICRL)</text>
+                <postback>RICRLK</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+	
+	<category>
+	    <pattern>MASDK</pattern>
+	    <template>
+	        <delay>2</delay>
+	        There are 3 Labs working on this Technology,
+	        
+	        <button>
+                <text>Enterprise Software Solution Lab (ESSL)</text>
+                <postback>RESSLK</postback>
+            </button>
+            
+            <button>
+                <text>Software Systems Research Lab (SSRL)</text>
+                <postback>RSSRLK</postback>
+            </button>
+            
+            <button>
+                <text>UET Game Studio Lab (UGSL)</text>
+                <postback>RUGSLK</postback>
+            </button>
+	        
+	    </template>
+    </category>
+    
+    <category>
+        <pattern>RETK</pattern>
+        <template>
+            <delay>2</delay>
+            There are 2 Labs working on this Technology,
+            
+             <button>
+                <text>Alternate Energy Research and Innovation Lab (AERIL)</text>
+                <postback>RAERILK</postback>
+            </button>
+            
+            <button>
+                <text>Energy Efficiency and Conservation Lab (EECL)</text>
+                <postback>REECLK</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern>NCVSK</pattern>
+        <template>
+            <delay>2</delay>
+            There are 1 Lab working on this Technology,
+            
+            <button>
+                <text>High Performance Computing and Networking Lab (HPCNL)</text>
+                <postback>RHPCNLK</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern>ESDK</pattern>
+        <template>
+            <delay>2</delay>
+            There are 3 Labs working on this Technology,
+            
+            <button>
+                <text>Industrial Automation and Control Lab (IACL)</text>
+                <postback>RIACLK</postback>
+            </button>
+            
+            <button>
+                <text>Motion Control Research Lab (MCRL)</text>
+                <postback>RMCRLK</postback>
+            </button>
+            
+            <button>
+                <text>Power System Lab (PSL)</text>
+                <postback>RPSLK</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    <category>
+        <pattern>IBDSWK</pattern>
+        <template>
+            <delay>2</delay>
+            There are 3 Labs working on this technology,
+            
+            <button>
+                <text>IoT Research and Innovation Lab (IRIL)</text>
+                 <postback>RIRILK</postback>
+            </button>
+            
+            <button>
+                <text>Next-Generation Wireless Networking Lab (NWNL)</text>
+                <postback>RNWNLK</postback>
+           </button>
+            
+            <button>
+                <text>Wireless System Research Lab (WSRL)</text>
+                <postback>RWSRLK</postback>
+            </button>
+            
+        </template>
+    </category>
+	
+	
+	
+	
+	
+<!--AIRL LAB-->	
+
+<category>
+    <pattern>RAAIRLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.
+    <br/> for more info visit:
+    
+    <button>
+        <text>Learn About AIRL</text>
+        <url>https://www.kics.edu.pk/labs/about/airl</url>
+    </button>
+
+    </template>
+</category>	
+	
+<category>
+    <pattern># AIRL ^</pattern>
+    <template>
+        Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.
+    <br/><br/>
+    <button>
+        <text>for more info.</text>
+         <url>https://www.kics.edu.pk/labs/about/airl</url>
+    </button>
+	        
+    </template>
+</category>	
+	
+<category>
+    <pattern># Artificial Intelligence ^ Lab ^</pattern>
+   <template>
+        Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.
+    <br/><br/>
+    <button>
+        <text>for more info.</text>
+         <url>https://www.kics.edu.pk/labs/about/airl</url>
+    </button>
+	        
+    </template>
+</category>		
+	
+<category>
+    <pattern>what is the main function of airl lab</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>
+<category>
+    <pattern># main function ^ airl lab ^</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>
+	
+<category>
+    <pattern>main function of Artificial Intelligence ^ Lab</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>
+
+<category>
+    <pattern>main function of airl</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>
+	
+<category>
+    <pattern># function of airl ^</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>	
+
+<category>
+    <pattern>function of Artificial Intelligence ^ Lab</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>	
+	
+<category>
+    <pattern>main function of airl *</pattern>
+    <template>Airl lab focus on application-oriented basic research. the aim is to develop product functions, 
+    prototypes, and patentable solutions in the domain of artificial intelligence and machine learning.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+<category>
+    <pattern># aim ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># aims ^ airl  ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objective ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objectives ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objectives ^ aims ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># aims ^ objectives ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ airl ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># aim ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># aims ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objective ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objectives ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objective ^ aim ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># objectives ^ aims ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<category>
+    <pattern># aim ^ objective ^ Artificial Intelligence ^ Lab ^</pattern>
+    <template>The AI Lab is currently involved in research on iFruitly Detector and Structure
+Recognition System. The lab has research collaboration with DAAD, DFKI and TUKL,
+Germany.</template>
+</category>
+
+<!--BRL LAB-->
+
+<category>
+    <pattern>RBRLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        BRL is involved in the development of next generation chemical and biological databases
+        and front end, electronic notepad development for chemical experimentation.
+        <br/>for more info visit:
+        <button>
+            <text>Learn About BRL</text>
+            <url>https://www.kics.edu.pk/labs/about/brl</url>
+        </button>
+        
+    </template>
+</category>	
+	
+
+<category>
+    <pattern># BRL ^</pattern>
+    <template>
+        BRL is involved in the development of next generation chemical and biological databases
+        and front end, electronic notepad development for chemical experimentation.
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+           <url>https://www.kics.edu.pk/labs/about/brl</url>
+        </button>
+    </template>
+</category>	
+	
+<category>
+    <pattern># Bioinformatics ^ Lab ^</pattern>
+    <template>
+        BRL is involved in the development of next generation chemical and biological databases
+        and front end, electronic notepad development for chemical experimentation.
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+           <url>https://www.kics.edu.pk/labs/about/brl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern>what is the main function of brl lab</pattern>
+    <template>brl lab aims to provide a national bioinformatics information network designed to cater to the inter-disciplinary 
+    and collaborative research needs of the research/scientific community and the industry</template>
+</category>
+<category>
+    <pattern># main function ^ brl lab ^</pattern>
+    <template>brl lab aims to provide a national bioinformatics information network designed to cater to the inter-disciplinary 
+    and collaborative research needs of the research/scientific community and the industry</template>
+</category>
+
+<category>
+    <pattern>main function of brl</pattern>
+    <template><srai>what is the main function of brl lab</srai></template>
+</category>
+
+<category>
+    <pattern>main function of function of Bioinformatics ^</pattern>
+    <template><srai>what is the main function of brl lab</srai></template>
+</category>
+<category>
+    <pattern># main function ^ Bioinformatics ^</pattern>
+    <template><srai>what is the main function of brl lab</srai></template>
+</category>
+
+<category>
+    <pattern># function of brl ^</pattern>
+    <template><srai>what is the main function of brl lab</srai></template>
+</category>
+
+<category>
+    <pattern># function of Bioinformatics ^ Lab ^</pattern>
+    <template><srai>what is the main function of brl lab</srai></template>
+</category>
+
+<category>
+    <pattern>main function of brl *</pattern>
+    <template><srai>what is the main function of brl lab</srai></template>
+</category>
+
+<category>
+    <pattern># purpose ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+
+<category>
+    <pattern># aim ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># aims ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># objective ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># objectives ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+
+<category>
+    <pattern># objectives ^ aims ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ brl ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+	
+<category>
+    <pattern># purpose ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>	
+<category>
+    <pattern># aim ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># aims ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># objective ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># objectives ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+
+<category>
+    <pattern># objective ^ aim ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Bioinformatics ^ Lab  ^</pattern>
+    <template>BRL is involved in the development of next generation chemical and biological databases
+and front end, electronic notepad development for chemical experimentation.</template>
+</category>
+	
+	
+<!--CVML LAB-->	
+
+<category>
+    <pattern>RCVMLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        cvml lab focus on the research and development of image processing tools, computer vision algorithms, 
+        natural language processing, and applications helpful to the community from the field of computer vision. 
+        <br/> for more info visit:
+        <button>
+             <text>Learn About CVML</text>
+            <url>https://www.kics.edu.pk/labs/about/cvml</url>
+        </button>
+	       
+    </template>
+</category>
+	
+	
+
+<category>
+    <pattern># cvml ^</pattern>
+    <template>
+        cvml lab focus on the research and development of image processing tools, computer vision algorithms, 
+        natural language processing, and applications helpful to the community from the field of computer vision. 
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/cvml</url>
+        </button>
+    </template>
+</category>
+	
+	
+
+<category>
+    <pattern># cvml ^</pattern>
+    <template>
+        cvml lab focus on the research and development of image processing tools, computer vision algorithms, 
+        natural language processing, and applications helpful to the community from the field of computer vision. 
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/cvml</url>
+        </button>
+    </template>
+</category>
+	
+	
+<category>
+    <pattern># computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>
+        <srai>cvml</srai>
+    </template>
+</category>
+	
+<category>
+    <pattern>what is the main function of cvml lab</pattern>
+    <template><srai>cvml</srai></template>
+</category>
+	
+<category>
+    <pattern># main function of cvml ^</pattern>
+    <template><srai>cvml</srai></template>
+</category>	
+
+<category>
+    <pattern># function of cvml ^</pattern>
+    <template><srai>cvml</srai></template>
+</category>	
+
+<category>
+    <pattern># function of computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template><srai>cvml</srai></template>
+</category>	
+	
+<category>
+    <pattern>main function of cvml *</pattern>
+    <template><srai>cvml</srai></template>
+</category>		
+	
+<category>
+    <pattern># purpose ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>	
+
+<category>
+    <pattern># aim ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>	
+
+<category>
+    <pattern># aims ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>	
+
+<category>
+    <pattern># objective ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>
+
+<category>
+    <pattern># objectives ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>
+
+
+<category>
+    <pattern># objective ^ aim ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ cvml ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings.
+</template>
+</category>
+		
+<category>
+    <pattern># purpose ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>	
+
+<category>
+    <pattern># aim ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>	
+<category>
+    <pattern># aims ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>
+<category>
+    <pattern># objective ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>	
+<category>
+    <pattern># objectives ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>	
+
+<category>
+    <pattern># objective ^ aim ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>
+
+<category>
+    <pattern># aim ^ objective ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ computer Vision ^ Machine Learning ^ Lab  ^</pattern>
+    <template>CVML Lab focuses on the research and development of image processing tools,
+computer vision algorithms, natural language processing and applications helpful to
+community from the field of computer vision. The lab is involved in the development of core APIs required for the surveillance systems including face recognition, emotions and
+actions recognition and scene settings
+</template>
+</category>
+	
+<!--DSL LAB-->
+
+<category>
+    <pattern>RDSLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        DSL lab works on the design of intelligent algorithms and the development of 
+        decision-making models to form risk management systems and process modeling systems.
+        <br/> for more info visit:
+        
+        <button>
+             <text>Learn About DSL</text>
+            <url>https://www.kics.edu.pk/labs/about/dsl</url>
+        </button>
+	        
+    </template>
+</category>
+
+<category>
+    <pattern># dsl ^</pattern>
+    <template>
+        DSL lab works on the design of intelligent algorithms and the development of 
+        decision-making models to form risk management systems and process modeling systems.
+        <br/><br/>
+        <button>
+            <text>for more info</text>
+            <url>https://www.kics.edu.pk/labs/about/dsl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># what is dsl ^</pattern>
+    <template>DSL lab works on the design of intelligent algorithms and the development of 
+    decision-making models to form risk management systems and process modeling systems.</template>
+</category>
+	
+<category>
+    <pattern># data science lab ^</pattern>
+    <template>
+        <srai>dsl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>what is data science lab</pattern>
+    <template><srai>dsl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of dsl ^</pattern>
+    <template><srai>dsl</srai></template>
+</category>		
+
+<category>
+    <pattern>^ main function of data science lab ^</pattern>
+    <template><srai>dsl</srai></template>
+</category>	
+	
+<category>
+    <pattern>main function of dsl *</pattern>
+    <template><srai>dsl</srai></template>
+</category>	
+	
+<category>
+    <pattern># function of dsl ^</pattern>
+    <template><srai>dsl</srai></template>
+</category>		
+	
+<category>
+    <pattern># purpose ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+
+<category>
+    <pattern># aim ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># aims ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+
+
+<category>
+    <pattern># objective ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># objectives ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+
+
+<category>
+    <pattern># objective ^ aim ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+
+<category>
+    <pattern># aim ^ objective ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ dsl ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># aim ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># aims ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># objective ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># objectives ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ data science lab ^</pattern>
+    <template>Data Science Lab (DSL) was established in 2017 to cater the challenges of current age
+which may be termed as the era of ‘data big bang’. The main objective of the lab is to
+fine new approaches for data collection, integration, and data information and sharing
+technologies.</template>
+</category>
+
+	
+	
+<!--HCRL LAB-->
+
+<category>
+    <pattern>RHCRLK</pattern>
+    <template> 
+    <delay>2</delay>
+
+    hcrl lab work on indigenously design and develop integrated robotic systems
+    <br/> for more info visit:
+    <button>
+        <text>Learn About HCRL</text>
+        <url>https://www.kics.edu.pk/labs/about/hcrl</url>
+    </button>
+	      
+    </template>
+</category>
+
+<category>
+    <pattern># hcrl ^</pattern>
+    <template> 
+    hcrl lab work on indigenously design and develop integrated robotic systems
+    <br/><br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/labs/about/hcrl</url>
+    </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Human Centered Robotics ^ lab ^</pattern>
+    <template>
+        <srai>hcrl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of hcrl ^</pattern>
+    <template><srai>hcrl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of Human Centered Robotics ^ Lab  ^</pattern>
+    <template><srai>hcrl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of HCRL ^</pattern>
+    <template><srai>hcrl</srai></template>
+</category>
+
+<category>
+    <pattern># purpose ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># aim ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># aims ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># objective ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># objectives ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># objective ^ aim ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># objectives ^ aims ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># aims ^ objectives ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># aim ^ objective ^ hcrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+<category>
+    <pattern># aim ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># aims ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># objective ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># objectives ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Human Centered Robotics ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Robotics and Automation
+(NCRA) and has been established under the support by HEC and Planning Commission.
+The objective of the lab is to indigenously design and develop integrated robotic
+systems, based on smart sensing and actuation, to seamlessly interact with humans,
+actively learn from them and eventually create an effective collaborative environment.</template>
+</category>
+
+
+<!--ICRL LAB-->
+
+<category>
+    <pattern>RICRLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        ICRL lab works crime detection, crime prevention and crime mitigation.
+        <br/>for more info visit:
+        <button>
+             <text>Learn About ICRL</text>
+            <url>https://www.kics.edu.pk/labs/about/icrl</url>
+        </button>
+	       
+</template>
+</category>
+
+<category>
+    <pattern># icrl ^</pattern>
+    <template>
+        <delay>2</delay>
+
+        ICRL lab works crime detection, crime prevention and crime mitigation.
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/icrl</url>
+        </button>
+</template>
+</category>
+
+<category>
+    <pattern># Intelligent Criminology ^ Lab  ^</pattern>
+    <template>
+        <srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern># main function of Intelligent Criminology ^ Lab  ^</pattern>
+    <template><srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern># main function of icrl ^</pattern>
+    <template><srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern>main function of icrl</pattern>
+    <template><srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern># main function of Intelligent Criminology ^ Lab  ^</pattern>
+    <template><srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern># function of icrl ^</pattern>
+    <template><srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern># function of Intelligent Criminology ^ Lab  ^</pattern>
+    <template><srai>icrl</srai>
+</template>
+</category>
+
+<category>
+    <pattern># purpose ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># aim ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># aims ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># objective ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># objectives ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+
+<category>
+    <pattern># aim ^ objective ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ icrl ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+
+
+
+<category>
+    <pattern># purpose ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># aim ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># aims ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+
+<category>
+    <pattern># objective ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># objectives ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+
+<category>
+    <pattern># objective ^ aim ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+
+<category>
+    <pattern># aim ^ objective ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Intelligent Criminology ^ Lab  ^</pattern>
+    <template>The lab is an affiliated research lab of National Center for Artificial Intelligence (NCAI). It
+was established with the support by HEC and Planning Commission. The research areas
+include:<br/>
+1. Crime Detection: Video Surveillance and Gunshot Detection<br/>
+2. Crime Prevention: Crowd Analytics and Social Media Analytics<br/>
+3. Crime Mitigation: Forensic Animation and Professional Trainings</template>
+</category>
+
+
+<!--ESSL-->
+
+<category>
+    <pattern>RESSLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        ESSL focuses on automation of power industry in Pakistan, Smart Grid development,
+    Monitoring of generation, demand and distribution aspect of power grid.
+    <br/>for more info visit:
+    <button>
+       <text>Learn About ESSL</text>
+        <url>https://www.kics.edu.pk/labs/about/essl</url>
+    </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># essl ^</pattern>
+    <template>
+        ESSL focuses on automation of power industry in Pakistan, Smart Grid development,
+    Monitoring of generation, demand and distribution aspect of power grid.
+    <br/><br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/labs/about/essl</url>
+    </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Enterprise Software Solution ^ Lab  ^</pattern>
+    <template>
+        <srai>essl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of essl ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of essl *</pattern>
+    <template><srai>essl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+
+<category>
+    <pattern># function of essl ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+
+<category>
+    <pattern>function of essl *</pattern>
+    <template><srai>essl</srai></template>
+</category>
+
+<category>
+    <pattern># purpose ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Enterprise Software Solution ^ Lab  ^</pattern>
+    <template><srai>essl</srai></template>
+</category>
+
+
+<category>
+<pattern># purpose ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+
+<category>
+<pattern># aim ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+
+<category>
+<pattern># aims ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+
+<category>
+<pattern># objective ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+
+<category>
+<pattern># objectives ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+
+<category>
+<pattern># objective ^ aim ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+<category>
+<pattern># objectives ^ aims ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+<category>
+<pattern># aim ^ objective  ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+<category>
+<pattern># aims ^ objectives  ^ essl ^</pattern>
+<template><srai>essl</srai></template>
+</category>
+
+
+<!--SSRL LAB-->
+
+<category>
+    <pattern>RSSRLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        ssrl lab work on software development and research services in diverse domains including web applications, 
+        enterprise systems development, prototyping, and smartphone applications.
+        <br/>for more info visit:
+        <button>
+             <text>Learn About SSRL</text>
+            <url>https://www.kics.edu.pk/labs/about/ssrl</url>
+        </button>
+	   
+        </template>
+</category>
+
+<category>
+    <pattern># ssrl ^</pattern>
+    <template>
+         ssrl lab work on software development and research services in diverse domains including web applications, 
+        enterprise systems development, prototyping, and smartphone applications.
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+             <url>https://www.kics.edu.pk/labs/about/ssrl</url>
+        </button>
+        </template>
+</category>
+
+<category>
+    <pattern># Software Systems ^ lab ^</pattern>
+    <template>
+        <srai>ssrl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of Software System ^ lab ^</pattern>
+    <template><srai>ssrl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of ssrl ^</pattern>
+    <template><srai>ssrl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of ssrl *</pattern>
+    <template><srai>ssrl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of ssrl ^</pattern>
+    <template><srai>ssrl</srai></template>
+</category>
+
+<category>
+    <pattern># function of Software System ^ lab ^</pattern>
+    <template><srai>ssrl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of ssrl *</pattern>
+    <template><srai>ssrl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># aim ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># aims ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># objective ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># objectives ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ ssrl ^</pattern>
+    <template>SSRL is engaged in Software Development, Customization of open source software,
+Enterprise level systems and web based solutions, Mobile application development and
+trainings, location based services and network parametric analysis.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Software System ^ Lab ^</pattern>
+    <template><srai>purpose of ssrl</srai></template>
+</category>
+
+
+<!--ugsl lab-->
+
+<category>
+    <pattern>RUGSLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        ugsl lab work on game studio where mobile games are designed and developed commercially.
+        <br/> for more info visit:
+        <button>
+            <text>Learn About UGSL</text>
+            <url>https://www.kics.edu.pk/labs/about/ugs</url>
+        </button>
+        
+    </template>
+</category>
+
+<category>
+    <pattern># ugsl ^</pattern>
+    <template>
+        ugsl lab work on game studio where mobile games are designed and developed commercially.
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/ugs</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Game Studio ^ Lab  ^</pattern>
+    <template>
+        <srai>ugsl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of ugsl *</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+<category>
+    <pattern># function of ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of ugsl *</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ ugsl ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+<category>
+    <pattern># purpose ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aim ^  Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Game Studio ^ Lab  ^</pattern>
+    <template><srai>ugsl</srai></template>
+</category>
+
+
+
+<!--aeril lab-->
+
+<category>
+    <pattern>RAERILK</pattern>
+    <template>
+        <delay>2</delay>
+
+        Aeril lab work on research and innovation in the areas of renewable energy technologies (solar, wind, fuel cell, etc.), 
+        energy optimization, testing and certification, sustainable energy-efficient development, and alternate energy-based home and office appliances. 
+        <br/>for more info visit:
+        <button>
+           <text>Learn About AERIL</text>
+             <url>https://www.kics.edu.pk/labs/about/aeril</url>
+        </button>
+	    
+    </template>
+</category>
+
+<category>
+    <pattern># aeril ^</pattern>
+    <template>
+        Aeril lab work on research and innovation in the areas of renewable energy technologies (solar, wind, fuel cell, etc.), 
+        energy optimization, testing and certification, sustainable energy-efficient development, and alternate energy-based home and office appliances. 
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/aeril</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>
+        <srai>aeril</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern># main function of Alternate Energy ^ Innovation ^ Lab ^</pattern>
+    <template><srai>aeril</srai></template>
+</category>
+
+<category>
+    <pattern># main function of aeril ^</pattern>
+    <template><srai>aeril</srai></template>
+</category>
+
+<category>
+    <pattern>main function of aeril *</pattern>
+    <template><srai>aeril</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of aeril ^</pattern>
+    <template><srai>aeril</srai></template>
+</category>
+
+<category>
+    <pattern># function of Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template><srai>aeril</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of aeril *</pattern>
+    <template><srai>aeril</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+
+<category>
+    <pattern># aim ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aims ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objective ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objectives ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ aeril ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+
+
+
+<category>
+    <pattern># purpose ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aim ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aims ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objective ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objectives ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Alternate Energy ^ Innovation ^ Lab  ^</pattern>
+    <template>AERIL focuses on research ideas and development related
+to renewable technologies such as solar energy, wind energy, biomass, energy
+efficiency, testing, surveillance and remote monitoring etc as well as development of
+energy efficient home and office appliances.</template>
+</category>
+
+
+
+<!--eecl lab-->
+
+<category>
+    <pattern>REECLK</pattern>
+    <template>
+        <delay>2</delay>
+
+         eecl lab performs domestic, commercial, and industrial energy audits provide hands-on training to engineers and diploma holders,
+        continues and sustains the "energy efficiency advisor" program in collaboration with giz and sequa.
+        <br/>for more info visit:
+        <button>
+            <text>Learn About EECL</text>
+            <url>https://www.kics.edu.pk/labs/about/eecl</url>
+        </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># eecl ^</pattern>
+    <template>
+         eecl lab performs domestic, commercial, and industrial energy audits provide hands-on training to engineers and diploma holders,
+        continues and sustains the "energy efficiency advisor" program in collaboration with giz and sequa.
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/eecl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>
+        <srai>eecl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template><srai>eecl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of eecl ^</pattern>
+    <template><srai>eecl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of eecl *</pattern>
+    <template><srai>eecl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of eecl ^</pattern>
+    <template><srai>eecl</srai></template>
+</category>
+
+<category>
+    <pattern># function of Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template><srai>eecl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of eecl *</pattern>
+    <template><srai>eecl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aim ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aims ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objective ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objectives ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ eecl ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aim ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aims ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objective ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objectives ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Energy Efficiency ^ Conservation ^ Lab  ^</pattern>
+    <template>EECL focuses on developing industry Academia linkage with energy conservation key
+concept in mind. It’s important to appreciate the fact that Energy conservation is more
+important than Energy generation.</template>
+</category>
+
+
+
+<!--hcpnl lab-->
+
+<category>
+    <pattern>RHPCNLK</pattern>
+    <template> 
+    <delay>2</delay>
+
+    hpcnl lab work on computer systems, networks, and application performance debugging.
+    <br/>for more info visit:
+    <button>
+        <text>Learn About HCPNL</text>
+       <url>https://www.kics.edu.pk/labs/about/hpcnl</url>
+    </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># hpcnl ^</pattern>
+    <template> 
+    hpcnl lab work on computer systems, networks, and application performance debugging.
+    <br/><br/>
+    <button>
+        <text>for more info.</text>
+        <url>https://www.kics.edu.pk/labs/about/hpcnl</url>
+    </button>
+    </template>
+</category>
+
+<category>
+    <pattern># High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>
+        <srai>hpcnl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template><srai>hpcnl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of hpcnl ^</pattern>
+    <template><srai>hpcnl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of hpcnl *</pattern>
+    <template><srai>hpcnl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of hpcnl ^</pattern>
+    <template><srai>hpcnl</srai></template>
+</category>
+
+<category>
+    <pattern># function of High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template><srai>hpcnl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of hpcnl *</pattern>
+    <template><srai>hpcnl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aim ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aims ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objective ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objectives ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ hpcnl ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aim ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aims ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objective ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objectives ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ High Performance Computing ^ Networking ^ Lab  ^</pattern>
+    <template>Research focus of HPCNL is parallel and distributed computing, virtualization, cloud
+computing, big data analytics, performance evaluation and characterization of high
+speed networks and multi-core systems.</template>
+</category>
+     
+<!--iacl lab-->
+
+<category>
+    <pattern>RIACLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        iacl lab perform research works in developing new technologies for 
+        the local market and affordable solutions for the new and existing client
+        <br/>for more info visit:
+        <button>
+            <text>Learn About IACL</text>
+            <url>https://www.kics.edu.pk/labs/about/iacl</url>
+        </button>
+	
+    </template>
+</category>
+
+
+<category>
+    <pattern># iacl ^</pattern>
+    <template>
+        iacl lab perform research works in developing new technologies for 
+        the local market and affordable solutions for the new and existing client
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/iacl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>
+        <srai>iacl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template><srai>iacl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of iacl ^</pattern>
+    <template><srai>iacl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of iacl *</pattern>
+    <template><srai>iacl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of iacl ^</pattern>
+    <template><srai>iacl</srai></template>
+</category>
+
+<category>
+    <pattern># function of Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template><srai>iacl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of iacl *</pattern>
+    <template><srai>iacl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aim ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aims ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objective ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objectives ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ iacl ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+
+<category>
+    <pattern># purpose ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aim ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aims ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objective ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objectives ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Industrial Automation ^ Control ^ Lab  ^</pattern>
+    <template>IACL focuses on developing industry Academia linkage. The lab executes projects on
+turnkey basis, provides consultancy, Performs research work on new technologies
+developed locally, the solutions cover design integration of Instruments, Electrical and
+Supervisory Control and Data Acquisition (SCADA) systems..</template>
+</category>
+
+
+<!--mcrl lab-->
+
+<category>
+    <pattern>RMCRLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        mcrl lab work on research and development in the field of advanced energy
+        using efficient designing tools for designing and local resources for manufacturing of the products
+        <br/>for more info visit:
+        <button>
+            <text>Learn About MCRL</text>
+             <url>https://www.kics.edu.pk/labs/about/mcrl</url>
+        </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># mcrl ^</pattern>
+    <template>
+        mcrl lab work on research and development in the field of advanced energy
+        using efficient designing tools for designing and local resources for manufacturing of the products
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/mcrl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Motion Control ^ Lab  ^</pattern>
+    <template>
+        <srai>mcrl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of Motion Control ^ Lab  ^</pattern>
+    <template><srai>mcrl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of mcrl ^</pattern>
+    <template><srai>mcrl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of mcrl *</pattern>
+    <template><srai>mcrl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of mcrl ^</pattern>
+    <template><srai>mcrl</srai></template>
+</category>
+
+<category>
+    <pattern># function of Motion Control ^ Lab  ^</pattern>
+    <template><srai>mcrl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of mcrl *</pattern>
+    <template><srai>mcrl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aim ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aims ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objective ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objectives ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ mcrl ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aim ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aims ^ Motion Control ^ Lab ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objective ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objectives ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Motion Control ^ Lab  ^</pattern>
+    <template>This newly launched lab’s focus is on designing and developing
+multidisciplinary/electromechanical systems for precise motion control application.</template>
+</category>
+
+
+
+<!--esess lab-->
+
+<category>
+    <pattern>RPSLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        This lab work on research and development activities in developing model based	
+        <br/> for more info visit:
+        <button>
+            <text>Learn About PSL</text>
+           <url>https://www.kics.edu.pk/labs/about/psl</url>
+        </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># esess ^</pattern>
+    <template>
+        This lab work on research and development activities in developing model based	
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/psl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Embedded System Enterprise Software Solution ^</pattern>
+    <template>
+        <srai>esess</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern># main function of Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+<category>
+    <pattern># main function of esess ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+<category>
+    <pattern>main function of esess *</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of esess ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+<category>
+    <pattern># function of Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of esess *</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aim ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aims ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objective ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ esess ^ </pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+<category>
+    <pattern># purpose ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aim ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aims ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objective ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Embedded System Enterprise Software Solution ^</pattern>
+    <template><srai>esess</srai></template>
+</category>
+
+
+
+<!--iril lab-->
+
+<category>
+    <pattern>RIRILK</pattern>
+    <template>
+        <delay>2</delay>
+
+        IoT Research and Innovation Lab at Al-Khawrizmi Institute of Computer Science (KICS) focuses
+        on research and development activities in the areas of wireless sensor networks (WSN)
+        <br/>for more info visit:
+        <button>
+            <text>Learn About IRIL</text>
+            <url>https://www.kics.edu.pk/labs/about/iril</url>
+        </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># iril ^</pattern>
+    <template>
+        IoT Research and Innovation Lab at Al-Khawrizmi Institute of Computer Science (KICS) focuses
+        on research and development activities in the areas of wireless sensor networks (WSN)
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/iril</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># IoT ^ Lab ^</pattern>
+    <template>
+        <srai>iril</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of IoT ^ Lab  ^</pattern>
+    <template><srai>iril</srai></template>
+</category>
+
+<category>
+    <pattern># main function of iril ^</pattern>
+    <template><srai>iril</srai></template>
+</category>
+
+<category>
+    <pattern>main function of iril *</pattern>
+    <template><srai>iril</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of iril ^</pattern>
+    <template><srai>iril</srai></template>
+</category>
+
+<category>
+    <pattern># function of IoT ^ Lab  ^</pattern>
+    <template><srai>iril</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of iril *</pattern>
+    <template><srai>iril</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aim ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aims ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objective ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objectives ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ iril ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+
+<category>
+    <pattern># purpose ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aim ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aims ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objective ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objectives ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ IoT ^ Lab ^</pattern>
+    <template>The lab develops innovative IoT based solutions in the domains of energy conservation,
+surveillance and security.</template>
+</category>
+
+
+<!--nwnl lab-->
+
+<category>
+    <pattern>RNWNLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        Next generation wireless networking (nwn) lab focuses on research and development activities in the areas of wireless sensor networks (wsn)
+        <br/>for more info visit:
+        <button>
+            <text>Learn About NWNL</text>
+             <url>https://www.kics.edu.pk/labs/about/nwnl</url>
+        </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># nwnl ^</pattern>
+    <template>
+        Next generation wireless networking (nwn) lab focuses on research and development activities in the areas of wireless sensor networks (wsn)
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/nwnl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Next generation wireless networking ^ Lab  ^</pattern>
+   <template>
+        Next generation wireless networking (nwn) lab focuses on research and development activities in the areas of wireless sensor networks (wsn)
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/nwnl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of Next generation wireless networking ^ Lab  ^</pattern>
+    <template><srai>nwnl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of nwnl ^</pattern>
+    <template><srai>nwnl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of nwnl *</pattern>
+    <template><srai>nwnl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of nwnl ^</pattern>
+    <template><srai>nwnl</srai></template>
+</category>
+
+<category>
+    <pattern># function of Next generation wireless networking ^ Lab  ^</pattern>
+    <template><srai>nwnl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of nwnl *</pattern>
+    <template><srai>nwnl</srai></template>
+</category>
+
+<category>
+    <pattern># purpose ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+<category>
+    <pattern># aim ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+<category>
+    <pattern># aims ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+<category>
+    <pattern># objective ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+
+
+<category>
+    <pattern># objectives ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># objective ^ aim ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+
+
+
+
+<category>
+    <pattern># objectives ^ aims ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+
+
+<category>
+    <pattern># aim ^ objective ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+
+
+<category>
+    <pattern># aims ^ objectives ^ nwnl ^</pattern>
+    <template>
+        The NWN Lab is involved in research and development of distributed wireless sensor
+        networks. The lab develops the solutions for intelligent security; environment
+        monitoring and energy efficient event triggered wireless sensor networks.
+    </template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ Next generation wireless networking ^ Lab  ^</pattern>
+   <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+
+
+<category>
+    <pattern># aim ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+
+
+<category>
+    <pattern># aims ^ Next generation wireless networking ^ Lab  ^</pattern>
+  <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+<category>
+    <pattern># objective ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+<category>
+    <pattern># objectives ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Next generation wireless networking ^ Lab  ^</pattern>
+ <template>The NWN Lab is involved in research and development of distributed wireless sensor
+    networks. The lab develops the solutions for intelligent security; environment
+    monitoring and energy efficient event triggered wireless sensor networks.</template>
+</category>
+
+
+<!--wsrl lab-->
+
+<category>
+    <pattern>RWSRLK</pattern>
+    <template>
+        <delay>2</delay>
+
+        wsrl lab work on research and development activities in the wireless communication system
+        <br/>for more info visit:
+        <button>
+            <text>Learn About WSRL</text>
+            <url>https://www.kics.edu.pk/labs/about/wsrl</url>
+        </button>
+	
+    </template>
+</category>
+
+<category>
+    <pattern># wsrl ^</pattern>
+    <template>
+        wsrl lab work on research and development activities in the wireless communication system
+        <br/><br/>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/labs/about/wsrl</url>
+        </button>
+    </template>
+</category>
+
+<category>
+    <pattern># Wireless System ^ lab ^</pattern>
+    <template>
+        <srai>wsrl</srai>
+    </template>
+</category>
+
+<category>
+    <pattern># main function of Wireless System ^ Lab  ^</pattern>
+    <template><srai>wsrl</srai></template>
+</category>
+
+<category>
+    <pattern># main function of wsrl ^</pattern>
+    <template><srai>wsrl</srai></template>
+</category>
+
+<category>
+    <pattern>main function of wsrl *</pattern>
+    <template><srai>wsrl</srai></template>
+</category>
+
+
+<category>
+    <pattern># function of wsrl ^</pattern>
+    <template><srai>wsrl</srai></template>
+</category>
+
+<category>
+    <pattern># function of Wireless System ^ Lab  ^</pattern>
+    <template><srai>wsrl</srai></template>
+</category>
+
+
+<category>
+    <pattern>function of wsrl *</pattern>
+    <template><srai>wsrl</srai></template>
+</category>
+
+
+<category>
+    <pattern># purpose ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># aim ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># aims ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># objective ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># objectives ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># objective ^ aim ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ wsrl ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+
+
+<category>
+    <pattern># purpose ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+<category>
+    <pattern># aim ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+<category>
+    <pattern># aims ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+<category>
+    <pattern># objective ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+<category>
+    <pattern># objectives ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+<category>
+    <pattern># objective ^ aim ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># objectives ^ aims ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># aim ^ objective ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+<category>
+    <pattern># aims ^ objectives ^ Wireless System ^ Lab ^</pattern>
+    <template>WSL is involved in research and development of advanced signal processing algorithms
+for next generation wireless networks including 5G systems. Simultaneous wireless
+information and power transfer (SWIPT) is a promising technique to overcome the
+limitations of traditional methods of energy harvesting</template>
+</category>
+
+
+
+
+<!--Since how long your power backup system remain functional-->
+<category>
+    <pattern># Since how long your power backup system remain functional ^</pattern>
+    <template>2-3 Hours Approximately.</template>
+</category>
+
+<!--Can you open or unlock CS lab for me-->
+<category>
+    <pattern># Can you open or unlock CS lab for me ^</pattern>
+    <template>Please see Lab Supervisor</template>
+</category>
+
+<!--What are computer science machines in rank-->
+<category>
+    <pattern>What are computer science machines in rank</pattern>
+    <template>Servers of different flavors.</template>
+</category>
+
+<!--What is specification of servers in computer science department-->
+<category>
+    <pattern>What is specification of servers in computer science department</pattern>
+    <template>Dell Power Series Server.</template>
+</category>
+<!-- What type of servers you have managed in CSE-->
+<category>
+    <pattern># What type of servers you have managed in CSE ^</pattern>
+    <template>All educational and administrative purpose servers</template>
+</category>
+<!--Can you manage Labs for entry test exam-->
+<category>
+    <pattern># Can you manage Labs for entry test exam ^</pattern>
+    <template>Yes.</template>
+</category>
+
+<!--Projector is not functional, who can help-->
+<category>
+    <pattern># Projector is not functional, who can help ^</pattern>
+    <template>Please see the administration office.</template>
+</category>
+
+	
+	
+	
+	
+	
+	
+</aiml>

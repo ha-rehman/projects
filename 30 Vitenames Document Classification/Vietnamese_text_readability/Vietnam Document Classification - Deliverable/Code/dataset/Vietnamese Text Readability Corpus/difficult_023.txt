@@ -1,0 +1,187 @@
+Vai trò của hư từ tiếng Việt trong cấu trúc thông tin của câu
+Trong hệ thống từ loại tiếng Việt , hư từ không mang ý nghĩa từ vựng mà chỉ biểu hiện các ý nghĩa ngữ pháp .
+Nó được dùng theo lối đi kèm với thực từ để thiết lập các mối quan hệ giữa các sự vật hiện tượng do thực từ diễn đạt .
+Nó cũng không thể đảm nhiệm vai trò thành phần chính trong cấu tạo của cụm từ và của câu .
+Mặc dù vậy , nó đặc biệt cần thiết và quan trọng trong hoạt động ngôn ngữ , nhất là ở tiếng Việt , một ngôn ngữ dùng hư từ là một trong những phương thức ngữ pháp chủ yếu .
+Cấu trúc thông tin là cấu trúc được xem xét ở bình diện dụng học , nó gắn bó chặt chẽ với người sử dụng và hoàn cảnh giao tiếp .
+Theo lí thuyết cấu trúc thông tin , mỗi câu thường gồm một phần tin cũ và một phần tin mới .
+Ranh giới hai phần tin này thường được nhận biết qua một số phương tiện như trật tự từ , ngữ điệu , tỉnh lược ...
+, ngoài ra , hư từ cũng là một công cụ trọng yếu .
+Trên cơ sở tiếp cận lí thuyết về hư từ tiếng Việt , bài viết này đặt ra nhiệm vụ xem xét vai trò của hư từ trong cấu trúc thông tin của câu ở các phương diện : báo hiệu phần tin mới , nhấn mạnh tiêu điểm thông tin , phân chia ranh giới tin cũ - tin mới .
+Từ đó khẳng định đối với tiếng Việt , một ngôn ngữ đơn lập điển hình , công dụng to lớn của hư từ không chỉ được khẳng định ở bình diện ngữ pháp hay ngữ nghĩa mà còn ở cả bình diện ngữ dụng .
+Từ khóa : hư từ , tin cũ , tin mới , cấu trúc thông tin , tiêu điểm thông tin .
+1 .
+Trong tiếng Việt , hư từ tuy chiếm một số lượng không lớn so với thực từ , nhưng lại đóng vai trò quan trọng ở nhiều phương diện và được sử dụng với tần số cao .
+Từ xưa đến nay , trong các công trình nghiên cứu về ngữ pháp , đặc biệt là bình diện kết học , vai trò của hư từ đã được ở khẳng định ở mức độ tuyệt đối ( bổ sung các ý nghĩa ngữ pháp cho thực từ , đánh dấu chức năng cú pháp và đặc điểm từ loại của từ , thể hiện các quan hệ ngữ pháp trong cụm từ , trong câu ) .
+Không chỉ vậy , ở bình diện ngữ nghĩa hay ngữ dụng , gần đây cũng đã có một số công trình đề cập đến chức năng của hư từ ở các phương diện khác nhau ( đánh dấu các vai nghĩa , thể hiện các ý nghĩa tình thái ( bình diện ngữ nghĩa ) hay chức năng làm kết tử , tác tử trong lập luận , chức năng đánh dấu cấu trúc đề - thuyết , đánh dấu phần tin mới trong cấu trúc thông tin của câu ( bình diện dụng học ) .
+Hư từ không có ý nghĩa từ vựng , tức là không thể gắn với chức năng tri nhận và định danh các sự vật , việc , hiện tượng ... trong thực tế khách quan .
+Nó chỉ biểu hiện các ý nghĩa ngữ pháp và được dùng theo lối đi kèm với thực từ để thiết lập các mối quan hệ giữa các sự vật hiện tượng do thực từ diễn đạt .
+Vì thế , nó cũng không thể đảm nhiệm vai trò thành phần chính trong cấu tạo của cụm từ và của câu .
+Mặc dù vậy , nó đặc biệt cần thiết và quan trọng trong hoạt động ngôn ngữ , nhất là ở tiếng Việt , một ngôn ngữ dùng hư từ là một trong những phương thức ngữ pháp chủ yếu .
+Ví dụ :
+Nó đang đọc cuốn sách mới .
+Trong ví dụ này , đang là một hư từ làm dấu hiệu chỉ thời gian .
+Nó đi kèm với từ đọc , làm thành tố phụ cho từ đó và tạo thành cụm từ đang đọc cuốn sách mới ( cả cụm này làm vị ngữ của câu ) .
+Trên cơ sở tiếp cận lí thuyết về hư từ tiếng Việt , bài viết này đặt ra nhiệm vụ xem xét vai trò của hư từ tiếng Việt trong cấu trúc thông tin của câu , từ đó khẳng định đối với tiếng Việt , một ngôn ngữ đơn lập điển hình , vai trò của hư từ không chỉ được khẳng định ở bình diện ngữ pháp hay ngữ nghĩa mà còn ở cả bình diện ngữ dụng .
+2 .
+Cấu trúc thông tin là cấu trúc được xem xét ở bình diện dụng học , nó gắn bó chặt chẽ với người sử dụng và hoàn cảnh giao tiếp .
+Theo lí thuyết cấu trúc thông tin , mỗi câu thường gồm một phần tin cũ ( tin đã biết , cái cho sẵn ) và một phần tin mới ( tin cần biết , cái mới ) .
+Tin cũ là phần tin mà ở thời điểm trước khi nói ra , người nói và cả người nghe đã biết , hoặc dễ dàng nhận biết trong tình huống cụ thể .
+Nó không có giá trị thông tin mà chỉ đóng vai trò như một tiền đề để tin mới được xác lập .
+Sự có mặt của nó trong phát ngôn là dấu hiệu để người nghe nhận biết một ( hoặc một số ) yếu tố ngôn ngữ nào đó tồn tại với tư cách là tin mới .
+Tin mới là phần tin lần đầu tiên được đưa vào ý thức người nghe , nó được người nói trình bày như là không thể tìm thấy ở phát ngôn đi trước hoặc không thể phục hồi qua ngữ cảnh hay ngôn cảnh .
+Nó nghịch đối với tin cũ và là phần có giá trị thông tin .
+Ranh giới giữa hai phần tin này thường được nhận biết qua một số phương tiện như trật tự từ , ngữ điệu , tỉnh lược , phép lặp hay thay thế từ ngữ , ngoài ra , hư từ cũng là một công cụ trọng yếu .
+Theo kết quả nghiên cứu của chúng tôi , trong cấu trúc thông tin của câu , vai trò của hư từ bộc lộ ở các phương diện sau :
+2.1 .
+Vai trò báo hiệu phần tin mới
+Theo lí thuyết cấu trúc thông tin , tin mới luôn có giá trị thông tin nên nó là thành phần bắt buộc phải có mặt , ngược lại , tin cũ vì không có giá trị thông tin , là phần không mang tin , nên có thể xuất hiện hay vắng mặt tùy theo ý định chủ quan của người nói .
+Vì thế , một trong những nguyên tắc đặt ra trong giao tiếp là phát ngôn khi nói ra hay viết ra phải có cái mới .
+Và một trong những phương tiện thể hiện cái mới là sử dụng các hư từ .
+Chúng được xem như là chiếc chìa khóa để người nghe dễ dàng nhận biết được đâu là phần thông tin có giá trị nhất trong phát ngôn của người nói .
+Ví dụ :
+Già yếu quá , nghe mà chua xót .
+Giá thế thì bà ấy cũng già đi cho xong .
+Bà ấy lại cứ trẻ , cứ phây phây , cứ đẹp như mới ngoài hai mươi tuổi mà sao đa tình ( Nam Cao ) .
+Sự hiện diện đậm đặc các hư từ lại , cứ , như , mới , mà , sao trong phát ngôn cuối trong ví dụ trên làm dấu hiệu chỉ báo phần thông tin mới ở ngữ đoạn đứng sau nó .
+Chúng nhấn mạnh đến sự tiếp diễn bất thường của trạng thái bà Tư ( vợ Bá Kiến ) , qua đó làm nổi bật cái " bi kịch đầy chua xót " của cụ Bá - một người đàn ông đã qua rồi cái thời trẻ trai , sung sức , để giờ đây khi nhìn thấy vợ thì chỉ có thể " Nhìn thì thích nhưng tưng tức lạ .
+Khác gì nhai miếng thịt bò lựt sựt khi rụng gần hết răng .
+Rõ ràng , nhờ có các hư từ này mà phần thông tin quan trọng nhất trở nên nổi bật , tạo nên tầng nghĩa sâu cho phát ngôn .
+Trên bề mặt cấu trúc nổi của phát ngôn , những yếu tố ngôn ngữ có chức năng đánh dấu thông tin mới là các hư từ .
+Đó là các phụ từ chỉ thời gian : đã , sẽ , đang , vừa , mới ...
+, phụ từ chỉ sự tiếp diễn đồng nhất : cũng , cứ , lại , vẫn , đều ...
+, phụ từ chỉ sự khẳng định , phủ định : có , không , chưa , chẳng ... phụ từ chỉ sự kết thúc , hoàn thành : rồi , xong ...
+Chúng chính là phương tiện tác động vào phần thông tin mà người nói cho rằng nó có giá trị nhất , là thông tin mới .
+Xem ví dụ sau được trích từ tác phẩm " Chí Phèo " của nhà văn Nam Cao :
+Tỉnh dậy hắn thấy hắn già mà vẫn còn cô độc .
+Buồn thay cho đời .
+Hắn đã già rồi hay sao ?
+( Nam Cao )
+Trong ví dụ trên , phần in nghiêng là cái mà người nói muốn lưu ý người nghe , với ngụ ý rằng hãy quan tâm đến thông tin này .
+Vậy nó là tin mới , là trọng tâm thông báo của phát ngôn .
+Mặc dù thông tin hắn già người nghe đã biết từ phần văn bản đi trước , nhưng trong phát ngôn này , nó vẫn thuộc phần tin mới nhờ có bốn hư từ quây quần xung quanh : đã , rồi , hay , sao .
+Chúng kết hợp với nhau để cùng bổ sung ý nghĩa cho trạng thái " già " của nhân vật hắn , tạo điểm nhấn về mặt thông tin : hắn không còn trẻ nữa , cơ thể đã suy yếu , đã hư hỏng dần .
+Ngoài giá trị thông tin , cụm từ đã già rồi hay sao còn mang ý nghĩa tình thái , đó là thái độ ngỡ ngàng của hắn trước một sự thật đang hiện hữu .
+Với hắn , trạng thái già , tuy đã xảy ra trước đó , nhưng sao đến giờ hắn mới nhận thấy , đến giờ hắn mới thấy rằng mình " đã tới cái dốc bên kia của đời " .
+Và như thế , hắn chẳng còn đủ sức để ăn vạ kêu làng hay ức hiếp , phá phách , đâm chém , mưu hại - những việc mà người ta giao cho hắn làm .
+Tất cả điều đó đã làm nên cái mới về mặt thông tin .
+Xét một ví dụ khác :
+Đến gần cây cầu gỗ , chiếc xe bất thần dừng lại .
+Phía trước nó cũng đã có một chiếc xe Zin ba cầu khác đang nằm sát lề đường ( Chu Lai ) .
+Ở phát ngôn đi sau , phụ từ cũng biểu thị quan hệ đối chiếu về sự giống nhau của hai chiếc xe , phụ từ đã biểu thị nghĩa đã hoàn thành về hành động " dừng lại " của chiếc xe Zin ba cầu so với hành động " dừng lại " của chiếc xe khác đến sau nó .
+Hai phụ từ này kết hợp với nhau để tạo nên tổ hợp hư từ cũng đã , cùng bổ sung ý nghĩa cho cụm từ " có một chiếc xe Zin ba cầu khác đang nằm sát lề đường " , nghĩa là cũng đã báo hiệu đây là tin mới , và là quan trọng nhất .
+Bên cạnh hư từ là các phụ từ thì các trợ từ tình thái : chính , ngay , cả , mãi , đến , tận ... cũng được xem là dấu hiệu quan trọng tác động đến phần thông tin có giá trị quan trọng nhất trong phát ngôn của người nói .
+Ví dụ :
+Vân không cần trang điểm .
+Vì chính Vân xinh tươi , vì chính đoạn đời vừa qua của Vân rất đẹp ( Ma Văn Kháng ) .
+Trong ví dụ trên , hư từ chính xuất hiện hai lần mang ý nghĩa nhấn mạnh rất rõ nét .
+Nó làm cho phần thông tin đứng sau thực sự được nổi bật như những thông tin quan trọng nhất - thông tin mới .
+Lần thứ nhất , hư từ chính nhấn mạnh đến chủ thể đề cập tới trong phát ngôn với ý nghĩa : Vân chứ không phải một ai khác ( tất nhiên , nếu không có sự xuất hiện của trợ từ này thì Vân lại thuộc phần tin cũ vì nó đã được đưa ra ở phát ngôn trước ) .
+Lần thứ hai , hư từ chính xuất hiện làm nổi bật và tạo điểm nhấn cho phần tin đứng liền ngay sau nó : đoạn đời vừa qua của Vân - đây cũng là phần mang giá trị thông tin cao nhất , là tin mới .
+Một ví dụ khác :
+Chẳng ai hiểu lão chết vì bệnh gì mà đau đớn và bất thình lình như vậy .
+Chỉ có tôi với Binh Tư hiểu ( Nam Cao ) .
+Ở phát ngôn đứng sau , hư từ chỉ có nhấn mạnh sự hạn chế về số lượng , biểu thị ý nghĩa : ngoài tôi và Binh Tư ra thì không có ai hiểu tại sao lão Hạc phải chết " đau đớn và bất thình lình như vậy " .
+Nếu không có hư từ này , cấu trúc thông tin của phát ngôn sẽ gồm hai phần : một phần tin cũ ( tôi với Binh Tư ) đứng trước và một phần tin mới ( hiểu ) đứng sau ( so sánh : Tôi với Binh Tư thì hiểu ) .
+Nhưng hư từ chỉ có đã xuất hiện ở đầu phát ngôn , tác động đến toàn bộ phát ngôn , làm nổi bật và tạo điểm nhấn chú ý cho cả phát ngôn , do đó " tôi với Binh Tư hiểu " đều trở nên quan trọng , có giá trị thông tin - nó là tin mới .
+Xem thêm các ví dụ khác :
+Bạn anh à ?
+Vùng này chỉ có dân lái đánh bạn với cánh biên phòng thôi .
+( Chu Lai )
+Đi đường này chính ra anh phải lựa một ông phụ xe khỏe như vâm mới phải .
+( Chu Lai )
+2.2 .
+Vai trò tiêu điểm hóa thông tin
+Thuật ngữ tiêu điểm thông tin đã được đề cập tới trong lí thuyết cấu trúc thông tin của các nhà ngôn ngữ học trên thế giới cũng như ở Việt Nam .
+Theo quan điểm của các nhà nghiên cứu , tiêu điểm thông tin là nơi người nói muốn người nghe tập trung chú ý vào đó để hiểu đúng điều mà mình muốn truyền đạt .
+Nó có thể rơi vào bất kì một từ hay một ngữ nào đó trong phần tin mới của phát ngôn .
+Như vậy , có thể nói rằng phần quan trọng nhất trong thông tin mới sẽ là tiêu điểm thông tin .
+Tiêu điểm thông tin có thể diễn ra trên cả trục đối vị lẫn trục kết hợp .
+Trên trục đối vị , tiêu điểm thông tin được thực hiện bằng biện pháp trọng âm cường điệu , tức là người nói nhấn mạnh một yếu tố nào đó trong phát ngôn để đối lập nó với yếu tố khác có thể ở vào vị trí của nó nhưng không có mặt .
+Chẳng hạn , trong phát ngôn : " Cô ấy là bác sĩ " , nếu nhấn mạnh vào bác sĩ thì người nói ngụ ý rằng cô ấy không phải là kĩ sư hay giáo viên hoặc bất kì một nghề nào khác .
+Tuy nhiên , điều này chỉ có thể xảy ra trên phương diện lời nói .
+Còn trên phương diện văn bản , do ngữ điệu không tồn tại nên việc nhận diện là rất khó , trừ khi nó được trình bày bằng cách khác thường như : viết hoa , in nghiêng , in đậm , gạch dưới , dùng dấu ngoặc kép ...
+Chính vì vậy , tiêu điểm thông tin phải được diễn ra trên trục kết hợp .
+Lúc này , tiêu điểm thông tin sẽ được thực hiện bằng việc sử dụng các hư từ tình thái có chức năng nhấn mạnh cái thông tin mà người nói cho rằng quan trọng nhất trong phát ngôn của mình .
+Chẳng hạn , cùng trong ngữ cảnh trả lời cho câu hỏi " Anh ta làm gì ? " , người nói có thể thực hiện tiêu điểm hóa nhờ việc đưa hư từ chỉ vào các vị trí khác nhau trong phát ngôn .
+So sánh :
+Anh ta mua bánh mì ( a )
+Anh ta chỉ mua bánh mì ( b )
+Anh ta mua chỉ bánh mì ( c )
+Ở cả ba phát ngôn trên , thông tin mua bánh mì đều là cái mà người nghe muốn biết , nó là tin mới , nhưng hai phát ngôn sau , việc đưa hư từ chỉ vào hai vị trí khác nhau , người nói thực hiện tiêu điểm hóa thông tin khác nhau .
+Ở phát ngôn ( 9b ) , chỉ nhấn mạnh cho hoạt động mua , nó mang ý nghĩa là anh ta chỉ làm một công việc duy nhất là mua bánh mì , ngoài ra anh ta không làm gì khác , còn trong phát ngôn ( 9c ) , chỉ nhấn mạnh vào thông tin bánh mì , nên bánh mì mới là tiêu điểm thông tin , người nói muốn ngụ ý rằng bánh mì là thứ duy nhất anh ta mua , ngoài ra anh ta không mua gì khác ( nhưng anh ta vẫn có thể làm việc khác , ý nghĩa này không tồn tại ở phát ngôn 9b ) .
+Như thế , trong hoạt động giao tiếp , khi người nói tạo ra một phát ngôn thì tùy thuộc ngữ cảnh , anh ta có thể thực hiện việc tiêu điểm hóa thông tin theo ý đồ giao tiếp của mình , nghĩa là có sự phân biệt tiêu điểm thông tin với phần tin mới .
+Điều này được nhận ra nhờ vị trí của hư từ trong phát ngôn .
+Xét vị trí của hư từ đã trong ví dụ sau :
+Mị về làm dâu nhà Pá Tra đã mấy năm ( Tô Hoài ) .
+Trong ví dụ trên , tiêu điểm thông tin dồn vào cả ba từ đã mấy năm .
+Từ đã , ngoài vai trò đánh dấu khoảng thời gian kéo dài từ quá khứ đến hiện tại , còn có thêm ý nghĩa nhấn mạnh tầm quan trọng của thông tin , khiến cho phần tin mấy năm trở nên nổi bật hơn so với phần tin về làm dâu nhà Pá Tra .
+Thực ra , trong phát ngôn này , đã có thể xuất hiện ở nhiều vị trí khác nhau .
+So sánh :
+( 10a ) Mị đã về làm dâu nhà Pá Tra mấy năm .
+( 10b ) Đã mấy năm , Mị về làm dâu nhà Pá Tra .
+Ở cả hai phát ngôn trên , từ đã đều đảm nhiệm vai trò phụ , bổ sung ý nghĩa thời gian , nhưng ở mỗi vị trí khác nhau , nó thể hiện sự đánh giá khác nhau về sự việc theo điểm nhìn của người nói .
+Ở phát ngôn ( 10a ) , đã nhấn mạnh đến sự việc về làm dâu nhà Pá Tra của Mị , ở phát ngôn ( 10b ) , đã cũng giữ vai trò đánh dấu khoảng thời gian ( như ở phát ngôn 10 ) , nhưng nó không tham gia vào việc truyền tải cái mới , vào thông tin quan yếu của thông báo .
+Ở ví dụ , với vị trí này , đã mang đến cho phát ngôn nhiều sắc thái ý nghĩa , chẳng hạn :
+- Mấy năm là khoảng thời gian Mị phải sống trong cái buồn , cái khổ của người phụ nữ .
+- Mị không muốn nhớ về quãng thời gian làm dâu của mình .
+- Cuộc sống buồn , khổ của Mị vẫn chưa kết thúc , còn có thể kéo dài .
+Xét thêm ví dụ sau :
+Bây giờ đến ngõ nhà cụ Bá .
+Hắn xông xông đi vào nhà .
+Cả nhà đi làm đồng vắng ; chỉ có mình cụ Bá đang nằm nghỉ trưa ( Nam Cao ) .
+Phát ngôn sau cùng biểu hiện hai sự tình : đi làm đồng vắng và mình cụ Bá đang nằm nghỉ trưa .
+Cả hai đều là tin mới .
+Nhưng chỉ có sự tình thứ hai mới là trọng tâm thông tin của phát ngôn vì nó được đặt sau hư từ chỉ có .
+Nói cách khác , chỉ có tác động đến thông tin mình cụ Bá đang nằm nghỉ trưa biểu thị ý nghĩa hạn định duy nhất , khiến cho thông tin này trở nên nổi bật hơn so với thông tin đứng trước nên nó mang tiêu điểm thông tin .
+Còn sự tình đi làm đồng vắng không có yếu tố đánh dấu nên đã bị đẩy lùi vào hậu cảnh và trở nên không quan yếu đối với phát ngôn .
+Trong hoạt động giao tiếp , chúng ta cũng hay gặp những cặp thoại kiểu như :
+- Nó về bao giờ ?
+- Nó về hôm qua , mãi tận tối mịt mới về .
+Rõ ràng , câu trả lời của người nói một phần đáp ứng được thông tin mà người nghe cần biết ( hôm qua ) , vậy nó là tin mới nhưng chưa phải tiêu tiểm , còn phần thông tin tối mịt mới về , mặc dù chỉ bổ sung , làm rõ khoảng thời gian cụ thể của hôm qua , nhưng nhờ có sự tác động của hư từ mãi tận mà nó trở thành thông tin quan trọng nhất , là tiêu điểm của phát ngôn .
+Hư từ này , ngoài việc biểu hiện thông tin về khoảng thời gian muộn của một ngày , còn có ý nghĩa tình thái : đó là thái độ trách móc , không bằng lòng của người nói về nó .
+Trên cơ cở đó , chúng tôi cho rằng , tiêu điểm thông tin của phát ngôn không chỉ là nơi người nói thể hiện thông tin cơ bản mà còn là nơi để anh ta thể hiện ý nghĩa tình thái .
+Trong phần tin mới , một thông tin nào đó được coi là tiêu điểm còn có thể xem xét trong tính tương phản với một thông tin nào đó cũng được coi là mới .
+Nói cách khác , khi so sánh giữa ít nhất hai sự vật , hiện tượng , người nói cũng có thể nhấn mạnh đến tính tương phản giữa chúng .
+Lúc này , các hư từ ( chủ yếu là quan hệ từ ) , như : nhưng , mà , còn ... sẽ là công cụ để diễn đạt ý nghĩa tương phản .
+Chúng có chức năng nhấn mạnh vào nội dung thông tin đứng sau nó , báo hiệu đây là phần tin quan trọng nhất , mang tiêu điểm thông tin .
+Ví dụ :
+Núp nhắm mắt lại cho khỏi khóc , nhưng nước mắt cứ trào ra , ướt hết hai gò má ( Nguyên Ngọc ) .
+Ví dụ trên gồm hai phần tin : tin cũ là Núp , phần còn lại là tin mới , trong đó phần tin đứng sau quan hệ từ nhưng là tiêu điểm thông tin vì nó được diễn đạt trong sự đối lập , tương phản với thông tin trước đó .
+Xem thêm hai ví dụ sau :
+Suốt cuộc đời binh nghiệp , ông chưa một lần sai sót khi đứng trước kẻ thù , nhưng lại để xảy ra lỡ lầm , lỡ lầm không thể tha thứ được đối với đồng đội ( Chu Lai ) .
+Lạy ông , không phải thế .
+Con biết rằng bẩm ông câu ấy là con hỗn , nhưng chính con trông thấy ông mở khăn gói của con ( Nguyễn Công Hoan ) .
+2.3 .
+Vai trò phân giới hai thành phần tin cũ - tin mới
+Xét về vị trí hai thành phần tin cũ và tin mới trên hình tuyến trước - sau của dòng lời nói , tin cũ là điểm xuất phát , là cơ sở , là điểm tựa cho đà phát triển của tin mới nên thường có vị trí đứng trước .
+Trật tự này phù hợp với quá trình vận động của tư duy cũng như quy trình truyền tải thông tin và thói quen của người tiếp nhận : đi từ cái đã biết đến cái mới .
+Lúc này , phương tiện thể hiện ranh giới giữa hai phần tin , ngoài phép lặp từ hay thay thế bằng các từ ngữ tương đương thì hư từ là một phương tiện đắc lực .
+Nằm trong nhóm hư từ này là các quan hệ từ ( thì , nên , vì ... ) , chúng được xem là những dấu hiệu tích cực đánh dấu sự phân chia hai thành phần tin cũ - tin mới trong cấu trúc thông tin .
+Ví dụ :
+Giá anh ta chịu cáng đáng việc này cho thì hay quá !
+Cáng đáng được thì được thêm bốn sào nữa , sưu thuế không phải đóng ( Nam Cao )
+Trong ví dụ trên , phần in nghiêng đậm là tin cũ , được biểu hiện phép lặp lại từ ngữ của phát ngôn đi trước ( cáng đáng được ) , còn thông tin nằm ở ngữ đoạn đứng sau trở thành tin mới .
+Hai thành phần tin này được phân giới bằng hư từ thì , nó được sử dụng một cách bắt buộc bởi nếu vắng nó thì cấu trúc và ý nghĩa của câu sẽ không được đảm bảo ( Không thể nói : Cáng đáng được , được thêm bốn sào nữa , sưu thuế không phải đóng ) .
+Xét một ví dụ khác :
+- Tại sao lại gọi là bánh ế ?
+- Nó ế vì không ai được ăn !
+( Trần Thị Mộng Dần )
+Trong ví dụ này , hư từ vì không chỉ làm nhiệm vụ phân giới tin cũ - tin mới trong cấu trúc thông tin của câu mà còn làm nhiệm vụ giải thích nguyên nhân cho sự việc nó ế nêu ở tin cũ đứng trước .
+Rõ ràng , với vai trò này , hư từ vì đã hiện thực hóa quan hệ giữa hai sự việc nó ế và không ai được ăn trong phát ngôn , tạo nên sự chuyển động , sự phát triển thông tin trong lời nói .
+Như đã biết , cấu trúc thông tin là kiểu cấu trúc bị chi phối chặt chẽ bởi ngữ cảnh và ý đồ giao tiếp nên không thể có một trật tự cố định cho hai thành phần tin .
+Sự phân bố hai thành phần trong cấu trúc thông tin được hiểu như là sự phân bố khác nhau của năng lực giao tiếp của các thành phần trong câu .
+Phân bố này chịu ảnh hưởng của cấu trúc ngữ pháp , cấu trúc ngữ nghĩa và đặc biệt là của ngôn cảnh .
+Theo đó , các hư từ không chỉ đảm nhiệm chức năng minh định hai thành phần tin trong những kiểu cấu trúc có trật tin cũ đứng trước , tin mới đứng sau mà còn là phương tiện phân giới trong cấu trúc có trật tự : tin mới đứng trước tin cũ .
+Ví dụ :
+- Bao giờ Quỳnh chết ?
+Quỳnh thưa :
+- Bao giờ chúa thăng hà thì Quỳnh chết !
+( Truyện Tiếu lâm Việt Nam )
+Trong ví dụ trên , phát ngôn của Quỳnh có trật tự : tin mới ( bao giờ chúa thăng hà ) - tin cũ ( Quỳnh chết ) .
+Trật tự này được phân chia biên giới bằng hư từ thì , có tính bắt buộc để tạo ra sự liên kết logic chặt chẽ , thể hiện mối quan hệ điều kiện - hệ quả giữa hai sự việc ( A là điều kiện để B trở thành hiện thực , nói cách khác B sẽ xảy ra nếu có A ) .
+Ở ranh giới này , nếu không có thì chắc chắn phát ngôn trên không thể tồn tại .
+3 .
+Tóm lại , trong cấu trúc thông tin của câu , hư từ tỏ rõ là một phương tiện quan trọng không thể thiếu vắng trong việc báo biệu phần tin mới , nhấn mạnh tiêu điểm thông tin hay làm biên giới minh định hai thành phần tin cũ - tin mới .
+Càng khảo sát và tìm hiểu về hư từ tiếng Việt trong hoạt động giao tiếp thì những nội dung ẩn sau lớp ngôn từ bề mặt của phát ngôn càng được hé mở .
+Vì lẽ đó , hư từ tiếng Việt vẫn là mảnh đất màu mỡ , còn nhiều khoảng trống , cần được tiếp tục nghiên cứu .

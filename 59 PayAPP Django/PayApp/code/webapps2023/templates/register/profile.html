@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block style %}
+
+
+
+{% endblock %}
+
+
+
+{% block content %}
+
+    <div class="contact1">
+        <div class="container-contact1">
+
+            <div class="contact1-pic js-tilt1">
+                <img src="{% static 'images/signup-image.jpg' %}" alt="IMG" class="person" id="person"
+                     style="width: 300px; height: 250px; max-height: 250px; max-width: 300px">
+            </div>
+
+            <div class="contact1-form validate-form" style="">
+
+                <span class="contact1-form-title">Profile</span>
+
+                <div class="wrap-input1 validate-input" data-validate="Message is required">
+                    <input class="input1" type="text" name="username" placeholder="username"
+                           value="First Name: {{ user.f_name }}" readonly>
+                    <span class="shadow-input1"></span>
+                </div>
+
+                <div class="wrap-input1 validate-input" data-validate="Message is required">
+                    <input class="input1" type="text" name="username" placeholder="username"
+                           value="Last Name: {{ user.l_name }}" readonly>
+                    <span class="shadow-input1"></span>
+                </div>
+
+                <div class="wrap-input1 validate-input" data-validate="Message is required">
+                    <input class="input1" type="text" name="username" placeholder="username"
+                           value="User Name: {{ user.user.username }}" readonly>
+                    <span class="shadow-input1"></span>
+                </div>
+
+                <div class="wrap-input1 validate-input" data-validate="Message is required">
+                    <input class="input1" type="text" name="username" placeholder="username"
+                           value="Email: {{ user.user.email }}" readonly>
+                    <span class="shadow-input1"></span>
+                </div>
+
+                <div class="wrap-input1 validate-input" data-validate="Message is required">
+                    <input class="input1" type="text" name="username" placeholder="username"
+                           value="Balance: {{ user.balance }} {{ user.currency }}" readonly>
+                    <span class="shadow-input1"></span>
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="bg-dark text-center text-lg-start" style="color: #ffffff">
+        <div class="text-center p-3">
+            &copy; 2023 Pay APP. All rights reserved.
+        </div>
+    </footer>
+
+{% endblock %}
+
+
+{% block script %}
+
+    <script>
+        {% if messages %}
+            {% for message in messages %}
+                toastr.{{ message.tags }}('{{ message }}', '', {
+                    positionClass: 'toast-bottom-right'
+                });
+            {% endfor %}
+        {% endif %}
+    </script>
+
+{% endblock %}

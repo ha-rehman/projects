@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+    <pattern># research officers ^ KICS ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Muhammad Yar</item>
+            <item>Mr. Waleed Aftab</item>
+            <item>Ms. Iqra Yaqoob</item>
+            <item>Mr. Muhammad Danish Naseem</item>
+            <item>Mr. Abdul Basit</item>
+            <item>Mr. Abdullah Tariq</item>
+            <item>Mr. Adil Afzal Ansari</item>
+            <item>Mr. Ahmad Hussain Safder</item>
+            <item>Mr. Ammar Yaqoob</item>
+            <item>Mr. Atiq Saber</item>
+            <item>Mr. Aziz Ur Rehman</item>
+            <item>Mr. Aziz Ur Rehman</item>
+            <item>Mr. Aziz Ur Rehman</item>
+            <item>Mr. Hafiz Abdul Rehman</item>
+            <item>Mr. Hafiz Atif Naseer</item>
+            <item>Mr. Hafiz Muhammad Waqas Badar</item>
+            <item>Mr. Hafiz Umer Daraz</item>
+            <item>Mr. Hamza Mukhtar</item>
+            <item>Mr. Hamza Ali</item>
+            <item>Mr. Khizar Hayat</item>
+            <item>Mr. Meeran Ali Khan</item>
+            <item>Mr. Muhammad Bilal</item>
+            <item>Mr. Muhammad Shoaib Shabbir</item>
+            <item>Mr. Muhammad salman</item>
+            <item>Mr. Muhammad Talha Ubaid</item>
+            <item>Mr. Muhammad Zeeshan</item>
+            <item>Mr. Muhammad Ali</item>
+            <item>Mr. Muhammad Irfan Fayyaz</item>
+            <item>Mr. Muhammad Nauman Hanif</item>
+            <item>Mr. Muhammad Umair Waheed</item>
+            <item>Mr. Muhammad Umar Sarwar</item>
+            <item>Mr. Muhammad Umar Farooq</item>
+            <item>Mr. Muhammad Usman Javed</item>
+            <item>Mr. numan ali</item>
+            <item>Mr. numan ali</item>
+            <item>Mr. Sarosh Ijaz</item>
+            <item>Mr. Shahid Mehmood ul Hasan</item>
+            <item>Mr. Tajwar Husnain</item>
+            <item>Mr. Talha Bashir</item>
+            <item>Mr. Talha Bashir</item>
+            <item>Mr. Usman Ali</item>
+            <item>Mr. Waqas Ahmed</item>
+            <item>Mr. Wasif Ali</item>
+            <item>Mr. Zahid Hanif</item>
+            <item>Mr. Zain Tanveer</item>
+            <item>Mr. Zain Ali</item>
+            <item>Mr. Zohaib Ahmad Chughtai</item>
+            <item>Mr. Zubair Aziz</item>
+            <item>Ms. Aqsa Zubair</item>
+            <item>Ms. Arooj Zaib</item>
+            <item>Ms. Ayesha Ashraf</item>
+            <item>Ms. Hina Ghafoor</item>
+            <item>Ms. Humaira Aslam</item>
+            <item>Ms. Rehab Shahzadi</item>
+            <item>Ms. Saba Akmal</item>
+            <item>Ms. Saman Naz</item>
+            <item>Ms. Sahar Rauf</item>
+            <item>Ms. Soufia Kausar</item>
+            <item>Ms. Zubaira Naz</item>
+            <item>Mr. Abdullah Maud</item>
+            <item>Mr. Adeel Sabir</item>
+            <item>Mr. Ahsan Yazdani</item>
+            <item>Mr. Azeem </item>
+            <item>Mr. Muhammad Amin</item>
+            <item>Mr. Muhammad Zubair</item>
+            <item>Mr. Muhammad Momin</item>
+            <item>Mr. Muhammad Rumaan</item>
+            <item>Mr. Muhammad Tariq</item>
+            <item>Mr. Muhammad Sajjad Afridi</item>
+            <item>Mr. Wajahat Sultan</item>
+            <item>Mr. Zeeshan Tariq</item>
+            <item>Ms. Almas Arshad</item>
+            <item>Ms. Huma Alam</item>
+            <item>Ms. Sidra Sehar</item>
+            <item>Ms. Zainab Sharif</item>
+            <item>Ms. Nida Siddique</item>
+        </olist>
+
+        <br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/people/all_staff</url>
+        </button>
+       
+    </template>
+</category>
+<category>
+    <pattern>_ research officers</pattern>
+    <template><srai>research officers</srai></template>
+</category>
+<category>
+    <pattern># research officer ^ KICS ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Muhammad Yar</item>
+            <item>Mr. Waleed Aftab</item>
+            <item>Ms. Iqra Yaqoob</item>
+            <item>Mr. Muhammad Danish Naseem</item>
+            <item>Mr. Abdul Basit</item>
+            <item>Mr. Abdullah Tariq</item>
+            <item>Mr. Adil Afzal Ansari</item>
+            <item>Mr. Ahmad Hussain Safder</item>
+            <item>Mr. Ammar Yaqoob</item>
+            <item>Mr. Atiq Saber</item>
+            <item>Mr. Aziz Ur Rehman</item>
+            <item>Mr. Aziz Ur Rehman</item>
+            <item>Mr. Aziz Ur Rehman</item>
+            <item>Mr. Hafiz Abdul Rehman</item>
+            <item>Mr. Hafiz Atif Naseer</item>
+            <item>Mr. Hafiz Muhammad Waqas Badar</item>
+            <item>Mr. Hafiz Umer Daraz</item>
+            <item>Mr. Hamza Mukhtar</item>
+            <item>Mr. Hamza Ali</item>
+            <item>Mr. Khizar Hayat</item>
+            <item>Mr. Meeran Ali Khan</item>
+            <item>Mr. Muhammad Bilal</item>
+            <item>Mr. Muhammad Shoaib Shabbir</item>
+            <item>Mr. Muhammad salman</item>
+            <item>Mr. Muhammad Talha Ubaid</item>
+            <item>Mr. Muhammad Zeeshan</item>
+            <item>Mr. Muhammad Ali</item>
+            <item>Mr. Muhammad Irfan Fayyaz</item>
+            <item>Mr. Muhammad Nauman Hanif</item>
+            <item>Mr. Muhammad Umair Waheed</item>
+            <item>Mr. Muhammad Umar Sarwar</item>
+            <item>Mr. Muhammad Umar Farooq</item>
+            <item>Mr. Muhammad Usman Javed</item>
+            <item>Mr. numan ali</item>
+            <item>Mr. numan ali</item>
+            <item>Mr. Sarosh Ijaz</item>
+            <item>Mr. Shahid Mehmood ul Hasan</item>
+            <item>Mr. Tajwar Husnain</item>
+            <item>Mr. Talha Bashir</item>
+            <item>Mr. Talha Bashir</item>
+            <item>Mr. Usman Ali</item>
+            <item>Mr. Waqas Ahmed</item>
+            <item>Mr. Wasif Ali</item>
+            <item>Mr. Zahid Hanif</item>
+            <item>Mr. Zain Tanveer</item>
+            <item>Mr. Zain Ali</item>
+            <item>Mr. Zohaib Ahmad Chughtai</item>
+            <item>Mr. Zubair Aziz</item>
+            <item>Ms. Aqsa Zubair</item>
+            <item>Ms. Arooj Zaib</item>
+            <item>Ms. Ayesha Ashraf</item>
+            <item>Ms. Hina Ghafoor</item>
+            <item>Ms. Humaira Aslam</item>
+            <item>Ms. Rehab Shahzadi</item>
+            <item>Ms. Saba Akmal</item>
+            <item>Ms. Saman Naz</item>
+            <item>Ms. Sahar Rauf</item>
+            <item>Ms. Soufia Kausar</item>
+            <item>Ms. Zubaira Naz</item>
+            <item>Mr. Abdullah Maud</item>
+            <item>Mr. Adeel Sabir</item>
+            <item>Mr. Ahsan Yazdani</item>
+            <item>Mr. Azeem </item>
+            <item>Mr. Muhammad Amin</item>
+            <item>Mr. Muhammad Zubair</item>
+            <item>Mr. Muhammad Momin</item>
+            <item>Mr. Muhammad Rumaan</item>
+            <item>Mr. Muhammad Tariq</item>
+            <item>Mr. Muhammad Sajjad Afridi</item>
+            <item>Mr. Wajahat Sultan</item>
+            <item>Mr. Zeeshan Tariq</item>
+            <item>Ms. Almas Arshad</item>
+            <item>Ms. Huma Alam</item>
+            <item>Ms. Sidra Sehar</item>
+            <item>Ms. Zainab Sharif</item>
+            <item>Ms. Nida Siddique</item>
+        </olist>
+
+        <br />
+        
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/people/all_staff</url>
+        </button>
+       
+    </template>
+</category>
+<category>
+    <pattern>* research officers _</pattern>
+    <template><srai>research officers</srai></template>
+</category>
+
+
+<category>
+    <pattern># researchers ^ KICS ^</pattern>
+    <template><srai>research officers</srai></template>
+</category>
+<category>
+    <pattern># researcher ^ KICS ^</pattern>
+    <template><srai>research officers</srai></template>
+</category>
+
+
+</aiml>

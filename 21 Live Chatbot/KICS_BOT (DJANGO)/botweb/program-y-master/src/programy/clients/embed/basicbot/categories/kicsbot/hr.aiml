@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<!-- hr strength-->	
+<category>
+    <pattern>what is the strength of hr in kics</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+<category>
+    <pattern># strength ^ hr ^</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<category>
+    <pattern>what is  strength of hr in the kics</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<category>
+    <pattern>strength of hr</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+	
+<category>
+    <pattern>strength of hr *</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+	
+<category>
+    <pattern>hr strength</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+<category>
+    <pattern># hr ^ strength ^</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<category>
+    <pattern>strength hr</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>	
+
+<category>
+    <pattern>strength of hr</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>	
+
+<category>
+    <pattern>members of hr</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<category>
+    <pattern># members ^ hr ^</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+<category>
+    <pattern># member ^ hr ^</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<category>
+    <pattern>members of hr *</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<category>
+    <pattern>hr members *</pattern>
+    <template>hr strength of the kics is more than 250 including research and administrative staff</template>
+</category>
+
+<!--head of administrative-->
+
+<category>
+    <pattern>who is the head of administrative</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+<category>
+    <pattern># head ^ administrative ^</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+<category>
+    <pattern># administrative ^</pattern>
+    <template>Mr Noor ul Wara, is the head of administrative body in KICS.</template>
+</category>
+
+<category>
+    <pattern># NOOR UL WARA ^</pattern>
+    <template>Mr Noor ul Wara, is the head of administrative body in KICS.</template>
+</category>
+
+<category>
+    <pattern>who is head of administrative</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+<category>
+    <pattern># head ^ admin ^</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+<category>
+    <pattern># head ^ administration ^</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+
+
+<category>
+    <pattern>head of administrative</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+
+<category>
+    <pattern># head of hr ^</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+<category>
+    <pattern>who is head of administrative of kics</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+<category>
+    <pattern># who is the manager of hr ^
+</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+<category>
+    <pattern>who is head of administrative in kics</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+
+<category>
+    <pattern># administrative of kics ^</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+
+<category>
+    <pattern># kics administrative ^</pattern>
+    <template>Mr Noor ul Wara</template>
+</category>
+
+
+<category>
+    <pattern>who is the manager of Human Resource</pattern>
+    <template>Mr Noor ul Wara is the manager of Human Resource</template>
+</category>
+<category>
+    <pattern># manager ^ HR ^</pattern>
+    <template>Mr Noor ul Wara is the manager of Human Resource</template>
+</category>
+
+
+<!-- contact number of hr -->
+
+<category>
+    <pattern> what is the contact number of administrative</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># contact ^ administrative ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246<br/> hr@kics.edu.pk </template>
+</category>
+<category>
+    <pattern># phone ^ administrative ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246<br/> hr@kics.edu.pk </template>
+</category>
+<category>
+    <pattern># talk ^ administrative ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246<br/> hr@kics.edu.pk </template>
+</category>
+<category>
+    <pattern># contact ^ admin ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># phone ^ admin ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># talk ^ admin ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># contact ^ administratION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk </template>
+</category>
+<category>
+    <pattern># phone ^ administratION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk </template>
+</category>
+<category>
+    <pattern># talk ^ administratION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ administrative ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246 <br/> hr@kics.edu.pk
+</template>
+</category>
+<category>
+    <pattern># PHONE ^ admin ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246<br/> hr@kics.edu.pk </template>
+</category>
+
+<category>
+    <pattern># PHONE ^ administratION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.850 <br/>
+fax: +92-42-99250246<br/> hr@kics.edu.pk </template>
+</category>
+
+<category>
+    <pattern> what is contact number of administrative</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+
+<category>
+    <pattern>contact number of administrative</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+
+<category>
+    <pattern> contact number of administrative *</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+<category>
+    <pattern> contact number of Hr *</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+
+<category>
+    <pattern> contact number of Hr</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern># contact ^ Hr ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern># TALK ^ Hr ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern># PHONE ^ Hr ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern>Hr contact number</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern># Hr ^ contact ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern># Hr ^ PHONE ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+<category>
+    <pattern># KICS HR DEPARTMENT CONTACT ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+<category>
+    <pattern># HR DEPARTMENT CONTACT ^</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+<category>
+    <pattern>Hr contact number *</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+<category>
+    <pattern>administrative contact number</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+<category>
+    <pattern>administrative  of contact number</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+
+
+<category>
+    <pattern>administrative of contact number *</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+
+<category>
+    <pattern>administrative  contact number *</pattern>
+    <template><srai>what is the contact number of administrative</srai></template>
+</category>
+
+<!-- email of hr -->
+
+<category>
+    <pattern>what is the email of administrative </pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>what is email of administrative </pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>email of administrative </pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern># email ^ administrative ^</pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># email ^ admin ^</pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># email ^ administratiON ^</pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>email of administrative * </pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>email of hr * </pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern># email of hr ^</pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># hr ^ EMAIL ^</pattern>
+    <template>hr@kics.edu.pk</template>
+</category>
+
+	
+</aiml>

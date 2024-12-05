@@ -1,0 +1,155 @@
+Lý thuyết về điểm nhìn nghệ thuật của R.Scholes và R.Kellogg
+Trong các chuyên luận bàn về kỹ thuật , thủ pháp kể chuyện , hầu hết các tác giả đều sử dụng điểm nhìn như một khái niệm công cụ cơ bản nhằm xác lập các mô hình truyện kể hoặc ít nhất dành riêng một chương " điểm nhìn " trong kết cấu của công trình .
+Thuật ngữ " điểm nhìn " đã trở nên quen thuộc trong nghiên cứu văn học nói chung và nghiên cứu tự sự học nói riêng , tuy nhiên tầm quan trọng , vị trí và vai trò của nó trong việc tạo dựng , xác lập mô hình cấu trúc tác phẩm , sự chi phối của điểm nhìn trong nghệ thuật kể chuyện đến mức độ nào thì vẫn là một vấn đề còn gây nhiều tranh luận khá gay gắt .
+Manh nha từ đầu thế kỷ XX , vấn đề điểm nhìn tuy không còn quá quan trọng trong các cuộc thảo luận ở phương Tây hiện nay nhưng nó lại trở thành một phần hiển nhiên , không thể thiếu của nghiên cứu nghệ thuật kể chuyện .
+Trong các chuyên luận bàn về kỹ thuật , thủ pháp kể chuyện , hầu hết các tác giả đều sử dụng điểm nhìn như một khái niệm công cụ cơ bản nhằm xác lập các mô hình truyện kể hoặc ít nhất dành riêng một chương " điểm nhìn " trong kết cấu của công trình .
+Hiểu một cách đơn giản nhất , điểm nhìn chính là một " mánh khóe " thuộc về kỹ thuật , một phương tiện để chúng ta có thể tiến đến cái đích tham vọng nhất : sức quyến rũ của truyện kể .
+Và dù có sử dụng cách thức nào , phương pháp hay kỹ thuật nào thì mục đích cuối cùng của người sáng tạo cũng chỉ là mê hoặc độc giả , buộc anh ta phải đọc .
+Trước hết cần phải xác định rõ rằng , điểm nhìn là điểm xuất phát của một cấu trúc nghệ thuật chứ không phải là bản thân cấu trúc đó .
+Cấu trúc nghệ thuật vốn là hằng số không đổi của những quan hệ của các yếu tố nghệ thuật được lựa chọn để đưa vào tác phẩm .
+Điểm nhìn nghệ thuật chiếu cái nhìn vào các yếu tố được lựa chọn , thêm bớt hoặc nhấn mạnh và chỉ được suy ra từ cái nhìn tổng thể đối với tác phẩm nghệ thuật , theo yêu cầu của người tiếp nhận .
+Khi Henry James trong Nghệ thuật văn xuôi xác lập điểm nhìn chính là " mô tả cách thức tồn tại của tác phẩm như một hành vi mang tính bản thể hoặc một cấu trúc hoàn chỉnh , tự trị đối với cá nhân nhà văn " và " Điểm nhìn là sự lựa chọn cự li trần thuật nào đó loại trừ được sự can thiệp của tác giả vào các sự kiện được miêu tả và cho phép văn xuôi trở nên tự nhiên hơn , phù hợp với cuộc sống hơn " đánh dấu một bước phát triển đáng kể trong nghiên cứu nghệ thuật kể chuyện , kể từ đó điểm nhìn nghệ thuật được coi là một nhân tố bộc lộ kỹ thuật tiểu thuyết của nhà văn , một mắt xích khách quan , nội tại , duy nhất mà theo đó chúng ta có thể đánh giá được " tay nghề " của tác giả .
+Từ những nhận định mang tính khái quát , sơ lược về điểm nhìn trong các từ điển , chẳng hạn như điểm nhìn là " vị trí của người kể trong mối quan hệ với câu chuyện của anh ta " và người ta phân biệt điểm nhìn với ba loại chính : người kể chuyện toàn tri ( người kể thông suốt mọi sự ) , người kể chuyện ngôi thứ ba ; và truyện kể ngôi thứ nhất , việc nghiên cứu điểm nhìn đã đi những bước dài trên hành trình kiếm tìm chân lý , trở nên có hệ thống , phức tạp và tinh vi hơn nhiều .
+Đáng chú ý là các công trình của P.Lubbock , G.Genette , B.Uspenski , W.Booth , R.Scholes và R.Kellogg , I.Lotman , S.Lanser ...
+Một điểm dễ nhận thấy là hầu hết những nghiên cứu về điểm nhìn đều chú trọng vào người kể chuyện và phân loại thành nhiều kiểu người kể chuyện , chẳng hạn như đó là kiểu người kể chuyện " ngôi thứ nhất " hoặc " ngôi thứ ba " , người kể chuyện toàn tri hoặc toàn tri một phần ( Partially omniscient ) hoặc có giới hạn ( limited ) , người kể chuyện theo điểm nhìn bên trong hoặc bên ngoài , người kể chuyện kịch hóa ( dramatized ) hoặc phi kịch hóa ( non-dramatized ) , người kể chuyện là các nhân vật trong truyện hoặc là không .
+Các kiểu người kể chuyện tuy có giới hạn nhưng đã được xác lập , trở thành những khái niệm công cụ cơ bản để từ đó mỗi nhà nghiên cứu tìm tòi và khai thác theo một cách thức riêng các vấn đề của điểm nhìn nghệ thuật cũng như nghệ thuật kể chuyện .
+W.Booth chú ý đến khoảng cách và theo ông khoảng cách là một trong những yếu tố quan trọng nhằm xác lập điểm nhìn trong truyện kể .
+Những " khoảng cách thẩm mỹ " sẽ mang chứa những đối thoại hàm ẩn giữa tác giả , người kể chuyện , nhân vật và độc giả .
+B.Uspenxki khám phá điểm nhìn trên năm bình diện khác nhau : bình diện tư tưởng hệ , ngôn vị , miêu tả không gian và thời gian , tâm lý và phức hợp .
+S.Lanser với quan niệm điểm nhìn nghệ thuật là tư tưởng và thủ pháp , đã lấy xuất phát điểm từ các vấn đề triết học về điểm nhìn và nghiên cứu thi pháp điểm nhìn từ vị trí , sự tiếp xúc ( contact ) và quan điểm / thái độ ( stance ) ...
+Sự ấn định này về người kể chuyện trong văn bản dường như đã thay đổi ít nhiều khi một số khái niệm của ngôn ngữ học được sử dụng rộng rãi và người ta chấp nhận các khái niệm tiêu điểm và các cấp độ tiêu cự của G.Genette hoặc nhấn mạnh đến mối quan hệ giữa các yếu tố này ...
+Mô hình tự sự của R.Scholes và R.Kellogg
+Một trong những cuốn sách nghiên cứu về tự sự được các nhà lý luận phê bình áp dụng khá nhiều là Bản chất của tự sự của R.Scholes và R.Kellogg xuất bản lần đầu vào năm 1966 .
+Trong công trình này vấn đề điểm nhìn đã được xem xét như là một trong những yếu tố quan trọng tạo dựng cấu trúc tác phẩm và xác lập mô hình truyện kể .
+Theo R.Scholes và R.Kellogg thì điểm nhìn là vấn đề của chính nghệ thuật kể chuyện , nó không chia xẻ với thơ ca hoặc là văn học kịch .
+Ở đây mối quan hệ giữa người kể chuyện - truyện kể và mối quan hệ giữa người kể chuyện - độc giả thực chất là nghệ thuật kể chuyện .
+Như thế nhân tố quan trọng chính là người kể chuyện và tác giả đã tập trung vào nhân tố này .
+Nói chung nghệ thuật kể chuyện có ba điểm nhìn : điểm nhìn của nhân vật , điểm nhìn của người kể chuyện và điểm nhìn của người đọc .
+Khi truyện kể trở nên phức tạp hơn thì điểm nhìn thứ tư nảy sinh từ sự khác biệt rõ rệt giữa người kể chuyện và tác giả .
+Theo tác giả đặc tính phúng thích bên trong truyện kể là cơ sở tự nhiên của nghệ thuật kể chuyện .
+Chính sự lớn lên trong nhận thức của người nghệ sĩ kể chuyện và sự tham gia của họ bằng khả năng phúng thích cố hữu trong sự điều khiển điểm nhìn tạo ra quá trình phát triển thực sự của lịch sử văn học .
+Tác giả chỉ rõ rằng : Vấn đề châm biếm trong truyện kể là một chức năng của sự chênh lệch giữa ba hoặc bốn điểm nhìn này .
+Và những người nghệ sĩ kể chuyện luôn sẵn sàng sử dụng sự không tương ứng này để tạo ra những ấn tượng riêng biệt .
+Sự chi phối của điểm nhìn trong truyện kể , theo Scholes và Kellogg chính là vấn đề quyền năng của người kể chuyện .
+Ở đây các tác giả đã khảo sát quyền năng của người kể chuyện truyền thống , Sử quan ( histor ) , chứng nhân ( eye-witness ) và toàn tri .
+Vấn đề không phải là truyện được kể ở ngôi thứ nhất hay thứ ba mà là nhận thức về uy quyền và sự chi phối của người kể chuyện trong truyện kể .
+Trước hết , quyền năng của người kể chuyện phụ thuộc vào sự phân loại truyện kể , đó là sử thi , tiểu thuyết lãng mạn hay tiểu thuyết bợm nghịch ; là truyện kể theo lối kinh nghiệm hay hư cấu .
+Trong mỗi tình thế truyện kể người kể chuyện sẽ xác lập một chỗ đứng , đồng thời chi phối các sự kiện trong truyện .
+Thứ hai là đặc tính và phẩm chất của mỗi kiểu người kể chuyện sẽ tạo ra những quyền năng khác nhau trên từng cấp độ của truyện kể .
+Ở đây tác giả nhận ra đặc điểm của từng kiểu người kể chuyện và cơ sở cho quyền năng của anh ta ở từng kiểu truyện đối với việc nhận thức hiện thực .
+Chẳng hạn , người kể chuyện truyền thống trong các huyền thoại bao giờ cũng kể về các sự kiện của quá khứ và chính truyền thống mang lại cho bản thân nó sức mạnh .
+Ở đây , người kể chuyện ( các nhà thơ sử thi ) là cái kho lưu giữ truyền thống , thực hiện chức năng tiêu khiển , đồng thời cũng là nhà viết sử .
+Truyền thống cấp cho anh ta quyền lực nhưng đồng thời cũng giới hạn tính phóng khoáng của anh ta .
+Những nỗ lực nhằm thay đổi quyền lực của người kể chuyện truyền thống là quá trình cố gắng của các nhà thơ sử thi đi từ sự bó buộc , quy phạm đến với sáng tạo bằng sức mạnh của cảm hứng .
+Hoặc ở trường hợp sử quan , xuất hiện với tư cách là một người kể chuyện , anh ta không phải là một người ghi chép lại hoặc người kể lại mà là một người điều tra nghiên cứu .
+Anh ta khảo sát quá khứ với con mắt hướng tới sự phân tách thực tế và huyền thoại .
+Không phải là một nhân vật trong truyện kể , cũng không phải chính xác là bản thân tác giả , sử quan là một vai , một sự hiện hữu của những ưu điểm mang tính kinh nghiệm của tác giả .
+Anh ta có mối liên hệ mật thiết với người đọc với tư cách là người được ký thác sự thật , một người điều tra và sắp xếp không biết mệt mỏi , một vị quan tòa đúng mực và công bằng .
+Tóm lại , đó là một con người được quyền không chỉ miêu tả sự việc như anh ta đã thiết lập mà còn có thể bình luận về chúng để rút ra sự tương đồng , để răn dạy , để khái quát hóa và để kể với người đọc những suy nghĩ và sự kiện được anh ta cho là phải làm .
+Sử quan luôn ý thức được rằng việc thuyết phục độc giả về uy quyền và khả năng của anh ta trong việc giải quyết các vấn đề là điều hết sức quan trọng .
+Nếu các nhà thơ truyền thống tự giam hãm mình trong câu chuyện của họ thì sử quan lại có thể đưa ra nhiều cách đối lập nhau trong việc đi tìm tính trung thực của các sự kiện .
+Gần hơn với người kể chuyện sử quan là kiểu người kể chuyện chứng nhân , một cội nguồn chủ yếu khác về quyền năng kể chuyện mà chúng ta thường hy vọng tìm thấy trong truyện kể theo lối kinh nghiệm chủ nghĩa .
+Ở đây điều được kỳ vọng trong câu chuyện mà người kể chuyện đem đến chính là những tư liệu ( mà anh ta tham gia hoặc chứng kiến ) tái hiện được tính chân thực của sự thật nhằm tạo ra một cơ hội tốt hơn để nhận thức hiện thực .
+Có thể nói : " Sự phong phú về chi tiết , tính chân thực và nhiều phẩm chất hơn nữa mà chúng ta có thể nhận ra như là những đặc điểm độc đáo , riêng biệt của chủ nghĩa hiện thực trong truyện kể là toàn bộ chức năng vốn có từ điểm nhìn chứng nhân " .
+Chính tính trung thực của các sự kiện và sự chính xác của những kết luận mà người kể chuyện sử quan và chứng nhân thu thập được , đưa ra là nền tảng cho quyền năng của anh ta .
+Tuy nhiên vấn đề đã thay đổi khi độ tin cậy của người kể chuyện chứng nhân được đặt ra và hơn nữa là những đòi hỏi đối với vai trò của người kể chuyện .
+Chứng nhân trong các tác phẩm hư cấu không còn cố gắng làm ra vẻ như thật hay có tính xác thực .
+Vấn đề trở nên phức tạp khi hình thức kể chuyện chứng nhân được sử dụng một cách rộng rãi .
+Và khi người kể được mô tả như là người chi phối đến truyện kể thì sẽ ưu tiên cho sự kiện và tình huống .
+Trong truyện kể chứng nhân tác giả phải cân đối giữa việc khai thác các chi tiết có thật trong việc lựa chọn và sắp xếp các sự kiện để tạo ra một mô hình truyện kể mà phần hư cấu có khuynh hướng tạo ra sức hấp dẫn cho câu chuyện .
+" Người kể chuyện thường phải đối mặt với sự lựa chọn hoặc là kể một câu chuyện chán ngắt hoặc là một kẻ bịp bợm " .
+Sự phong phú của những chi tiết trong truyện kể chứng nhân và uy quyền của người kể phải trả giá bằng sự chấp nhận những giới hạn nào đó .
+Khi truyện kể trở nên phức tạp người ta nhìn thấy sự thỏa hiệp rất rõ ràng ở cả hai hình thức truyện kể chứng nhân và sử quan .
+Sự thỏa hiệp này giới hạn quyền năng của người kể chuyện nhưng mặt khác nó lại tạo ra sự phong phú , đa dạng , công phu và tỉ mỉ cho mỗi hình thức người kể và việc xác lập điểm nhìn trong mỗi tác phẩm nghệ thuật .
+Như thế , các tác giả công khai sử dụng các thủ pháp , kỹ thuật nhằm tạo ra hứng thú cho truyện kể .
+Thực tế cho thấy , những nhà văn thử nghiệm với các hình thức văn xuôi của tiểu thuyết thời Phục hưng khó có thể sử dụng các thể thức sử thi .
+Anh ta phải sắp đặt nhiều hơn để thấy được quyền năng của mình trong các thủ pháp bắt chước của những nhà văn mà việc kể chuyện văn xuôi được xác định theo lối kinh nghiệm của các nhà sử học .
+Khi nghệ thuật kể chuyện phát triển , trở nên phức tạp , những nghệ sĩ cố gắng giành lại điều không thể làm .
+Họ sử dụng cả kinh nghiệm lẫn khả năng hư cấu tưởng tượng .
+Căn cứ vào từng cấp độ cụ thể các tiểu thuyết gia tìm kiếm sự thỏa hiệp giữa phương thức kinh nghiệm và phương thức hư cấu hoặc truyền thống một cách hiển nhiên .
+Nhìn chung , việc lựa chọn kiểu người kể chuyện là một quyết định không dễ dàng ở mỗi kiểu văn bản nghệ thuật bởi hình thức của mỗi kiểu người kể chuyện lại vô cùng phong phú .
+Việc xác lập quyền năng trên mỗi cấp độ khác nhau phụ thuộc vào nhiều yếu tố của hệ thống .
+Nhà văn luôn phải xác định những tình thế truyện kể cụ thể để quyết định toàn bộ vấn đề của anh ta .
+Một số vấn đề khi ứng dụng lý thuyết điểm nhìn vào nghiên cứu tác phẩm tự sự
+Những thành tựu của ngành tự sự học nói chung và điểm nhìn nghệ thuật nói riêng mở ra nhiều triển vọng cho nghiên cứu phê bình văn học .
+Con đường khám phá những đặc trưng riêng biệt , độc đáo của mỗi tác phẩm văn học , mỗi thời đại hay mỗi nền văn học là quá trình tìm tòi không mệt mỏi và dường như không có điểm kết thúc .
+Việc ứng dụng những lý thuyết mới vào nghiên cứu văn học là hướng đi tất yếu và giải pháp tối ưu cho sự phát triển của ngành nghiên cứu văn học nói riêng và sự phát triển của lịch sử văn học nói chung .
+Mỗi lý thuyết mới sẽ giúp bạn đọc tiếp cận với tác phẩm nghệ thuật ở một khía cạnh mới , khám phá những tinh túy ẩn dấu đằng sau mã ngôn từ tác phẩm .
+Điều này cũng lý giải vì sao con đường đến với tác phẩm văn chương nghệ thuật luôn hấp dẫn người đọc .
+Tuy nhiên từ lý thuyết đến việc ứng dụng vào thực tiễn nghiên cứu là một khoảng cách khá xa , đòi hỏi nhiều năng lực khác từ phía người nghiên cứu .
+Lý thuyết điểm nhìn đã được áp dụng trong nghiên cứu văn học khá phổ biến từ Tây sang Đông , và quá trình ứng dụng nó , để thành công thực sự phải là một quá trình sáng tạo .
+Ở Việt Nam việc giới thiệu và sử dụng lý thuyết tự sự học nói chung và điểm nhìn nghệ thuật nói riêng vẫn chỉ dừng lại ở giai đoạn đầu : ồn ào song mang tính hình thức và sơ lược .
+Trước tình hình đó người viết muốn giới thiệu một số mô hình ứng dụng phân tích điểm nhìn nghệ thuật của một nền văn học lớn rất gần chúng ta và tương đồng về nhiều mặt : văn học Trung Quốc .
+Từ đó hy vọng có thể học tập hay rút ra những bài học kinh nghiệm từ việc ứng dụng của họ .
+Tôi muốn nói đến hai công trình : Chinese Narrative : Critical and Theoretical Essays ( Tự sự Trung Quốc : những bài tiểu luận phê bình và lý thuyết ) do Andrew H.Placks biên soạn , 1977 ; và The Uneasy Narrtor ( Chinese Fiction From the Tradictional to the Moder ) ( Người kể chuyện bất an ( tiểu thuyết Trung Quốc từ truyền thống đến hiện đại ) của Henry Y.H.Zhao , 1995 .
+Đây là hai công trình ứng dụng mô hình lý thuyết phương Tây khá rõ nét , đặc biệt trong Tự sự học Trung Quốc : những bài tiểu luận phê bình và lý thuyết các tác giả sử dụng chủ yếu mô hình lý thuyết của The Nature of Narrative ( Bản chất của tự sự , Tác giả R.Scholes và R.Kellogg ) và The Rhetoric of Fiction ( Tu từ học tiểu thuyết của W.Booth ) .
+Trước hết phải nhận thấy rằng các nhà nghiên cứu đã tuân thủ khá nghiêm ngặt tinh thần và quan niệm của tự sự học nói chung và điểm nhìn nói riêng trong lý thuyết của W.Booth , của R.Scholes và R.Kellogg trong quá trình khám phá một đối tượng nghệ thuật cụ thể .
+Điều đáng nói là sự phong phú và phức tạp của nền văn học Trung Quốc buộc các nhà nghiên cứu phải sử dụng các mô hình lý thuyết một cách hết sức linh hoạt .
+Chẳng hạn khi nghiên cứu về Tiểu thuyết Trung Quốc đời Minh và đầu đời Thanh ( phần II ) , trong tiểu luận Mẫu hình tự sự trong " Tam Quốc " và " Thủy Hử " tác giả Peter Li đã xử lý vấn đề một cách rất sáng tạo để từ đó nhìn ra đặc điểm độc đáo và khác biệt của hai tác phẩm lớn này .
+Việc tổ chức mẫu hình tự sự Tam Quốc và Thủy Hử đều dựa vào cấu trúc chính trị - xã hội và tư tưởng cùng với sự phức hợp nằm bên trong tác phẩm .
+Tác giả tiến hành khảo sát tác phẩm căn cứ trên các cấp độ truyện kể khác nhau .
+Bắt đầu với những đơn vị văn học cơ bản của các sự kiện hoặc tình tiết bất ngờ di chuyển đến những đơn vị lớn hơn , và từ kết quả của sự kiện hoặc tình tiết mà xác lập tuyến hành động của truyện kể .
+Sự phân chia thành các cấp độ khác nhau tạo ra sự thống nhất và tính liên tục của truyện kể .
+Tuy nhiên sự khác biệt của hai tác phẩm này nằm ở phương thức kết hợp cấu trúc bên trong và mô hình ( model ) bên ngoài .
+Ở Tam quốc diễn nghĩa cấu trúc bên trong liên kết chặt chẽ với nhau bằng việc tạo ra những tình huống đối đầu , đuợc gọi là mô hình cuộc cách mạng mang tính đối đầu ( conflic-revolution ) nhưng toàn bộ mô hình bên ngoài lại tương đối yếu bởi những mâu thuẫn kéo dài một cách không tương xứng , cuộc cách mạng cuối cùng chỉ lướt qua và hạ xuống cực điểm .
+Trong khi đó , ngược lại , hệ thống liên kết cốt truyện trong Thủy Hử tương đối yếu , bù lại nó có mô hình bên ngoài vững chắc .
+Cấu trúc này được tác giả gọi là cấu trúc cốt truyện liên kết ( linked-plot ) .
+Như thế , cấu trúc bên trong của Thủy Hử khác hẳn .
+Thay vì xây dựng các tuyến hành động đi theo sự nghiệp cá nhân của các anh hùng thì mẫu hình chủ yếu trong Thủy Hử là một chuỗi tuần hoàn , hơn nữa , chu kỳ của mỗi nhân vật anh hùng khác nhau thì khác nhau .
+Trong tiểu luận " Tả truyện như một ví dụ " ( Tả truyện - một tác phẩm nổi tiếng , một trong những văn bản tự sự sớm nhất và trứ danh về văn phong Trung Hoa , có ảnh hưởng đáng kể đối với những tác phẩm tự sự sau này ) .
+Dựa vào khung lý thuyết tự sự của The nature of Narrative : cốt truyện , nhân vật , ý nghĩa và điểm nhìn ( bốn yếu tố tối thiểu và không thể giảm bớt để có thể nhận ra bất kỳ một loại truyện kể nào , bất cứ thời gian nào và bất cứ nơi đâu ) tác giả tiến hành xem xét sự vận hành của các yếu tố này trong truyện kể .
+John Wang cho rằng : có hai điểm nhìn chính trong tự sự là điểm nhìn ngôi thứ nhất và điểm nhìn ngôi thứ ba .
+Song khảo sát tổng thể truyền thống tự sự Trung Quốc , có thể thấy cực kỳ hiếm người kể chuyện ngôi thứ nhất , thông thường là người kể chuyện ngôi thứ ba , và chuyển dần từ người kể chuyện bé mọn ( mere narrator ) sang người kể chuyện toàn tri không giới hạn ( unlimited omnicience ) ...
+Đối với một tác phẩm sử truyện như Tả truyện thì ưu thế về việc chấp nhận điểm nhìn chứng nhân ngôi thứ ba ở khắp mọi nơi rất rõ ràng .
+Nó cho phép tác giả trình bày các sự kiện sống động , ấn tượng mà không đánh mất cảm giác của người đọc về sự tín nhiệm và lòng tin .
+Người kể có đầy đủ quyền năng trên khắp trường nhìn của anh ta , miêu thuật lại cho độc giả những gì mình nghe thấy , nhìn thấy - với tư cách nhân chứng , nhưng bản thân lại không tham dự vào hành động truyện đang được tái hiện .
+Người kể chuyện cũng không ngần ngại đưa ra những phán quyết , phẩm bình cá nhân về nhân vật hoặc sự kiện nào đó từ nhiều điểm nhìn .
+Tuy nhiên việc chấp nhận một điểm nhìn như thế chắc chắn sẽ đưa đến một bất lợi : khi kể chuyện , người kể không thể trực tiếp đi vào ý nghĩ của nhân vật mà chỉ có thể miêu thuật những hành động , lời nói của họ , thậm chí đôi lúc phải rời bỏ những động lực thực sự sau những hành động của nhân vật .
+Như thế , người kể rất hiếm khi dám cả gan miêu thuật những gì chỉ dành cho người kể chuyện toàn tri .
+Đây là lý do giải thích vì sao không có sự xâm nhập vào thế giới tinh thần cảm xúc của nhân vật .
+Đáng chú ý là tiểu luận : " Điểm nhìn , quy thức và cấu trúc : Hồng lâu mộng và tiểu thuyết trữ tình " .
+Trên cơ sở thừa nhận 4 điểm nhìn của văn bản tự sự : điểm nhìn của nhân vật , điểm nhìn của người kể chuyện , điểm nhìn của người đọc và của tác giả , và coi sự phát triển của tự sự phương Tây là tiến trình của những phúng thích liên tục của hai tác giả Scholes và Kellogg , Wong Kam-Ming cho rằng vấn đề còn gây tranh cãi là liệu có hay không điểm nhìn thứ tư - điểm nhìn nảy sinh từ sự khác biệt giữa tác giả và người kể chuyện , được minh định rất rõ trong kiệt tác Hồng lâu mộng .
+Theo ông , ở tác phẩm này , lần đầu tiên trong truyền thống , chúng ta có một điểm nhìn thứ tư rõ rệt , nhờ sự phát triển của người phản chiếu ngôi thứ ba toàn hiện ( fully realized third-person reflector ) .
+Việc này thể hiện ngay từ đầu cuốn tiểu thuyết .
+Suốt chương 1 , tác giả bận tâm xếp đặt nhân vật theo các tầng bậc khác nhau về khoảng cách với độc giả và chính mình .
+Công trình thứ hai : The Uneasy Narrator bộc lộ rõ nét sự sáng tạo khi ứng dụng các mô hình lý thuyết phương Tây vào thực tiễn nghiên cứu tác phẩm .
+Theo tác giả Henry Y.H.Zhao mỗi một nền văn hóa , một thời đại có một kiểu người kể chuyện phù hợp với nó .
+Đời sống cá nhân , vị trí của người kể chuyện , sự chi phối , điều khiển của anh ta , sự hòa hợp hay mâu thuẫn của người kể chuyện với tác giả ... sẽ mang lại những hiểu biết sâu sắc về mối quan hệ giữa tiểu thuyết và văn hóa .
+Trên cơ sở thừa nhận ba kiểu người kể chuyện tương ứng với ba thời kỳ văn học ở Trung Quốc ( văn học truyền thống , thời kỳ Ngũ Tứ và Vãn Thanh ) tác giả cho thấy , ba kiểu người kể chuyện , ba hoàn cảnh ( môi trường , tình huống ) truyện kể là kết quả của ba mối quan hệ giữa tiểu thuyết Trung Quốc và văn hóa Trung Quốc
+Trong Phần 2 : Sự phát triển tự sự của tiểu thuyết bản địa Trung Quốc , ở các tiểu mục : Vị trí của người kể chuyện , Người kể chuyện và nhân vật và Thời gian truyện kể tác giả của The Uneasy Narrator đã áp dụng khung lý thuyết và một số thuật ngữ của W.Booth , R.Scholes và R.Kelloggg , Genette , Chatman ...
+Tuy nhiên Henry Y.H.Zhao đã xâu chuỗi một cách rất tuyệt vời các yếu tố đặc trưng của nền văn hóa Trung Quốc ảnh hưởng đến việc xác lập kiểu người kể chuyện như thế nào .
+Chẳng hạn , ở tiểu mục Vị trí người kể chuyện tác giả cho thấy sự khác nhau cơ bản giữa người kể chuyện truyền khẩu và người kể chuyện văn bản viết .
+Do tính chất , đặc trưng truyền khẩu , người kể chuyện phải thực hiện một loạt các chức năng khác nhau : với vai trò giao tiếp với người nhận-chức năng giao tiếp , với tư cách người điều khiển , chi phối việc kể chuyện-chức năng điều khiển , với tư cách là người bình luận truyện kể-chức năng bình luận , và đôi lúc với tư cách nhân vật trong truyện kể - chức năng tính cách hóa .
+Bên cạnh việc chỉ ra rằng , những chức năng này là ảnh hưởng từ những gạn lọc mang tính thử nghiệm về sự mô tả của Genette , tác giả cũng nhận thấy Genette đã không chỉ ra được việc thực hiện các chức năng này và khả năng của người kể chuyện truyền khẩu và người kể chuyện văn học viết là hoàn toàn khác nhau .
+Với tính chất hữu hình , xác thực người kể chuyện truyền khẩu có thể thực hiện tất cả các chức năng theo cách có thể nghe thấy và nhìn thấy rõ , tiếp xúc trực tiếp với người nhận thông điệp .
+Trong khi đó người kể chuyện văn học viết chỉ có thể thực hiện được một chức năng một cách tự nhiên khi anh ta là nhân vật và khả năng của anh ta đối với việc thực hiện các chức năng khác là điều kiện .
+Khảo sát sâu hơn , Henry Y.H.Zhao cho thấy sự thay đổi vị trí của người kể chuyện phụ thuộc vào hoàn cảnh ( không gian , thời gian ) và việc đồng nhất người kể chuyện với tác giả kéo dài liên tục trong tiểu thuyết Trung Quốc có động lực văn hóa sâu sắc đứng đằng sau toàn bộ việc nghiên cứu quá khứ .
+Và những qui ước về truyện kể rơi vào khủng hoảng khi vị trí của người kể chuyện trở nên mơ hồ .
+Tất cả những vấn đề về mối quan hệ giữa văn học và văn hóa , sự chi phối của các yếu tố văn hóa đối với cấu trúc truyện kể được triển khai khá cụ thể ở Phần 3 : Nghiên cứu văn hóa về tiểu thuyết bạch thoại Trung Quốc của công trình này .
+Ở đây thể hiện rõ ràng tính sáng tạo trong việc áp dụng các khung lý thuyết vào thực tiễn tác phẩm .
+Tác giả tiến hành khảo sát từ " Địa vị văn hóa của tiểu thuyết bạch thoại " , " số phận của người viết tiểu thuyết bạch thoại " , " hệ hình văn hóa dành cho tiểu thuyết bạch thoại " và " Ảnh hưởng của phương Tây đối với tiểu thuyết bạch thoại " .
+Có thể nói , không có bất kỳ một vấn đề nào liên quan đến việc hiểu tiểu thuyết Bạch thoại Trung Quốc lại nằm ngoài những hiểu biết hoặc vị trí văn hóa nói chung .
+Từ việc khảo sát các thành phần , các mô hình của nền văn hóa ( kể cả tiểu văn hóa ( subculture ) và phản văn hóa ( counter-culture ) ) tác giả cho thấy sự chi phối sâu sắc của các yếu tố văn hóa đối với tiểu thuyết Bạch thoại .
+Tuy nhiên , Henry Y.H.Zhao cũng nhận thấy khi văn hóa chuyển thành ngôn ngữ và ngôn ngữ văn học thì chính những đặc điểm của ngôn ngữ sẽ cho thấy diện mạo một nền văn hóa .
+Ví dụ , thứ ngôn ngữ chín chắn , có chừng mực , tao nhã tiêu biểu cho thời Ngũ Tứ .
+Trong khi đó kiểu ngôn ngữ hỗn loạn , đứt gẫy với " rất nhiều lỗi " là một phần của tiểu thuyết Bạch thoại Trung Quốc .
+Tập truyện ngắn Nhật ký người điên của Lỗ Tấn là một hiện tượng tiêu biểu cho sự chuyển đổi này .
+Đồng thời nó được coi là " bản tuyên ngôn " về hệ thống tôn ti trật tự văn hóa của văn hóa Trung Quốc .
+Nhìn chung , lý thuyết của R.Scholes và R.Kellogg nói riêng và lý thuyết của phương Tây nói chung được vận dụng rộng rãi và trở thành cái khung vững chắc trong các công trình nghiên cứu ứng dụng tự sự học ở Trung Quốc .
+Thực ra đây là vấn đề hết sức bình thường trong lĩnh vực khoa học nghiên cứu văn học , tuy nhiên điều đáng nói là hiệu quả của những ứng dụng này .
+Trung Quốc là một trong những nền văn học lớn đã vận dụng khá sớm và triệt để những thành tựu của lý luận phương Tây hiện đại .
+Họ cũng đã từng có những bước đi cực đoan , tuy nhiên thành công từ việc áp dụng những lý thuyết mới là thành quả rất đáng trân trọng .
+Chúng ta cũng tiếp cận với những lý thuyết mới , song hiệu quả đến đâu thì lại còn rất nhiều bất cập .
+Trên cơ sở xem xét một vài ứng dụng của các nhà nghiên cứu văn học Trung Quốc xin được rút ra một số nhận xét như sau :
+1 ) Các nhà nghiên cứu có thể sử dụng một hoặc kết hợp nhiều mô hình lý thuyết cho một thực tiễn tác phẩm văn học .
+Hoặc cũng có thể chỉ sử dụng một số khái niệm và tinh thần , ý tưởng của một quan niệm nào đó mà thôi ( chẳng hạn , tác giả của The Uneasy Narrator có thể sử dụng một số khái niệm về tiêu điểm , tiêu cự của Genette , Chatman ... ) .
+2 ) Trong việc nghiên cứu điểm nhìn nghệ thuật , để xác lập mô hình cấu trúc tác phẩm các nhà nghiên cứu đặc biệt chú ý đến sự ước thúc của các thành tố văn hóa .
+Nghiên cứu tự sự hay điểm nhìn nghệ thuật ở đây không chỉ là nghiên cứu các thao tác kỹ thuật mà còn được nhìn và cắt nghĩa từ nhiều góc tham chiếu văn hóa .
+Có thể nói , mỗi nền văn hóa với các tham số không gian và thời gian gắn bó chặt chẽ với nhân dân - người sáng tạo ra nó .
+Văn hóa lưu giữ trong bản thân nó phương thức hoạt động sống đặc biệt của con người với những nét đặc thù của lối sống , hành vi ứng xử của các dân tộc riêng biệt ; với những phương thức cảm nhận thế giới đặc biệt trong huyền thoại , truyền thuyết , hệ thống tín ngưỡng , hệ thống biểu tượng , ...
+Tất cả những yếu tố này tạo ra sắc thái riêng biệt mà văn học là một hình thái ý thức in dấu rõ nét các yếu tố văn hóa bản địa .
+Vì thế , việc giải mã văn học dựa vào phương pháp luận và các kỹ thuật phân tích của phương Tây nhưng không tách rời bản sắc dân tộc , đặt văn học vào cái nôi sản sinh ra nó đã và đang được các nhà nghiên cứu văn học Trung Quốc kết hợp một cách tinh tế và hiệu quả .
+3 ) Một điểm khá ấn tượng khi xem xét các công trình nghiên cứu lý luận phê bình của Trung Quốc là trên cơ sở thu nhận những thành tựu của phương Tây các nhà nghiên cứu rất có ý thức trong việc tạo ra một nền tự sự học Trung Hoa .
+Đó là nền tự sự học ảnh hưởng từ phương Tây song mang đậm dấu ấn văn hóa Trung Quốc .
+Trong rất nhiều các công trình hay bài viết về tự sự học các nhà nghiên cứu đã chỉ ra sự khác biệt này .
+Chẳng hạn , ở công trình Chinese Narrative dành hẳn phần IV của cuốn sách để nói về lý thuyết tự sự Trung Hoa , hay trong tiểu luận Point of View in Writing of Tradictional Chinese Fiction Critics tác giả David L.Rolston đã đặt vấn đề trên cơ sở tương đương và khác biệt về văn hóa cũng như quan niệm lý thuyết .

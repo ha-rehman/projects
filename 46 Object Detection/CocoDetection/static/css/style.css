@@ -1,0 +1,39 @@
+/* center text class */
+.center{
+    text-align: center;
+}
+
+/* set margins */
+.m-50{
+    margin-top: 50px;
+}
+
+.m-100{
+    margin-top: 100px;
+}
+
+.m-150{
+    margin-top: 150px;
+}
+
+.m-200{
+    margin-top: 200px;
+}
+
+.title{
+    color: #0f2a5f;
+    font-family: Montserrat, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.line{
+    border-color: #0f2a5f;
+    border-right: 3px solid;
+    height: 500px;
+}
+
+.line>h3{
+    color: saddlebrown;
+}
+

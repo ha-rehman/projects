@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern># register ^ three ^ M ^ Sc ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+    <category>
+	    <pattern># register ^ three ^ Ph ^ D ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+	<category>
+	    <pattern># register ^ three ^ Postgraduate ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+	<category>
+	    <pattern># register ^ three ^ M ^ phil ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+	<category>
+	    <pattern># register ^ three ^ MBA ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+	<category>
+	    <pattern># register ^ three ^ M ^ S ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+	
+	<category>
+	    <pattern># register ^ three ^ Masters ^</pattern>
+	    <template>Maximum 4 subjects are allowed to register in postgraduate programs i.e MS/Ph.D/M.Phil/MBA/M.Sc in any semester.</template>
+    </category>
+	
+	<category>
+	    <pattern># rule ^ re ^ admission ^</pattern>
+	    <template>Undergraduate students can get re-admission if they fail to maintain minimum 2.000 CGPA, if postgraduate students don’t complete their degree within prescribed time period, they may get re-admission within 5 years. Their passed subjects will be transferred.</template>
+    </category>
+    
+	<category>
+	    <pattern># criteria ^ re ^ admission ^</pattern>
+	    <template>Undergraduate students can get re-admission if they fail to maintain minimum 2.000 CGPA, if postgraduate students don’t complete their degree within prescribed time period, they may get re-admission within 5 years. Their passed subjects will be transferred.</template>
+    </category>
+	
+	<category>
+	    <pattern># procedure ^ re ^ admission ^</pattern>
+	    <template>Undergraduate students can get re-admission if they fail to maintain minimum 2.000 CGPA, if postgraduate students don’t complete their degree within prescribed time period, they may get re-admission within 5 years. Their passed subjects will be transferred.</template>
+    </category>
+	
+	<category>
+	    <pattern># marks ^ transferred ^ credits ^ exchange programs ^</pattern>
+	    <template>Department decides. </template>
+    </category>
+
+	<category>
+	    <pattern># exchange programs ^ transfer ^ credits ^</pattern>
+	    <template>Yes, if department gives written permission, transferred subject’s contents should match the subject taught at UET.  </template>
+    </category>
+
+	<category>
+	    <pattern># exchange programs ^ transfer ^ credits ^</pattern>
+	    <template>Yes, if department gives written permission, transferred subject’s contents should match the subject taught at UET.  </template>
+    </category>
+
+	<category>
+	    <pattern># exchange programs ^ credits ^ transfer ^</pattern>
+	    <template>Yes, if department gives written permission, transferred subject’s contents should match the subject taught at UET.  </template>
+    </category>
+	
+	<category>
+	    <pattern># exchange programs ^ credits ^ transferred ^</pattern>
+	    <template>Yes, if department gives written permission, transferred subject’s contents should match the subject taught at UET.  </template>
+    </category>
+	
+	<category>
+	    <pattern># transcript ^ late ^ apply ^ admission ^</pattern>
+	    <template>Yes, conditionally.  </template>
+    </category>
+	
+	<category>
+	    <pattern># apply ^ admission ^ transcript ^ late ^</pattern>
+	    <template>Yes, conditionally. </template>
+    </category>
+	
+		<category>
+	    <pattern># result ^ late ^ apply ^ admission ^</pattern>
+	    <template>Yes, conditionally.  </template>
+    </category>
+	
+	<category>
+	    <pattern># apply ^ admission ^ result ^ late ^</pattern>
+	    <template>Yes, conditionally. </template>
+    </category>
+     
+     	<category>
+	    <pattern># transcript ^ awaited ^ apply ^ admission ^</pattern>
+	    <template>Yes, conditionally.  </template>
+    </category>
+	
+	<category>
+	    <pattern># apply ^ admission ^ transcript ^ awaited ^</pattern>
+	    <template>Yes, conditionally. </template>
+    </category>
+	
+		<category>
+	    <pattern># result ^ awaited ^ apply ^ admission ^</pattern>
+	    <template>Yes, conditionally.  </template>
+    </category>
+	
+	<category>
+	    <pattern># apply ^ admission ^ result ^ awaited ^</pattern>
+	    <template>Yes, conditionally. </template>
+    </category>
+    
+    <category>
+	   <pattern># bay ^ form ^ replacement ^ NIC ^</pattern>
+	    <template>No. </template>
+    </category>
+	
+	<category>
+	   <pattern># NIC ^ replace ^ bay ^ form ^</pattern>
+	    <template >No. </template>
+    </category>
+	
+	<category>
+	   <pattern># submit ^ fee ^ missed ^</pattern>
+	    <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># deposit ^ fee ^ missed ^</pattern>
+	     <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># missed ^ deposit ^ fee ^</pattern>
+	  <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># missed ^ deposit ^ fee ^</pattern>
+	    <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># submit ^ fee ^ missing ^</pattern>
+	   <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># deposit ^ fee ^ missing ^</pattern>
+       <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># missing ^ deposit ^ fee ^</pattern>
+	   <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># missing ^ deposit ^ fee ^</pattern>
+	   <template >Yes. </template>
+    </category>
+	
+	<category>
+	   <pattern># apply ^ migration ^ UET ^ Lahore ^</pattern>
+	   <template >Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+	
+	<category>
+	   <pattern># Migration ^ allowed ^ undergraduate ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+
+	<category>
+	   <pattern># Migration ^ allowed ^ Bachelors ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+	
+	<category>
+	   <pattern># Migration ^ allowed ^ B ^ Sc ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+    
+    <category>
+	   <pattern># Migration ^ allowed ^ Postgraduate ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+
+	<category>
+	   <pattern># Migration ^ allowed ^ M ^ Sc ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+    
+    <category>
+	   <pattern># Migration ^ allowed ^ M ^ Phil ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+    
+    <category>
+	   <pattern># Migration ^ allowed ^ Ph ^ D ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+    
+    <category>
+	   <pattern># Migration ^ allowed ^ MBA ^ UET ^ Lahore ^</pattern>
+	   <template >Yes, Students can migrate anywhere from UET, but cannot migrate to UET, Lahore.</template>
+    </category>
+    
+	<category>
+	   <pattern># Procedure ^ migration ^</pattern>
+	   <template >Migration form is available at UET site. Terms and conditions are mention there.</template>
+    </category>
+
+	<category>
+	   <pattern># Criteria ^ migration ^</pattern>
+	   <template >Migration form is available at UET site. Terms and conditions are mention there.</template>
+    </category>	
+	
+	<category>
+	   <pattern># Conditions ^ migration ^</pattern>
+	   <template >Migration form is available at UET site. Terms and conditions are mention there.</template>
+    </category>	
+	
+	<category>
+	   <pattern># Condition ^ migration ^</pattern>
+	   <template >Migration form is available at UET site. Terms and conditions are mention there.</template>
+    </category>	
+	
+	<category>
+	   <pattern># procedure ^ original ^ documents ^</pattern>
+	   <template >B.Sc students can take back their original documents after 2 years. However, before this time student can take their docs after submitting an application in DR SS office by retaining any original CNIC form their family.</template>
+    </category>	
+	
+	<category>
+	   <pattern># get ^ original ^ documents ^</pattern>
+	   <template >B.Sc students can take back their original documents after 2 years. However, before this time student can take their docs after submitting an application in DR SS office by retaining any original CNIC form their family.</template>
+    </category>	
+	
+	<category>
+	   <pattern># apply ^ admission ^ reciprocal ^ seat ^</pattern>
+	   <template >During the regular Admission Process, almost in September, only students having Punjab domiciled can apply. Rs. 1500/= fee will be charged paid in the HBL UET, Branch, as admission form fee, for all seats reserved in other provinces. No prospectus required.</template>
+    </category>	
+
+	<category>
+	   <pattern># apply ^ reciprocal ^ seat ^</pattern>
+	   <template >During the regular Admission Process, almost in September, only students having Punjab domiciled can apply. Rs. 1500/= fee will be charged paid in the HBL UET, Branch, as admission form fee, for all seats reserved in other provinces. No prospectus required.</template>
+    </category>	
+
+<!--Response having issue.. Check it.       //     iSSUE RESOLVED CHECK!-->
+
+	<category>
+	   <pattern># intallments ^ fee ^</pattern>
+	   <template>Payment of admission fee in installments is not allowed </template>
+    </category>	
+    
+	<category>
+	   <pattern># intallment ^ fee ^</pattern>
+	   <template>Payment of admission fee in installments is not allowed </template>
+    </category>	
+
+	<category>
+	   <pattern># fee ^ installment ^</pattern>
+	   <template>Payment of admission fee in installments is not allowed </template>
+    </category>	
+
+	<category>
+	   <pattern># fee ^ installments ^</pattern>
+	   <template>Payment of admission fee in installments is not allowed </template>
+    </category>	
+    
+<!---->
+
+	<category>
+	   <pattern># name ^ not ^ appear ^ new merit list ^ preference ^ previous preference ^</pattern>
+	   <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website </template>
+    </category>	
+
+	<category>
+	   <pattern># Roll number ^ not ^ appear ^ new merit list ^ preference ^ previous preference ^</pattern>
+	   <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website</template>
+    </category>	
+
+	<category>
+	   <pattern># name ^ not ^ show ^ new merit list ^ preference ^ previous preference ^</pattern>
+	   <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website</template>
+    </category>	
+
+	<category>
+	   <pattern># Roll number ^ not ^ show ^ new merit list ^ preference ^ previous preference ^</pattern>
+	   <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website</template>
+    </category>	
+
+	<category>
+	   <pattern># move ^ previous preference ^</pattern>
+	   <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website</template>
+    </category>	
+
+	<category>
+	   <pattern># change ^ previous preference ^</pattern>
+	   <template>Yes, he will be in previous discipline. Student just recheck his/her status from admission website</template>
+    </category>	
+
+<!--Not giving response-->
+
+	<category>
+	   <pattern># qualified ^ merit list ^ don ^ t ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+
+<category>
+	   <pattern># qualify ^ merit list ^ don ^ t ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+<category>
+    
+	   <pattern># appeared ^ merit list ^ don ^ t ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+
+<category>
+	   <pattern># appear ^ merit list ^ don ^ t ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+
+<category>
+	   <pattern># qualified ^ merit list ^ don ^ t ^ dues ^ get ^ relaxation ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># qualified ^ merit list ^ don ^ t ^ dues ^ get ^ admission ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+    <category>
+	   <pattern># qualify ^ merit list ^ don ^ t ^ dues ^ get ^ relaxation ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># qualify ^ merit list ^ don ^ t ^ dues ^ get ^ admission ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+
+<category>
+	   <pattern># appeared ^ merit list ^ don ^ t ^ dues ^ get ^ relaxation ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># appeared ^ merit list ^ don ^ t ^ dues ^ get ^ admission ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+    <category>
+	   <pattern># appear ^ merit list ^ don ^ t ^ dues ^ get ^ relaxation ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># appear ^ merit list ^ don ^ t ^ dues ^ get ^ admission ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+
+<!---->
+	<category>
+	   <pattern># qualified ^ merit list ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+
+<category>
+	   <pattern># qualify ^ merit list ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+<category>
+    
+	   <pattern># appeared ^ merit list ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+
+<category>
+	   <pattern># appear ^ merit list ^ required documents ^</pattern>
+	   <template>Required documents are compulsory for admission, you cannot apply without the required documents</template>
+    </category>	
+
+<category>
+	   <pattern># qualified ^ merit ^ relaxation ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># qualify ^ merit ^ relaxation ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+ <category>
+	   <pattern># qualified ^ merit ^ dues ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+
+<category>
+	   <pattern># appeared ^ merit ^ dues ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># appear ^ merit list, ^ dues ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+    <category>
+	   <pattern># qualify ^ merit list ^ dues ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+ <category>
+	   <pattern># qualified ^ merit ^ fee ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+
+<category>
+	   <pattern># appeared ^ merit ^ fee ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+<category>
+	   <pattern># appear ^ merit list, ^ fee ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+    
+    <category>
+	   <pattern># qualify ^ merit list ^ fee ^</pattern>
+	   <template>Submission of dues is compulsory within time limit, otherwise your name will not be considered, no relaxation is granted in dues.</template>
+    </category>	
+ 
+<category>
+	   <pattern># check ^ merit list ^</pattern>
+	   <template>You can check your merit list at admission.uet.edu.pk by entering your CNIC, date of birth and entry test roll no.</template>
+    </category>	
+
+<!--Double Answer-->
+
+<category>
+	   <pattern># unable ^ check ^ merit list ^</pattern>
+	   <template>Please make sure that you have entered correct details like CNIC, date of birth and entry test roll No. etc, in case of any issue Please visit Convener Office 042-99029452, 042-99029216, Admin Block</template>
+    </category>	
+
+<category>
+	   <pattern># unable ^ check ^ list ^</pattern>
+	   <template>Please make sure that you have entered correct details like CNIC, date of birth and entry test roll No. etc, in case of any issue Please visit Convener Office 042-99029452, 042-99029216, Admin Block</template>
+    </category>	
+
+<!--Issue in Response-->
+
+<category>
+	   <pattern># merit ^ allow ^ login ^</pattern>
+	   <template>Please make sure that you have entered correct details like CNIC, date of birth and entry test roll No. etc, in case of any issue Please visit Convener Office 042-99029452, 042-99029216, Admin Block</template>
+    </category>	
+
+<category>
+	   <pattern># merit ^ allowed ^ login ^</pattern>
+	   <template>Please make sure that you have entered correct details like CNIC, date of birth and entry test roll No. etc, in case of any issue Please visit Convener Office 042-99029452, 042-99029216, Admin Block</template>
+    </category>	
+
+<category>
+	   <pattern># login ^ merit ^ uploaded ^</pattern>
+	   <template>Please make sure that you have entered correct details like CNIC, date of birth and entry test roll No. etc, in case of any issue Please visit Convener Office 042-99029452, 042-99029216, Admin Block</template>
+    </category>	
+
+<category>
+	   <pattern># login ^ merit ^ upload ^</pattern>
+	   <template>Please make sure that you have entered correct details like CNIC, date of birth and entry test roll No. etc, in case of any issue Please visit Convener Office 042-99029452, 042-99029216, Admin Block</template>
+    </category>	
+    
+<category>
+	   <pattern># merit ^ upload ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ uploaded ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ display ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ displayed ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+   
+    <category>
+	   <pattern># merit ^ Prepare ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ prepared ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>
+   
+<category>
+	   <pattern># merit ^ upload ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ uploaded ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ display ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ displayed ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+
+
+
+<category>
+	   <pattern># list ^ upload ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ uploaded ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ display ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ displayed ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+   
+    <category>
+	   <pattern># list ^ Prepare ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ prepared ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>
+   
+<category>
+	   <pattern># list ^ upload ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ uploaded ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ display ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># list ^ displayed ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+
+
+
+
+
+
+
+
+ <category>
+	   <pattern># merit ^ prepare ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+ 
+ <category>
+	   <pattern># merit ^ prepared ^</pattern>
+	   <template>Date of display of merit lists is mentioned in Prospectus</template>
+    </category>	
+
+ <category>
+	   <pattern># pay ^ fee ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># paid ^ fee ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># deposit ^ fee ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># deposited ^ fee ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># pay ^ admission ^ fee ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># paid ^ admission ^ fee ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># deposit ^ admission ^ fee ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># deposited ^ admission ^ fee ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+    
+ <category>
+	   <pattern># forget ^ apply ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># forgot ^ apply ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+     <category>
+	   <pattern># do not ^ apply ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+         <category>
+	   <pattern># don ^ t ^ apply ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>
+    
+     <category>
+	   <pattern># didn ^ t ^ apply ^ admission ^</pattern>
+	   <template>After entry test, student need to apply for admission online, otherwise his name will not be considered for admission</template>
+    </category>	
+    
+       <category>
+	   <pattern># send ^ hard copy ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>	
+
+       <category>
+	   <pattern># submit ^ hard copy ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>
+    
+           <category>
+	   <pattern># submitted ^ hard copy ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>
+    
+       <category>
+	   <pattern># TCS ^ hard copy ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>
+
+       <category>
+	   <pattern># send ^ hard copies ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>	
+
+       <category>
+	   <pattern># submit ^ hard copies ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>
+    
+           <category>
+	   <pattern># submitted ^ hard copies ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>
+    
+       <category>
+	   <pattern># TCS ^ hard copies ^</pattern>
+	   <template>Submission of hard copies by hand at UET, Lahore and dues is compulsory within time limit, otherwise your name will not be considered</template>
+    </category>
+
+       <category>
+	   <pattern># name ^ appear ^ merit list ^</pattern>
+	   <template>There may be following reasons due to which your name did not appear in merit list
+	   <olist>
+	       <item>Your aggregate is lower than the merit </item>
+	       <item> you did not submit hard copies and dues</item>
+	       <item> you did not apply for admission after entry test</item>
+	   </olist> 
+	   
+	   </template>
+    </category>
+
+       <category>
+	   <pattern># roll number ^ appear ^ merit list ^</pattern>
+	   <template>There may be following reasons due to which your name did not appear in merit list
+	   <olist>
+	       <item>Your aggregate is lower than the merit </item>
+	       <item> you did not submit hard copies and dues</item>
+	       <item> you did not apply for admission after entry test</item>
+	   </olist> 
+	   
+	   </template>
+    </category>
+
+       <category>
+	   <pattern># roll no ^ appear ^ merit list ^</pattern>
+	   <template>There may be following reasons due to which your name did not appear in merit list
+	   <olist>
+	       <item>Your aggregate is lower than the merit </item>
+	       <item> you did not submit hard copies and dues</item>
+	       <item> you did not apply for admission after entry test</item>
+	   </olist> 
+	   
+	   </template>
+    </category>
+
+       <category>
+	   <pattern># select ^ preference ^</pattern>
+	   <template>There is no limit of number of preferences, you can select any number of preferences</template>
+    </category>
+
+       <category>
+	   <pattern># preference ^ select ^</pattern>
+	   <template>There is no limit of number of preferences, you can select any number of preferences</template>
+    </category>
+
+       <category>
+	   <pattern># preference ^ selected ^</pattern>
+	   <template>There is no limit of number of preferences, you can select any number of preferences</template>
+    </category>
+
+
+       <category>
+	   <pattern># wrong ^ preference ^</pattern>
+	   <template>Change of preference is not allowed, However, after displaying 4th merit list it can be possible, but not sure, this will be the decision of authority.</template>
+    </category>
+    
+           <category>
+	   <pattern># wrong ^ preference ^</pattern>
+	   <template>Change of preference is not allowed, However, after displaying 4th merit list it can be possible, but not sure, this will be the decision of authority.</template>
+    </category>
+
+       <category>
+	   <pattern># wrong ^ preference ^</pattern>
+	   <template>Change of preference is not allowed, However, after displaying 4th merit list it can be possible, but not sure, this will be the decision of authority.</template>
+    </category>
+    
+           <category>
+	   <pattern># wrong ^ preference ^</pattern>
+	   <template>Change of preference is not allowed, However, after displaying 4th merit list it can be possible, but not sure, this will be the decision of authority.</template>
+    </category>
+
+      <category>
+	   <pattern># change ^ preference ^</pattern>
+	   <template>Change of preference is not allowed, However, after displaying 4th merit list it can be possible, but not sure, this will be the decision of authority.</template>
+    </category>
+    
+           <category>
+	   <pattern># equivalence ^ certificate ^</pattern>
+	   <template>Equivalence certificate is compulsory for students of A level/foreign countries. Students can calculate equivalence certificate
+<button>
+    <text> from the mention website </text>
+    <url>https://www.ibcc.edu.pk/equivalence-detail.php</url>
+</button>
+</template>
+    </category>
+
+      <category>
+	   <pattern># document ^ missing ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># missing ^ document ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+      <category>
+	   <pattern># admission ^ document ^ missing ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># admission ^ missing ^ document ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+    
+          <category>
+	   <pattern># document ^ incomplete ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># incomplete ^ document ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+      <category>
+	   <pattern># admission ^ document ^ incomplete ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># admission ^ incomplete ^ document ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+          <category>
+	   <pattern># documents ^ required ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># required ^ documents ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+      <category>
+	   <pattern># admission ^ documents ^ required ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># admission ^ required ^ documents ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+    
+              <category>
+	   <pattern># document ^ required ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># required ^ document ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+      <category>
+	   <pattern># admission ^ document ^ required ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+
+    <category>
+	   <pattern># admission ^ required ^ document ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>
+    
+      <category>
+	   <pattern># domicile ^ admission ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>  
+    
+          <category>
+	   <pattern># admission ^ domicile ^</pattern>
+	   <template>Domicile is compulsory for admission at UET, Lahore</template>
+    </category>  
+    
+              <category>
+	   <pattern># documents ^ admission ^</pattern>
+	    <template>Following documents are required to apply for admission, these are also mentioned at the end of the Prospectus
+	   <olist>
+	       <item>CNIC/B Form copy </item>
+	       <item>Intermediate result card copy</item>
+	       <item>Domicile copy</item>
+	        <item>Print of online filled admission form</item>
+	         <item>Undertaking</item>
+	          <item>Form attached in prospectus</item>
+	   </olist> 
+	   
+	   </template>
+    </category>  
+    
+                 <category>
+	   <pattern># admission ^ documents ^</pattern>
+	    <template>Following documents are required to apply for admission, these are also mentioned at the end of the Prospectus
+	   <olist>
+	       <item>CNIC/B Form copy </item>
+	       <item>Intermediate result card copy</item>
+	       <item>Domicile copy</item>
+	        <item>Print of online filled admission form</item>
+	         <item>Undertaking</item>
+	          <item>Form attached in prospectus</item>
+	   </olist> 
+	   
+	   </template>
+    </category>  
+    
+                 <category>
+	   <pattern># apply ^ admission ^</pattern>
+	    <template>Purchase prospectus from HBL or any other nominated locations.
+	   <olist>
+	       <item>go to UET Admission website</item>
+	       <item>Click apply for admission</item>
+	       <item>Register yourself by entering your CNIC, Entry Test roll No. and date of birth</item>
+	        <item>Fill the admission form by entering your Bio Data (mother name, income etc left over fields) and Academic details</item>
+	         <item>Select the preference, be careful while selecting the order of preference</item>
+	   </olist> 
+	   <button>
+	       <text> UET Admission website </text>
+	       <url>admission.uet.edu.pk</url>
+       </button>
+	   
+	   </template>
+    </category>  
+    
+                    <category>
+	   <pattern># apply ^ admission ^</pattern>
+	    <template>Purchase prospectus from HBL or any other nominated locations.
+	   <olist>
+	       <item>go to UET Admission website</item>
+	       <item>Click apply for admission</item>
+	       <item>Register yourself by entering your CNIC, Entry Test roll No. and date of birth</item>
+	        <item>Fill the admission form by entering your Bio Data (mother name, income etc left over fields) and Academic details</item>
+	         <item>Select the preference, be careful while selecting the order of preference</item>
+	   </olist> 
+	   <button>
+	       <text> UET Admission website </text>
+	       <url>admission.uet.edu.pk</url>
+       </button>
+	   
+	   </template>
+    </category>  
+
+                    <category>
+	   <pattern># admission ^ apply ^</pattern>
+	    <template>Purchase prospectus from HBL or any other nominated locations.
+	   <olist>
+	       <item>go to UET Admission website</item>
+	       <item>Click apply for admission</item>
+	       <item>Register yourself by entering your CNIC, Entry Test roll No. and date of birth</item>
+	        <item>Fill the admission form by entering your Bio Data (mother name, income etc left over fields) and Academic details</item>
+	         <item>Select the preference, be careful while selecting the order of preference</item>
+	   </olist> 
+	   <button>
+	       <text> UET Admission website </text>
+	       <url>admission.uet.edu.pk</url>
+       </button>
+	   
+	   </template>
+    </category>  
+
+      <category>
+	   <pattern># check ^ entry test ^ result ^</pattern>
+	   <template>To check your entry test online(Enter your CNIC, entry test roll no. and date of birth)
+	   <button>
+	       <text>UET Admission website</text>
+	       <url>admission.uet.edu.pk</url>
+       </button>
+</template>
+    </category> 
+    
+        <category>
+	   <pattern># result ^ wrong ^</pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216 to rectify your entry test result</template>
+    </category>  
+
+<category>
+	   <pattern># wrong ^ result ^</pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216 to rectify your entry test result</template>
+    </category> 
+
+<category>
+	   <pattern># incorrect ^ marks ^</pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216 to rectify your entry test result</template>
+    </category> 
+
+<category>
+	   <pattern># marks ^ inncorrect ^</pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216 to rectify your entry test result</template>
+    </category> 
+    
+    <category>
+	   <pattern># marks ^ correct ^</pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216 to rectify your entry test result</template>
+    </category> 
+
+<category>
+	   <pattern># correct ^ marks ^</pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216 to rectify your entry test result</template>
+    </category> 
+
+<category>
+	   <pattern># documents ^ appear ^ entry test ^</pattern>
+	   <template>take the print of entry test slip and bring it on test day with any original document like( matric/first year result card/domicile/ID card) which have your picture on it</template>
+    </category> 
+    
+    <category>
+	   <pattern># appear ^ documents ^ entry test ^</pattern>
+	   <template>take the print of entry test slip and bring it on test day with any original document like( matric/first year result card/domicile/ID card) which have your picture on it</template>
+    </category> 
+    
+    <category>
+	   <pattern># result ^ stopped ^ check ^</pattern>
+	   <template>Please visit Convener Office 042-99029452, 042-99029216, Admin Block by bringing your CNIC/Matric/Inter/Domicile to unblock your entry test result</template>
+    </category> 
+
+    <category>
+	   <pattern># check ^ result ^ stopped ^</pattern>
+	   <template>Please visit Convener Office 042-99029452, 042-99029216, Admin Block by bringing your CNIC/Matric/Inter/Domicile to unblock your entry test result</template>
+    </category> 
+
+    <category>
+	   <pattern># check ^ stopped ^ result ^</pattern>
+	   <template>Please visit Convener Office 042-99029452, 042-99029216, Admin Block by bringing your CNIC/Matric/Inter/Domicile to unblock your entry test result</template>
+    </category> 
+
+    <category>
+	   <pattern># lahore ^ hostel ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+    
+        <category>
+	   <pattern># hostel ^ lahore ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+     <category>
+	   <pattern># hostel allotment ^ lahore ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+<category>
+	   <pattern># hostel ^ facility ^ lahore ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+     <category>
+	   <pattern># lahore ^ hostel ^ allotment ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+<category>
+	   <pattern># lahore ^ hostel ^ facility ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+<category>
+	   <pattern># not allowing ^ hostel ^ facility ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+<category>
+	   <pattern># not allowing ^ hostel ^ allotment ^</pattern>
+	   <template>Resident of Lahore cannot apply for hostel facility at UET, Lahore, for further information contact Senior Warden office</template>
+    </category>
+
+<category>
+	   <pattern># size ^ picture ^</pattern>
+	   <template>Maximum size of picture is 1 MB</template>
+    </category>
+
+<category>
+	   <pattern># format ^ picture ^</pattern>
+	   <template>format of picture is jpg, jpeg, png</template>
+    </category>
+
+<category>
+	   <pattern># picture ^ upload ^ </pattern>
+	   <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg</template>
+    </category>
+
+<category>
+	   <pattern># picture ^ uploaded ^ </pattern>
+	   <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg</template>
+    </category>
+
+<category>
+	   <pattern># picture ^ uploading ^ </pattern>
+	   <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg</template>
+    </category>
+
+<category>
+	   <pattern># upload ^ picture ^ </pattern>
+	   <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg</template>
+    </category>
+
+<category>
+	   <pattern># uploaded ^ picture ^ </pattern>
+	   <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg</template>
+    </category>
+
+<category>
+	   <pattern># uploading ^ picture ^ </pattern>
+	   <template>Please make sure that your picture size is less than 1 MB and format of picture is jpg, jpeg</template>
+    </category>
+
+<category>
+	   <pattern># allow ^ login ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># allowed ^ login ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># allowing ^ login ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># login ^ allow ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># login ^ allowed ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># login ^ allowing ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># register ^ wrong ^ ID card ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># apply ^ wrong ^ ID card ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># wrong ^ ID card ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+
+<category>
+	   <pattern># register ^ ID card ^ </pattern>
+	   <template>Please contact Convener Officer UET, Lahore 042-99029452, 042-99029216</template>
+    </category>
+    
+        <category>
+	   <pattern># classes ^ refund ^ </pattern>
+	   <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+    </category>
+    
+   <category>
+	   <pattern># refund ^ classes ^ </pattern>
+	   <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+    </category>
+    
+        <category>
+	   <pattern># lectures ^ refund ^ </pattern>
+	   <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+    </category>
+    
+    
+   <category>
+	   <pattern># refund ^ lectures ^ </pattern>
+	   <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+    </category>
+    
+   <category>
+	   <pattern># refund ^ days ^ </pattern>
+	   <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+    </category>
+
+   <category>
+	   <pattern># days ^ refund ^ </pattern>
+	   <template>After Attending 17th day of Student Registration, the refund only Securities.</template>
+    </category>
+
+<!--NOT RESPONDING CORRECT-->
+
+  <category>
+	   <pattern># deducted ^ refund ^ </pattern>
+	   <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes 
+	   <olist>
+	       <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+	       <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+	       <item>No fee refund if admission cancelled from 17th day onward. </item>
+	   </olist> 
+</template>
+    </category>
+
+  <category>
+	   <pattern># refund ^ deducted ^ </pattern>
+	   <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes 
+	   <olist>
+	       <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+	       <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+	       <item>No fee refund if admission cancelled from 17th day onward. </item>
+	   </olist> 
+</template>
+    </category>
+
+  <category>
+	   <pattern># deduction ^ refund ^ </pattern>
+	   <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes 
+	   <olist>
+	       <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+	       <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+	       <item>No fee refund if admission cancelled from 17th day onward. </item>
+	   </olist> 
+</template>
+    </category>
+
+  <category>
+	   <pattern># refund ^ deduction ^ </pattern>
+	   <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes 
+	   <olist>
+	       <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+	       <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+	       <item>No fee refund if admission cancelled from 17th day onward. </item>
+	   </olist> 
+</template>
+    </category>
+    
+            <category>
+      <pattern># deducted ^ fee ^ refund ^</pattern>
+      <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes
+      <olist>
+          <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+          <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+          <item>No fee refund if admission cancelled from 17th day onward. </item>
+      </olist>
+</template>
+    </category>
+    
+  <category>
+      <pattern># fee ^ deducted ^ refund ^</pattern>
+      <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes
+      <olist>
+          <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+          <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+          <item>No fee refund if admission cancelled from 17th day onward. </item>
+      </olist>
+</template>
+    </category>
+    
+  <category>
+      <pattern># deduction ^ fee ^ refund ^</pattern>
+      <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes
+      <olist>
+          <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+          <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+          <item>No fee refund if admission cancelled from 17th day onward. </item>
+      </olist>
+</template>
+    </category>
+    
+  <category>
+      <pattern># fee ^ refund ^ deduction ^</pattern>
+      <template>Admission Cancellation by Freshly admitted students on the date of registration in University Classes
+      <olist>
+          <item>Full (100%) Fee refund if admission cancelled up to 8th day.</item>
+          <item>Half (50%) Fee refund if admission Cancelled from 9th to 16th day.</item>
+          <item>No fee refund if admission cancelled from 17th day onward. </item>
+      </olist>
+</template>
+    </category>
+
+        <category>
+	   <pattern># apply ^ refund ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+
+        <category>
+	   <pattern># refund ^ apply ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+
+        <category>
+	   <pattern># procedure ^ refund ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+
+        <category>
+	   <pattern># refund ^ procedure ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+
+        <category>
+	   <pattern># refund ^ fee ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+
+        <category>
+	   <pattern># fee ^ refund ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+    
+            <category>
+	   <pattern># refund ^ dues ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+
+        <category>
+	   <pattern># dues ^ refund ^ </pattern>
+	   <template>Fee Refund Only Those Student Can Apply who cancelled admission or complete their degrees and also have Negative Outstanding amount on their LMS Account by the verify of Dues Section. Such students have to write application to Convener Admission Committee for Dues Refund than Contact Dues Section.</template>
+    </category>
+    
+<!--NOT RESPONDING CORRECT-->
+
+        <category>
+	   <pattern># installments ^ fee ^ </pattern>
+	   <template>Installement of dues in not allowed.</template>
+    </category>
+
+
+        <category>
+	   <pattern># fee ^ installments ^ </pattern>
+	   <template>Installement of dues in not allowed.</template>
+    </category>
+
+        <category>
+	   <pattern># installment ^ fee ^ </pattern>
+	   <template>Installement of dues in not allowed.</template>
+    </category>
+
+
+        <category>
+	   <pattern># fee ^ installment ^ </pattern>
+	   <template>Installement of dues in not allowed.</template>
+    </category>
+
+        <category>
+	   <pattern># procedure ^ provisional ^ certificate ^ </pattern>
+	   <template>Application Form (Download form UET Website or Get from Star Photocopy shop), Rs.500/- Challan Generate from Student LMS and same deposited in HBL, Copy of Complete DMC, Original Clearance Slip which is got from Dues Section, One Recent Photograph
+</template>
+    </category>
+
+        <category>
+	   <pattern># get ^ provisional ^ certificate ^ </pattern>
+	   <template>Application Form (Download form UET Website or Get from Star Photocopy shop), Rs.500/- Challan Generate from Student LMS and same deposited in HBL, Copy of Complete DMC, Original Clearance Slip which is got from Dues Section, One Recent Photograph
+</template>
+    </category>
+
+        <category>
+	   <pattern># apply ^ provisional ^ certificate ^ </pattern>
+	   <template>Application Form (Download form UET Website or Get from Star Photocopy shop), Rs.500/- Challan Generate from Student LMS and same deposited in HBL, Copy of Complete DMC, Original Clearance Slip which is got from Dues Section, One Recent Photograph
+</template>
+    </category>
+    
+            <category>
+	   <pattern># documents ^ provisional ^ certificate ^ </pattern>
+	   <template>Application Form (Download form UET Website or Get from Star Photocopy shop), Rs.500/- Challan Generate from Student LMS and same deposited in HBL, Copy of Complete DMC, Original Clearance Slip which is got from Dues Section, One Recent Photograph
+</template>
+    </category>
+    
+            <category>
+	   <pattern># document ^ provisional ^ certificate ^ </pattern>
+	   <template>Application Form (Download form UET Website or Get from Star Photocopy shop), Rs.500/- Challan Generate from Student LMS and same deposited in HBL, Copy of Complete DMC, Original Clearance Slip which is got from Dues Section, One Recent Photograph
+</template>
+    </category>
+    
+            <category>
+	   <pattern># fee ^ provisional ^ certificate ^ </pattern>
+	   <template>Rs.500/- </template>
+    </category>
+    
+    
+        <category>
+	   <pattern># provisional ^ certificate ^ fee voucher ^ </pattern>
+	   <template>LMS Account.</template>
+    </category>
+
+        <category>
+	   <pattern># provisional ^ certificate ^ fee voucher ^ </pattern>
+	   <template>LMS Account</template>
+    </category>
+
+        <category>
+	   <pattern># provisional ^ certificate  ^ fee voucher ^ </pattern>
+	   <template>LMS Account</template>
+    </category>
+
+       <category>
+	   <pattern># provisional ^ certificate ^ challan ^ </pattern>
+	   <template>LMS Account.</template>
+    </category>
+
+        <category>
+	   <pattern># provisional ^ certificate ^ challanr ^ </pattern>
+	   <template>LMS Account</template>
+    </category>
+
+        <category>
+	   <pattern># provisional ^ certificate  ^ challan ^ </pattern>
+	   <template>LMS Account</template>
+    </category>
+
+        <category>
+	   <pattern># bank ^ fee ^ </pattern>
+	   <template>In all Branches of HBL </template>
+    </category>
+
+       <category>
+	   <pattern># fee ^ bank ^ </pattern>
+	   <template>In all Branches of HBL </template>
+    </category>
+    
+           <category>
+	   <pattern># HBL ^ fee ^ </pattern>
+	   <template>In all Branches of HBL </template>
+    </category>
+
+       <category>
+	   <pattern># fee ^ HBL ^ </pattern>
+	   <template>In all Branches of HBL </template>
+    </category>
+
+<!--Remove previous pattern-->
+
+       <category>
+	   <pattern># online ^ fee ^ </pattern>
+	   <template>Yes, You Can pay online via HBL Connect App, HBL Internet Banking. HBL Mobile App. Follow the steps below; Online App>Pay>Make New Payment>Education>Institution (UET Lahore)>Entered Challan No. </template>
+    </category>
+
+      <category>
+	   <pattern># fee ^ online ^ </pattern>
+	   <template>Yes, You Can pay online via HBL Connect App, HBL Internet Banking. HBL Mobile App. Follow the steps below; Online App>Pay>Make New Payment>Education>Institution (UET Lahore)>Entered Challan No. </template>
+    </category>
+
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ M ^ Sc ^ register ^ </pattern>
+	   <template>Yes, full fee charged if student registered subject in any semester.
+</template>
+    </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ M ^ Phil ^ register ^ </pattern>
+	   <template>Yes, full fee charged if student registered subject in any semester.
+</template>
+    </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ MBA ^ register ^ </pattern>
+	   <template>Yes, full fee charged if student registered subject in any semester.
+</template>
+    </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ Post ^ graduate ^ register ^ </pattern>
+	   <template>Full fee charged if student registered subject in any semester.
+</template>
+    </category>
+
+     <category>
+	   <pattern># after ^ four ^ semester ^ Ph ^ D ^ register ^ </pattern>
+	   <template>Full fee charged if student registered subject in any semester.
+</template>
+    </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ M ^ Sc ^ don ^ t ^ register ^ </pattern>
+	   <template>No.
+</template>
+    </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ M ^ Phil ^ don ^ t ^ register ^ </pattern>
+	   <template>No.</template>
+	   </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ MBA ^ don ^ t ^ register ^ </pattern>
+	   <template>No.</template>
+    </category>
+
+      <category>
+	   <pattern># after ^ four ^ semester ^ Post ^ graduate ^ don ^ t ^ register ^ </pattern>
+	   <template>No.</template>
+    </category>
+
+     <category>
+	   <pattern># after ^ four ^ semester ^ Ph ^ D ^ don ^ t ^ register ^ </pattern>
+	   <template>No.</template>
+    </category>
+
+     <category>
+	   <pattern># lost ^ Fee voucher ^ </pattern>
+	   <template>Contact dues section.</template>
+    </category>
+
+     <category>
+	   <pattern># lost ^ challan ^ </pattern>
+	   <template>Contact dues section.</template>
+    </category>
+
+     <category>
+	   <pattern># Fee voucher ^ lost ^ </pattern>
+	   <template>Contact dues section.</template>
+    </category>
+
+     <category>
+	   <pattern># challan ^ lost ^ </pattern>
+	   <template>Contact dues section.</template>
+    </category>
+
+     <category>
+	   <pattern># freeze ^ semester ^ fee ^ </pattern>
+	   <template>Yes! Rs.5000/- Challan get from Dues Section.</template>
+    </category>
+
+     <category>
+	   <pattern># fee ^ freeze ^ semester ^ </pattern>
+	   <template>Yes! Rs.5000/- Challan get from Dues Section.</template>
+    </category>
+
+     <category>
+	   <pattern># semester ^ freeze ^ fee ^ </pattern>
+	   <template>Yes! Rs.5000/- Challan get from Dues Section.</template>
+    </category>
+
+     <category>
+	   <pattern># fee ^ semester ^ freeze ^ </pattern>
+	   <template>Yes! Rs.5000/- Challan get from Dues Section.</template>
+    </category>
+
+     <category>
+	   <pattern># documents ^ clearance ^ </pattern>
+	   <template>Clearance Form of Undergraduation and Postgraduation is same and Thesis Notification only Required for Masters students.</template>
+    </category>
+
+<!--GIVING RESPONSE OF WHERE IS UET..-->
+
+     <category>
+	   <pattern># dispensary ^ uet ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+     <category>
+	   <pattern># where ^ dispensary ^ uet ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># clinic ^ uet ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># where ^ clinic ^ uet ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># health clinic ^ uet ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># where ^ health clinic ^ uet ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># uet ^ dispensary ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+     <category>
+	   <pattern># where ^ uet ^ dispensary ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># uet ^ clinic ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+     <category>
+	   <pattern># where ^ uet ^ clinic ^ </pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+     <category>
+	   <pattern># uet ^ health clinic ^</pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+     <category>
+	   <pattern># where ^ uet ^ health clinic ^</pattern>
+	   <template>Location of university dispensary or clinic or health clinic is officer colony.</template>
+    </category>
+
+       <category>
+	   <pattern># medical ^ first aid ^ advisor ^</pattern>
+	   <template>Contact to Tariq sb for medical aid advisor.
+</template>
+    </category>
+
+       <category>
+	   <pattern># information ^ academic calender ^</pattern>
+	   <template>Contact to Tariq sb in CS department if you want to get information about CS academic calendar otherwise visit to examination section to get information about academic  calendar.</template>
+    </category>
+
+       <category>
+	   <pattern># academic calender ^ information ^</pattern>
+	   <template>Contact to Tariq sb in CS department if you want to get information about CS academic calendar otherwise visit to examination section to get information about academic  calendar.</template>
+    </category>
+
+       <category>
+	   <pattern># contact ^ transport ^</pattern>
+	   <template>Contact to transport section university bus stop 042-99029466
+.</template>
+    </category>
+
+       <category>
+	   <pattern># transport ^ contact ^</pattern>
+	   <template>Contact to transport section university bus stop 042-99029466
+.</template>
+    </category>
+
+       <category>
+	   <pattern># senior ^ warden ^ office ^</pattern>
+	   <template>Office is in admin block,  contact no is 042-99029225.</template>
+    </category>
+
+       <category>
+	   <pattern># senior ^ warden ^ contact ^</pattern>
+	   <template>Office is in admin block,  contact no is 042-99029225.</template>
+    </category>
+
+       <category>
+	   <pattern># office ^ senior ^ warden ^</pattern>
+	   <template>Office is in admin block,  contact no is 042-99029225.</template>
+    </category>
+
+       <category>
+	   <pattern># contact ^  senior ^ warden ^</pattern>
+	   <template>Office is in admin block,  contact no is 042-99029225.</template>
+    </category>
+
+         <category>
+	   <pattern># DSA ^ office ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern># DSA ^ contact ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern># office ^ DSA ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern># contact ^  DSA ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern>#  Director Student Affairs ^ office ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern>#  Director Student Affairs ^ contact ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern># office ^  Director Student Affairs ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern># contact ^ Director Student Affairs ^</pattern>
+	   <template>Office is in admin block on ground floor. Contact number of DSA office is : 042-99029244.</template>
+    </category>
+
+       <category>
+	   <pattern># information ^ Disciplinary Action ^</pattern>
+	   <template>This matter is related to the DSA in admin block.</template>
+    </category>
+
+      <category>
+	   <pattern># Disciplinary Action ^ information ^</pattern>
+	   <template>This matter is related to the DSA in admin block.</template>
+    </category>
+
+     <category>
+	   <pattern># Contact ^ examination Branch ^</pattern>
+	   <template>Contact number of examination branch is : 042-99029235.</template>
+    </category>
+
+    <category>
+	   <pattern># examination Branch ^ Contact ^</pattern>
+	   <template>Contact number of examination branch is : 042-99029235.</template>
+    </category>
+
+    <category>
+	   <pattern># dues Section ^ Contact ^</pattern>
+	   <template>Contact number of examination branch is : 042-99029427.</template>
+    </category>
+
+     <category>
+	   <pattern># Contact ^ dues Section ^</pattern>
+	   <template>Contact number of examination branch is : 042-99029427.</template>
+    </category>
+
+     <category>
+	   <pattern># FA ^ CS ^ office ^</pattern>
+	   <template>It located on ground floor admin block. Contact : 042-99029218</template>
+    </category>
+
+     <category>
+	   <pattern># FA ^ CS ^ contact ^</pattern>
+	   <template>It located on ground floor admin block. Contact : 042-99029218</template>
+    </category>
+
+     <category>
+	   <pattern># office ^ FA ^ CS ^</pattern>
+	   <template>It located on ground floor admin block. Contact : 042-99029218</template>
+    </category>
+
+  <category>
+	   <pattern># contact ^ FA ^ CS ^</pattern>
+	   <template>It located on ground floor admin block. Contact : 042-99029218</template>
+    </category>
+
+  <category>
+	   <pattern># infromation ^ admission ^</pattern>
+	   <template>Contact in the PA office or contact to the convener admission office (042-990292600)</template>
+    </category>
+
+  <category>
+	   <pattern># admission ^ information ^</pattern>
+	   <template>Contact in the PA office or contact to the convener admission office (042-990292600)</template>
+    </category>
+
+ <category>
+	   <pattern># admission ^ inquiry ^</pattern>
+	   <template>Contact in the PA office or contact to the convener admission office (042-990292600)</template>
+    </category>
+
+ <category>
+	   <pattern># inquiry ^ admission ^</pattern>
+	   <template>Contact in the PA office or contact to the convener admission office (042-990292600)</template>
+    </category>
+
+ <category>
+	   <pattern># admission ^ inquiries ^</pattern>
+	   <template>Contact in the PA office or contact to the convener admission office (042-990292600)</template>
+    </category>
+    
+     <category>
+	   <pattern># inquiries ^ admission ^</pattern>
+	   <template>Contact in the PA office or contact to the convener admission office (042-990292600)</template>
+    </category>
+    
+ <category>
+	   <pattern># meet ^ chairman ^</pattern>
+	   <template>Contact to PA office or can check timetable where is the class of chairperson.</template>
+    </category>
+
+ <category>
+	   <pattern># meet ^ chair ^ person ^</pattern>
+	   <template>Contact to PA office or can check timetable where is the class of chairperson.</template>
+    </category>
+
+ <category>
+	   <pattern># arrival ^ chair ^ person ^</pattern>
+	   <template>Chairperson normally comes at 8am.</template>
+    </category>
+
+ <category>
+	   <pattern># arrival ^ chairman ^</pattern>
+	   <template>Chairperson normally comes at 8am.</template>
+    </category>
+
+ <category>
+	   <pattern># chairman ^ arrival ^</pattern>
+	   <template>Chairperson normally comes at 8am.</template>
+    </category>
+
+ <category>
+	   <pattern># chair ^ person ^ arrival ^</pattern>
+	   <template>Chairperson normally comes at 8am.</template>
+    </category>
+
+ <category>
+	   <pattern># credentials ^ Wi ^ Fi ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+    
+ <category>
+	   <pattern># credentials ^ WiFi ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+    
+     <category>
+	   <pattern># Wi ^ Fi ^ credentials ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+    
+     <category>
+	   <pattern># WiFi ^ credentials ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+
+ <category>
+	   <pattern># credentials ^ internet ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category>
+
+ <category>
+	   <pattern># internet ^ credentials ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category>
+
+ <category>
+	   <pattern># rules ^ Wi ^ Fi ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+    
+ <category>
+	   <pattern># rules ^ WiFi ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+    
+     <category>
+	   <pattern># Wi ^ Fi ^ rules ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+    
+     <category>
+	   <pattern># WiFi ^ rules ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category> 
+
+ <category>
+	   <pattern># rules ^ internet ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category>
+
+ <category>
+	   <pattern># internet ^ rules ^</pattern>
+	   <template>Provided as per list to authorized person.</template>
+    </category>
+    
+ <category>
+	   <pattern># functional ^</pattern>
+	   <template>Please see the administration office.</template>
+    </category>
+
+ <category>
+	   <pattern># working ^</pattern>
+	   <template>Please see the administration office.</template>
+    </category>
+    
+ <category>
+	   <pattern># unlock ^ lab ^</pattern>
+	   <template>Please see the Lab Supervisor.</template>
+    </category>
+
+ <category>
+	   <pattern># lab ^ unlock ^</pattern>
+	   <template>Please see the Lab Supervisor.</template>
+    </category>
+
+ <category>
+	   <pattern># open ^ lab ^</pattern>
+	   <template>Please see the Lab Supervisor.</template>
+    </category>
+
+ <category>
+	   <pattern># lab ^ open ^</pattern>
+	   <template>Please see the Lab Supervisor.</template>
+    </category>
+    
+     <category>
+	   <pattern># specification ^ servers ^</pattern>
+	   <template>Dell Power Series Server.</template>
+    </category>
+
+ <category>
+	   <pattern># servers ^ specification ^</pattern>
+	   <template>Dell Power Series Server.</template>
+    </category>
+
+     <category>
+	   <pattern># specification ^ server ^</pattern>
+	   <template>Dell Power Series Server.</template>
+    </category>
+
+ <category>
+	   <pattern># server ^ specification ^</pattern>
+	   <template>Dell Power Series Server.</template>
+    </category>
+
+     <category>
+	   <pattern># help ^ review ^</pattern>
+	   <template>PLease see your tutor.</template>
+    </category>
+
+ <category>
+	   <pattern># review ^ help ^</pattern>
+	   <template>Please see your tutor.</template>
+    </category>
+
+ <category>
+	   <pattern># assignment ^</pattern>
+	   <template>Please see your tutor.</template>
+    </category>
+
+ <category>
+	   <pattern># central ^ data ^ share ^</pattern>
+	   <template>Yes</template>
+    </category>
+
+ <category>
+	   <pattern># high ^ profile ^ system ^</pattern>
+	   <template>Please see lab in-charge</template>
+    </category>
+
+<!--Giving old response-->
+
+ <category>
+	   <pattern># network ^ speed ^</pattern>
+	   <template>Dedicated and partially shared about 80MB. Sometimes, when it is slow, it is partially suspended. </template>
+    </category>
+
+ <category>
+	   <pattern># track ^</pattern>
+	   <template>I can't help in this.</template>
+    </category>
+
+ <category>
+	   <pattern># trace ^</pattern>
+	   <template>I can't help in this. </template>
+    </category>
+
+ <category>
+	   <pattern># repair ^</pattern>
+	   <template>I can't help in this. </template>
+    </category>
+
+<!--Double Response-->
+
+ <category>
+	   <pattern># chairman ^ office ^</pattern>
+	   <template>Visit the department. </template>
+    </category>
+
+<category>
+	   <pattern># chairperson ^ office ^</pattern>
+	   <template>Visit the department. </template>
+    </category>
+
+ <category>
+	   <pattern># office ^ chairman ^</pattern>
+	   <template>Visit the department. </template>
+    </category>
+
+<category>
+	   <pattern># office ^ chairperson ^</pattern>
+	   <template>Visit the department. </template>
+    </category>
+    
+    <!--Name mention don't know-->
+    
+ <category>
+	   <pattern>* ^ faculty ^</pattern>
+	   <template> Check his/her time table. </template>
+    </category>   
+    
+     <category>
+	   <pattern># movie ^</pattern>
+	   <template>I can't help in this. </template>
+    </category>
+    
+     <category>
+	   <pattern># movies ^</pattern>
+	   <template>I can't help in this. </template>
+    </category>
+    
+     <category>
+	   <pattern># song ^</pattern>
+	   <template>I can't help in this. </template>
+    </category>
+    
+     <category>
+	   <pattern># songs ^</pattern>
+	   <template>I can't help in this. </template>
+    </category>
+    
+     <category>
+	   <pattern># crack ^</pattern>
+	   <template>No, it is not allowed. It's a crime.  </template>
+    </category>
+    
+         <category>
+	   <pattern># hack ^</pattern>
+	   <template>No, it is not allowed. It's a crime.  </template>
+    </category>
+    
+        <category>
+	   <pattern># version ^</pattern>
+	   <template>No, I can't facilitate you. </template>
+    </category>
+    
+           <category>
+	   <pattern># condition ^ Lab  ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+   
+           <category>
+	   <pattern># credentials ^ Lab  ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+    
+               <category>
+	   <pattern># Lab  ^ credentials ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+    
+               <category>
+	   <pattern># Lab  ^ condition ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category>     
+    
+               <category>
+	   <pattern># condition ^ system  ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+   
+           <category>
+	   <pattern># credentials ^ systems  ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+    
+               <category>
+	   <pattern># systems ^ credentials ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+    
+               <category>
+	   <pattern># systems ^ condition ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category>     
+    
+               <category>
+	   <pattern># condition ^ PC  ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+   
+           <category>
+	   <pattern># credentials ^ PC  ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+    
+               <category>
+	   <pattern># PC ^ credentials ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category> 
+    
+               <category>
+	   <pattern># PC ^ condition ^</pattern>
+	   <template> Your Registration Number and Password generated by System Administrator. </template>
+    </category>     
+    
+                   <category>
+	   <pattern># social ^ media ^</pattern>
+	   <template> Due to some commission restrictions. </template>
+    </category> 
+    
+                    <category>
+	   <pattern># media ^ social ^</pattern>
+	   <template> Due to some commission restrictions. </template>
+    </category>    
+    
+                    <category>
+	   <pattern># torrent ^ blocked ^</pattern>
+	   <template> To balance network traffic. </template>
+    </category>   
+    
+                       <category>
+	   <pattern># blocked ^ torrent ^</pattern>
+	   <template> To balance network traffic. </template>
+    </category>  
+    
+                           <category>
+	   <pattern># access ^ ieee ^</pattern>
+	   <template> Yes. </template>
+    </category> 
+    
+                               <category>
+	   <pattern># access ^ digital ^</pattern>
+	   <template> Yes. </template>
+    </category>
+    
+         <category>
+	   <pattern># ieee ^ access ^</pattern>
+	   <template> Yes. </template>
+    </category> 
+    
+    <category>
+	   <pattern># digital ^ access ^</pattern>
+	   <template> Yes. </template>
+    </category>
+
+  <category>
+	   <pattern># range ^ network ^</pattern>
+	   <template> 30 Meters. </template>
+    </category>
+
+  <category>
+	   <pattern># network ^ range ^</pattern>
+	   <template> 30 Meters. </template>
+    </category>
+
+  <category>
+	   <pattern># network ^ range ^</pattern>
+	   <template> 30 Meters. </template>
+    </category>
+    
+  <category>
+	   <pattern># register ^ device ^</pattern>
+	   <template> You can register more than one device on this network. </template>
+    </category>
+
+  <category>
+	   <pattern># device ^ register ^</pattern>
+	   <template> You can register more than one device on this network. </template>
+    </category>
+
+  <category>
+	   <pattern># password ^ AP ^ s ^</pattern>
+	   <template> Contact computer cell for this. </template>
+    </category>
+
+  <category>
+	   <pattern># AP ^ s ^ password ^</pattern>
+	   <template> Contact computer cell for this. </template>
+    </category>
+
+  <category>
+	   <pattern># command ^ MAC ^</pattern>
+	   <template> You may find by executing GETMAC /V. </template>
+    </category>
+
+  <category>
+	   <pattern># MAC ^ command ^</pattern>
+	   <template> You may find by executing GETMAC /V. </template>
+    </category>
+
+  <category>
+	   <pattern># internet ^ connection ^</pattern>
+	   <template> Contact computer cell for this. </template>
+    </category>
+
+  <category>
+	   <pattern># internet ^ connectivity ^</pattern>
+	   <template> Contact computer cell for this. </template>
+    </category>
+
+  <category>
+	   <pattern># connect ^ internet ^</pattern>
+	   <template> Contact computer cell for this. </template>
+    </category>
+
+  <category>
+	   <pattern># connection ^ internet ^</pattern>
+	   <template> Contact computer cell for this. </template>
+    </category>
+
+  <category>
+	   <pattern># contact ^ director ^ studies ^</pattern>
+	   <template>Contact no of Director Studies is : 042-99029251. Email Id of Director Studies is : dir.studeis@uet.edu.pk </template>
+    </category>
+
+  <category>
+	   <pattern># director ^ studies ^ contact ^</pattern>
+	   <template>Contact no of Director Studies is : 042-99029251. Email Id of Director Studies is : dir.studeis@uet.edu.pk </template>
+    </category>
+
+  <category>
+	   <pattern># e ^ mail ^ director ^ studies ^</pattern>
+	   <template>Contact no of Director Studies is : 042-99029251. Email Id of Director Studies is : dir.studeis@uet.edu.pk </template>
+    </category>
+
+  <category>
+	   <pattern># director ^ studies ^ e ^ mail ^</pattern>
+	   <template>Contact no of Director Studies is : 042-99029251. Email Id of Director Studies is : dir.studeis@uet.edu.pk </template>
+    </category>
+
+  <category>
+	   <pattern># email ^ director ^ studies ^</pattern>
+	   <template>Contact no of Director Studies is : 042-99029251. Email Id of Director Studies is : dir.studeis@uet.edu.pk </template>
+    </category>
+
+  <category>
+	   <pattern># director ^ studies ^ email ^</pattern>
+	   <template>Contact no of Director Studies is : 042-99029251. Email Id of Director Studies is : dir.studeis@uet.edu.pk </template>
+    </category>
+
+<category>
+	   <pattern># contact ^ director ^ General Research External and Advisory Services ^</pattern>
+	   <template>Contact no of Director General Research External and Advisory Services is : 042-99029237. Email I’d of Director General Research External and Advisory Services is : mtahir@uet.edu.pk</template>
+    </category>
+
+  <category>
+	   <pattern># director ^ General Research External and Advisory Services ^ contact ^</pattern>
+	   <template>Contact no of Director General Research External and Advisory Services is : 042-99029237. Email I’d of Director General Research External and Advisory Services is : mtahir@uet.edu.pk</template>
+    </category>
+
+<category>
+	   <pattern># email ^ director ^ General Research External and Advisory Services ^</pattern>
+	   <template>Contact no of Director General Research External and Advisory Services is : 042-99029237. Email I’d of Director General Research External and Advisory Services is : mtahir@uet.edu.pk</template>
+    </category>
+
+  <category>
+	   <pattern># director ^ General Research External and Advisory Services ^ email ^</pattern>
+	   <template>Contact no of Director General Research External and Advisory Services is : 042-99029237. Email I’d of Director General Research External and Advisory Services is : mtahir@uet.edu.pk</template>
+    </category>
+
+<category>
+	   <pattern># e ^ mail ^ director ^ General Research External and Advisory Services ^</pattern>
+	   <template>Contact no of Director General Research External and Advisory Services is : 042-99029237. Email I’d of Director General Research External and Advisory Services is : mtahir@uet.edu.pk</template>
+    </category>
+
+  <category>
+	   <pattern># director ^ General Research External and Advisory Services ^ e ^ mail ^</pattern>
+	   <template>Contact no of Director General Research External and Advisory Services is : 042-99029237. Email I’d of Director General Research External and Advisory Services is : mtahir@uet.edu.pk</template>
+    </category>
+
+  <category>
+	   <pattern># roommates ^ check ^</pattern>
+	   <template>No. </template>
+    </category>
+
+  <category>
+	   <pattern># check ^ roommates ^</pattern>
+	   <template>No. </template>
+    </category>
+
+  <category>
+	   <pattern># check ^ hostel ^ allotment ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+  <category>
+	   <pattern># check ^ hostel ^ facility ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+    
+      <category>
+	   <pattern># hostel ^ allotment ^ check ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+  <category>
+	   <pattern># hostel ^ facility ^ check ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+  <category>
+	   <pattern># information ^ hostel ^ allotment ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+ <category>
+	   <pattern># information ^ hostel ^ facility ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+    
+      <category>
+	   <pattern># hostel ^ allotment ^ information ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+ <category>
+	   <pattern># hostel ^ facility ^ information ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+  <category>
+	   <pattern># know ^ hostel ^ allotment ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+ <category>
+	   <pattern># know ^ hostel ^ facility ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+  <category>
+	   <pattern># hostel ^ allotment ^ know ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+ <category>
+	   <pattern># hostel ^ facility ^ know ^</pattern>
+	   <template>You can get information from your LMS account. </template>
+    </category>
+
+ <category>
+	   <pattern># cancel ^ hostel ^</pattern>
+	   <template>Write application to senior Warden. </template>
+    </category>
+
+ <category>
+	   <pattern># hostel ^ cancel ^</pattern>
+	   <template>Write application to senior Warden.</template>
+    </category>
+
+ <category>
+	   <pattern># hostel ^ activities ^</pattern>
+	   <template>Hostel has the facilities of Mess, Laundry,  TV room. Common Room for indoor games and Internet for recreational activities. It has Prayer rooms and study room etc</template>
+    </category>
+
+ <category>
+	   <pattern># activities ^ hostel ^</pattern>
+	   <template>Hostel has the facilities of Mess, Laundry,  TV room. Common Room for indoor games and Internet for recreational activities. It has Prayer rooms and study room etc</template>
+    </category>
+
+ <category>
+	   <pattern># hostel ^ facilities ^</pattern>
+	   <template>Hostel has the facilities of Mess, Laundry,  TV room. Common Room for indoor games and Internet for recreational activities. It has Prayer rooms and study room etc</template>
+    </category>
+
+ <category>
+	   <pattern># facilities ^ hostel ^</pattern>
+	   <template>Hostel has the facilities of Mess, Laundry,  TV room. Common Room for indoor games and Internet for recreational activities. It has Prayer rooms and study room etc</template>
+    </category>
+
+ <category>
+	   <pattern># fee ^ hostel ^</pattern>
+	   <template>Challan is generated automatically.</template>
+    </category>
+
+ <category>
+	   <pattern># hostel ^ fee ^</pattern>
+	   <template>Challan is generated automatically.</template>
+    </category>
+
+ <category>
+	   <pattern># resident tutor ^</pattern>
+	   <template>Resident Tutor in  incharge of every hostel they deal hostel security, meal and rules and regulations matters</template>
+    </category>
+
+ <category>
+	   <pattern># cancel ^ course ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># withdraw ^ course ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># course ^ cancel ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># course ^ withdraw ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># cancel ^ subject ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># withdraw ^ subject ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># subject ^ cancel ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+ <category>
+	   <pattern># subject ^ withdraw ^</pattern>
+	   <template>Contact the relevant teacher. </template>
+    </category>
+
+
+ <category>
+	   <pattern>#  UET ^ credit hours ^ ^</pattern>
+	   <template>Credit hours can only be transferred from department to department(if necessary) inside UET. </template>
+    </category>
+
+ <category>
+	   <pattern># offer ^ admission ^ UET ^</pattern>
+	   <template>UET offer admission in Fall session for both Undergraduate and Postgraduate Programs.  </template>
+    </category>
+
+ <category>
+	   <pattern># UET ^ admission ^ offer ^</pattern>
+	   <template>UET offer admission in Fall session for both Undergraduate and Postgraduate Programs.  </template>
+    </category>
+
+ <category>
+	   <pattern># admission ^ UET ^ offer ^</pattern>
+	   <template>UET offer admission in Fall session for both Undergraduate and Postgraduate Programs.  </template>
+    </category>
+
+ <category>
+	   <pattern># offer ^ UET ^ admission ^</pattern>
+	   <template>UET offer admission in Fall session for both Undergraduate and Postgraduate Programs.  </template>
+    </category>
+
+ <category>
+	   <pattern># UET ^ offer ^ admission ^</pattern>
+	   <template>UET offer admission in Fall session for both Undergraduate and Postgraduate Programs.  </template>
+    </category>
+    
+ <category>
+	   <pattern># work ^ hours ^</pattern>
+	   <template>Forty hours in a week.  </template>
+    </category>
+    
+ <category>
+	   <pattern># hours ^ work ^</pattern>
+	   <template>Forty hours in a week.  </template>
+    </category>
+
+ <category>
+	   <pattern># duration ^ internship ^ KICS ^</pattern>
+	   <template>Contact the team lead or manager of specific lab. </template>
+    </category>
+
+ <category>
+	   <pattern># internship ^ duration ^ KICS ^</pattern>
+	   <template>Contact the team lead or manager of specific lab. </template>
+    </category>
+
+ <category>
+	   <pattern># KICS ^ duration ^ internship ^</pattern>
+	   <template>Contact the team lead or manager of specific lab. </template>
+    </category>
+
+ <category>
+	   <pattern># KICS ^ internship ^ duration ^</pattern>
+	   <template>Contact the team lead or manager of specific lab. </template>
+    </category>
+
+ <category>
+	   <pattern># language ^ classes ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># classes ^ language ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># environment ^ classes ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># classes ^ environment ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># language ^ class ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># class ^ language ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># environment ^ class ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># class ^ environment ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># language ^ lectures ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># lectures ^ language ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># environment ^ lectures ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># lectures ^ environment ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># language ^ lecture ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># lecture ^ language ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># environment ^ lecture ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># lecture ^ environment ^</pattern>
+	   <template>Lectures are the given in environment friendly manner. </template>
+    </category>
+
+ <category>
+	   <pattern># dues ^ payment ^</pattern>
+	   <template>Dues are submit in any branch of HBL. It can also be paid online the HBL mobile app. </template>
+    </category>
+
+ <category>
+	   <pattern># payment ^ dues ^</pattern>
+	   <template>Dues are submit in any branch of HBL. It can also be paid online the HBL mobile app. </template>
+    </category>
+
+ <category>
+	   <pattern># registration ^ courses ^</pattern>
+	   <template>Registrations mostly start after the submission of fee and remains till mid-term exams. It may change with department. For queries, contact concerned department. </template>
+    </category>
+
+ <category>
+	   <pattern># courses ^ registration ^</pattern>
+	   <template>Registrations mostly start after the submission of fee and remains till mid-term exams. It may change with department. For queries, contact concerned department. </template>
+    </category>	  
+	  
+ <category>
+	   <pattern># registration ^ subject ^</pattern>
+	   <template>Registrations mostly start after the submission of fee and remains till mid-term exams. It may change with department. For queries, contact concerned department. </template>
+    </category>
+
+ <category>
+	   <pattern># subject ^ registration ^</pattern>
+	   <template>Registrations mostly start after the submission of fee and remains till mid-term exams. It may change with department. For queries, contact concerned department. </template>
+    </category>	
+    
+ <category>
+	   <pattern># entry test ^</pattern>
+	   <template> Entry test for undergraduate and Postgraduate programs is mostly taken in July or August. </template>
+	   	   <button>
+	       <text> Visit UET admission Website </text>
+	       <url>admission.uet.edu.pk</url>
+       </button>
+    </category>	    
+    
+     <category>
+	   <pattern># entry test ^ marks ^</pattern>
+	   <template>Department decide the passing marks for entry test. For masters, it is mostly 50 % and for Ph.D it is 70 %. </template>
+    </category>	
+    
+         <category>
+	   <pattern># marks ^ entry test ^</pattern>
+	   <template>Department decide the passing marks for entry test. For masters, it is mostly 50 % and for Ph.D it is 70 %. </template>
+    </category>	
+
+             <category>
+	   <pattern># admission form ^</pattern>
+	   <template>Admission Form is available on Prospectus. </template>
+    </category>	
+    
+                 <category>
+	   <pattern># admission ^ contact ^</pattern>
+	   <template>Contact Admission Cell: 042-99029216, 042-99029452 Or email: Naveed.rana@uet.edu.pk</template>
+    </category>	
+    
+                     <category>
+	   <pattern># contact ^ admission ^</pattern>
+	   <template>Contact Admission Cell: 042-99029216, 042-99029452 Or email: Naveed.rana@uet.edu.pk</template>
+    </category>	
+    
+    <!--                     <category>-->
+	   <!--<pattern># online ^ admission ^</pattern>-->
+	   <!--<template>Contact Admission Cell: 042-99029216, 042-99029452 Or email: Naveed.rana@uet.edu.pk</template>-->
+    <!--</category>	-->
+    
+    <!--                         <category>-->
+	   <!--<pattern># admission ^ online ^</pattern>-->
+	   <!--<template>Contact Admission Cell: 042-99029216, 042-99029452 Or email: Naveed.rana@uet.edu.pk</template>-->
+    <!--</category>	-->
+    
+                         <category>
+	   <pattern># shuttle ^ bus ^</pattern>
+	   <template>There is no shuttle bus service in UET.</template>
+    </category>	
+   
+	                          <category>
+	   <pattern># bus ^ shuttle ^</pattern>
+	   <template>There is no shuttle bus service in UET.</template>
+    </category>	 
+
+                        <category>
+	   <pattern># shuttle ^ service ^</pattern>
+	   <template>There is no shuttle bus service in UET.</template>
+    </category>	
+   
+	                          <category>
+	   <pattern># service ^ shuttle ^</pattern>
+	   <template>There is no shuttle bus service in UET.</template>
+    </category>	 
+    
+    <category>
+	   <pattern># age ^ Ph ^ D ^</pattern>
+	   <template>There is no age limit to apply in PhD programs.</template>
+    </category>	
+    
+    <category>
+	   <pattern># Ph ^ D ^ age ^</pattern>
+	   <template>There is no age limit to apply in PhD programs.</template>
+    </category>	
+
+  <category>
+	   <pattern># double ^ degree ^</pattern>
+	   <template>Uet doesn’t offer double degree program.</template>
+    </category>	
+
+  <category>
+	   <pattern># degree ^ double ^</pattern>
+	   <template>Uet doesn’t offer double degree program.</template>
+    </category>
+
+ <category>
+	   <pattern># kics ^ online job ^</pattern>
+	   <template>There are no online jobs available at KICS.</template>
+    </category>
+
+ <category>
+	   <pattern># online job ^ kics ^</pattern>
+	   <template>There are no online jobs available at KICS.</template>
+    </category>
+
+ <category>
+	   <pattern># kinnship ^</pattern>
+	   <template> There is no kinnship scholarship offered by UET.</template>
+    </category>
+   
+ <category>
+	   <pattern># security ^ kics ^</pattern>
+	   <template> IoT Research and Innovation Lab (IRIL) deals with security issues..</template>
+    </category>
+    
+     <category>
+	   <pattern># kics ^ security ^</pattern>
+	   <template> IoT Research and Innovation Lab (IRIL) deals with security issues..</template>
+    </category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aiml>

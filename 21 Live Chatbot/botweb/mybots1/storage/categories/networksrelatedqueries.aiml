@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	
+	<!--address details of computer cell-->
+	
+	
+	
+	<category>
+	    <pattern># address ^ computer cell ^</pattern>
+	    <template>
+	        Computer Cell near Human Centered Robotics Research Lab (HCRL), first floor Research Centre KICS, UET Lahore.
+	    </template>
+    </category>
+    
+    <category>
+	    <pattern># Computer Cell ^ address ^</pattern>
+	    <template>
+	        computer cell near Human Centered Robotics Research Lab (HCRL), first floor Research Centre KICS, UET Lahore.
+	    </template>
+    </category>
+    
+    <category>
+	    <pattern># where ^ computer cell ^</pattern>
+	    <template>
+	        Computer Cell near Human Centered Robotics Research Lab (HCRL), first floor Research Centre KICS, UET Lahore.
+	    </template>
+    </category>
+    
+    <category>
+	    <pattern># computer cell ^ location ^</pattern>
+	    <template>
+	        Computer Cell near Human Centered Robotics Research Lab (HCRL), first floor Research Centre KICS, UET Lahore.
+	    </template>
+    </category>
+    
+    <category>
+	    <pattern># location ^ computer cell ^</pattern>
+	    <template>
+	       Computer Cell near Human Centered Robotics Research Lab (HCRL), first floor Research Centre KICS, UET Lahore.
+	    </template>
+    </category>
+    
+    <category>
+	    <pattern># go to ^ computer cell ^</pattern>
+	    <template>
+	        Computer Cell near Human Centered Robotics Research Lab (HCRL), first floor Research Centre KICS, UET Lahore.
+	    </template>
+    </category>
+    
+    
+    <category>
+        <pattern># INTERNET ^ ISSUE ^</pattern>
+        <template>
+            Please go to Computer Cell.
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># ISSUE ^ INTERNET ^</pattern>
+        <template>
+            Please go to Computer Cell.
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># INTERNET ^ ISSUEs ^</pattern>
+        <template>
+            Please go to Computer Cell.
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># ISSUEs ^ INTERNET ^</pattern>
+        <template>
+            Please go to Computer Cell.
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># Reset ^ Email ^</pattern>
+        <template>
+            <delay>2</delay>
+
+            Which one you want:
+            <button>
+                <text>Want to reset Student Email</text>
+                <postback>STUEMAIL</postback>
+            </button>
+            <button>
+                <text>Want to Reset Faculty Email</text>
+                <postback>FACEMAIL</postback>
+            </button>
+        </template>
+    </category>
+    
+    
+    
+    <category>
+        <pattern># Reset ^ ACCOUNT ^</pattern>
+        <template>
+            <delay>2</delay>
+
+            Which one you want:
+            <button>
+                <text>Want to reset Student Email</text>
+                <postback>STUEMAIL</postback>
+            </button>
+            <button>
+                <text>Want to Reset Faculty Email</text>
+                <postback>FACEMAIL</postback>
+            </button>
+        </template>
+    </category>
+    
+    <!--how to reset wifi password-->
+    
+    <category>
+        <pattern># wifi ^</pattern>
+        <template>
+            You can physically visit the computer cell with your student card to reset your wifi password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates. 
+        </template>
+    </category>
+    
+    <!--how to reset student email password-->
+    
+    <category>
+        <pattern>STUEMAIL</pattern>
+        <template>
+            <delay>2</delay>
+
+           You can physically visit the computer cell with your student card to reset your student email password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># reset ^ student email ^</pattern>
+        <template>
+           You can physically visit the computer cell with your student card to reset your student email password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># reset ^ LMS ^</pattern>
+        <template>
+           You can physically visit the computer cell with your student card to reset your LMS account, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+     <category>
+        <pattern># forget ^ student email ^</pattern>
+        <template>
+           You can physically visit the computer cell with your student card to reset your student email password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+    <!--how to create faculty email ID-->
+    
+    <category>
+        <pattern># create ^ faculty email ^</pattern>
+        <template>
+            Go to the UET official website and at the bottom of that site you will find Important Links, click on downloads and in downloads click on UET Email Address Form download it and fill this form after that you have to get signature and stamp of your department head on this form and submit to Computer cell.
+        </template>
+    </category>
+    
+    
+    <!--how to reset faculty email password-->
+    
+    <category>
+        <pattern>FACEMAIL</pattern>
+        <template>
+             <delay>2</delay>
+             
+            You can physically visit the computer cell to reset your email password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+    
+    <category>
+        <pattern># reset ^ faculty email ^</pattern>
+        <template>
+            You can physically visit the computer cell to reset your email password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># forget ^ faculty email ^</pattern>
+        <template>
+            You can physically visit the computer cell to reset your email password, or you can concern to your department and request that they submit your quiry data through email to the computer cell for updates.
+        </template>
+    </category>
+    
+    <!--how to change faculty email password-->
+    
+    <category>
+        <pattern># change ^ faculty email ^</pattern>
+        <template>
+            Go to the UET official website and at the top right corner you will find email button click on that after it you can click on UET Staff Email Password Reset and here you can change/update your email password.
+        </template>
+    </category>
+    
+    <!--my eduroam ID doesn't working-->
+    
+    <category>
+        <pattern># eduroam ^</pattern>
+        <template>
+            Please approach computer cell.
+        </template>
+    </category>
+    
+    
+    <!--who deals with networks related issues-->
+    
+    <category>
+        <pattern># networks ^</pattern>
+        <template>
+             Please approach computer cell.
+        </template>
+    </category>
+    
+      <category>
+        <pattern># network ^</pattern>
+        <template>
+             Please approach computer cell.
+        </template>
+    </category>
+    
+    <!--how to reset the password of MS Teams account-->
+    
+    <category>
+        <pattern># reset ^ ms team ^</pattern>
+        <template>
+            You can reset your MS Teams account by using your offical email account.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># reset ^ ms teams ^</pattern>
+        <template>
+            You can reset your MS Teams account by using your offical email account.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># forget ^ ms team ^</pattern>
+        <template>
+            You can reset your MS Teams account by using your offical email account.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># forget ^ ms teams ^</pattern>
+        <template>
+            You can reset your MS Teams account by using your offical email account.
+        </template>
+    </category>
+    
+    <!--how i can create account on MS Teams-->
+    
+    <category>
+        <pattern># create ^ ms team ^</pattern>
+        <template>
+            You can create your MS Teams account by using invitation link, which is provided by your Teacher/Instructor.
+        </template>
+    </category>
+    
+    <category>
+        <pattern># create ^ ms teams ^</pattern>
+        <template>
+            You can create your MS Teams account by using invitation link, which is provided by your Teacher/Instructor.
+        </template>
+    </category>
+    
+    <!--Email of Help desk-->
+    
+    <category>
+        <pattern># contact ^ Help Desk ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># talk ^ Help Desk ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># phone ^ Help Desk ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Help Desk ^ contact ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Help Desk ^ talk ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Help Desk ^ phone ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># email ^ Help desk ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+    
+    <category>
+        <pattern># Help desk ^ email ^</pattern>
+        <template>
+            helpdesk@uet.edu.pk
+        </template>
+    </category>
+	
+</aiml>

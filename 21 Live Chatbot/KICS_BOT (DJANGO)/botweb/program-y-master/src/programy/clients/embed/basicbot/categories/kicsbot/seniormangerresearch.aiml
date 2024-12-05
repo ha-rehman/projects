@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- Senior Manager Research at kics -->
+<category>
+<pattern># Senior Manager Research ^ KICS ^</pattern>
+<template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+<category>
+<pattern># Senior Manager ^ KICS ^</pattern>
+<template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+
+<category>
+    <pattern># SENIOR ^ RESEARCHERS ^ KICS ^</pattern>
+   <template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+<category>
+    <pattern># SENIOR ^ RESEARCHER ^ KICS ^</pattern>
+    <template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+
+<category>
+<pattern># Senior Managers ^ KICS ^</pattern>
+<template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+
+
+<category>
+<pattern># Manager ^ Research ^ KICS ^</pattern>
+<template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+
+<category>
+<pattern># Research ^  Manager ^ KICS ^</pattern>
+<template>
+    Senior Manager Research <br />
+    <olist>
+        <item>Mr. Fahmeed Akram(Senior Manager Research).</item>
+        <item>Mr. Imran Ali Shah (Senior Manager Research).</item>
+        <item>Mr. Jamshaid Iqbal Janjua (Senior Manager Research)</item>
+        <item>Mr. Mohsin Yaseen(Senior Manager Research)</item>
+        <item>Mr. Muhammad Ali(Senior Manager Research)</item>
+        <item>Ms. Sana Shams(Senior Manager Research)</item>
+
+    </olist>
+<button>
+    <text>for more info.</text>
+    <url>https://www.kics.edu.pk/people/all_staff</url>
+</button>
+ 
+</template>
+</category>
+
+
+<category>
+<pattern>Senior Manager Research in kics</pattern>
+<template>
+    <srai>Senior Manager Research</srai>
+</template>
+</category>
+
+<category>
+<pattern>* Senior Manager Research in kics</pattern>
+<template>
+    <srai>Senior Manager Research</srai>
+</template>
+</category>
+<category>
+<pattern>^ Senior Managers Research ^</pattern>
+<template>
+    <srai>Senior Manager Research</srai>
+</template>
+</category>
+<category>
+<pattern>^ Senior Research Managers ^</pattern>
+<template>
+    <srai>Senior Manager Research</srai>
+</template>
+</category>
+<category>
+<pattern># Senior Research Manager ^</pattern>
+<template>
+    <srai>Senior Manager Research</srai>
+</template>
+</category>
+
+	 
+   
+</aiml>

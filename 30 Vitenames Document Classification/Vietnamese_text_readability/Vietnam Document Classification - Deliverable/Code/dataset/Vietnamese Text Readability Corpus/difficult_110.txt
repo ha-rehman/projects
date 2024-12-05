@@ -1,0 +1,263 @@
+Văn học dưới góc nhìn kí hiệu học
+1 .
+Đặt vấn đề
+Trong bài Về kí hiệu quyển , I.M.Lotman cho rằng , chúng ta đang sống trong một thế giới kí hiệu .
+Điều ấy cho thấy nghiên cứu kí hiệu học là một việc làm có ý nghĩa thiết thực .
+Chính vì vậy , nhiều nhà nghiên cứu đã dành nhiều sự quan tâm cho lĩnh vực này .
+Hệ quả là kí hiệu học được đào sâu , đồng thời các vấn đề kí hiệu học trở nên phong phú , đa dạng và phức tạp .
+Chẳng hạn , ngay cách hiểu thế nào là kí hiệu học , theo nhà nghiên cứu Lã Nguyên ( Một số vấn đề về kí hiệu học văn hóa ) , hiện nay trên thế giới đã có ba cách định nghĩa khác nhau :
+Cách định nghĩa mẫu mực và phổ biến nhất về ký hiệu học là định nghĩa dựa vào đối tượng : Ký hiệu học là khoa học về các ký hiệu và / hoặc về các hệ thống ký hiệu .
+2 ) Định nghĩa theo kiểu thứ hai là định nghĩa dựa vào phương pháp : Ký hiệu học là khoa học đem các phương pháp ngôn ngữ học áp vào những đối tượng khác , không phải là ngôn ngữ tự nhiên .
+Định nghĩa theo kiểu thứ ba là định nghĩa của I.M.Lotman .
+Theo Lotman , ký hiệu học là khoa học về các hệ thống giao tiếp và các ký hiệu được sử dụng trong quá trình thông tin .
+Định nghĩa theo cách thứ nhất có thể thấy ở công trình của U.Eco ( Một lí thuyết về kí hiệu học , 1976 ) và phổ biến trong định nghĩa của các từ điển en.m.wikipedia.org , Oxford advanced learner 's dictionary 7th edition , Microsoft student with Encarta Premium 2008 DVD ...
+Dù được chấp nhận rộng rãi nhưng cách định nghĩa này lại quá chung chung .
+Định nghĩa thứ hai cho thấy một khuynh hướng tiếp cận mà người ta gọi là truyền thống Saussure .
+Quan điểm sau đây của I.I.Revzin thể hiện rõ nhất điều này : " Đối tượng của kí hiệu học là mọi khách thể có thể miêu tả bằng các phương tiện ngôn ngữ học " .
+Những nhà nghiên cứu theo khuynh hướng này lấy ngôn ngữ học làm trung tâm , ngôn ngữ là trục quy chiếu để xem xét các hệ thống kí hiệu khác .
+Định nghĩa thứ ba của Lotman gắn chặt với vấn đề giao tiếp và thông tin trong giao tiếp .
+Nó là hệ thống tư tưởng đã giúp ông trình bày thuyết phục các vấn đề trong Cấu trúc văn bản nghệ thuật .
+Nhìn lại quan điểm này có thể thấy Lotman đã chỉ ra đặc trưng cốt lõi nhất của kí hiệu và kí hiệu học .
+Bởi không thể có kí hiệu nào tồn tại ngoài giao tiếp , ngược lại cũng không thể giao tiếp nếu không có kí hiệu .
+Hơn nữa , cấu trúc của kí hiệu , nghĩa của kí hiệu chỉ có thể hình thành và sản sinh trong giao tiếp .
+Khi áp dụng các vấn đề của kí hiệu học vào thực tiễn văn học , chúng tôi đi theo cách tiếp cận này .
+Tuy nhiên , trong giới hạn của bài viết , chúng tôi dừng lại ở việc khẳng định bản chất giao tiếp của văn học và làm rõ hệ thống kí hiệu tham gia vào quá trình giao tiếp văn học .
+2 .
+Giao tiếp văn học
+Văn học đã được nhìn nhận dưới nhiều góc độ khác nhau .
+Người ta đã xem văn học như một hình thức phản ánh đời sống ; như một hình thái ý thức xã hội ; như một loại hình nghệ thuật sử dụng ngôn từ làm chất liệu ...
+Ở đây khi xem xét văn học dưới góc độ của kí hiệu học , không thể không nghiên cứu bản chất giao tiếp của nó .
+Có thể nói , văn học nói riêng và nghệ thuật nói chung là một hình thức giao tiếp quan trọng của con người .
+Đây là một hướng khám phá có ý nghĩa lớn vì : " Nghệ thuật là phương thức lưu trữ và chuyển tải thông tin được nén chặt và tiết kiệm nhất " .
+Hơn nữa , theo Lotman , " việc khám phá bản chất nghệ thuật với tư cách là hệ thống giao tiếp có thể tạo ra bước ngoặt trong các phương pháp bảo lưu và truyền đạt thông tin " .
+Ý thức xem văn học như một phương tiện giao tiếp có thể đã xuất hiện từ sớm nhưng một hệ thống lí thuyết xem văn học là một hình thức giao tiếp thì lại xuất hiện khá muộn .
+Aristotle trong Nghệ thuật thi ca mới chỉ nói đến mô phỏng , chưa nói đến giao tiếp .
+Hegel có nói đến từ giao tiếp nhưng chưa thực sự quan tâm đến vấn đề này .
+L.Tolstoi trong Nghệ thuật là gì ?
+đã bước đầu đề cập đến phương diện giao tiếp của văn học nghệ thuật .
+Vào những năm 20 của thế kỉ XX , Voloshinov trong Chủ nghĩa Mac và triết học ngôn ngữ làm sáng tỏ hơn vấn đề này .
+Tại Việt Nam , Trần Đình Sử là một trong những người ý thức rõ nhất bản chất giao tiếp của văn học , của hình tượng văn học .
+Trong một tài liệu viết từ năm 1972 , nhà nghiên cứu này cho rằng : " Trong quá trình sáng tạo và giao tế nghệ thuật , hình tượng tồn tại ở ba giai đoạn , dưới các dạng và chất lượng khác nhau : trong cấu tứ của nghệ sĩ ; trong tác phẩm nghệ thuật và trong tưởng tượng sáng tạo của người thưởng thức " .
+Năm 1986 , Hoàng Trinh đặt ra vấn đề này trong một bài báo có tên Giao tiếp trong văn học ( tạp chí Văn học ) .
+Ngày nay , nhìn lại chúng ta thấy giao tiếp văn học là một trong những hình thức giao tiếp lâu đời nhất của con người .
+So với nhiều hình thức giao tiếp khác , giao tiếp văn học có một lịch sử dài .
+Nói như Hoài Thanh , văn học ra đời cùng với những buồn vui của loài người và sẽ kết bạn với loài người cho đến ngày tận thế .
+Giao tiếp văn học là một trong những hình thức giao tiếp đặc biệt giữa con người với thế giới , giữa con người với con người .
+Xét từ mô hình giao tiếp sáu thành phần của R.Jakobson , chúng ta thấy tất cả các yếu tố tham gia vào giao tiếp văn học đều đặc biệt .
+Thứ nhất , giao tiếp văn học là một hình thức giao tiếp phức tạp đan cài nhiều quan hệ .
+Đó là giao tiếp giữa " tôi " với " tôi " , " tôi " với " nó " , " tôi " với " chúng ta " , " tôi " với " họ " ...
+Đặc biệt , nếu trong các hình thức giao tiếp khác , quan hệ " tôi " - " tôi " là quan hệ thứ yếu thì trong giao tiếp văn học , đây lại là dạng quan trọng .
+Alain Robbe-Grillet đã sớm nhận ra điều này : " Viết là bắc một cây cầu nối liền mình và mình " .
+Ở Việt Nam , có nhà thơ giãi bày rằng có những điều không viết ra được thì tôi làm thơ , lại có những người cố gắng viết để hiểu mình trong từng chặng của cuộc đời .
+Khi anh ta cố gắng " lột xác " và " lột xác " thành công để hòa nhập với cuộc sống mới , nhà thơ nhận thấy :
+Xưa phù du mà nay đã phù sa
+Xưa bay đi mà nay không trôi mất
+Cho đến được ... lúa vàng đất mật
+Phải trên lòng bao trận gió mưa qua
+( Nay đã phù sa - Chế Lan Viên )
+Đến cuối đời , nhà thơ ấy lại một lần nữa đau đớn vì :
+Người diễn viên ấy đóng trăm vai vai nào cũng giỏi
+Chỉ một vai không đóng nổi
+- Vai mình
+( Thơ về thơ - Chế Lan Viên ) .
+Thậm chí , tác phẩm văn học viết về người khác , về một thế giới khác nhưng cũng là để hiểu chính mình .
+Đến lượt người tiếp nhận , đọc một tác phẩm về một ai đó trong một thế giới nào đó cũng là một cách để giao tiếp với chính mình , qua đó giao tiếp với đồng loại .
+Bên cạnh đó , giao tiếp trong văn học cũng là một dạng giao tiếp đặc biệt giữa người với người vì giao tiếp trong văn học chỉ có thể thực hiện trên cơ sở " đồng ý " , " đồng chí " , " đồng tình " ( như cách nói của nhà thơ Tố Hữu ) .
+Giao tiếp văn học không thể thực hiện trong điều kiện người sáng tạo và người tiếp nhận không có sự đồng cảm với nhau ở một mức độ nào đó .
+Và tác phẩm văn học sẽ chỉ có giá trị với những người hiểu nó và yêu nó .
+Thứ hai , yếu tố ngữ cảnh trong giao tiếp văn học cũng hết sức đặc biệt .
+Trong các loại hình giao tiếp khác , yếu tố ngữ cảnh ít có sự biến đổi hoặc có sự biến đổi thì cũng không ảnh hưởng nhiều đến việc hiểu thông điệp .
+Trong khi đó , với văn học , ngữ cảnh cho sự ra đời của một tác phẩm văn học có thể cố định nhưng ngữ cảnh tiếp nhận tác phẩm lại thay đổi liên tục .
+Nó thay đổi trong không gian và thay đổi trong thời gian .
+Bởi vì người tiếp nhận , giải mã tác phẩm văn học thuộc nhiều thời đại và ở nhiều nơi khác nhau .
+Chính sự thay đổi về ngữ cảnh giao tiếp là một yếu tố quan trọng dẫn đến việc hiểu thông điệp tác phẩm cũng thay đổi .
+Thứ ba , giao tiếp văn học là dạng giao tiếp đặc biệt vì văn học sử dụng một hệ thống kí hiệu đặc biệt .
+Chúng bao gồm ngôn từ văn học , văn bản văn học , tác phẩm văn học và đặc biệt là hình tượng văn học .
+Những hệ thống kí hiệu này có tính độc đáo , chúng khiến cuộc giao tiếp trong văn học trở nên độc đáo .
+Nói như Lotman : " Văn học có một hệ thống , chỉ đặc trưng riêng của nó , của các ký hiệu và các quy tắc kết hợp chúng , những ký hiệu và quy tắc dùng cho việc truyền đạt những thông báo đặc biệt mà bằng những phương tiện khác thì chúng ta không thể truyền đạt được " .
+Vì thế , trong phần tiếp theo , chúng tôi sẽ phần nào làm rõ đặc trưng của hệ thống kí hiệu trong giao tiếp văn học
+3 .
+Hệ thống kí hiệu trong giao tiếp văn học
+3.1 .
+Ngôn ngữ văn học như một hệ thống kí hiệu
+F.Saussure trong Giáo trình ngôn ngữ học đại cương đã làm sáng tỏ bản chất kí hiệu của ngôn ngữ .
+Trong các nghiên cứu của các học giả sau này , ngôn ngữ trở thành hệ thống kí hiệu tiêu biểu nhất .
+Tuy nhiên , đó mới là ngôn ngữ tự nhiên .
+Khi đi vào tác phẩm văn học , kí hiệu ngôn ngữ đã được tái mã hóa để trở thành ngôn ngữ nghệ thuật .
+Ngay từ những năm 1920 , M.Bakhtin trong Những vấn đề thi pháp Đôxtôiepxki đã nhận ra điều này .
+Ông sớm chỉ ra rằng , hệ thống lí thuyết của Saussure khi được áp dụng để nghiên cứu tác phẩm văn học dễ có những vênh lệch , bởi vì ngôn ngữ trong tác phẩm văn học là siêu ngôn ngữ .
+Ngôn ngữ học của Saussure là sự trừu xuất ngôn ngữ khỏi trạng thái hoạt động của nó để nghiên cứu còn ngôn ngữ trong tác phẩm là ngôn ngữ sống trong giao tiếp , ngôn ngữ mang tính đối thoại .
+Phát triển quan điểm này của Bakhtin , các nhà nghiên cứu đã tìm cách phân tầng ngôn ngữ .
+Họ xem ngôn ngữ tự nhiên và ngôn ngữ nghệ thuật là hai tầng bậc ngôn ngữ khác nhau .
+I.M.Lotman trong Cấu trúc văn bản nghệ thuật phân loại kí hiệu ngôn ngữ thành : ngôn ngữ tự nhiên ( như tiếng Anh , tiếng Pháp , tiếng Nga ... ) ; các ngôn ngữ nhân tạo như ngôn ngữ khoa học ( các siêu ngôn ngữ của những sự mô tả khoa học như ngôn ngữ vật lí , hóa học , toán học ... ) , các ngôn ngữ của những tín hiệu ước định ( như kí hiệu đường sá ... ) và các ngôn ngữ thứ sinh tức là các cấu trúc giao tiếp được xây dựng chồng lên trên các cấp độ tự nhiên của ngôn ngữ .
+Tất cả được cấu trúc thành hai tầng kí hiệu : Tầng hệ thống kí hiệu thứ nhất bao gồm : ngôn ngữ tự nhiên ( loại hình thứ nhất ) và các ngôn ngữ nhân tạo khác ( loại hình thứ hai ) .
+Tầng hệ thống kí hiệu thứ hai chỉ có một loại hình là ngôn ngữ nghệ thuật ( gồm văn học , âm nhạc , hội họa , kiến trúc , điện ảnh , múa ... ) .
+Hệ thống bậc dưới có đặc điểm là phụ thuộc vào bậc trên , có chỗ dựa vào bậc trên để lập mã và giải mã .
+R.Barthes trong Những huyền thoại cũng có quan điểm tương tự như vậy .
+Ông cho rằng ngôn ngữ tự nhiên là ngôn-ngữ-đối-tượng .
+Nó nói lên các sự vật , có thể bộc lộ một cách dễ dàng còn ngôn ngữ huyền thoại là siêu-ngôn-ngữ , nó nói về các sự vật , bộc lộ khó hơn nhiều .
+Như vậy , văn học nghệ thuật không sử dụng ngôn ngữ tự nhiên để xây dựng hình tượng mà nó nói bằng một thứ ngôn ngữ đặc biệt , thứ ngôn ngữ có được xây chồng lên ngôn ngữ tự nhiên với tư cách là hệ thống thứ hai .
+Nhận thức được sự phân tầng ấy , chúng ta mới nhận ra sự phi lí trong một số công trình nghiên cứu có xu hướng gán những đặc điểm của ngôn ngữ tự nhiên như tính chính xác , tính tổ chức , tính cụ thể ... cho ngôn ngữ nghệ thuật .
+Và điều này cũng khiến người đọc thêm hiểu vì sao khi Stalin đề xướng luận điểm về sự thống nhất toàn dân của ngôn ngữ , M.Bakhtin lại cho đó là sự hợp nhất " bất hợp pháp " .
+Trong phần tiếp theo này , chúng ta sẽ tiếp tục làm rõ sự khác biệt giữa kí hiệu ngôn ngữ tự nhiên và kí hiệu ngôn ngữ nghệ thuật .
+V. Vanslôp trong Nội dung và hình thức trong nghệ thuật phân biệt hai loại ngôn ngữ này dựa vào chức năng và phạm vi sử dụng của chúng .
+Trong khi đó , dựa vào cách phân biệt thơ ca với một số thể loại phi nghệ thuật , V.Sklovski đề xuất tính lạ hóa , R.Jakobson đề xuất tính thơ ...
+Các phạm trù này áp dụng với thơ thì có vẻ chính xác song với văn xuôi thì vẫn còn khoảng cách ( Chẳng hạn , với nhiều trang viết thuộc văn học hậu hiện đại thì khó có thể tìm thấy tính thơ của ngôn từ nghệ thuật ) .
+Do đó , các nhà nghiên cứu vẫn trăn trở đi tìm những cách phân biệt khác .
+Ở đây , dựa vào chính cấu trúc của ngôn ngữ , chúng tôi tiếp tục tìm hướng phân biệt giữa ngôn ngữ tự nhiên và ngôn ngữ văn học .
+Thứ nhất , đơn vị biểu đạt của ngôn ngữ tự nhiên là âm vị , hình vị , từ , câu còn đơn vị biểu đạt của ngôn ngữ nghệ thuật chính là môtip .
+Về vấn đề khái niệm , M.L.Gasparov trong " Trên đầu tôi lại những đám mây đen ... " , phương pháp phân tích cho rằng hình tượng là một sự vật hay một nhân vật được hình dung một cách cảm tính , tức là mỗi danh từ đều có tiềm năng ấy .
+Môtip là mọi hoạt động tức là mỗi động từ đều có tiềm năng còn cốt truyện là trình tự liên tục của các môtip có quan hệ gắn bó với nhau .
+Ví dụ , theo B.I.Jarkho , " ngựa " là hình tượng , " ngựa gãy chân " là môtip , " ngựa gãy chân - Đức Ki-tô chữa lành chân ngựa " là cốt truyện .
+Mỗi tác phẩm kể cả truyện , thơ hay kịch ... đều có môtip của nó .
+Chẳng hạn , khi ta đọc Truyện Hà Ô Lôi ( Lĩnh Nam chích quái - Trần Thế Pháp ) , cả một đoạn văn dài từ chỗ Đặng Sĩ Doanh đi sứ , thần Ma La biến thành Sĩ Doanh đêm đêm đến tư thông với Vũ Thị , Vũ Thị sinh ra một bọc đen , nở được một con trai , đen như mực , mới là một môtip - môtip sinh nở thần kì .
+Đối với thơ ca cũng vậy , đơn vị biểu đạt cũng là môtip .
+Chúng ta đã biết đến nhiều loại môtip trong ca dao song không phải chỉ trong ca dao mới có môtip .
+Đọc bài thơ Ta của Chế Lan Viên với những câu thơ như :
+Hồn của ai trú ẩn ở đầu ta ?
+Ý của ai trào lên trong đáy óc
+Để bay theo tiếng cười , điệu khóc
+Biết làm sao giữa mãi được ta đây ,
+Thịt cứ chìu theo thú dục chua cay !
+Máu cứ chảy theo nhịp cuồng kẻ khác !
+Mắt theo dõi tinh hoa bao màu sắc !
+Ai bảo giùm : Ta có có Ta không ?
+Nổi lên trong bài thơ là môtip về sự nhận thức bản thân mình , khao khát được là mình .
+Đây cũng là khát vọng muôn đời của con người nói chung .
+Như vậy , đơn vị tối thiểu để biểu đạt của ngôn ngữ nghệ thuật chính là môtip .
+Thứ hai , ngôn ngữ tự nhiên được cấu tạo từ hai trục là trục lựa chọn và trục kết hợp .
+Tính hình tuyến của nó là một phương diện quan trọng để nhận biết nội dung thông tin được đưa lại .
+Tuy nhiên , trong ngôn ngữ nghệ thuật , ở một số trường hợp , trục ngữ đoạn hay trục kết hợp không được coi trọng bằng trục liên tưởng hay trục lựa chọn .
+Chính trục liên tưởng hay trục lựa chọn này mới là trục chính để người ta hình dung được môtip của văn bản từ đó hiểu được nghĩa của văn bản .
+Trên sân khấu chèo , khi Súy Vân hát : " Lòng không trăng gió , tôi gặp người gió trăng " hay " Cá rô nằm vũng chân trâu / Để cho dăm bảy cần câu châu vào " thì người đọc phải có sự liên tưởng ngược trở lại phần trước của văn bản mới hình dung được ý nghĩa lời hát của cô .
+Thứ ba , trong ngôn ngữ tự nhiên , thông tin được biểu lộ một cách trực tiếp ( vì ngôn ngữ tự nhiên là hệ thống kí hiệu quen thuộc , người dùng đã nắm được mã ) còn trong ngôn ngữ nghệ thuật , thông tin phải được tìm thì mới thấy và quá trình này đôi khi rất gian nan .
+Chẳng hạn , trong văn bản truyện , nhà văn không khi nào nói thẳng ra ý đồ nghệ thuật của mình mà anh ta sáng tạo ra người kể chuyện .
+Người đọc nhận ra quan niệm , tư tưởng của nhà văn thông qua lời người kể chuyện , qua những cuộc đối thoại , qua cách xử lí kết cấu văn bản .
+Vì thế , dễ nhận thấy trong các vở kịch của mình , Lưu Quang Vũ không phát biểu trực tiếp quan niệm , tư tưởng của mình , ông để các nhân vật phát biểu , đối thoại .
+Do đó , trong Ông vua hóa hổ người ta thấy phần nào quan niệm của nhà viết kịch qua lời của nhân vật Thảo : Không dung tha kẻ ác nhưng hãy lấy yêu thương làm gốc rễ cuộc đời .
+Càng có sức mạnh , càng ở ngôi cao , lòng nhân ái càng phải lớn .
+Còn trong Hồn Trương Ba , da hàng thịt người ta lại thấy một quan niệm khác , quan niệm này được nhận ra qua cuộc tranh luận giữa Hồn và Xác , giữa Trương Ba và Đế Thích để rồi cuối cùng đọng lại trong lời Trương Ba : Không thể bên trong một đằng , bên ngoài một nẻo được .
+Tôi muốn được là tôi toàn vẹn " hay " Không thể sống với bất cứ giá nào được " ...
+Như vậy , trong giao tiếp văn học , ngôn ngữ là một yếu tố quan trọng song đó không phải là ngôn ngữ tự nhiên mà là ngôn ngữ nghệ thuật - một thứ ngôn ngữ được xây chồng lên ngôn ngữ tự nhiên nhằm phục vụ những mục đích nghệ thuật nhất định .
+3.2 .
+Văn bản văn học như một ngôn ngữ , tác phẩm văn học như một siêu kí hiệu
+a .
+Văn bản văn học như một ngôn ngữ
+Ngày nay , văn bản được nhiều nhà kí hiệu học xem là đối tượng nghiên cứu trung tâm .
+Các nhà ngôn ngữ học định nghĩa văn bản như là chuỗi kí hiệu trên câu , là một chỉnh thể thống nhất có tính trọn vẹn về nội dung và hoàn chỉnh về hình thức .
+Họ chủ yếu đi sâu vào các dạng văn bản ngôn ngữ thuộc các phong cách chức năng khác nhau .
+Trong khi đó , các nhà cấu trúc - kí hiệu học đi sâu vào vấn đề " nghĩa " , coi " nghĩa " như là vấn đề cốt lõi của văn bản .
+Trong bài Tính cộng đồng cấu trúc của các loại hình nghệ thuật khác nhau trên tài liệu của hội họa và văn học , B.Uspensky quan niệm , văn bản là bất cứ một chuỗi liên tục kí hiệu nào được tổ chức về mặt ngữ nghĩa .
+Nhà bác học Ba Lan Maria R.Maiênôva trong cuốn Văn học Nga cho rằng bất cứ cấu trúc kí hiệu nào truyền đạt một nghĩa toàn vẹn nhất định là một văn bản .
+Từ đó , họ xem bất cứ một bức tranh cho đến một hành vi hay một nghi lễ nào đó - đều là những văn bản .
+R.Barthes trong Những huyền thoại đã đọc các kí hiệu thuộc các dạng văn bản khác nhau trong đời sống văn hóa đương đại .
+Văn bản nghệ thuật cũng là trung tâm nghiên cứu của cả trường phái Tartu-Moskva mà người đi đầu là I.M.Lotman .
+Bản thân Lotman đã đưa ra những quan niệm hết sức hiện đại về vấn đề này ( Xem Quan niệm hiện đại về vấn đề văn bản ) .
+Văn bản văn học sử dụng ngôn ngữ văn học nên nó là một hệ thống kí hiệu phục vụ cho giao tiếp .
+Đó là sự giao tiếp giữa tác giả và bạn đọc .
+Nhưng hơn thế nữa , nếu cho rằng : " Bất kì một hệ thống nào phục vụ cho những mục đích giao tiếp giữa hai hay nhiều cá thể đều có thể được xác định như một ngôn ngữ " hay " Ngôn ngữ là bất kỳ hệ thống có tính giao tiếp nào có sử dụng những kí hiệu được sắp đặt bằng một dạng thức đặc biệt " thì văn bản văn học cũng chính là một ngôn ngữ .
+Điều đặc biệt là hệ thống ngôn ngữ này được cấu thành từ hệ thống kí hiệu trước đó là ngôn ngữ tự nhiên , song đã được tái mã hóa .
+Mỗi văn bản được tái mã hóa theo một cách khác nhau , vì thế cũng hình thành những đặc điểm khác nhau của ngôn ngữ .
+Đến lượt độc giả , muốn đọc được " ngôn ngữ " này , độc giả nhất thiết phải biết được mã ngôn ngữ của nó .
+b .
+Tác phẩm văn học là một siêu kí hiệu
+Nếu xem văn bản văn học là một ngôn ngữ thì tác phẩm văn học chính là một siêu kí hiệu ( metasign ) .
+Điều này xuất phát từ mấy căn cứ sau đây :
+Thứ nhất , nếu văn bản văn học mới chỉ là những vệt đen trên giấy trắng , là chữ nghĩa mà chúng ta thấy xuất hiện trên mặt giấy ( có nghĩa là nó chưa thực sự tham gia vào giao tiếp ) thì tác phẩm văn học đã thực sự tham gia vào đời sống giao tiếp .
+Bởi vì chỉ khi được người đọc tiếp nhận , hình dung về thế giới nghệ thuật trong đó , văn bản văn học mới trở thành tác phẩm văn học .
+Về mặt cấu tạo , tác phẩm văn học là một siêu kí hiệu vì đó là một kí hiệu lớn , do những kí hiệu nhỏ hơn kết dệt tạo thành .
+Đó là các từ , các cụm từ , đó là những hình ảnh , những nhân vật , đó là cốt truyện ...
+Chúng nằm ở những tầng bậc khác nhau giống như cấu tạo của con Matryoska .
+Tất cả nằm trong một hệ thống , gắn bó với nhau tạo thành một thực thể duy nhất biểu nghĩa .
+Do được cấu tạo như vậy , tác phẩm văn học có khả năng biểu hiện thế giới một cách toàn vẹn .
+Vì vậy , tiếp xúc với một tác phẩm , người ta có cảm giác như tiếp xúc với thiên nhiên , với một xã hội , với những con người cụ thể .
+Thứ ba , tác phẩm văn học là một siêu kí hiệu này vì nó là kí hiệu của một cá nhân độc đáo , là kí hiệu đời sống văn hóa .
+Tác phẩm là tiếng nói riêng của từng người với chất giọng riêng , ngữ điệu riêng .
+Sự độc đáo được thể hiện ở cách dùng từ đặc biệt , cách đặt câu đặc biệt , cách kết cấu đặc biệt ... và đặc biệt là cách xây dựng những hình tượng nhân vật .
+Vì thế , đọc một bài thơ , một truyện ngắn nào đó , người ta có thể dễ dàng nhận biết được tác giả vì anh ta có " giọng " riêng , độc đáo .
+Bên cạnh đó , tác phẩm cũng là siêu kí hiệu của đời sống văn hóa vì mỗi tác phẩm đều được cấu thành từ chất liệu và tâm thức văn hóa của một thời đại nhất định .
+Vì thế , cũng viết về chuyện Sơn Tinh , Thủy Tinh nhưng ba tác phẩm truyền thuyết Sơn Tinh , Thủy Tinh , bài thơ Sơn Tinh , Thủy Tinh của Nguyễn Nhược Pháp và Sự tích những ngày đẹp trời của Hòa Vang mang những dấu ấn người sáng tạo và thời đại khác nhau .
+Trong truyền thuyết , không có dấu ấn của cá nhân vì đó là sản phẩm của sáng tạo tập thể .
+Dấu ấn thời đại biểu hiện rõ rệt nhất ở việc xây dựng nhân vật lịch sử Hùng Vương , những phong tục tập quán một thời cùng với việc đắp đê chống lũ .
+Đến bài thơ của Nguyễn Nhược Pháp , chúng ta đã nhận ra " giọng " riêng của một hồn thơ " anh nhi " và đặc biệt thấy tâm trạng của các nhân vật kể cả Hùng Vương và Mỵ Nương .
+Dưới đôi mắt của một thi sĩ Thơ mới , câu chuyện lũ lụt trở thành câu chuyện tình yêu .
+Trong khi đó , truyện ngắn của Hòa Vang lại được xem là một hiện tượng " giả truyền thuyết " , " giả cổ tích " .
+Bởi vì nó lấy chuyện cũ để nói những vấn đề đương đại , thể hiện đôi mắt nhìn của con người thời đại này .
+Nó lật lại những tín điều tưởng như đã trở thành đương nhiên trong tâm thức con người những thời đại trước ...
+Một ví dụ nhỏ như vậy đã phần nào cho thấy tác phẩm văn học chính là một siêu kí hiệu của tác giả , của văn hóa thời đại .
+Thứ tư , tác phẩm được xem là một siêu kí hiệu vì nó được sử dụng như một cơ chế để giải thích các yếu tố trong tác phẩm .
+Nói cách khác , quan hệ giữa tác phẩm với các kí hiệu bên trong như âm vị , hình vị , từ ... cho đến chi tiết , nhân vật ... là quan hệ giữa chỉnh thể và bộ phận .
+Do đó , để hiểu chỉnh thể , người ta phải đi từ bộ phận và ngược lại , để hiểu bộ phận , người ta phải xuất phát từ chỉnh thể .
+Năm 2009 , trong đề thi Đại học khối C có một câu hỏi yêu cầu thí sinh cảm nhận về hai đoạn thơ , một đoạn trong bài Tương tư của Nguyễn Bính , một đoạn nữa trong bài Việt Bắc của Tố Hữu với những câu như : " Nhớ gì như nhớ người yêu / Trăng lên đầu núi , nắng chiều lưng nương / Nhớ từng bản khói cùng sương / Sớm khuya bếp lửa người thương đi về " .
+Nhiều bạn không nắm được chỉnh thể của bài thơ cho nên ngỡ rằng đoạn thơ trên của Tố Hữu viết về tình yêu đôi lứa và bình luận sôi nổi về vấn đề này .
+Hoặc nữa , có thời kì , rất nhiều nhà nghiên cứu tranh luận về việc Nam Cao khi miêu tả Thị Nở ( Chí Phèo - Nam Cao ) có sa vào chủ nghĩa tự nhiên không .
+Thực tế , nếu dừng ở cấp độ chi tiết , độc giả dễ có thiên kiến như vậy nhưng nếu đứng ở cấp độ chỉnh thể , sự hoài nghi ấy sẽ bị xóa tan .
+Bởi nếu chịu ảnh hưởng của chủ nghĩa tự nhiên , Nam Cao hẳn không thể có những trang miêu tả Thị Nở đẹp đến thế , nhân hậu đến thế ...
+3.3 .
+Hình tượng văn học
+Trong hoạt động giao tiếp văn học , ngôn ngữ nghệ thuật kết dệt nên văn bản văn học .
+Văn bản văn học khi được người đọc tiếp nhận sẽ trở thành tác phẩm văn học song ngôn ngữ trong tác phẩm văn học không phải cấp biểu hiện ý nghĩa cuối cùng mà ý nghĩa này phải được biểu hiện ở hình tượng văn học .
+Tuy nhiên , tính kí hiệu của hình tượng văn học từng bị nhiều nhà nghiên cứu phủ nhận ( xem M.B.Khrapchenko trong Sáng tạo nghệ thuật , hiện thực , con người ; Hoàng Trinh trong Ký hiệu , nghĩa và phê bình văn học ) .
+Điều này bắt nguồn từ nguyên nhân ban đầu là có những nhà marxist lớn đã chối bỏ lí thuyết kí hiệu học .
+Một số người thừa nhận tính kí hiệu của ngôn ngữ , tính kí hiệu của chi tiết nhưng không đề cập hoặc không công nhận tính kí hiệu của hình tượng văn học ( xem G.N.Pospelov trong Dẫn luận nghiên cứu văn học ; các tác giả Văn học , cuộc sống , nhà văn ) .
+Như vậy , họ đã tiếp cận lí thuyết kí hiệu học song họ chỉ áp dụng một cách dè dặt .
+Có thể nói , cả hai thái độ bỏ qua và phủ nhận tính kí hiệu của hình tượng văn học đã khiến hệ thống lí thuyết cũng như thực tiễn lí luận , phê bình văn học gặp phải hàng loạt những mâu thuẫn và những hạn chế cần phải giải quyết .
+Mặt khác , các nhà nghiên cứu chủ yếu quan tâm đến văn bản .
+Trong khi đó , hình tượng văn học ít được bàn đến vì nó là một phương thức tồn tại đặc biệt của tác phẩm văn học .
+Nó chỉ sống trong hoạt động thực tiễn , giao tiếp .
+Hình tượng văn học tồn tại trong quá trình sáng tạo của nhà văn .
+Hình tượng được hình thành từ hoạt động giao tiếp giữa nhà văn với thế giới đời sống .
+Nhà văn đi , quan sát , giải mã và ghi chép lại một cách chi tiết về những con người , những sự kiện mà họ mắt thấy tai nghe .
+Trong quá trình giao tiếp ấy , nói như Nguyễn Đăng Mạnh , mỗi người sẽ bị hút vào một vùng thẩm mĩ nhất định .
+Do đó , nhà văn sẽ tiếp cận khu vực ấy nhiều hơn .
+Nó trở thành đối tượng nhận thức , miêu tả của người sáng tạo và trong điều kiện thích hợp , nó chính là chất liệu để nhà văn mã hóa hình tượng .
+Tiếp đó , hình tượng văn học là sản phẩm của hoạt động giao tiếp giữa nhà văn với thế giới nghệ thuật trong tác phẩm .
+Lúc này , người sáng tạo đã thoát ra khỏi thế giới thực để đi vào thế giới hư cấu .
+Khi tác phẩm đến với bạn đọc , một sự giao tiếp khác lại diễn ra .
+Lúc này , đến lượt người đọc sẽ giao tiếp với thế giới nghệ thuật trong tác phẩm .
+Anh ta đi vào thế giới ấy với sự dẫn đường của nhân vật người kể chuyện ( trong truyện ) hay nhân vật trữ tình ( trong thơ ) .
+Theo tiến trình thời gian , thế giới nghệ thuật dần dần mở ra hé lộ những điều rất bất ngờ .
+Kết thúc cuộc giao tiếp với văn bản là cuộc giao tiếp trong đầu óc , trong suy nghĩ của chính bạn đọc .
+Thế giới ý thức , tiềm thức của anh ta sẽ đối thoại với thế giới nghệ thuật - lúc này đã chuyển từ dạng tồn tại dưới hình thức kí hiệu trong văn bản sang hình thức sống động trong tưởng tượng của con người .
+Cuộc giao tiếp này đôi khi không kết thúc ở một thời điểm mà xảy ra ở nhiều thời điểm trong cuộc sống con người .
+Đến đây , có thể khẳng định rằng không có quá trình tiếp nhận của bạn đọc thì cũng không có hình tượng văn học , không có hình tượng cũng không có ý nghĩa .
+Quá trình đọc , tưởng tượng về tác phẩm chính là quá trình sáng tạo hình tượng văn học .
+Nếu không đọc , hình tượng văn học chỉ tiềm ẩn trong văn bản , khi được tiếp nhận , hình tượng trở nên sống động .
+Đó là điểm khác biệt căn bản giữa hình tượng trong văn học và hình tượng trong các loại hình nghệ thuật tạo hình khác .
+Đồng thời , nó cũng góp phần lí giải tại sao hình tượng văn học là phương thức lưu giữ , truyền đạt và sản sinh thông tin .
+Tất cả đã khẳng định tính chất kí hiệu của khái niệm này .
+Hình tượng văn học có mối liên hệ chặt chẽ với ngôn ngữ văn học bởi vì nó được xây dựng trên cơ sở kí hiệu ngôn ngữ nghệ thuật .
+Điều đó cũng có nghĩa là đặc điểm của ngôn ngữ sẽ chi phối mạnh mẽ đến đặc điểm của hình tượng văn học .
+Vì thế , trong tác phẩm văn học lãng mạn , khi nhân vật được gọi là " chàng " , " nàng " , với những cái tên như Loan , Dũng , Mai , Tuyết , Lan ... thì hình tượng cũng hiện lên trẻ trung , mềm mại , non tơ .
+Nó khác với tác phẩm hiện thực , nhân vật được gọi là y , thị , gã , hắn , với những cái tên như Chí Phèo , Thị Nở , Dần , Lang Rận , Quýt , Dậu ... khiến hình tượng cũng hiện lên thô ráp , xấu xí .
+Ngược lại , đặc điểm của hình tượng văn học cũng chi phối đến đặc điểm của ngôn ngữ văn học .
+Trong tác phẩm , hình tượng như thế nào thì nhà văn phải dùng ngôn ngữ tương ứng .
+Viết về một người đẹp , một bậc hảo hán thì phải dùng ngôn từ đẹp , xây dựng một người điên thì ngôn ngữ của nhân vật đó cũng không thể mạch lạc mà phải rối rắm , thiếu logic ...
+Hình tượng văn học và ngôn ngữ không thể tách rời nhau .
+Vì vậy , dù hình tượng văn học có nhiều nét tương đồng với hình tượng tâm lí nhưng chúng không đồng nhất với nhau .
+Biểu tượng tâm lý là hình thức phản ánh thế giới trong tâm lý , không phải là kí hiệu vì nó còn thiếu phương diện ngôn ngữ .
+Do đó , nói về hình tượng thơ mà không thuộc thơ thì không rõ được .
+Nếu dùng những lời khác để nói về hình tượng thì đó chỉ là sự bình luận về hình tượng mà thôi .
+Đó không phải là hình tượng như một kí hiệu .
+Chỉ khi hình tượng tồn tại như một ngôn ngữ thì nó mới trở thành hình tượng như một kí hiệu .
+Tuy nhiên , nếu chỉ có ngôn ngữ thì cũng không có hình tượng , phải kết hợp với tri thức , trí nhớ , tâm tưởng .
+Hình tượng văn học là sự thực hiện của hoạt động đọc .
+Hình tượng văn học và văn bản văn học cũng có mối liên hệ mật thiết với nhau .
+Hình tượng văn học là một phần của văn bản vì không có hình tượng văn học nào có thể tồn tại ngoài văn bản .
+Mặt khác , như chúng tôi đã nói ở trên , hình tượng văn học là kết quả của sự chuyển hóa các đặc tính của văn bản nghệ thuật vào trong các bộ mã tức là các hệ thống mô hình hóa .
+Nói cách khác , hình tượng văn học là một loại " mã " đặc biệt của tác phẩm văn học .
+Song hình tượng văn học vẫn có tính độc lập tương đối với văn bản văn học .
+Văn bản gồm những kí hiệu sắp xếp theo hình tuyến ( trục ngữ đoạn ) còn hình tượng văn học gồm những kí hiệu sắp xếp theo cả hai trục là trục ngữ đoạn và trục liên tưởng .
+Do đó khi đọc , diễn ra quá trình chuyển từ mã ngôn ngữ sang mã hình tượng .
+Quá trình đọc chỉ hoàn thành khi thế giới ngôn ngữ trong tác phẩm hình thành nên thế giới hình tượng trong tâm trí người đọc .
+Văn bản được giới hạn bởi khung , tuy nhiên khi văn bản kết thúc thì hình tượng văn học vẫn sống .
+Văn bản văn học tồn tại trên giấy còn hình tượng văn học thì tồn tại trong tâm trí người đọc ...
+4 .
+Kết luận
+Như vậy , trong bài viết này , chúng tôi đã trình bày một số vấn đề về kí hiệu học văn học trên cơ sở khẳng định bản chất giao tiếp của văn học và làm rõ những hệ thống kí hiệu tham gia vào giao tiếp văn học .
+Còn rất nhiều vấn đề còn chưa được làm rõ như cấu trúc của hình tượng văn học trong giao tiếp , đặc trưng của kí hiệu học văn học , đặc trưng của kí hiệu thể loại văn học ...
+Để có thể lấp được khoảng trống này còn rất nhiều thời gian và nỗ lực nữa .
+Bên cạnh đó , chúng tôi cũng nhận thấy dù ngày nay Lí luận văn học đã thừa nhận văn học là phương tiện giao tiếp giữa người với người song nhiều cuốn sách trong đó có sách giáo trình Lí luận văn học ở bậc Cao đẳng , Đại học chỉ đề cập đến chức năng giao tiếp của văn học mà chưa xem giao tiếp như là bản chất của nó .
+Vì thế , các công trình này mới chỉ trình bày về giao tiếp trong một mục nhỏ mà chưa trình bày thành hệ thống .
+Nói cách khác , bản chất giao tiếp của văn học chưa được xem là nguyên tắc căn bản làm thay đổi toàn bộ tư duy lí luận về bản chất , đặc trưng của văn học .
+Đó cũng là điều nên chăng cần suy nghĩ và thay đổi ...

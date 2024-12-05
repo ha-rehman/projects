@@ -1,0 +1,8 @@
+Loàichim thông minh
+Khi tàu thuyền chạy trên biển , ta thường thấy bầy chim bay đuổi theo .
+Chim biển vì sao thích bay đuổi theo tàu như hình với bóng vậy ?
+Thì ra , khi tàu chạy , xung quanh tàu sẽ liên tục tạo ra một luồng không khí .
+Thế là những con chim biển thông minh bèn khéo léo lợi dụng sức mạnh của luồng khí này đẩy mình bay liệng theo thuyền .
+Ngoài ra , khi tàu chạy , chân vịt đằng sau sẽ tạo ra những đợt sóng .
+Những đợt sóng này mang theo rất nhiều tôm cá nhỏ , đây là món ăn khoái khẩu của chim biển .
+Như vậy , chim biển bay đuổi theo tàu vừa có thể liệng bay thoải mái mà chẳng mất sức , lại có được món ăn ưa thích .

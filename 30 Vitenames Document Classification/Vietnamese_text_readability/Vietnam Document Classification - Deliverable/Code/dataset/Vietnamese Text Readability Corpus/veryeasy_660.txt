@@ -1,0 +1,25 @@
+Hóa Đơn
+Hiếu là con trai của một chủ tiệm tạp hóa nhỏ .
+Mỗi ngày , tiệm đều có không ít những hóa đơn trả tiền hoặc thu tiền cần thanh toán hoặc chuyển đến khách hàng .
+Hiếu thường được mẹ giao nhiệm vụ đem những hóa đơn đó đến bưu điện để gửi .
+Một ngày kia , Hiếu nghĩ : Mình cũng cần viết một hóa đơn gửi cho mẹ .
+Mẹ cần trả mình những gì mình đã giúp mẹ mỗi ngày .
+Sáng hôm sau , mẹ cậu nhận được một hóa đơn ghi rõ :
+Mẹ cần thanh toán cho con trai Hiếu những khoản sau :
+Vận chuyển đồ dùng về nhà : $2
+Đem thư đến bưu điện gửi : $1
+Giúp người lớn dọn dẹp vườn hoa : $2
+Cả tuần lễ con đều ngoan ngoãn và nghe lời : $1
+Tộng Cộng $6 .
+Mẹ Hiếu xem hóa đơn và không nói gì cả .
+Đến bữa tối , Hiếu phát hiện dưới khay ăn của mình có $6 .
+Cậu rất vui , nhưng vừa định bỏ tiền vào túi thì thấy kèm theo một hóa đơn thu tiền khác mà tên người nhận là cậu .
+Hiếu ngạc nhiên và vội mở ra coi .
+Hiếu cần thanh toán cho mẹ những khoản sau :
+Sống 10 năm trong ngôi nhà của mẹ : $0
+Lo cho Hiếu ăn học trong 10 năm : $0
+Chăm sóc Hiếu mỗi khi đau bệnh : $0
+Luôn thương yêu và lo cho Hiếu đầy đủ mọi thứ : $0
+Tộng Cộng $0 .
+Hiếu đọc đi đọc lại tờ hóa đơn và cảm thấy rất hối hận .
+Lát sau , Hiếu đến bên mẹ và rúc đầu vào lòng mẹ , nhè nhẹ bỏ $6 vào túi mẹ .

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+<category>
+    <pattern># managers ^ KICS ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Shahid Iqbal</item>
+            <item>Dr. M. Usman Ghani Khan</item>
+            <item>Mr. Ehsan ul Haq</item>
+            <item>Mr. Hammad Hassan</item>
+            <item>Mr. M. Mudasser Khan</item>
+            <item>Mr. Muhammad Abid Khan</item>
+            <item>Mr. Muzammil Hassan</item>
+            <item>Ms. Farah Adeeba</item>
+            <item>Ms. Qurat ul Ain Akram</item>
+            <item>Mr. Farhan Riaz</item>
+            <item>Mr. Rehan Tariq</item>
+            <item>Mr. Kashif Bashir</item>
+            <item>Mr. Muhammad Abid Khan</item>
+            <item>Mr. Aqeel M Babar</item>
+        </olist>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/people/all_staff</url>
+        </button>
+    </template>
+</category>	
+<category>
+    <pattern># manager ^ KICS ^</pattern>
+    <template>
+        <olist>
+            <item>Mr. Shahid Iqbal</item>
+            <item>Dr. M. Usman Ghani Khan</item>
+            <item>Mr. Ehsan ul Haq</item>
+            <item>Mr. Hammad Hassan</item>
+            <item>Mr. M. Mudasser Khan</item>
+            <item>Mr. Muhammad Abid Khan</item>
+            <item>Mr. Muzammil Hassan</item>
+            <item>Ms. Farah Adeeba</item>
+            <item>Ms. Qurat ul Ain Akram</item>
+            <item>Mr. Farhan Riaz</item>
+            <item>Mr. Rehan Tariq</item>
+            <item>Mr. Kashif Bashir</item>
+            <item>Mr. Muhammad Abid Khan</item>
+            <item>Mr. Aqeel M Babar</item>
+        </olist>
+        <button>
+            <text>for more info.</text>
+            <url>https://www.kics.edu.pk/people/all_staff</url>
+        </button>
+    </template>
+</category>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<category>
+    <pattern># ERP Functional Expert ^</pattern>
+    <template>Mr. Shahid Iqbal</template>
+</category>
+<category>
+    <pattern>_ ERP Functional Expert in kics *</pattern>
+    <template><srai>ERP Functional Expert in kics</srai></template>
+</category>
+<category>
+    <pattern>_ ERP Functional Expert of kics *</pattern>
+    <template><srai>ERP Functional Expert in kics</srai></template>
+</category>
+<category>
+    <pattern>^ Research Manager ^ KICS ^</pattern>
+    <template>
+        
+        <olist>
+            <item>Dr. M. Usman Ghani Khan</item>
+            <item>Mr. Ehsan ul Haq</item>
+            <item>Mr. Hammad Hassan</item>
+            <item>Mr. M. Mudasser Khan</item>
+            <item>Mr. Muhammad Abid Khan</item>
+            <item>Mr. Muzammil Hassan</item>
+            <item>Ms. Farah Adeeba</item>
+            <item>Ms. Qurat ul Ain Akram</item>
+        </olist>
+    </template>
+</category>
+<category>
+    <pattern>^ Research Managers ^ KICS ^</pattern>
+    <template><srai>Research Manager in kics</srai></template>
+</category>
+<category>
+    <pattern>* Research Manager  _</pattern>
+    <template><srai>Research Manager in kics</srai></template>
+</category>
+
+<category>
+    <pattern># program manager ^</pattern>
+    <template>
+        
+            Mr. Farhan Riaz <br/>
+            Mr. Rehan Tariq
+    
+    </template>
+</category>
+<category>
+    <pattern># program managers ^</pattern>
+     <template>
+        
+            Mr. Farhan Riaz <br/>
+            Mr. Rehan Tariq
+    
+    </template>
+</category>
+<category>
+    <pattern>^  program Managers ^</pattern>
+    <template><srai>program manager in kics</srai></template>
+</category>
+<category>
+    <pattern>* program Manager  _</pattern>
+    <template><srai>program manager in kics</srai></template>
+</category>
+<category>
+    <pattern>program manager of kics</pattern>
+    <template><srai>program manager in kics</srai></template>
+</category>
+<category>
+    <pattern># PROCUREMENT ^ ADMIN MANAGER ^</pattern>
+    <template>Mr. Aqeel M Babar</template>
+</category>
+<category>
+    <pattern># Procurement and Admin Managers ^</pattern>
+    <template><srai>Procurement and Admin Manager</srai></template>
+</category>
+<category>
+    <pattern>_ Procurement and Admin Manager in kics *</pattern>
+    <template><srai>Procurement and Admin Manager in kics</srai></template>
+</category>
+<category>
+    <pattern># Trainings Manager ^</pattern>
+    <template>Mr. Kashif Bashir
+    </template>
+</category>
+<category>
+    <pattern># Trainings Managers ^</pattern>
+    <template><srai>Trainings Manager in kics</srai></template>
+</category>
+<category>
+    <pattern>_ Trainings Manager in kics *</pattern>
+    <template><srai>Trainings Manager in kics</srai></template>
+</category>
+<category>
+    <pattern># Accounts Manager ^</pattern>
+    <template>Mr. Muhammad Abid Khan
+    </template>
+</category>
+<category>
+    <pattern># Accounts Managers ^</pattern>
+    <template><srai>Accounts Manager in kics</srai></template>
+</category>
+<category>
+    <pattern>_ Accounts Manager in kics *</pattern>
+    <template><srai>Accounts Manager in kics</srai></template>
+</category>
+
+
+</aiml>

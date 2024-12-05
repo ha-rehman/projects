@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+    <pattern># Non Linear Editor ^</pattern>
+    <template>Mr. Muhammad sajawal</template>
+</category>
+<category>
+    <pattern>^ Non Linear Editor in kics ^</pattern>
+    <template><srai>Non Linear Editor in kics</srai></template>
+</category>
+<category>
+    <pattern>_ Non Linear Editor of kics *</pattern>
+    <template><srai>Non Linear Editor in kics</srai></template>
+</category>
+
+
+
+
+<category>
+    <pattern># media team ^</pattern>
+    <template>
+        
+            Mr. Muhammad sajawal <br/>
+            <button>
+                 <text>for more info.</text>
+            <url>https://www.kics.edu.pk/people/all_staff</url>
+            </button>
+        </template>
+</category>
+<category>
+    <pattern>_ media team in kics *</pattern>
+    <template><srai>media team</srai></template>
+</category>
+<category>
+    <pattern>_ media team in kics *</pattern>
+    <template><srai>media team</srai></template>
+</category>
+<category>
+    <pattern>media team in kics * kics</pattern>
+    <template><srai>media team</srai></template>
+</category>
+</aiml>

@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+
+<category>
+    <pattern># ADMINISTRATORS  ^ VUE TESTING ^</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+<category>
+    <pattern># ADMINISTRATOR ^ VUE TESTING ^</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+
+<category>
+    <pattern># ADMIN ^ VUE TESTING ^</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+
+<category>
+    <pattern>what is the name of admin pearson of vue testing centre</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+
+<category>
+    <pattern>what is the name of administrator of vue testing centre</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+	
+<category>
+    <pattern>what is the name of administrators pearson of vue testing center</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+
+<category>
+    <pattern>PEARSON OF VUE TESTING CENTER ^</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>
+	
+	
+<category>
+    <pattern>name the Administrators pearson of vue testing center</pattern>
+    <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>	
+	
+	
+<category>
+    <pattern>Name of Administrators pearson vue testing center</pattern>
+   <template>Mr. Faisal Shakoor, is Admin of Pearson vue testing centre</template>
+</category>		
+<category>
+    <pattern>what academic services kics provide</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>
+
+
+
+<category>
+    <pattern>academic services kics provide</pattern>
+    <template><srai>what academic services kics provide</srai></template>
+</category>
+
+
+<category>
+    <pattern>academic services kics provide *</pattern>
+    <template>kics provides two semesters post graduate diploma in advanced networks (pdg ad. networks), information security (pdg is) and in information technology (pdg it).</template>
+</category>	
+	
+<category>
+    <pattern># EMAIL ^ ADMINISTRATORS ^ VUE TESTING ^</pattern>
+    <template>Saima.kanwal@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># EMAIL ^ ADMINISTRATOR ^ VUE TESTING ^</pattern>
+    <template>Saima.kanwal@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># EMAIL ^ ADMIN ^ VUE TESTING ^</pattern>
+    <template>Saima.kanwal@kics.edu.pk</template>
+</category>
+	
+<category>
+	   <pattern># email ^ vue testing ^</pattern>
+	   <template><srai>EMAIL ADMINISTRATORS PEARSON  VUE TESTING CENTRE </srai></template>
+</category>
+
+<category>
+	   <pattern>what is the email of pearson vue testing</pattern>
+	   <template><srai>EMAIL ADMINISTRATORS PEARSON  VUE TESTING CENTRE </srai></template>
+</category>
+
+<category>
+	   <pattern>email of pearson vue testing center </pattern>
+	   <template><srai>EMAIL ADMINISTRATORS PEARSON  VUE TESTING CENTRE </srai></template>
+</category>	
+	
+<category>
+    <pattern># PHONE ^ VUE TESTING ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># contact ^ VUE TESTING ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># talk ^ VUE TESTING ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># VUE TESTING ^ PHONE ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># VUE TESTING ^ contact ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># VUE TESTING ^ talk ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+
+
+
+<category>
+    <pattern># PHONE ^ faisal shakoor ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># contact ^ faisal shakoor ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># talk ^ faisal shakoor ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+
+
+<category>
+    <pattern># faisal shakoor ^ PHONE ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># faisal shakoor ^ contact ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+<category>
+    <pattern># faisal shakoor ^ talk ^</pattern>
+    <template>Mr. faisal shakoor<br/>+92-42-99250228 <br/>Saima.kanwal@kics.edu.pk
+    </template>
+</category>
+
+
+<category>
+    <pattern>what is the phone number of pearson vue testing center</pattern>
+    <template>+92-42-99250228</template>
+</category>
+	
+<category>
+    <pattern>phone number of pearson vue testing center</pattern>
+    <template>+92-42-99250228</template>
+</category>	
+	
+	
+<category>
+    <pattern>contact number of pearson vue testing center</pattern>
+    <template>+92-42-99250228</template>
+</category>		
+
+<category>
+    <pattern>contact number of pearson vue testing center</pattern>
+    <template>+92-42-99250228</template>
+</category>		
+
+<category>
+    <pattern># contact number of vue testing center ^</pattern>
+    <template>+92-42-99250228</template>
+</category>	
+
+
+<category>
+    <pattern># HEAD ^ TECHNICAL SHORT COURSES ^</pattern>
+    <template>Mr. Kashif Bashir (manager)</template>
+</category>
+
+<category>
+    <pattern>who is the head of technical short courses</pattern>
+    <template>Mr. Kashif Bashir (manager)</template>
+</category>
+
+	
+
+<category>
+    <pattern>head of technical short courses</pattern>
+    <template>Mr. Kashif Bashir (manager)</template>
+</category>	
+	
+<category>
+    <pattern>technical short courses head </pattern>
+    <template>Mr. Kashif Bashir (manager)</template>
+</category>		
+
+<category>
+    <pattern># PHONE ^ TECHNICAL SHORT COURSES ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern># TALK ^ TECHNICAL SHORT COURSES ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: kashif@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ TECHNICAL SHORT COURSES ^</pattern>
+    <template>
+        Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+
+<category>
+    <pattern># TECHNICAL SHORT COURSES ^ PHONE ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern># TECHNICAL SHORT COURSES ^ TALK ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: kashif@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># TECHNICAL SHORT COURSES ^ CONTACT ^</pattern>
+    <template>
+        Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+
+
+<category>
+    <pattern># PHONE ^ Kashif Bashir ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern># TALK ^ Kashif Bashir ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: kashif@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Kashif Bashir ^</pattern>
+    <template>
+        Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+<category>
+    <pattern># Kashif Bashir ^ PHONE ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern># Kashif Bashir ^ TALK ^</pattern>
+     <template>
+         Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: kashif@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># Kashif Bashir ^ CONTACT ^</pattern>
+    <template>
+        Mr. Kashif Bashir (manager)<br/>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+
+	
+<category>
+    <pattern>what is the contact number of technical short course</pattern>
+    <template>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern>what is the contact number of technical short courses</pattern>
+    <template>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+	
+<category>
+    <pattern>contact number of technical short courses</pattern>
+    <template>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern>contact number of technical short course</pattern>
+    <template>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+	
+	
+<category>
+    <pattern>technical short courses contact number</pattern>
+     <template>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+	
+<category>
+    <pattern>technical short course contact number</pattern>
+     <template>
+    office: +92-323-4480000<br/>
+ 	cell: +92-345-4117221<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>	
+
+<category>
+    <pattern># EMAIL ^ TECHNICAL SHORT COURSES ^</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>
+	
+<category>
+    <pattern>what is the email of technical short courses</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern>what is the email of technical short course</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>
+	
+<category>
+    <pattern>email of technical short courses</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>
+	
+<category>
+    <pattern>email of technical short course</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>	
+	
+<category>
+    <pattern>technical short course email</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern>technical short courses email</pattern>
+    <template>Email: kashif@kics.edu.pk</template>
+</category>	
+
+<category>
+    <pattern># HEAD ^ TECHNOLOGY COMMERCIALIZATION ^</pattern>
+    <template>Farhan Riaz (technology commercialization lead/head)</template>
+</category>
+
+<category>
+    <pattern>who is the head of technology commercialization</pattern>
+    <template>Farhan Riaz (technology commercialization lead/head)</template>
+</category>
+	
+<category>
+    <pattern>head of technology commercialization</pattern>
+    <template>Farhan Riaz (technology commercialization lead/head)</template>
+</category>	
+	
+<category>
+    <pattern>technology commercialization head</pattern>
+    <template>Farhan Riaz (technology commercialization lead/head)</template>
+</category>	
+
+<category>
+    <pattern># CONTACT ^ TECHNOLOGY COMMERCIALIZATION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>
+
+<category>
+    <pattern># PHONE ^ TECHNOLOGY COMMERCIALIZATION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>
+<category>
+    <pattern># TALK ^ TECHNOLOGY COMMERCIALIZATION ^</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246<br/>
+    Email: Ahsan.khan@kics.edu.pk
+    </template>
+</category>
+
+
+<category>
+    <pattern># TECHNOLOGY COMMERCIALIZATION ^ CONTACT ^</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>
+
+<category>
+    <pattern># TECHNOLOGY COMMERCIALIZATION ^ PHONE ^</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>
+<category>
+    <pattern># TECHNOLOGY COMMERCIALIZATION ^ TALK ^</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246<br/>
+    Email: Ahsan.khan@kics.edu.pk
+    </template>
+</category>
+	
+<category>
+    <pattern>what is the contact number of technology commercialization</pattern>
+    <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>
+	
+<category>
+    <pattern>contact number of technology commercialization</pattern>
+   <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>	
+	
+<category>
+    <pattern>technology commercialization contact number</pattern>
+  <template>office: +92-42-99029450-300 ext.834<br/>
+ 	cell: +92-321-4029085<br/>
+    fax: +92-42-99250246</template>
+</category>
+
+<category>
+    <pattern># EMAIL ^ TECHNOLOGY COMMERCIALIZATION ^</pattern>
+    <template>Email: Ahsan.khan@kics.edu.pk</template>
+</category>
+	
+<category>
+    <pattern>what is the email of technology commercialization</pattern>
+    <template>Email: Ahsan.khan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern>email of technology commercialization</pattern>
+    <template>Email: Ahsan.khan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern>technology commercialization email</pattern>
+    <template>Email: Ahsan.khan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># HEAD ^ VUE TESTING EXAMS ^</pattern>
+    <template>Farhan Riaz
+(technology commercialization lead/head)
+(information officer)</template>
+</category>
+
+<category>
+    <pattern># HEAD ^ VUE TESTING EXAM ^</pattern>
+    <template>Farhan Riaz
+(technology commercialization lead/head)
+(information officer)</template>
+</category>
+
+<category>
+    <pattern>who is the head of pearson vue testing exams quries</pattern>
+    <template>Farhan Riaz
+(technology commercialization lead/head)
+(information officer)</template>
+</category>
+
+<category>
+    <pattern>head of pearson vue testing exams quries</pattern>
+    <template>Farhan Riaz
+(technology commercialization lead/head)
+(information officer)</template>
+</category>
+
+
+<category>
+    <pattern>pearson vue testing exams quries head</pattern>
+    <template>Farhan Riaz
+(technology commercialization lead/head)
+(information officer)</template>
+</category>
+
+<category>
+    <pattern># TALK ^ VUE TESTING EXAM ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+<category>
+    <pattern># TALK ^ VUE TESTING EXAMS ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># VUE TESTING EXAM ^ TALK ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+<category>
+    <pattern># VUE TESTING EXAMS ^ TALK ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># VUE TESTING EXAM ^ CONTACT ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+<category>
+    <pattern># VUE TESTING EXAMS ^ CONTACT ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ VUE TESTING EXAM ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+<category>
+    <pattern># CONTACT ^ VUE TESTING EXAMS ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+
+
+<category>
+    <pattern># VUE TESTING EXAM ^ PHONE ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+<category>
+    <pattern># VUE TESTING EXAMS ^ PHONE ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+<category>
+    <pattern># TALK ^ Farhan Riaz ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+
+<category>
+    <pattern># CONTACT ^ VUE TESTING EXAM ^</pattern>
+     <template>
+              Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern># PHONE ^ Farhan Riaz ^</pattern>
+     <template>
+              Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+
+<category>
+    <pattern># Farhan Riaz ^ TALK ^</pattern>
+     <template>
+         Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246<br/>
+ 	Email: saima.kanwal@kics.edu.pk
+ 	</template>
+</category>
+
+
+<category>
+    <pattern># VUE TESTING EXAM ^ CONTACT ^</pattern>
+     <template>
+              Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern># Farhan Riaz ^ PHONE ^</pattern>
+     <template>
+              Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+
+<category>
+    <pattern># CONTACT ^ VUE TESTING EXAMS ^</pattern>
+      <template>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern># PHONE ^ VUE TESTING EXAM ^</pattern>
+      <template>
+            Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern># PHONE ^ VUE TESTING EXAMS ^</pattern>
+      <template>
+            Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern># PHONE ^  Farhan Riaz ^</pattern>
+      <template>
+            Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern># contact ^  Farhan Riaz ^</pattern>
+      <template>
+            Farhan Riaz
+    (technology commercialization lead/head)
+    (information officer)<br/>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+<category>
+    <pattern>what is the contact number of pearson vue testing exams quries</pattern>
+    <template>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern>contact number of pearson vue testing exams quries</pattern>
+    <template>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+
+<category>
+    <pattern>contact number of pearson vue testing exams quries *</pattern>
+  <template>
+    office: +92-42-99250228<br/>
+ 	cell: +92-334-4159236<br/>
+ 	fax: +92-42-99250246
+ 	</template>
+</category>
+
+<category>
+    <pattern># EMAIL ^ VUE TESTING EXAM ^</pattern>
+    <template>Email: saima.kanwal@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># EMAIL ^ VUE TESTING EXAMS ^</pattern>
+    <template>Email: saima.kanwal@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern>what is the email of pearson vue testing exams quries</pattern>
+    <template>Email: saima.kanwal@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>email of pearson vue testing exams quries</pattern>
+    <template>Email: saima.kanwal@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>email of pearson vue testing exams quries *</pattern>
+    <template>Email: saima.kanwal@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># HEAD ^ WEBSITE RELATED ^</pattern>
+    <template>
+        Mr. Muzammil Hassan
+    (senior research officer)
+    </template>
+</category>
+<category>
+    <pattern># WEBSITE RELATED ^</pattern>
+    <template>
+        Mr. Muzammil Hassan
+    (senior research officer)
+    </template>
+</category>
+
+<category>
+    <pattern>who is the head of website related quries</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer)</template>
+</category>
+<!--Contact number of FA and CS-->
+
+<category>
+    <pattern># CONTACT ^ FA ^ CS ^</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+<category>
+    <pattern># PHONE ^ FA ^ CS ^</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+<category>
+    <pattern># TALK ^ FA ^ CS ^</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+
+<category>
+    <pattern># FA ^ CS ^ CONTACT ^</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+<category>
+    <pattern># FA ^ CS ^ PHONE ^</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+<category>
+    <pattern># FA ^ CS ^ TALK ^</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+
+<category>
+    <pattern>Contact number of FA and CS</pattern>
+    <template>FA and CS  042-99029218</template>
+</category>
+<!--What is our Network speed-->
+<category>
+    <pattern># NETWORK SPEED ^</pattern>
+    <template>Dedicated and partially shared about 80MB.</template>
+</category>
+<category>
+    <pattern>What is our Network speed</pattern>
+    <template>Dedicated and partially shared about 80MB.</template>
+</category>
+<!--Can you help me to crack my classmate email account-->
+<category>
+    <pattern># crack ^ email ^</pattern>
+    <template>Not allowed</template>
+</category>
+<category>
+    <pattern>Can you help me to crack my classmate email account</pattern>
+    <template>Not allowed</template>
+</category>
+<!--Where I can get projector-->
+<category>
+    <pattern># GET PROJECTOR ^</pattern>
+    <template>Lecture Theaters from authorized person.</template>
+</category>
+<category>
+    <pattern>Where I can get projector</pattern>
+    <template>Lecture Theaters from authorized person.</template>
+</category>
+<!--Can you recover my data-->
+<category>
+    <pattern># RECOVER ^ DATA ^</pattern>
+    <template>No,but if you wanna chat,I'm here!</template>
+</category>
+<category>
+    <pattern>Can you recover my data</pattern>
+    <template>No,but if you wanna chat,I'm here!</template>
+</category>
+<category>
+    <pattern>Can you recover my data *</pattern>
+    <template>
+      No,but if you wanna chat,I'm here!
+    </template>
+</category>
+<!--My mobile or laptop has been stolen, can you track or trace-->
+<category>
+    <pattern># STOLEN ^</pattern>
+    <template><srai>My mobile or laptop has been stolen, can you track or trace</srai></template>
+</category>
+<category>
+    <pattern>My mobile or laptop has been stolen, can you track or trace</pattern>
+    <template><srai>
+       No,but if you wanna chat,I'm here!
+    </srai></template>
+</category>
+<category>
+    <pattern># head of website related ^</pattern>
+    <template>Mr. Muzammil Hassan
+(senior research officer)</template>
+</category>
+
+<category>
+    <pattern># TALK ^ WEBSITE RELATED ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ WEBSITE RELATED ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># PHONE ^ WEBSITE RELATED ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+
+
+<category>
+    <pattern># WEBSITE RELATED ^ TALK ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># WEBSITE RELATED ^ CONTACT ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># WEBSITE RELATED ^ PHONE ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+
+
+
+
+
+<category>
+    <pattern># TALK ^ Muzammil Hassan ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># CONTACT ^ Muzammil Hassan ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># PHONE ^ Muzammil Hassan ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+
+
+<category>
+    <pattern># Muzammil Hassan ^ TALK ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+<category>
+    <pattern># Muzammil Hassan ^ CONTACT ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># Muzammil Hassan ^ PHONE ^</pattern>
+    <template>Mr. Muzammil Hassan
+    (senior research officer) <br/> office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246 <br/> Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+
+
+
+<category>
+    <pattern>head of website related quries *</pattern>
+    <template>Mr. Muzammil Hassan
+(senior research officer)</template>
+</category>
+
+
+<category>
+    <pattern># contact number of website related ^</pattern>
+    <template>
+        office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246
+    </template>
+</category>
+<category>
+    <pattern># phone number of website related ^</pattern>
+    <template>
+        office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246
+    </template>
+</category>
+
+
+<category>
+    <pattern>contact number of website related quries</pattern>
+    <template>
+        office: +92-42-99029450-300 ext.832<br/>
+        cell: +92 321 453 7681<br/>
+        fax: +92-42-99250246
+    </template>
+</category>
+
+
+<category>
+    <pattern>contact number of website related quries *</pattern>
+    <template>
+      <srai>what is the contact number of website related  </srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>what is the email of website related ^</pattern>
+    <template>Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+<category>
+    <pattern># email of website related ^</pattern>
+    <template>Email: muzammil.hassan@kics.edu.pk</template>
+</category>
+
+
+<category>
+    <pattern>email of website related quries</pattern>
+    <template><srai>what is the email of website related</srai></template>
+</category>
+
+
+<category>
+    <pattern>email of website related quries *</pattern>
+    <template><srai>what is the email of website related</srai></template>
+</category>
+
+
+<category>
+    <pattern># address of kics ^</pattern>
+    <template>Al-khawarizmi institute of computer science, g. t. road, uet, lahore, punjab 54000, pakistan</template>
+</category>
+
+
+<!--What is contact number of health clinic-->
+<category>
+    <pattern># CONTACT ^ health clinic ^</pattern>
+    <template>Contact number of health clinic  042-99029240</template>
+</category>
+
+<category>
+    <pattern># PHONE ^ health clinic ^</pattern>
+    <template>Contact number of health clinic  042-99029240</template>
+</category>
+<category>
+    <pattern># TALK ^ health clinic ^</pattern>
+    <template>Contact number of health clinic  042-99029240</template>
+</category>
+
+<category>
+    <pattern># health clinic ^ CONTACT ^</pattern>
+    <template>Contact number of health clinic  042-99029240</template>
+</category>
+
+<category>
+    <pattern># health clinic ^ PHONE ^</pattern>
+    <template>Contact number of health clinic  042-99029240</template>
+</category>
+<category>
+    <pattern># health clinic ^ TALK ^</pattern>
+    <template>Contact number of health clinic  042-99029240</template>
+</category>
+
+<category>
+    <pattern>What is the contact number of health clinic *</pattern>
+    <template><srai>CONTACT health clinic</srai></template>
+</category>
+
+<!--What is Contact number of Tariq sab-->
+
+<category>
+    <pattern># Contact ^ Tariq ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># PHONE ^ Tariq ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># TALK ^ Tariq ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+
+<category>
+    <pattern># Tariq ^ Contact ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># Tariq ^ PHONE ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># Tariq ^ TALK ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+
+<category>
+    <pattern># Contact ^ PA ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># PHONE ^ PA ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># TALK ^ PA ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+
+
+<category>
+    <pattern># PA ^ Contact ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># PA ^ PHONE ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+<category>
+    <pattern># PA ^ TALK ^</pattern>
+    <template>Contact to PA office: 042-99029260</template>
+</category>
+
+<!--What is PA to chairperson contact no for Computer Science Department-->
+<category>
+    <pattern>What is PA to chairperson contact no for Computer Science Department</pattern>
+    <template>PA to chairperson  04299029260</template>
+</category>
+
+<category>
+    <pattern>What is the Contact number of Tariq *</pattern>
+    <template><srai>
+      PHONE  Tariq 
+    </srai></template>
+</category>
+</aiml>
